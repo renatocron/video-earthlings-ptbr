@@ -1,0 +1,1148 @@
+1
+00:00:00,075 --> 00:00:01,845
+Saudações, colegas alienígenas!
+
+2
+00:00:02,160 --> 00:00:05,307
+Bem-vindos ao décimo segundo
+episódio de Terráqueos 101.
+
+3
+00:00:05,649 --> 00:00:09,408
+Hoje vamos aprender sobre o sentido mais
+importante dos terráqueos: a visão.
+
+4
+00:00:42,504 --> 00:00:46,587
+Visão é a capacidade de perceber a luz
+para criar uma imagem mental do ambiente.
+
+5
+00:00:46,930 --> 00:00:47,843
+Mas o que é luz?
+
+6
+00:00:48,489 --> 00:00:51,459
+Luz é radiação eletromagnética
+dentro de uma certa faixa.
+
+7
+00:00:51,825 --> 00:00:56,941
+A atmosfera da Terra filtra quase toda
+a radiação do Sol, exceto três faixas: a
+
+8
+00:00:56,961 --> 00:00:59,954
+janela de rádio, a de
+infravermelho e a óptica.
+
+9
+00:01:00,745 --> 00:01:05,209
+A última vai de 300 a 1100 nanômetros:
+essa é a frequência da luz.
+
+10
+00:01:05,640 --> 00:01:11,175
+Os terráqueos percebem luz entre 390 e
+700 nanômetros: é a chamada luz visível.
+
+11
+00:01:11,481 --> 00:01:15,576
+Eles percebem a luz com os olhos, um
+par de órgãos globulares na cabeça.
+
+12
+00:01:15,999 --> 00:01:20,660
+Olhos são biocâmeras primitivas: a luz
+passa por uma lente, é focada numa camada
+
+13
+00:01:20,680 --> 00:01:24,356
+fotossensível chamada retina,
+vira sinal elétrico, e então...
+
+14
+00:01:24,802 --> 00:01:27,026
+Bem, aí a coisa fica interessante.
+
+15
+00:01:27,771 --> 00:01:31,235
+Os sensores terráqueos costumam ser
+comparados aos dos drones coletores.
+
+16
+00:01:31,579 --> 00:01:36,383
+Quando a Receita Galáctica faz uma fiscalização
+planetária, envia uma Estrela Fiscal
+
+17
+00:01:36,403 --> 00:01:39,441
+que solta milhões de drones
+coletores na superfície.
+
+18
+00:01:40,179 --> 00:01:44,019
+Cada drone coletor tem vários sensores
+de avaliação fiscal, incluindo uma
+
+19
+00:01:44,039 --> 00:01:46,276
+sofisticada câmera de alta definição.
+
+20
+00:01:46,735 --> 00:01:51,189
+À primeira vista, a câmera do drone funciona
+igual a um olho terráqueo: a luz passa
+
+21
+00:01:51,209 --> 00:01:54,949
+por lentes e cai numa matriz de
+fotorreceptores espectroscópicos.
+
+22
+00:01:55,323 --> 00:01:59,944
+A matriz de pixels vai para o computador
+central, onde é processada e vira um modelo
+
+23
+00:01:59,964 --> 00:02:01,177
+3D de voxels.
+
+24
+00:02:02,617 --> 00:02:06,829
+Por fim, as rotinas fiscais calculam o
+valor monetário de cada entidade tributável.
+
+25
+00:02:07,115 --> 00:02:11,384
+Pegue isso, tirando a parte fiscal, e você
+tem uma ótima explicação de como a visão
+
+26
+00:02:11,404 --> 00:02:12,633
+terráquea não funciona.
+
+27
+00:02:12,945 --> 00:02:16,476
+Porque, a partir do momento em que a
+luz atinge a retina, a visão terráquea é
+
+28
+00:02:16,496 --> 00:02:17,801
+completamente diferente.
+
+29
+00:02:18,196 --> 00:02:22,813
+O que os olhos mandam ao cérebro não são
+só pixels, mas também dados de contraste,
+
+30
+00:02:22,943 --> 00:02:24,856
+contraste de cor e movimento.
+
+31
+00:02:25,507 --> 00:02:29,606
+Ou seja, a primeira etapa do processamento
+acontece literalmente dentro dos olhos.
+
+32
+00:02:29,992 --> 00:02:33,842
+Veja, a retina tem células sensíveis
+à luz, os bastonetes e os cones.
+
+33
+00:02:34,181 --> 00:02:38,683
+Acima delas há uma fina camada de
+neurônios intermediários, que as ligam aos
+
+34
+00:02:38,703 --> 00:02:40,581
+neurocabos que vão até o cérebro.
+
+35
+00:02:40,892 --> 00:02:45,663
+Alguns neurônios só repassam a informação,
+mas outros têm uma fiação lateral esperta
+
+36
+00:02:45,683 --> 00:02:47,898
+para detectar contraste ou movimento.
+
+37
+00:02:48,248 --> 00:02:52,066
+Por exemplo, um neurônio pode disparar
+quando um ponto é mais claro que a
+
+38
+00:02:52,086 --> 00:02:52,745
+vizinhança.
+
+39
+00:02:53,084 --> 00:02:56,842
+Assim, a célula detecta
+contraste, ou seja, contornos.
+
+40
+00:02:58,034 --> 00:03:02,180
+Outro neurônio pode disparar só quando
+detecta movimento numa certa direção.
+
+41
+00:03:02,519 --> 00:03:07,442
+E outro dispara quando percebe diferença
+de cor entre pontos vizinhos, e assim por
+
+42
+00:03:07,462 --> 00:03:08,054
+diante.
+
+43
+00:03:08,810 --> 00:03:13,207
+Então, o que vai ao cérebro é informação
+sobre movimento, contraste e contraste de
+
+44
+00:03:13,227 --> 00:03:13,555
+cor.
+
+45
+00:03:13,853 --> 00:03:15,501
+Mas para onde vai essa informação?
+
+46
+00:03:15,842 --> 00:03:19,037
+Os olhos estão ligados ao
+tálamo, no centro do cérebro.
+
+47
+00:03:19,330 --> 00:03:22,846
+"Tálamo" é uma palavra antiga para "câmara
+interna", e ele é uma espécie de central
+
+48
+00:03:22,866 --> 00:03:23,442
+de dados.
+
+49
+00:03:23,784 --> 00:03:26,780
+Quem quiser mandar informação ao
+cérebro tem que passar pelo tálamo.
+
+50
+00:03:27,130 --> 00:03:31,490
+Os olhos se ligam aos dois núcleos
+geniculados laterais: um nome chique para
+
+51
+00:03:31,510 --> 00:03:33,817
+"calombos em forma de joelho, de lado".
+
+52
+00:03:34,163 --> 00:03:38,186
+O calombo direito recebe dados das metades
+direitas das duas retinas, o esquerdo,
+
+53
+00:03:38,277 --> 00:03:39,437
+das metades esquerdas.
+
+54
+00:03:39,790 --> 00:03:44,652
+Depois a informação vai ao córtex visual,
+no fundo do cérebro, onde é processada e
+
+55
+00:03:44,672 --> 00:03:45,945
+enviada ao resto dele.
+
+56
+00:03:46,321 --> 00:03:51,121
+Dados espaciais e de movimento vão para
+cima, onde criam um modelo 3D dinâmico do
+
+57
+00:03:51,141 --> 00:03:51,790
+ambiente.
+
+58
+00:03:52,078 --> 00:03:55,908
+Cor e forma vão para os lados e
+servem para identificar objetos.
+
+59
+00:03:58,267 --> 00:03:59,432
+Dica científica.
+
+60
+00:03:59,795 --> 00:04:02,400
+Um campo de pesquisa interessante
+são as ilusões de óptica.
+
+61
+00:04:02,744 --> 00:04:04,108
+Veja esta, por exemplo.
+
+62
+00:04:04,623 --> 00:04:09,164
+Se você pedir a um terráqueo que fixe o
+planeta no centro, ele verá um disco verde
+
+63
+00:04:09,184 --> 00:04:13,935
+girando na vaga vazia entre os rosa,
+embora não exista disco verde, só rosa.
+
+64
+00:04:14,815 --> 00:04:19,143
+O verde é uma pós-imagem do rosa, talvez
+pela visão de contraste de cor que explico
+
+65
+00:04:19,163 --> 00:04:19,711
+depois.
+
+66
+00:04:20,119 --> 00:04:23,501
+Às vezes os discos rosa até
+somem, e ele só vê o verde.
+
+67
+00:04:25,239 --> 00:04:28,442
+Os terráqueos sempre apontam os
+dois olhos para o mesmo ponto.
+
+68
+00:04:28,939 --> 00:04:32,449
+O centro da retina tem mais
+cones e dá a visão mais nítida.
+
+69
+00:04:33,495 --> 00:04:36,140
+Quanto mais longe do centro,
+mais borrada a visão.
+
+70
+00:04:36,450 --> 00:04:38,794
+Por isso os terráqueos
+vivem mexendo os olhos.
+
+71
+00:04:39,930 --> 00:04:43,951
+O cérebro compensa bem o movimento,
+então o ambiente parece parado.
+
+72
+00:04:44,890 --> 00:04:48,927
+Mas não funciona se você cutucar o olho
+de leve com o dedo: aí o mundo parece se
+
+73
+00:04:48,947 --> 00:04:49,478
+mexer.
+
+74
+00:04:51,190 --> 00:04:55,723
+Como eu disse, os dados do córtex visual
+servem para duas coisas: orientação
+
+75
+00:04:55,743 --> 00:04:58,801
+espacial e movimento, e
+identificação de objetos.
+
+76
+00:04:59,390 --> 00:05:00,993
+Vamos começar pela primeira.
+
+77
+00:05:02,250 --> 00:05:07,032
+Para se orientar, ter dois olhos ajuda: o
+cérebro usa as pequenas diferenças entre
+
+78
+00:05:07,052 --> 00:05:09,608
+os dois para estimar a
+distância dos objetos.
+
+79
+00:05:11,542 --> 00:05:16,298
+Outros dados também contam, em especial
+o tamanho angular menor dos objetos
+
+80
+00:05:16,318 --> 00:05:17,092
+distantes.
+
+81
+00:05:17,440 --> 00:05:21,157
+Com isso, o cérebro monta um
+modelo 3D dinâmico do ambiente.
+
+82
+00:05:22,005 --> 00:05:24,386
+A maioria dos animais tem
+sistemas visuais parecidos.
+
+83
+00:05:24,702 --> 00:05:28,986
+Predadores costumam ter olhos frontais,
+com campos de visão sobrepostos, para uma
+
+84
+00:05:29,006 --> 00:05:31,182
+visão 3D ideal na hora de pegar a presa.
+
+85
+00:05:31,548 --> 00:05:36,441
+Já as presas costumam ter olhos laterais,
+para ampliar o campo de visão e ver quem
+
+86
+00:05:36,461 --> 00:05:37,293
+quer comê-las.
+
+87
+00:05:38,649 --> 00:05:40,047
+Exceto os micróbios.
+
+88
+00:05:44,004 --> 00:05:46,840
+Agora, o segundo ponto:
+identificar objetos.
+
+89
+00:05:47,245 --> 00:05:51,558
+Isso acontece no córtex temporal: um
+nome chique para "nos lados da cabeça".
+
+90
+00:05:52,584 --> 00:05:55,338
+O cérebro terráqueo é uma poderosa
+máquina de reconhecer padrões.
+
+91
+00:05:55,731 --> 00:05:58,709
+Já vimos que os olhos mandam
+contornos ao cérebro.
+
+92
+00:05:59,751 --> 00:06:04,844
+Padrões simples de contorno, como cantos
+e bordas, são montados em padrões cada vez
+
+93
+00:06:04,864 --> 00:06:05,815
+mais complexos.
+
+94
+00:06:07,808 --> 00:06:12,086
+Os terráqueos são ótimos em reconhecer
+formas mesmo com contornos incompletos.
+
+95
+00:06:12,491 --> 00:06:16,460
+Isso é importante, por exemplo,
+para achar animais meio escondidos.
+
+96
+00:06:16,991 --> 00:06:21,428
+Quando os contornos não estão bem alinhados,
+o cérebro tem dificuldade em montar a
+
+97
+00:06:21,448 --> 00:06:21,960
+forma.
+
+98
+00:06:22,891 --> 00:06:26,678
+Estas linhas, por exemplo, parecem
+espirais, mas são círculos.
+
+99
+00:06:28,231 --> 00:06:32,932
+O reconhecimento de rostos é bem desenvolvido,
+pois ajuda a identificar indivíduos.
+
+100
+00:06:33,769 --> 00:06:38,045
+Cientistas terráqueos acharam um neurônio
+que reage à celebridade Halle Berry, mas
+
+101
+00:06:38,065 --> 00:06:39,781
+não a fotos de outros terráqueos.
+
+102
+00:06:40,178 --> 00:06:44,728
+O neurônio também reage à Halle Berry
+fantasiada de felina, com o rosto quase todo
+
+103
+00:06:44,748 --> 00:06:46,542
+coberto, e até ao nome dela.
+
+104
+00:06:47,077 --> 00:06:50,159
+Pelo jeito, essa célula é
+muito fã da Halle Berry.
+
+105
+00:06:50,493 --> 00:06:55,051
+Também acharam um neurônio que gosta da
+Jennifer Aniston, e outro que admira Ronald
+
+106
+00:06:55,071 --> 00:06:55,643
+Reagan.
+
+107
+00:06:56,614 --> 00:06:59,180
+O reconhecimento das coisas se
+baseia sobretudo em forma e cor.
+
+108
+00:06:59,508 --> 00:07:02,162
+O conceito de cor pode
+confundir alienígenas.
+
+109
+00:07:02,552 --> 00:07:06,122
+A maioria dos terráqueos instruídos diria
+que cor é uma propriedade física da luz.
+
+110
+00:07:06,512 --> 00:07:09,208
+Mas, como veremos, isso
+é um absurdo total.
+
+111
+00:07:10,031 --> 00:07:12,117
+Cor não é física: é biologia!
+
+112
+00:07:13,480 --> 00:07:17,377
+A percepção de cor terráquea é comparável
+à forma como os Glubobs de Aldaris 7
+
+113
+00:07:17,397 --> 00:07:18,162
+percebem o som.
+
+114
+00:07:18,436 --> 00:07:21,881
+Os Glubobs são famosos por terem as
+piores bandas de metais da Galáxia.
+
+115
+00:07:22,236 --> 00:07:27,274
+Não é culpa deles: essas criaturas têm uma
+percepção auditiva muito primitiva e só
+
+116
+00:07:27,294 --> 00:07:32,281
+conseguem distinguir três faixas de
+frequência, chamadas Ged, Blin e Dru.
+
+117
+00:07:33,876 --> 00:07:39,071
+Todo som, acorde ou melodia é reduzido nos
+ouvidos deles a uma mistura de Ged, Blin
+
+118
+00:07:39,102 --> 00:07:39,493
+e Dru.
+
+119
+00:07:41,635 --> 00:07:45,628
+O ouvido Glubob tem receptores
+para cada uma das três faixas.
+
+120
+00:07:45,969 --> 00:07:50,238
+A sensibilidade deles é meio difusa, então
+eles conseguem distinguir sons isolados.
+
+121
+00:07:50,584 --> 00:07:52,900
+Por exemplo, quando
+você toca uma escala...
+
+122
+00:07:56,169 --> 00:07:57,547
+os Glubobs ouvem isto.
+
+123
+00:08:01,609 --> 00:08:04,113
+Mas ficam totalmente perdidos com acordes.
+
+124
+00:08:05,450 --> 00:08:07,149
+Duas notas já é demais.
+
+125
+00:08:07,689 --> 00:08:12,692
+Pegue, por exemplo, um acorde formado por
+Ged e Blin: para os ouvidos Glubob, ele
+
+126
+00:08:12,712 --> 00:08:16,391
+soa exatamente igual a "Nelo",
+a meio caminho entre Ged e Blin.
+
+127
+00:08:17,229 --> 00:08:22,014
+Então, para os Glubobs, Ged mais Blin é
+igual a Nelo, o que é um absurdo: a única
+
+128
+00:08:22,034 --> 00:08:24,766
+coisa igual é a percepção
+dos sons pelo ouvido Glubob.
+
+129
+00:08:26,659 --> 00:08:30,426
+Cientistas Glubobs teorizaram que todo
+som pertence a um "espaço sonoro"
+
+130
+00:08:30,446 --> 00:08:34,115
+tridimensional, definido pela
+intensidade percebida de Ged, Blin e Dru.
+
+131
+00:08:34,487 --> 00:08:37,168
+Veja bem, isso não é física: é biologia.
+
+132
+00:08:38,106 --> 00:08:43,027
+Os gravadores Glubobs só produzem três
+sons: basta para imitar sons para ouvidos
+
+133
+00:08:43,047 --> 00:08:45,181
+Glubobs, mas não para os outros.
+
+134
+00:08:45,552 --> 00:08:49,301
+O mesmo vale para os instrumentos
+Glubobs: daí as bandas ruins.
+
+135
+00:08:49,651 --> 00:08:51,028
+Por que estou contando isso?
+
+136
+00:08:51,348 --> 00:08:53,136
+Porque a visão terráquea funciona igual.
+
+137
+00:08:53,994 --> 00:08:58,167
+Os terráqueos têm só três tipos de receptor
+de cor, chamados, sem muita precisão, de
+
+138
+00:08:58,187 --> 00:08:59,620
+vermelho, verde e azul.
+
+139
+00:08:59,948 --> 00:09:04,014
+Até a combinação de frequências mais
+complexa vira, nos olhos terráqueos, uma
+
+140
+00:09:04,034 --> 00:09:06,272
+mistura de vermelho, verde e azul.
+
+141
+00:09:06,590 --> 00:09:10,705
+Por exemplo, eles não distinguem luz
+amarela monocromática de uma mistura de luz
+
+142
+00:09:10,725 --> 00:09:11,673
+vermelha e verde.
+
+143
+00:09:12,012 --> 00:09:15,922
+Nos dois casos, os receptores vermelho
+e verde são excitados do mesmo jeito.
+
+144
+00:09:16,222 --> 00:09:19,491
+Por isso os terráqueos dizem que
+"vermelho mais verde é igual a amarelo".
+
+145
+00:09:19,835 --> 00:09:21,817
+Isso é biologia, não física.
+
+146
+00:09:22,178 --> 00:09:26,001
+Ou seja, a cor não é uma propriedade
+física: ela só existe no cérebro.
+
+147
+00:09:26,354 --> 00:09:31,396
+Aliás, "receptor vermelho" é um nome
+enganoso: o pico dele fica mais na faixa
+
+148
+00:09:31,416 --> 00:09:32,288
+verde-amarela.
+
+149
+00:09:32,801 --> 00:09:35,519
+Isso reduz um efeito
+chamado aberração cromática.
+
+150
+00:09:35,887 --> 00:09:40,968
+Seja como for, o cérebro não recebe a
+resposta bruta dos receptores, e sim dados de
+
+151
+00:09:40,988 --> 00:09:46,413
+contraste: mais precisamente, amarelo-azul,
+vermelho-verde e luminosidade.
+
+152
+00:09:46,727 --> 00:09:49,071
+Mas qual a vantagem de
+mandar contraste de cor?
+
+153
+00:09:49,947 --> 00:09:53,010
+Para entender, precisamos
+saber o que a cor realmente é.
+
+154
+00:09:53,756 --> 00:09:58,092
+Se você perguntar a terráqueos adultos
+instruídos o que é cor, eles vão balbuciar
+
+155
+00:09:58,112 --> 00:10:01,752
+algo sobre frequências, círculos
+cromáticos e mistura aditiva.
+
+156
+00:10:02,080 --> 00:10:06,091
+Mas se perguntar aos filhotes terráqueos,
+eles vão falar de ursinhos azuis, flores
+
+157
+00:10:06,111 --> 00:10:07,508
+amarelas e sofás rosa.
+
+158
+00:10:07,857 --> 00:10:12,492
+Ou seja, eles veem a cor não como
+propriedade da luz, mas dos objetos.
+
+159
+00:10:12,908 --> 00:10:15,747
+E essa é, na verdade,
+uma abordagem bem melhor.
+
+160
+00:10:16,140 --> 00:10:20,951
+Veja, quando um terráqueo tem um carro
+rosa, ele sempre será um carro rosa, seja
+
+161
+00:10:20,971 --> 00:10:22,223
+qual for a iluminação.
+
+162
+00:10:23,880 --> 00:10:26,897
+A visão terráquea se vira com
+qualquer fonte de luz disponível.
+
+163
+00:10:28,940 --> 00:10:33,409
+A luz refletida pode mudar, mas para o
+terráqueo o carro dele terá sempre a mesma
+
+164
+00:10:33,429 --> 00:10:33,820
+cor.
+
+165
+00:10:34,220 --> 00:10:39,261
+Então a palavra "rosa" não descreve a luz:
+descreve como a superfície reage a luzes
+
+166
+00:10:39,281 --> 00:10:41,497
+variadas, segundo o olho terráqueo.
+
+167
+00:10:42,306 --> 00:10:46,083
+Logo, cor é uma propriedade das
+superfícies, que só existe no cérebro.
+
+168
+00:10:46,372 --> 00:10:47,530
+Como isso é possível?
+
+169
+00:10:48,312 --> 00:10:52,325
+Bem, o cérebro pega a informação dos
+sensores e compensa a iluminação.
+
+170
+00:10:52,807 --> 00:10:56,837
+O que sobra é uma propriedade percebida das
+superfícies, um invariante imaginário do
+
+171
+00:10:56,857 --> 00:10:57,935
+material: a cor.
+
+172
+00:10:58,314 --> 00:11:03,218
+Aí o contraste de cor ajuda: seja qual
+for a luz, um sofá rosa é sempre mais rosa
+
+173
+00:11:03,238 --> 00:11:05,052
+que o tapete verde embaixo dele.
+
+174
+00:11:06,805 --> 00:11:10,547
+A cor é um bom exemplo de como os terráqueos
+constroem um modelo da realidade no
+
+175
+00:11:10,567 --> 00:11:11,109
+cérebro.
+
+176
+00:11:11,425 --> 00:11:15,399
+Objetos físicos são coleções de átomos
+com propriedades como forma, tamanho e
+
+177
+00:11:15,419 --> 00:11:17,246
+características espectrais da superfície.
+
+178
+00:11:17,538 --> 00:11:21,196
+Mas o cérebro não acessa essas propriedades
+diretamente: só tem a informação dos
+
+179
+00:11:21,216 --> 00:11:21,822
+sensores.
+
+180
+00:11:22,189 --> 00:11:27,256
+Então ele compensa fatores como luz e
+distância e constrói modelos simplificados dos
+
+181
+00:11:27,276 --> 00:11:28,367
+objetos do mundo.
+
+182
+00:11:30,063 --> 00:11:33,924
+As propriedades imaginárias desses modelos
+correspondem mais ou menos à realidade
+
+183
+00:11:33,944 --> 00:11:34,453
+física.
+
+184
+00:11:34,746 --> 00:11:39,662
+Tamanho e forma aproximam bem a geometria
+real, mas a cor é uma simplificação
+
+185
+00:11:39,682 --> 00:11:42,120
+grosseira das características espectrais.
+
+186
+00:11:42,959 --> 00:11:45,997
+Então, cor é uma propriedade
+imaginária dos materiais.
+
+187
+00:11:46,341 --> 00:11:50,405
+Faz sentido, já que a principal função
+da cor é identificar materiais.
+
+188
+00:11:50,798 --> 00:11:55,352
+A cor permite achar coisas como
+pederneira, terra fértil ou frutas maduras.
+
+189
+00:11:55,998 --> 00:12:00,294
+O cérebro tira a iluminação para obter a
+"cor" invariante e distinguir materiais,
+
+190
+00:12:00,394 --> 00:12:02,606
+mesmo quando a luz refletida é a mesma.
+
+191
+00:12:04,677 --> 00:12:06,674
+As cores têm um forte
+significado simbólico.
+
+192
+00:12:07,026 --> 00:12:10,598
+Azul é visto como calmo e fresco,
+pois lagos e oceanos são azuis.
+
+193
+00:12:10,986 --> 00:12:13,789
+Verde é associado à natureza,
+porque as plantas são verdes.
+
+194
+00:12:14,167 --> 00:12:18,851
+Amarelo é visto como alegre e enérgico,
+porque a Terra orbita uma estrela amarela.
+
+195
+00:12:19,247 --> 00:12:23,959
+Vermelho é associado à violência e ao
+perigo, pois é a cor do fogo e do sangue.
+
+196
+00:12:27,279 --> 00:12:30,973
+Personagens de ficção às vezes têm código
+de cor para facilitar a identificação.
+
+197
+00:12:31,288 --> 00:12:35,553
+Personagens de desenho muitas vezes são
+reconhecidos quase só pela cor, até animais
+
+198
+00:12:35,573 --> 00:12:36,301
+humanizados.
+
+199
+00:12:36,637 --> 00:12:41,070
+Funciona também com alguns personagens
+reais, principalmente de uniforme.
+
+200
+00:12:42,090 --> 00:12:45,376
+As cores também têm um papel
+importante na vida social terráquea.
+
+201
+00:12:45,675 --> 00:12:48,969
+Por exemplo, namorados gostam
+de se dar flores coloridas.
+
+202
+00:12:49,357 --> 00:12:52,651
+Não tem nenhum sentido prático,
+já que flor não se come.
+
+203
+00:12:52,977 --> 00:12:58,019
+Há um velho ditado entre antropólogos
+alienígenas: se não faz sentido, provavelmente
+
+204
+00:12:58,039 --> 00:12:58,791
+é um ritual.
+
+205
+00:12:59,578 --> 00:13:00,823
+Dicas para turistas.
+
+206
+00:13:01,457 --> 00:13:05,973
+Se for ver um filme terráqueo, não espere
+cores realistas: as câmeras deles só
+
+207
+00:13:05,993 --> 00:13:07,806
+gravam três componentes de cor.
+
+208
+00:13:08,932 --> 00:13:12,475
+Pessoalmente, acho os filmes em
+preto e branco menos perturbadores.
+
+209
+00:13:12,823 --> 00:13:17,810
+Acima de tudo, fique longe dos tais filmes
+3D, principalmente se você só tiver um
+
+210
+00:13:17,830 --> 00:13:18,160
+olho.
+
+211
+00:13:18,523 --> 00:13:22,596
+Vale notar que algumas terráqueas têm
+quatro tipos de cone, em vez de três.
+
+212
+00:13:22,985 --> 00:13:26,080
+Em termos terráqueos, elas têm um
+espaço de cor de quatro dimensões.
+
+213
+00:13:26,412 --> 00:13:30,854
+Há também relatos de indivíduos que
+percebem uma cor extra chamada octarina.
+
+214
+00:13:31,191 --> 00:13:35,462
+Mas os mesmos relatos falam de uma
+superestrutura plana habitável não registrada,
+
+215
+00:13:35,607 --> 00:13:39,259
+com biopropulsão, e outras
+esquisitices, então deve ser ficção.
+
+216
+00:13:39,602 --> 00:13:44,433
+Enfim, isso não é nada perto de um animal
+aquático chamado tamarutaca, que tem um
+
+217
+00:13:44,453 --> 00:13:46,929
+espaço de cor de dezesseis dimensões.
+
+218
+00:13:47,539 --> 00:13:48,627
+Dica estratégica.
+
+219
+00:13:48,911 --> 00:13:53,908
+Tamarutacas dariam uma boa base para
+criar supersoldados: a visão de cor delas
+
+220
+00:13:53,928 --> 00:13:58,664
+tornaria inútil a camuflagem terráquea,
+têm apêndices afiados que aceleram até a
+
+221
+00:13:58,684 --> 00:14:03,309
+velocidade de uma bala, usam uma armadura
+natural e se movem tão rápido que a água
+
+222
+00:14:03,329 --> 00:14:04,200
+em volta ferve.
+
+223
+00:14:04,868 --> 00:14:07,226
+Mas talvez você queira dar
+um jeito no tamanho delas.
+
+224
+00:14:07,622 --> 00:14:11,954
+Vou terminar com uma pergunta em aberto:
+o violeta espectral, a luz no topo do
+
+225
+00:14:11,974 --> 00:14:15,120
+espectro visível, seria
+percebido como meio avermelhado.
+
+226
+00:14:15,438 --> 00:14:19,077
+Por isso os terráqueos dobram o espectro
+num círculo: o círculo cromático.
+
+227
+00:14:19,410 --> 00:14:23,306
+Mas a luz violeta fica longe dos tais
+receptores vermelhos: por que parece
+
+228
+00:14:23,326 --> 00:14:24,097
+avermelhada?
+
+229
+00:14:24,606 --> 00:14:26,121
+Vejo duas possibilidades.
+
+230
+00:14:26,493 --> 00:14:29,511
+Ou os receptores vermelhos têm
+um segundo pico na zona violeta.
+
+231
+00:14:29,870 --> 00:14:34,045
+Ou o violeta espectral não é visto como
+azul avermelhado, mas como azul profundo, e
+
+232
+00:14:34,065 --> 00:14:35,819
+o nome "violeta" é um equívoco.
+
+233
+00:14:36,139 --> 00:14:39,615
+O fato de telas de computador não exibirem
+o violeta espectral talvez aumente a
+
+234
+00:14:39,635 --> 00:14:40,142
+confusão.
+
+235
+00:14:40,502 --> 00:14:42,184
+Sinceramente, não sei.
+
+236
+00:14:42,588 --> 00:14:45,718
+Então pergunto aos meus espectadores
+terráqueos: o que vocês acham?
+
+237
+00:14:46,030 --> 00:14:51,009
+E se você tiver, digamos, um laser violeta,
+ou uma arma de luz violeta: o violeta
+
+238
+00:14:51,029 --> 00:14:53,899
+espectral parece avermelhado,
+ou azul profundo?
+
+239
+00:14:54,247 --> 00:14:55,984
+Se for avermelhado: por quê?
+
+240
+00:14:56,461 --> 00:14:58,723
+Se for azul profundo: por
+que o círculo cromático?
+
+241
+00:14:59,045 --> 00:15:02,324
+Este foi o décimo segundo
+episódio de Terráqueos 101.
+
+242
+00:15:02,726 --> 00:15:06,739
+Da próxima vez, vamos falar da matemática
+terráquea: uma ciência da verdade, do
+
+243
+00:15:06,759 --> 00:15:09,642
+espaço, dos números e do
+gênero dos Bloblings.
+
+244
+00:15:10,009 --> 00:15:14,238
+Obrigado por assistir, clique em "gostei"
+se gostou, e como sempre: não se esqueça
+
+245
+00:15:14,258 --> 00:15:15,203
+de ser alienígena!
+

@@ -1,0 +1,708 @@
+1
+00:00:00,074 --> 00:00:02,338
+Saudações, alienígenas e terráqueos!
+
+2
+00:00:02,760 --> 00:00:07,133
+Este não é um episódio de Terráqueos
+101, seu curso intensivo para visitantes
+
+3
+00:00:07,153 --> 00:00:11,665
+alienígenas, mas uma série de três vídeos
+curtos sobre algo que confunde terráqueos
+
+4
+00:00:11,685 --> 00:00:13,892
+e alienígenas: a forma do universo.
+
+5
+00:00:43,097 --> 00:00:45,006
+A maioria não entende o espaço.
+
+6
+00:00:45,977 --> 00:00:47,277
+Ele não é o que pensam.
+
+7
+00:00:47,827 --> 00:00:50,587
+Todos acham que o universo
+é infinito e plano.
+
+8
+00:00:50,938 --> 00:00:55,139
+Mas, de um ponto de vista não euclidiano
+e não local, ele é mais uma grande bola de
+
+9
+00:00:55,159 --> 00:00:57,272
+troço espacial, meio mole, meio torto.
+
+10
+00:00:57,620 --> 00:01:01,582
+E a forma dessa grande bola é o
+tema desta série em três partes.
+
+11
+00:01:02,090 --> 00:01:06,525
+Quando falamos de forma, falamos de
+duas coisas: topologia e geometria.
+
+12
+00:01:07,875 --> 00:01:12,159
+Geometria trata de distâncias,
+ângulos, áreas e assim por diante.
+
+13
+00:01:12,497 --> 00:01:17,049
+A topologia não liga para ângulos e
+distâncias exatos, só para quais regiões são
+
+14
+00:01:17,069 --> 00:01:17,725
+vizinhas.
+
+15
+00:01:18,081 --> 00:01:23,125
+Por exemplo, ao deformar um quadrado, você
+muda a geometria, mas não a topologia,
+
+16
+00:01:23,221 --> 00:01:26,594
+desde que não rasgue, não
+faça furos nem cole partes.
+
+17
+00:01:26,949 --> 00:01:31,908
+Para simplificar, vamos ignorar a expansão
+do universo e olhar só um instantâneo
+
+18
+00:01:31,928 --> 00:01:34,985
+dele, ou seja, uma fatia do espaço-tempo.
+
+19
+00:01:35,347 --> 00:01:39,193
+Infelizmente, não sei ao certo
+qual é a forma dessa fatia.
+
+20
+00:01:39,594 --> 00:01:44,623
+Toda pesquisa em cosmotopologia é segredo
+de defesa da Burocracia Galáctica Central.
+
+21
+00:01:44,957 --> 00:01:49,366
+Então, só posso discutir hipóteses,
+diferentes modelos possíveis do universo.
+
+22
+00:01:49,661 --> 00:01:53,997
+Há basicamente três tipos:
+esféricos, planos e hiperbólicos.
+
+23
+00:01:54,391 --> 00:01:56,391
+Hoje vamos falar dos modelos planos.
+
+24
+00:01:56,733 --> 00:02:00,238
+Plano ou não, há muitos equívocos
+por aí sobre o universo.
+
+25
+00:02:09,443 --> 00:02:10,260
+Não, Hank!
+
+26
+00:02:10,923 --> 00:02:15,210
+Um universo finito e um universo
+com borda são coisas bem diferentes.
+
+27
+00:02:24,123 --> 00:02:25,060
+Não, Gorf.
+
+28
+00:02:25,609 --> 00:02:29,188
+Espaço curvo não quer dizer que o universo
+se curva num hiperespaço externo.
+
+29
+00:02:29,520 --> 00:02:33,215
+Só quer dizer que as leis da
+geometria não são as que você espera.
+
+30
+00:02:40,047 --> 00:02:42,961
+Ele não se expande rumo a
+lugar nenhum, só se expande.
+
+31
+00:03:00,011 --> 00:03:00,855
+Não, Derek.
+
+32
+00:03:01,243 --> 00:03:05,579
+Um universo plano não é necessariamente
+infinito, e pode ter retas que voltam à
+
+33
+00:03:05,599 --> 00:03:06,152
+origem.
+
+34
+00:03:15,489 --> 00:03:16,490
+Para ser sincero...
+
+35
+00:03:17,139 --> 00:03:18,982
+Isso é uma tremenda burrice.
+
+36
+00:03:19,639 --> 00:03:22,161
+Então, o que é um universo finito, afinal?
+
+37
+00:03:23,024 --> 00:03:25,019
+É um universo com volume finito.
+
+38
+00:03:25,358 --> 00:03:30,393
+Ou seja, bastaria uma quantidade finita de
+ácido hidroxílico para inundar o universo
+
+39
+00:03:30,413 --> 00:03:30,851
+todo.
+
+40
+00:03:31,178 --> 00:03:36,438
+Já sem borda quer dizer que, ao explorar o
+universo, você não vai, de repente, bater
+
+41
+00:03:36,458 --> 00:03:38,532
+num muro com o nada do outro lado.
+
+42
+00:03:39,979 --> 00:03:41,122
+Mas não é a mesma coisa?
+
+43
+00:03:41,497 --> 00:03:45,770
+Sem borda, dá para voar sem parar,
+audaciosamente indo onde nenhum homem ou
+
+44
+00:03:45,790 --> 00:03:47,277
+alienígena jamais esteve.
+
+45
+00:03:47,608 --> 00:03:51,688
+E, fazendo isso, você vê cada vez mais
+volume, então o volume total deve ser
+
+46
+00:03:51,708 --> 00:03:52,329
+infinito...
+
+47
+00:03:52,646 --> 00:03:53,179
+Certo?
+
+48
+00:03:55,926 --> 00:03:56,581
+Errado.
+
+49
+00:03:56,939 --> 00:04:01,758
+Porque, voando por tempo suficiente, você
+pode acabar em espaço conhecido, e até
+
+50
+00:04:01,778 --> 00:04:02,972
+voltar ao seu planeta.
+
+51
+00:04:03,678 --> 00:04:06,518
+Ou seja, o espaço pode se
+dobrar sobre si mesmo.
+
+52
+00:04:06,797 --> 00:04:10,305
+Para entender isso, vejamos o
+que acontece em duas dimensões.
+
+53
+00:04:10,854 --> 00:04:15,174
+Como muitas raças alienígenas, os terráqueos
+já se perguntaram qual era a forma da
+
+54
+00:04:15,194 --> 00:04:16,400
+superfície do planeta.
+
+55
+00:04:16,733 --> 00:04:20,984
+Uns imaginavam uma superfície infinita,
+outros achavam que ela tinha borda.
+
+56
+00:04:21,608 --> 00:04:23,727
+No fim, descobriram que
+ambos estavam errados.
+
+57
+00:04:24,085 --> 00:04:28,606
+Não há borda, mas a superfície é finita:
+zarpando numa direção e seguindo em linha
+
+58
+00:04:28,626 --> 00:04:31,443
+reta, você acaba voltando
+ao ponto de partida.
+
+59
+00:04:33,685 --> 00:04:36,467
+O motivo, claro, é que
+a Terra é uma esfera.
+
+60
+00:04:37,210 --> 00:04:41,162
+Seres tridimensionais entendem
+fácil superfícies finitas sem borda.
+
+61
+00:04:41,480 --> 00:04:46,596
+Mas como explicar isso a seres bidimensionais,
+como as lesmas planas de Régulus 3?
+
+62
+00:04:47,634 --> 00:04:51,250
+Lesmas planas só pensam em duas dimensões,
+mas têm uma tecnologia de portais muito
+
+63
+00:04:51,270 --> 00:04:51,851
+avançada.
+
+64
+00:04:52,151 --> 00:04:56,489
+Um portal delas muda a topologia de uma
+superfície colando partes diferentes, por
+
+65
+00:04:56,509 --> 00:04:58,703
+exemplo dois lados opostos de um quadrado.
+
+66
+00:04:59,641 --> 00:05:04,463
+Quando uma lesma sai do retângulo por um
+lado, entra pelo outro, como num videogame.
+
+67
+00:05:05,721 --> 00:05:08,125
+Topologicamente, isso é um cilindro.
+
+68
+00:05:08,520 --> 00:05:10,415
+Vamos chamá-lo de cilindro de videogame.
+
+69
+00:05:10,710 --> 00:05:13,488
+Como seria um cilindro de
+videogame visto de dentro?
+
+70
+00:05:14,944 --> 00:05:18,949
+Lesmas planas não enxergam longe, mas, se
+enxergassem, veriam uma série infinita de
+
+71
+00:05:18,969 --> 00:05:20,159
+imagens do mesmo espaço.
+
+72
+00:05:20,554 --> 00:05:23,696
+Algo como o que você vê entre
+dois espelhos paralelos.
+
+73
+00:05:24,074 --> 00:05:27,186
+E se colarmos também os outros
+dois lados do quadrado?
+
+74
+00:05:28,041 --> 00:05:31,102
+Agora o efeito de videogame
+vale em duas direções.
+
+75
+00:05:31,473 --> 00:05:35,498
+Uma lesma de vista boa lá dentro veria
+a própria imagem repetida numa grade.
+
+76
+00:05:35,767 --> 00:05:38,987
+Topologicamente, isso é um toro,
+a superfície de uma rosquinha.
+
+77
+00:05:39,336 --> 00:05:42,913
+Então, vamos chamar esse retângulo
+duplamente enrolado de toro de videogame.
+
+78
+00:05:43,241 --> 00:05:47,170
+O importante é que não é preciso uma terceira
+dimensão para definir um cilindro ou
+
+79
+00:05:47,190 --> 00:05:47,729
+um toro.
+
+80
+00:05:48,049 --> 00:05:50,268
+Basta ter portais para colar as bordas.
+
+81
+00:05:51,036 --> 00:05:55,224
+E, depois de colar, dá para esquecer os
+portais e curtir um ambiente de videogame
+
+82
+00:05:55,244 --> 00:05:57,149
+contínuo, mas que dá voltas.
+
+83
+00:05:57,556 --> 00:06:01,820
+Uma lesma criada nesse toro estaria
+acostumada a viver numa superfície plana,
+
+84
+00:06:01,840 --> 00:06:04,171
+finita, meio enrolada e sem borda.
+
+85
+00:06:05,650 --> 00:06:09,992
+Sem precisar de portais nem de espaço dobrado,
+sem falar nessa tal terceira dimensão
+
+86
+00:06:10,012 --> 00:06:10,702
+esotérica.
+
+87
+00:06:11,108 --> 00:06:13,137
+Mas e o universo em que vivemos?
+
+88
+00:06:13,517 --> 00:06:17,221
+É tão impensável que ele seja
+parecido, só que em três dimensões?
+
+89
+00:06:17,550 --> 00:06:18,409
+Por que não seria?
+
+90
+00:06:18,814 --> 00:06:22,969
+Existe algum motivo para o universo ter
+que ser um espaço euclidiano ou estar num
+
+91
+00:06:22,989 --> 00:06:25,308
+hiperespaço euclidiano de mais dimensões?
+
+92
+00:06:25,636 --> 00:06:27,267
+Mas voltemos às duas dimensões.
+
+93
+00:06:27,619 --> 00:06:30,345
+Vamos brincar mais um pouco
+com superfícies e portais.
+
+94
+00:06:30,700 --> 00:06:34,924
+Por exemplo, e se colarmos dois lados
+de um retângulo, mas com as direções
+
+95
+00:06:34,944 --> 00:06:35,736
+invertidas?
+
+96
+00:06:36,229 --> 00:06:40,246
+Bom, temos uma faixa de Möbius, uma
+superfície em que cada volta inverte sua
+
+97
+00:06:40,266 --> 00:06:40,930
+orientação.
+
+98
+00:06:41,263 --> 00:06:45,240
+Colando o outro par sem inverter,
+temos uma garrafa de Klein.
+
+99
+00:06:45,613 --> 00:06:49,067
+Invertendo os dois pares, temos
+o chamado plano projetivo.
+
+100
+00:06:50,113 --> 00:06:52,479
+Mas não estamos limitados a retângulos.
+
+101
+00:06:53,043 --> 00:06:57,257
+Podemos, por exemplo, pegar um
+paralelogramo e colar as bordas opostas.
+
+102
+00:06:57,887 --> 00:07:01,526
+Geometricamente, isso é um toro inclinado;
+topologicamente, é a mesma coisa.
+
+103
+00:07:01,819 --> 00:07:05,267
+Uma lesma lá dentro se veria
+repetida numa grade inclinada.
+
+104
+00:07:06,281 --> 00:07:10,207
+E se pegarmos um hexágono e colarmos
+os lados opostos sem inverter?
+
+105
+00:07:10,518 --> 00:07:13,876
+Bom, a lesma lá dentro se
+veria no mesmo padrão de antes.
+
+106
+00:07:14,587 --> 00:07:18,275
+Então é só outro jeito de
+construir o mesmo toro inclinado.
+
+107
+00:07:18,593 --> 00:07:20,663
+Voltemos ao toro de videogame.
+
+108
+00:07:21,234 --> 00:07:24,031
+Dá para fazer algo parecido
+no espaço tridimensional?
+
+109
+00:07:24,337 --> 00:07:25,016
+Claro que dá.
+
+110
+00:07:25,813 --> 00:07:30,652
+Basta pegar um paralelepípedo no espaço
+e ligar os lados opostos com portais, sem
+
+111
+00:07:30,672 --> 00:07:31,433
+torcer nada.
+
+112
+00:07:31,810 --> 00:07:36,132
+Se um viajante espacial ficar preso lá
+dentro, estará num espaço de videogame
+
+113
+00:07:36,152 --> 00:07:41,024
+tridimensional, onde volta à origem se
+voar o bastante ao longo de um dos eixos.
+
+114
+00:07:41,422 --> 00:07:46,162
+Ele nem vai notar os portais, só vai ver um
+universo que, de algum jeito, se repete.
+
+115
+00:07:46,702 --> 00:07:48,242
+Isso se chama hipertoro.
+
+116
+00:07:49,812 --> 00:07:54,196
+Como o toro de videogame, o hipertoro é
+plano: as regras da geometria escolar valem
+
+117
+00:07:54,216 --> 00:07:55,747
+mesmo para objetos enormes.
+
+118
+00:07:57,752 --> 00:08:00,092
+Na parte 2, vamos definir isso melhor.
+
+119
+00:08:01,409 --> 00:08:02,854
+Viram o que acabamos de fazer?
+
+120
+00:08:03,190 --> 00:08:07,066
+Construímos um universo plano,
+com volume finito, mas sem borda.
+
+121
+00:08:07,430 --> 00:08:09,634
+Algo que Hank e Derek achavam impossível.
+
+122
+00:08:09,952 --> 00:08:14,819
+Esse universo parece um espaço plano infinito,
+só que se repete como papel de parede
+
+123
+00:08:14,839 --> 00:08:16,732
+de hotel, em três direções.
+
+124
+00:08:18,019 --> 00:08:22,519
+Alguns cientistas terráqueos acham que o
+hipertoro é uma forma possível do universo.
+
+125
+00:08:25,458 --> 00:08:27,268
+Sim, terráqueo, sem borda.
+
+126
+00:08:28,464 --> 00:08:31,442
+Mas o hipertoro não é o
+único modelo plano finito.
+
+127
+00:08:31,706 --> 00:08:35,845
+Por exemplo, girando o portal de
+cima em 90°, temos outro modelo.
+
+128
+00:08:36,145 --> 00:08:38,510
+Ele se chama variedade
+de um quarto de volta.
+
+129
+00:08:38,905 --> 00:08:44,502
+Uma terceira variante é a variedade de meia
+volta, girando o portal de cima em 180°.
+
+130
+00:08:45,323 --> 00:08:47,955
+Lembra como construímos um
+toro com padrão de colmeia?
+
+131
+00:08:48,331 --> 00:08:51,462
+Dá para fazer o mesmo com um prisma
+hexagonal e obter o hipertoro.
+
+132
+00:08:51,773 --> 00:08:57,200
+E agora, girando o portal de cima em 60°,
+temos a variedade de um sexto de volta, ou
+
+133
+00:08:57,220 --> 00:09:00,363
+em 120°, a variedade de um terço de volta.
+
+134
+00:09:01,059 --> 00:09:06,419
+No total, há 10 modelos de universo plano,
+finito e fechado: 6 orientáveis e 4 não
+
+135
+00:09:06,439 --> 00:09:07,244
+orientáveis.
+
+136
+00:09:07,603 --> 00:09:09,253
+O que quer dizer não orientável?
+
+137
+00:09:09,575 --> 00:09:13,816
+Quer dizer que o universo é como uma faixa
+de Möbius: ao dar uma volta, você pode
+
+138
+00:09:13,836 --> 00:09:15,142
+chegar em casa espelhado.
+
+139
+00:09:15,476 --> 00:09:17,056
+Isso se chama Universo de Alice.
+
+140
+00:09:17,349 --> 00:09:19,740
+Para você, seu planeta estará espelhado.
+
+141
+00:09:20,339 --> 00:09:24,435
+E, como a carga elétrica é questão de
+orientação, o planeta e tudo nele será de
+
+142
+00:09:24,455 --> 00:09:25,287
+antimatéria.
+
+143
+00:09:29,036 --> 00:09:33,120
+Mas esses dez modelos planos, finitos e
+fechados não são as únicas possibilidades.
+
+144
+00:09:33,476 --> 00:09:38,696
+Nas partes 2 e 3, veremos outros modelos,
+curvos, como a hiperesfera e o espaço de
+
+145
+00:09:38,716 --> 00:09:39,261
+Poincaré.
+
+146
+00:09:39,606 --> 00:09:42,872
+Também vamos falar das evidências que
+podem ajudar a descobrir qual modelo é o
+
+147
+00:09:42,892 --> 00:09:43,393
+certo.
+
+148
+00:09:43,682 --> 00:09:46,483
+Claro, o curso intensivo para
+visitantes alienígenas continua.
+
+149
+00:09:46,848 --> 00:09:50,900
+O que vocês acham: devo alternar entre
+o curso intensivo e os episódios de Sem
+
+150
+00:09:50,920 --> 00:09:54,448
+Borda, ou terminar esta minissérie
+e depois voltar ao curso?
+
+151
+00:09:54,769 --> 00:09:58,522
+Digam nos comentários, no meu Twitter
+ou na minha página do Facebook.
+
+152
+00:10:00,293 --> 00:10:01,415
+Obrigado por assistir.
+
+153
+00:10:01,735 --> 00:10:05,913
+Curta se gostou, compartilhe se gostou
+muito, inscreva-se para não perder os
+
+154
+00:10:05,933 --> 00:10:09,573
+próximos vídeos e, como sempre:
+não se esqueça de ser alienígena.
+

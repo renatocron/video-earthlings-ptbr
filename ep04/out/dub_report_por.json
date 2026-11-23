@@ -1,0 +1,1062 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.86,
+  "new_start": 0.0,
+  "dur": 2.5844583333333335,
+  "speed": 1.273,
+  "k": 1.0260343822843825,
+  "text_tgt": "Bem-vindo ao quarto episódio de Terráqueos 101."
+ },
+ {
+  "id": 2,
+  "start": 2.86,
+  "limit": 5.27,
+  "new_start": 2.9344583333333336,
+  "dur": 2.111125,
+  "speed": 1.17,
+  "k": 1.0212136929460582,
+  "text_tgt": "Hoje vamos aprender o que é o bem e o mal."
+ },
+ {
+  "id": 3,
+  "start": 41.7,
+  "limit": 45.8,
+  "new_start": 41.82558333333334,
+  "dur": 3.7840416666666665,
+  "speed": 1.102,
+  "k": 1.0083028455284566,
+  "text_tgt": "O conceito de bem e mal é essencial para entender o comportamento humano."
+ },
+ {
+  "id": 4,
+  "start": 45.8,
+  "limit": 52.14,
+  "new_start": 45.95962500000001,
+  "dur": 6.009458333333333,
+  "speed": 1.055,
+  "k": 1.0030691377497365,
+  "text_tgt": "Como expliquei no primeiro episódio, a mente terráquea tem três partes: o Ego, a Fera e o Implicante."
+ },
+ {
+  "id": 5,
+  "start": 52.14,
+  "limit": 57.0,
+  "new_start": 52.31908333333334,
+  "dur": 4.557958333333334,
+  "speed": 1.156,
+  "k": 1.0098679698216737,
+  "text_tgt": "A Fera diz ao Ego o que ele quer fazer, e o Implicante diz o que ele deve fazer."
+ },
+ {
+  "id": 6,
+  "start": 57.0,
+  "limit": 61.92,
+  "new_start": 57.22704166666667,
+  "dur": 4.633916666666667,
+  "speed": 1.232,
+  "k": 1.0129911924119237,
+  "text_tgt": "O Implicante comenta sem parar as ações do Ego, aprovando umas e reprovando outras."
+ },
+ {
+  "id": 7,
+  "start": 61.92,
+  "limit": 68.1,
+  "new_start": 62.21095833333334,
+  "dur": 5.8901666666666666,
+  "speed": 1.202,
+  "k": 1.0097357065803678,
+  "text_tgt": "Esse processo se chama autoconsciência, e o critério que o Implicante aplica é, na verdade, o bem e o mal."
+ },
+ {
+  "id": 8,
+  "start": 68.1,
+  "limit": 79.78,
+  "new_start": 68.451125,
+  "dur": 10.949,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para impor seu julgamento, o Implicante pune ações \"más\" com vergonha e culpa, e premia ações \"boas\" com satisfação, assim como a Fera usa prazer, dor, medo e desejo para conseguir o que quer."
+ },
+ {
+  "id": 9,
+  "start": 79.78,
+  "limit": 85.18,
+  "new_start": 80.13112500000001,
+  "dur": 5.125166666666667,
+  "speed": 1.27,
+  "k": 1.0139197530864186,
+  "text_tgt": "Existe um mito, uma antiga história de ficção, sobre o que aconteceu quando os terráqueos ganharam autoconsciência."
+ },
+ {
+  "id": 10,
+  "start": 85.18,
+  "limit": 93.4,
+  "new_start": 85.60629166666668,
+  "dur": 7.894791666666666,
+  "speed": 1.074,
+  "k": 1.0030160178426601,
+  "text_tgt": "Segundo a história, os dois primeiros terráqueos viviam num jardim, uma área fechada e cheia de vegetação, vigiada por uma espécie de bioadministrador."
+ },
+ {
+  "id": 11,
+  "start": 93.4,
+  "limit": 97.1,
+  "new_start": 93.85108333333335,
+  "dur": 3.17,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos falar desse tipo de criatura num episódio futuro."
+ },
+ {
+  "id": 12,
+  "start": 97.1,
+  "limit": 103.64,
+  "new_start": 97.55108333333334,
+  "dur": 6.241583333333334,
+  "speed": 1.163,
+  "k": 1.0078873598369003,
+  "text_tgt": "Segundo a história, o primeiro ato dos terráqueos como seres autoconscientes foi comer uma fruta contra a vontade do bioadministrador."
+ },
+ {
+  "id": 13,
+  "start": 103.64,
+  "limit": 111.52,
+  "new_start": 104.14266666666667,
+  "dur": 7.580958333333333,
+  "speed": 1.167,
+  "k": 1.0064667935702205,
+  "text_tgt": "Com isso, perceberam que alguns atos contam como bons e outros como maus, em especial o que tinham acabado de fazer: comer uma fruta proibida."
+ },
+ {
+  "id": 14,
+  "start": 111.52,
+  "limit": 116.1,
+  "new_start": 112.073625,
+  "dur": 4.319833333333333,
+  "speed": 1.338,
+  "k": 1.019614264919942,
+  "text_tgt": "Ficaram cheios de culpa e vergonha, e foram expulsos do jardim para uma terra selvagem e hostil."
+ },
+ {
+  "id": 15,
+  "start": 116.1,
+  "limit": 120.54,
+  "new_start": 116.74345833333334,
+  "dur": 4.577,
+  "speed": 1.35,
+  "k": 1.1096846846846815,
+  "text_tgt": "Essa história ensina muito a nós, alienígenas, sobre como os terráqueos vivem a própria autoconsciência."
+ },
+ {
+  "id": 16,
+  "start": 120.54,
+  "limit": 125.98,
+  "new_start": 121.67045833333333,
+  "dur": 4.899958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Parece que a autoconsciência é extremamente desconfortável, como morar num ambiente hostil."
+ },
+ {
+  "id": 17,
+  "start": 125.98,
+  "limit": 134.46,
+  "new_start": 127.11045833333333,
+  "dur": 8.178625,
+  "speed": 1.17,
+  "k": 1.0057340801886787,
+  "text_tgt": "Ter um Implicante no cérebro deve ser como ter um chupa-cérebro grudado na cabeça, tagarelando sem parar sobre o que está ou não conforme as regras da Burocracia Galáctica."
+ },
+ {
+  "id": 18,
+  "start": 134.46,
+  "limit": 140.94,
+  "new_start": 135.63908333333333,
+  "dur": 6.195916666666666,
+  "speed": 1.225,
+  "k": 1.0101723251028822,
+  "text_tgt": "E a culpa deve doer tanto quanto o ácido cerebral que o chupa-cérebro solta quando o hospedeiro quebra uma das zilhões de regras da Burocracia."
+ },
+ {
+  "id": 19,
+  "start": 140.94,
+  "limit": 148.5,
+  "new_start": 142.185,
+  "dur": 7.236666666666666,
+  "speed": 1.086,
+  "k": 1.0035273368606699,
+  "text_tgt": "Só que o Implicante não liga para a Burocracia: ele tem regras próprias, criadas pela evolução e pela sociedade: o bem e o mal."
+ },
+ {
+  "id": 20,
+  "start": 148.5,
+  "limit": 152.72,
+  "new_start": 149.77166666666668,
+  "dur": 3.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas afinal, o que é esse tal de bem e mal, e para que serve?"
+ },
+ {
+  "id": 21,
+  "start": 152.72,
+  "limit": 156.66,
+  "new_start": 153.99166666666667,
+  "dur": 3.6315416666666667,
+  "speed": 1.14,
+  "k": 1.0105435702199668,
+  "text_tgt": "O bem e o mal existem para estimular a cooperação entre indivíduos."
+ },
+ {
+  "id": 22,
+  "start": 156.66,
+  "limit": 162.16,
+  "new_start": 157.97320833333333,
+  "dur": 5.156833333333333,
+  "speed": 1.02,
+  "k": 1.001242424242424,
+  "text_tgt": "No fundo, uma ação é \"boa\" quando ajuda o grupo, e \"má\" quando vai contra os interesses do grupo."
+ },
+ {
+  "id": 23,
+  "start": 162.16,
+  "limit": 167.66,
+  "new_start": 163.48004166666666,
+  "dur": 5.184625,
+  "speed": 1.105,
+  "k": 1.0062954545454543,
+  "text_tgt": "Sem a cooperação imposta pelos Implicantes no cérebro, cada terráqueo só cuidaria do próprio benefício."
+ },
+ {
+  "id": 24,
+  "start": 167.66,
+  "limit": 175.54,
+  "new_start": 169.01466666666667,
+  "dur": 7.563583333333334,
+  "speed": 1.1,
+  "k": 1.0042618443316418,
+  "text_tgt": "Mas, você pode perguntar: se cada membro do grupo maximiza o próprio benefício, isso não somaria e maximizaria o benefício do grupo?"
+ },
+ {
+  "id": 25,
+  "start": 175.54,
+  "limit": 176.58,
+  "new_start": 176.92825,
+  "dur": 0.7619166666666667,
+  "speed": 1.26,
+  "k": 1.06915064102562,
+  "text_tgt": "Na verdade, não."
+ },
+ {
+  "id": 26,
+  "start": 176.58,
+  "limit": 183.16,
+  "new_start": 178.04016666666666,
+  "dur": 6.27825,
+  "speed": 1.15,
+  "k": 1.0073328267477226,
+  "text_tgt": "Há situações em que maximizar o próprio benefício por egoísmo reduz o benefício de todos, inclusive dos próprios egoístas."
+ },
+ {
+  "id": 27,
+  "start": 183.16,
+  "limit": 187.24,
+  "new_start": 184.66841666666667,
+  "dur": 3.732666666666667,
+  "speed": 1.01,
+  "k": 1.0006535947712387,
+  "text_tgt": "Um exemplo clássico é o que os terráqueos chamam de \"dilema do prisioneiro\"."
+ },
+ {
+  "id": 28,
+  "start": 187.24,
+  "limit": 201.2,
+  "new_start": 188.75108333333333,
+  "dur": 13.129,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Imagine que dois malfeitores galácticos, o Poderoso Cthulhu e o Lorde Xenu, são presos pela polícia galáctica por mexer sem autorização no planeta Terra, digamos, num plano esperto envolvendo vulcões e pesadelos."
+ },
+ {
+  "id": 29,
+  "start": 201.2,
+  "limit": 208.28,
+  "new_start": 202.7110833333333,
+  "dur": 6.8177916666666665,
+  "speed": 1.339,
+  "k": 1.0123999529190189,
+  "text_tgt": "Infelizmente, não há testemunhas das suas maquinações, além de uns tetãs sem corpo e uns fanáticos malucos, que legalmente não contam como testemunhas."
+ },
+ {
+  "id": 30,
+  "start": 208.28,
+  "limit": 215.12,
+  "new_start": 209.87887499999997,
+  "dur": 6.199,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, as autoridades interrogam os dois vilões separadamente, oferecendo redução de pena se confessarem."
+ },
+ {
+  "id": 31,
+  "start": 215.12,
+  "limit": 222.74,
+  "new_start": 216.71887499999997,
+  "dur": 7.289083333333333,
+  "speed": 1.055,
+  "k": 1.0025043744531927,
+  "text_tgt": "O acordo é este: se nenhum confessar, a autoridade não prova nada, e os dois pegam só 100 anos por invadir uma área protegida."
+ },
+ {
+  "id": 32,
+  "start": 222.74,
+  "limit": 226.02,
+  "new_start": 224.3579583333333,
+  "dur": 2.77,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Cada triângulo no diagrama vale 100 anos."
+ },
+ {
+  "id": 33,
+  "start": 226.02,
+  "limit": 231.2,
+  "new_start": 227.6379583333333,
+  "dur": 4.863833333333333,
+  "speed": 1.102,
+  "k": 1.0065315315315355,
+  "text_tgt": "Se um deles confessar, sai livre, e o outro pega a pena máxima de 800 anos de prisão."
+ },
+ {
+  "id": 34,
+  "start": 231.2,
+  "limit": 236.86,
+  "new_start": 232.85179166666663,
+  "dur": 4.218958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se os dois confessarem, os dois pegam pena reduzida de 400 anos."
+ },
+ {
+  "id": 35,
+  "start": 236.86,
+  "limit": 242.98,
+  "new_start": 238.51179166666665,
+  "dur": 5.812083333333334,
+  "speed": 1.139,
+  "k": 1.0068763616557774,
+  "text_tgt": "Do ponto de vista do Lorde Xenu, a decisão parece clara: faça Cthulhu o que fizer, Xenu se dá melhor confessando."
+ },
+ {
+  "id": 36,
+  "start": 242.98,
+  "limit": 247.58,
+  "new_start": 244.67387499999998,
+  "dur": 4.3120416666666666,
+  "speed": 1.208,
+  "k": 1.0134873188405746,
+  "text_tgt": "Se Cthulhu mantiver a boca tentacular fechada, Xenu escapa da prisão traindo o colega."
+ },
+ {
+  "id": 37,
+  "start": 247.58,
+  "limit": 251.58,
+  "new_start": 249.33591666666663,
+  "dur": 3.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se Cthulhu trair, Xenu reduz a pena falando também."
+ },
+ {
+  "id": 38,
+  "start": 251.58,
+  "limit": 256.5,
+  "new_start": 253.33591666666663,
+  "dur": 4.601958333333333,
+  "speed": 1.093,
+  "k": 1.0064955962059645,
+  "text_tgt": "O mesmo vale para Cthulhu: faça Xenu o que fizer, Cthulhu se dá melhor traindo."
+ },
+ {
+  "id": 39,
+  "start": 256.5,
+  "limit": 259.6,
+  "new_start": 258.287875,
+  "dur": 2.8343333333333334,
+  "speed": 1.316,
+  "k": 1.0272043010752614,
+  "text_tgt": "Então, o egoísmo pode levar os dois vilões a se traírem."
+ },
+ {
+  "id": 40,
+  "start": 259.6,
+  "limit": 266.26,
+  "new_start": 261.4722083333333,
+  "dur": 6.385041666666667,
+  "speed": 1.27,
+  "k": 1.0112675175175223,
+  "text_tgt": "Mas a questão é: se os dois agem por egoísmo e falam, cada um pega mais tempo de prisão do que se os dois cooperassem e ficassem quietos."
+ },
+ {
+  "id": 41,
+  "start": 266.26,
+  "limit": 271.08,
+  "new_start": 268.20725,
+  "dur": 4.514333333333333,
+  "speed": 1.149,
+  "k": 1.0091977869986182,
+  "text_tgt": "Ou seja, quando os dois maximizam o resultado individual, o resultado de todos piora."
+ },
+ {
+  "id": 42,
+  "start": 271.08,
+  "limit": 276.72,
+  "new_start": 273.0715833333333,
+  "dur": 5.321208333333334,
+  "speed": 1.099,
+  "k": 1.0055333924349805,
+  "text_tgt": "Mas, mesmo que os dois percebam isso e cooperem, cada um ainda vai ficar tentado a trair o outro."
+ },
+ {
+  "id": 43,
+  "start": 276.72,
+  "limit": 283.4,
+  "new_start": 278.7427916666666,
+  "dur": 5.919,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Outro exemplo seria um clã de terráqueos em que cada um tem uma cabra, um animal doméstico que dá leite."
+ },
+ {
+  "id": 44,
+  "start": 283.4,
+  "limit": 288.0,
+  "new_start": 285.42279166666657,
+  "dur": 4.328708333333333,
+  "speed": 1.296,
+  "k": 1.0171105072463718,
+  "text_tgt": "Não demora para os terráqueos perceberem que dá para ganhar uma segunda cabra roubando uma durante a noite."
+ },
+ {
+  "id": 45,
+  "start": 288.0,
+  "limit": 292.14,
+  "new_start": 290.1014999999999,
+  "dur": 3.830041666666667,
+  "speed": 1.13,
+  "k": 1.009671900161034,
+  "text_tgt": "Então, ladrões de cabra se dão melhor que os terráqueos que dormem à noite."
+ },
+ {
+  "id": 46,
+  "start": 292.14,
+  "limit": 299.68,
+  "new_start": 294.28154166666656,
+  "dur": 7.8,
+  "speed": 1.35,
+  "k": 1.0809018567639228,
+  "text_tgt": "Mas, se todo mundo virar ladrão de cabra, todo mundo vai acabar com uma cabra só, e a troca noturna e sorrateira de cabras vai ser um completo desperdício de tempo e energia."
+ },
+ {
+  "id": 47,
+  "start": 299.68,
+  "limit": 306.5,
+  "new_start": 302.43154166666653,
+  "dur": 5.92,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aí o clã fica em desvantagem contra outro clã que deu um jeito de não se roubar toda noite e acorda descansado."
+ },
+ {
+  "id": 48,
+  "start": 306.5,
+  "limit": 309.96,
+  "new_start": 309.2515416666665,
+  "dur": 3.2740833333333335,
+  "speed": 1.35,
+  "k": 1.0474229287090622,
+  "text_tgt": "Esse tipo de situação é o problema básico do comportamento humano em grupo."
+ },
+ {
+  "id": 49,
+  "start": 309.96,
+  "limit": 314.16,
+  "new_start": 312.87562499999984,
+  "dur": 3.905291666666667,
+  "speed": 1.183,
+  "k": 1.0131646825396716,
+  "text_tgt": "A solução que a evolução encontrou foi criar o Implicante e o conceito de bem e mal."
+ },
+ {
+  "id": 50,
+  "start": 314.16,
+  "limit": 321.1,
+  "new_start": 317.1309166666665,
+  "dur": 6.624333333333333,
+  "speed": 1.102,
+  "k": 1.0049471661863596,
+  "text_tgt": "Se roubar é mau, o Implicante pune o roubo com remorso, um sentimento que incomoda mais do que o leite da cabra roubada dá prazer."
+ },
+ {
+  "id": 51,
+  "start": 321.1,
+  "limit": 325.84,
+  "new_start": 324.10524999999984,
+  "dur": 4.09,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, de repente, roubar fica bem menos atraente do que antes."
+ },
+ {
+  "id": 52,
+  "start": 325.84,
+  "limit": 331.58,
+  "new_start": 328.8452499999998,
+  "dur": 5.460958333333333,
+  "speed": 1.256,
+  "k": 1.0123620789779308,
+  "text_tgt": "Da mesma forma, se outro membro do grupo estiver sem cabra, o Implicante empurra o indivíduo a dar um pouco de leite para ele."
+ },
+ {
+  "id": 53,
+  "start": 331.58,
+  "limit": 336.64,
+  "new_start": 334.6562083333331,
+  "dur": 4.753041666666666,
+  "speed": 1.134,
+  "k": 1.0085062582345186,
+  "text_tgt": "Isso vale ainda mais se o coitado for uma mulher, já que as mulheres são o gargalo do crescimento populacional."
+ },
+ {
+  "id": 54,
+  "start": 336.64,
+  "limit": 341.54,
+  "new_start": 339.7592499999998,
+  "dur": 5.162208333333333,
+  "speed": 1.35,
+  "k": 1.1249404761904682,
+  "text_tgt": "Essas ações altruístas que ajudam o grupo são consideradas boas, e o Implicante as recompensa com sensações positivas."
+ },
+ {
+  "id": 55,
+  "start": 341.54,
+  "limit": 346.58,
+  "new_start": 345.2714583333331,
+  "dur": 4.7214583333333335,
+  "speed": 1.095,
+  "k": 1.0062417328042401,
+  "text_tgt": "Claro que, antes de tudo, os terráqueos tiveram que definir quais ações são boas e quais são más."
+ },
+ {
+  "id": 56,
+  "start": 346.58,
+  "limit": 350.48,
+  "new_start": 350.34291666666644,
+  "dur": 3.581125,
+  "speed": 1.103,
+  "k": 1.0079807692307605,
+  "text_tgt": "Então criaram conjuntos de regras passados de geração em geração."
+ },
+ {
+  "id": 57,
+  "start": 350.48,
+  "limit": 352.96,
+  "new_start": 354.27404166666645,
+  "dur": 1.93,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essas regras se chamam ética."
+ },
+ {
+  "id": 58,
+  "start": 352.96,
+  "limit": 354.46,
+  "new_start": 356.7540416666664,
+  "dur": 1.1818333333333333,
+  "speed": 1.1,
+  "k": 1.021222222222222,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 59,
+  "start": 354.46,
+  "limit": 358.98,
+  "new_start": 358.28587499999975,
+  "dur": 4.1189583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Antes de visitar a Terra, aprenda as regras básicas do bem e do mal."
+ },
+ {
+  "id": 60,
+  "start": 358.98,
+  "limit": 362.98,
+  "new_start": 362.8058749999998,
+  "dur": 4.251833333333333,
+  "speed": 1.35,
+  "k": 1.1504583333333331,
+  "text_tgt": "Até um ato inofensivo, como abduzir uma vaca, é considerado mau e pode te meter em encrenca."
+ },
+ {
+  "id": 61,
+  "start": 362.98,
+  "limit": 367.86,
+  "new_start": 367.4077083333331,
+  "dur": 4.539208333333334,
+  "speed": 1.02,
+  "k": 1.0018869535519135,
+  "text_tgt": "Você não vai querer passar o resto da vida trancado numa instalação secreta do governo."
+ },
+ {
+  "id": 62,
+  "start": 367.86,
+  "limit": 370.9,
+  "new_start": 372.29691666666645,
+  "dur": 2.7800416666666665,
+  "speed": 1.341,
+  "k": 1.029618969298258,
+  "text_tgt": "Como eu disse, a autoconsciência é extremamente desagradável."
+ },
+ {
+  "id": 63,
+  "start": 370.9,
+  "limit": 374.8,
+  "new_start": 375.4269583333331,
+  "dur": 3.5867916666666666,
+  "speed": 1.123,
+  "k": 1.0094337606837518,
+  "text_tgt": "Por isso, os terráqueos tentam calar a autoconsciência a qualquer preço."
+ },
+ {
+  "id": 64,
+  "start": 374.8,
+  "limit": 389.34,
+  "new_start": 379.3637499999998,
+  "dur": 14.206583333333333,
+  "speed": 1.06,
+  "k": 1.0011405318661188,
+  "text_tgt": "Eles se apegam a uma rotina sem decisões éticas, intoxicam o cérebro com drogas, enchem ele de informação inútil, fogem para mundos de ficção e acolhem qualquer autoridade que diga o que é o bem e o mal, mesmo quando o que ela sugere é obviamente prejudicial ao grupo."
+ },
+ {
+  "id": 65,
+  "start": 389.34,
+  "limit": 398.61,
+  "new_start": 393.92033333333313,
+  "dur": 9.003083333333333,
+  "speed": 1.305,
+  "k": 1.0089626033800747,
+  "text_tgt": "Isso leva a situações absurdas, como milhões seguindo um líder religioso que proíbe um contraceptivo que poderia frear uma pandemia perigosa e reduzir a superpopulação e a fome."
+ },
+ {
+  "id": 66,
+  "start": 399.76,
+  "limit": 401.0,
+  "new_start": 404.42341666666647,
+  "dur": 1.0148333333333333,
+  "speed": 1.35,
+  "k": 1.1006720430107446,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 67,
+  "start": 401.0,
+  "limit": 406.12,
+  "new_start": 405.7882499999998,
+  "dur": 4.841541666666667,
+  "speed": 1.262,
+  "k": 1.0139729817708325,
+  "text_tgt": "Um campo de pesquisa interessante é a ética experimental: abduza um terráqueo e coloque ele num dilema moral."
+ },
+ {
+  "id": 68,
+  "start": 406.12,
+  "limit": 410.4,
+  "new_start": 410.9797916666665,
+  "dur": 3.568,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, dar comida a um homem faminto ou a uma mulher sexy."
+ },
+ {
+  "id": 69,
+  "start": 410.4,
+  "limit": 412.73,
+  "new_start": 415.25979166666644,
+  "dur": 2.0109583333333334,
+  "speed": 1.094,
+  "k": 1.0132868383404687,
+  "text_tgt": "Os resultados podem te surpreender."
+ },
+ {
+  "id": 70,
+  "start": 415.86,
+  "limit": 423.48,
+  "new_start": 420.75074999999975,
+  "dur": 6.98,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ações consideradas más costumam incluir matar, tomar terras, estuprar, roubar e mentir, já que são ações que prejudicam o grupo."
+ },
+ {
+  "id": 71,
+  "start": 423.48,
+  "limit": 426.82,
+  "new_start": 428.37074999999976,
+  "dur": 3.0363333333333333,
+  "speed": 1.156,
+  "k": 1.0138722554890296,
+  "text_tgt": "Claro, isso só vale quando as ações atingem membros do grupo."
+ },
+ {
+  "id": 72,
+  "start": 426.82,
+  "limit": 440.12,
+  "new_start": 431.75708333333307,
+  "dur": 12.969291666666667,
+  "speed": 1.074,
+  "k": 1.001450501253132,
+  "text_tgt": "Contra membros de um grupo hostil, os terráqueos usam outros critérios e até outras palavras: nesse caso, matar se chama guerra, estuprar e roubar se chamam espólios de guerra, tomar terras se chama conquista, e mentir se chama diplomacia."
+ },
+ {
+  "id": 73,
+  "start": 440.12,
+  "limit": 444.14,
+  "new_start": 445.07637499999976,
+  "dur": 4.302958333333334,
+  "speed": 1.35,
+  "k": 1.157452321724715,
+  "text_tgt": "Essas ações não só são permitidas como são consideradas boas e honrosas, já que ajudam o grupo."
+ },
+ {
+  "id": 74,
+  "start": 444.14,
+  "limit": 447.24,
+  "new_start": 449.7293333333331,
+  "dur": 2.766166666666667,
+  "speed": 1.052,
+  "k": 1.0052150537634337,
+  "text_tgt": "Claro, o outro grupo considera essas ações más."
+ },
+ {
+  "id": 75,
+  "start": 447.24,
+  "limit": 450.92,
+  "new_start": 452.8454999999998,
+  "dur": 3.3818333333333332,
+  "speed": 1.168,
+  "k": 1.0140851449275343,
+  "text_tgt": "Daí os dois pesos e duas medidas dos terráqueos com grupos hostis."
+ },
+ {
+  "id": 76,
+  "start": 450.92,
+  "limit": 455.06,
+  "new_start": 456.5773333333331,
+  "dur": 3.8318333333333334,
+  "speed": 1.13,
+  "k": 1.010104669887282,
+  "text_tgt": "Pense em duas tribos, a vermelha e a verde, em conflito uma com a outra."
+ },
+ {
+  "id": 77,
+  "start": 455.06,
+  "limit": 459.02,
+  "new_start": 460.75916666666643,
+  "dur": 3.6683333333333334,
+  "speed": 1.194,
+  "k": 1.014730639730645,
+  "text_tgt": "Suponha que os verdes destroem uns prédios da tribo vermelha, matando gente."
+ },
+ {
+  "id": 78,
+  "start": 459.02,
+  "limit": 461.88,
+  "new_start": 464.77749999999975,
+  "dur": 2.55075,
+  "speed": 1.133,
+  "k": 1.014248251748247,
+  "text_tgt": "Isso prejudica a tribo vermelha e ajuda a verde."
+ },
+ {
+  "id": 79,
+  "start": 461.88,
+  "limit": 471.8,
+  "new_start": 467.67824999999976,
+  "dur": 9.618833333333333,
+  "speed": 1.157,
+  "k": 1.0049227150537619,
+  "text_tgt": "Portanto, a ação é má para os vermelhos e boa para os verdes, não por terem éticas diferentes, mas porque \"mau\" quer dizer \"ruim para o meu grupo\", e \"meu grupo\" não é o mesmo para todo mundo."
+ },
+ {
+  "id": 80,
+  "start": 471.8,
+  "limit": 481.3,
+  "new_start": 477.6470833333331,
+  "dur": 9.173458333333333,
+  "speed": 1.078,
+  "k": 1.0024692982456138,
+  "text_tgt": "Agora, se os vermelhos revidam, ou até atacam uma parte da tribo verde que não tinha nada a ver com o ataque, isso é bom para a tribo vermelha e mau para a verde, pelos mesmos motivos."
+ },
+ {
+  "id": 81,
+  "start": 481.3,
+  "limit": 485.1,
+  "new_start": 487.17054166666645,
+  "dur": 3.21,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Portanto, cada tribo vai achar que a outra é que é má."
+ },
+ {
+  "id": 82,
+  "start": 485.1,
+  "limit": 494.84,
+  "new_start": 490.97054166666646,
+  "dur": 9.415583333333334,
+  "speed": 1.078,
+  "k": 1.0026266255989098,
+  "text_tgt": "Agora, se cada lado define que matar mocinhos é mau, mas matar vilões é bom, entramos num ciclo estranho em que a definição de \"mocinhos\" e \"vilões\" de cada tribo se baseia nela mesma."
+ },
+ {
+  "id": 83,
+  "start": 494.84,
+  "limit": 500.2,
+  "new_start": 500.7361249999998,
+  "dur": 4.9779583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os mocinhos são bons porque matam os vilões, e os vilões são maus porque matam os mocinhos."
+ },
+ {
+  "id": 84,
+  "start": 500.2,
+  "limit": 507.3,
+  "new_start": 506.0961249999998,
+  "dur": 6.777125,
+  "speed": 1.086,
+  "k": 1.003820422535208,
+  "text_tgt": "Se as tribos têm sistemas éticos diferentes, piora, porque cada uma usa a própria ética para julgar a ética da outra."
+ },
+ {
+  "id": 85,
+  "start": 507.3,
+  "limit": 513.78,
+  "new_start": 513.2232499999998,
+  "dur": 6.137166666666666,
+  "speed": 1.028,
+  "k": 1.0011059670781952,
+  "text_tgt": "Talvez a tribo vermelha diga que a verde não respeita a liberdade, e a verde diga que a vermelha não tem honra."
+ },
+ {
+  "id": 86,
+  "start": 513.78,
+  "limit": 522.16,
+  "new_start": 519.7104166666664,
+  "dur": 8.104666666666667,
+  "speed": 1.261,
+  "k": 1.0089101034208439,
+  "text_tgt": "É como a briga entre a jarda de Andrômeda e o metro de Centauro: os andromedanos acham o metro de Centauro comprido demais, e os centaurianos dizem que a jarda de Andrômeda é curta demais."
+ },
+ {
+  "id": 87,
+  "start": 522.16,
+  "limit": 527.76,
+  "new_start": 528.1650833333331,
+  "dur": 5.303208333333333,
+  "speed": 1.184,
+  "k": 1.009501488095234,
+  "text_tgt": "Só que, na Terra, não existe uma burocracia central para impor um sistema de medidas que todo mundo deteste por igual."
+ },
+ {
+  "id": 88,
+  "start": 527.76,
+  "limit": 534.32,
+  "new_start": 533.8182916666664,
+  "dur": 6.240916666666666,
+  "speed": 1.104,
+  "k": 1.0047129065040559,
+  "text_tgt": "Então, no fundo, o bem e o mal são uma questão de ética dentro do grupo, mas uma questão de lado entre grupos hostis."
+ },
+ {
+  "id": 89,
+  "start": 534.32,
+  "limit": 539.68,
+  "new_start": 540.409208333333,
+  "dur": 5.041,
+  "speed": 1.097,
+  "k": 1.005783582089571,
+  "text_tgt": "É por isso que um terráqueo é criminoso se mata o vizinho, mas herói se mata mil inimigos."
+ },
+ {
+  "id": 90,
+  "start": 539.68,
+  "limit": 543.76,
+  "new_start": 545.800208333333,
+  "dur": 3.809125,
+  "speed": 1.289,
+  "k": 1.0193933823529309,
+  "text_tgt": "Nenhuma outra espécie do planeta despovoou continentes inteiros com tanta crueldade."
+ },
+ {
+  "id": 91,
+  "start": 543.76,
+  "limit": 546.06,
+  "new_start": 549.959333333333,
+  "dur": 1.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Exceto os micróbios."
+ },
+ {
+  "id": 92,
+  "start": 548.92,
+  "limit": 556.84,
+  "new_start": 555.119333333333,
+  "dur": 7.6414583333333335,
+  "speed": 1.255,
+  "k": 1.0090225168350075,
+  "text_tgt": "Aliás, se você perguntar a um terráqueo quem foram os maiores malfeitores da história humana, ele provavelmente vai citar terráqueos que mataram muita gente da própria tribo ou país."
+ },
+ {
+  "id": 93,
+  "start": 556.84,
+  "limit": 559.16,
+  "new_start": 563.1107916666663,
+  "dur": 2.010625,
+  "speed": 1.129,
+  "k": 1.017510775862097,
+  "text_tgt": "É o que os terráqueos chamam de assassino em massa."
+ },
+ {
+  "id": 94,
+  "start": 559.16,
+  "limit": 564.24,
+  "new_start": 565.4714166666663,
+  "dur": 5.628875,
+  "speed": 1.35,
+  "k": 1.1769438976377857,
+  "text_tgt": "Terráqueos que mataram muita gente de outras tribos ou países são venerados como \"grandes homens\", mesmo séculos após a morte."
+ },
+ {
+  "id": 95,
+  "start": 564.24,
+  "limit": 568.6,
+  "new_start": 571.4502916666663,
+  "dur": 4.089791666666667,
+  "speed": 1.303,
+  "k": 1.01830084097859,
+  "text_tgt": "Isso nem é ilógico: é consequência da definição \"o mal é o que prejudica o meu grupo\"."
+ },
+ {
+  "id": 96,
+  "start": 569.58,
+  "limit": 570.96,
+  "new_start": 576.870083333333,
+  "dur": 1.0995,
+  "speed": 1.246,
+  "k": 1.0503623188405833,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 97,
+  "start": 570.96,
+  "limit": 575.46,
+  "new_start": 578.319583333333,
+  "dur": 4.227083333333334,
+  "speed": 1.277,
+  "k": 1.0171296296296297,
+  "text_tgt": "Ao atacar a Terra, não conte com os conflitos dos terráqueos para jogá-los uns contra os outros."
+ },
+ {
+  "id": 98,
+  "start": 575.46,
+  "limit": 582.22,
+  "new_start": 582.8966666666663,
+  "dur": 6.437708333333333,
+  "speed": 1.092,
+  "k": 1.0040988658777132,
+  "text_tgt": "Você não faz parte de nenhum grupo terráqueo, então eles vão te considerar mau, e até inimigos jurados podem se unir contra você."
+ },
+ {
+  "id": 99,
+  "start": 582.22,
+  "limit": 585.86,
+  "new_start": 589.6843749999996,
+  "dur": 3.313833333333333,
+  "speed": 1.077,
+  "k": 1.0065476190476228,
+  "text_tgt": "Na realidade, a ética é bem mais complexa do que descrevi."
+ },
+ {
+  "id": 100,
+  "start": 585.86,
+  "limit": 591.32,
+  "new_start": 593.3482083333329,
+  "dur": 5.962958333333333,
+  "speed": 1.35,
+  "k": 1.1562194749694672,
+  "text_tgt": "Os terráqueos costumam pertencer a vários grupos aninhados ou sobrepostos, com conflitos entre grupos e códigos éticos variados."
+ },
+ {
+  "id": 101,
+  "start": 591.32,
+  "limit": 595.7,
+  "new_start": 599.6611666666662,
+  "dur": 4.089791666666667,
+  "speed": 1.203,
+  "k": 1.0136510654490116,
+  "text_tgt": "A dinâmica ética resultante é o que torna a ética humana tão complicada."
+ },
+ {
+  "id": 102,
+  "start": 595.7,
+  "limit": 602.82,
+  "new_start": 604.1009583333329,
+  "dur": 6.815791666666667,
+  "speed": 1.14,
+  "k": 1.0064314138576773,
+  "text_tgt": "Mas até os sistemas éticos mais complexos se resumem a um princípio básico: o bem é o que ajuda o grupo, o mal é o que prejudica o grupo."
+ },
+ {
+  "id": 103,
+  "start": 602.82,
+  "limit": 608.6,
+  "new_start": 611.2667499999995,
+  "dur": 5.517458333333333,
+  "speed": 1.343,
+  "k": 1.0151311995386436,
+  "text_tgt": "Esses sistemas evoluíram porque uma ética que apoia o grupo ajuda o grupo a sobreviver, crescer e espalhar o código genético."
+ },
+ {
+  "id": 104,
+  "start": 608.6,
+  "limit": 616.02,
+  "new_start": 617.1342083333329,
+  "dur": 7.115833333333334,
+  "speed": 1.148,
+  "k": 1.006176999101533,
+  "text_tgt": "Então, como quase tudo na sociedade humana, o bem e o mal se resumem ao nosso velho amigo, o imperativo genético: espalhar o código."
+ },
+ {
+  "id": 105,
+  "start": 616.02,
+  "limit": 622.5,
+  "new_start": 624.6000416666662,
+  "dur": 6.199541666666667,
+  "speed": 1.258,
+  "k": 1.0107317386831247,
+  "text_tgt": "No próximo episódio, vamos falar de jogos, sonhos e ficção, e por que todos servem ao mesmo propósito: aprender a sobreviver."
+ },
+ {
+  "id": 106,
+  "start": 622.5,
+  "limit": 623.96,
+  "new_start": 631.1495833333329,
+  "dur": 1.121875,
+  "speed": 1.034,
+  "k": 1.0081335616438103,
+  "text_tgt": "Obrigado por assistir!"
+ }
+]

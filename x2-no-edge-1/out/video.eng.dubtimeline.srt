@@ -1,0 +1,472 @@
+1
+00:00:00,000 --> 00:00:02,265
+Greetings, aliens and earthlings!
+
+2
+00:00:02,660 --> 00:00:13,866
+This is not an episode of Earthlings 101, your crash course for alien visitors, but a series of three shorter videos about something that seems to confuse earthlings and aliens alike: The shape of the universe.
+
+3
+00:00:43,047 --> 00:00:45,487
+Most earthlings and aliens don't understand space.
+
+4
+00:00:45,927 --> 00:00:47,367
+It's not what they think it is.
+
+5
+00:00:47,807 --> 00:00:50,530
+People assume that the universe is infinite and flat.
+
+6
+00:00:50,870 --> 00:00:57,267
+But actually, from a non-Euclidean, non-local viewpoint, it's more like a big ball of wibbly wobbly, spacey wacey stuff.
+
+7
+00:00:57,570 --> 00:01:01,570
+And the shape of this big ball - that's what this three-part series is all about.
+
+8
+00:01:02,050 --> 00:01:06,990
+When we talk about "shape", we are basically talking about two things: Topology and Geometry.
+
+9
+00:01:07,450 --> 00:01:11,875
+Geometry is all about distances, angles, areas and so on.
+
+10
+00:01:12,439 --> 00:01:17,620
+Topology doesn't care about exact angles and distances - it's about which zones are next to each other.
+
+11
+00:01:18,042 --> 00:01:26,929
+For example, when you deform a square, you change the geometry, but not the topology, as long as you don't rip it apart, create holes, or glue parts together.
+
+12
+00:01:26,929 --> 00:01:34,576
+For the sake of simplicity, let's neglect the expansion of the universe and only consider a "snapshot" of the universe, i.e. a slice of space time.
+
+13
+00:01:35,297 --> 00:01:39,197
+Unfortunately, I don't know with certitude what the actual shape of this slice is.
+
+14
+00:01:39,557 --> 00:01:44,542
+All research on cosmo-topology is classified as "secret of defense" by the Central Galactic Bureaucracy.
+
+15
+00:01:44,884 --> 00:01:49,217
+So, I can only discuss hypotheses - different possible models of the universe.
+
+16
+00:01:49,622 --> 00:01:54,055
+Basically there are three kinds of models: Spherical, flat, and hyperbolical.
+
+17
+00:01:54,336 --> 00:01:56,266
+Today we will talk about flat models.
+
+18
+00:01:56,693 --> 00:02:00,413
+Flat or not - there are a lot of misconceptions about the universe around.
+
+19
+00:02:09,393 --> 00:02:10,493
+No, Hank!
+
+20
+00:02:10,873 --> 00:02:15,293
+A finite universe, and a universe with an edge, are two wholly different things.
+
+21
+00:02:24,073 --> 00:02:25,413
+No, Gorf.
+
+22
+00:02:25,573 --> 00:02:29,470
+"Curved space" doesn't mean that the universe curves through an embedding hyperspace.
+
+23
+00:02:29,470 --> 00:02:33,070
+It only means that the laws of geometry are not what you would expect.
+
+24
+00:02:39,970 --> 00:02:42,848
+It doesn't expand into anything - it just expands.
+
+25
+00:02:59,953 --> 00:03:00,845
+No, Derek.
+
+26
+00:03:01,170 --> 00:03:06,186
+A flat universe isn't necessarily infinite, and can contain straight lines that lead back to their origin.
+
+27
+00:03:15,469 --> 00:03:16,669
+To be honest...
+
+28
+00:03:17,089 --> 00:03:18,269
+That's just stupid.
+
+29
+00:03:19,589 --> 00:03:22,669
+So, what does "finite universe" mean, anyway?
+
+30
+00:03:22,949 --> 00:03:25,282
+It means that the universe has finite volume.
+
+31
+00:03:25,282 --> 00:03:30,060
+In other words, you'd need only a finite amount of hydric acid to inundate the whole universe.
+
+32
+00:03:31,128 --> 00:03:39,248
+"No edge", on the other hand, means that when you explore the universe, you won't suddenly run into a wall of nothingness - an edge.
+
+33
+00:03:39,928 --> 00:03:41,075
+But isn't that the same?
+
+34
+00:03:41,409 --> 00:03:47,188
+When there is no edge, you can just fly on and on, and boldly go where no man or alien has gone before.
+
+35
+00:03:47,554 --> 00:03:52,233
+And when you do so, you see more and more volume, so the total volume must be infinite...
+
+36
+00:03:52,596 --> 00:03:53,036
+Right?
+
+37
+00:03:55,836 --> 00:03:56,357
+Wrong.
+
+38
+00:03:56,899 --> 00:04:03,199
+Because when you fly on long enough, you might eventually find yourself in known space - you might even return to your home planet.
+
+39
+00:04:03,599 --> 00:04:06,069
+In other words, space may bend into itself.
+
+40
+00:04:06,777 --> 00:04:10,137
+To understand this, let's look what happens in two dimensions.
+
+41
+00:04:10,817 --> 00:04:16,180
+Like many alien races, Earthlings have gone through a stage in history when they wondered about the shape of their planet's surface.
+
+42
+00:04:16,683 --> 00:04:20,483
+Some imagined an infinite surface, whereas others believed the surface had an edge.
+
+43
+00:04:21,563 --> 00:04:23,640
+Eventually they found out that both were wrong.
+
+44
+00:04:24,035 --> 00:04:32,375
+There is no edge, but the surface is finite: When you sail away into one direction and keep sailing in a straight line, you will eventually come back to where you came from.
+
+45
+00:04:33,635 --> 00:04:36,435
+The reason is, of course, that earth is a sphere.
+
+46
+00:04:37,115 --> 00:04:41,013
+Finite surfaces without edge can easily be understood by 3 dimensional beings.
+
+47
+00:04:41,440 --> 00:04:46,000
+But how would you explain them to two-dimensional creatures, like the Flatsnails from Regulus three?
+
+48
+00:04:47,560 --> 00:04:51,710
+Flatsnails can only think in two dimensions, but they have a highly developed portal technology.
+
+49
+00:04:52,101 --> 00:04:59,121
+A Flatsnail portal alters the topology of a surface by glueing different parts of a surface together - for example two opposing sides of a square.
+
+50
+00:04:59,601 --> 00:05:04,821
+When a Flatsnail leaves the rectangle on one side, she enters on the other side - like in a video game.
+
+51
+00:05:05,701 --> 00:05:07,961
+Topologically, this is the same thing as a cylinder.
+
+52
+00:05:08,461 --> 00:05:10,670
+Let's call it a video game cylinder.
+
+53
+00:05:10,670 --> 00:05:13,550
+What would a video game cylinder look like from the interior?
+
+54
+00:05:14,870 --> 00:05:19,984
+Flatsnails can't see very far, but if they could, they would see an endless series of images of the same space.
+
+55
+00:05:20,420 --> 00:05:23,344
+A bit like what you see when you stand between two parallel mirrors.
+
+56
+00:05:24,024 --> 00:05:27,644
+What happens when you glue the other two sides of the square together, as well?
+
+57
+00:05:27,964 --> 00:05:30,776
+Now you have the loopy video game effect in two directions.
+
+58
+00:05:31,417 --> 00:05:35,064
+A farsighted Flatsnail inside would see her own image repeated in a grid pattern.
+
+59
+00:05:35,750 --> 00:05:38,753
+Topologically, this is a torus - the surface of a donut.
+
+60
+00:05:39,261 --> 00:05:42,961
+So, let's call the double-loopy rectangle "video game torus".
+
+61
+00:05:43,188 --> 00:05:47,656
+The important point is that you don't need the third dimension to define a cylinder or a torus.
+
+62
+00:05:47,999 --> 00:05:50,739
+All you need is portals, to glue the edges together.
+
+63
+00:05:50,979 --> 00:05:57,205
+And once the glueing is done, you can forget about the portals and just enjoy your seamless yet loopy video game environment.
+
+64
+00:05:57,506 --> 00:06:05,106
+A Flatsnail that grew up on this torus would be used to the fact that she lives on a flat, finite, somewhat loopy surface, without edge.
+
+65
+00:06:05,566 --> 00:06:09,965
+No need for portals or bendy space, not to mention this esoterical "third dimension".
+
+66
+00:06:10,983 --> 00:06:13,128
+But what about the universe we live in ?
+
+67
+00:06:13,443 --> 00:06:17,129
+Is it so unthinkable that our universe is similar - only in three dimensions?
+
+68
+00:06:17,514 --> 00:06:18,461
+Why shouldn't it?
+
+69
+00:06:18,729 --> 00:06:25,259
+Is there any reason why the universe has to be either a Euclidean space, or embedded in a higher dimensional Euclidean hyperspace?
+
+70
+00:06:25,604 --> 00:06:26,970
+But back to two dimensions.
+
+71
+00:06:27,570 --> 00:06:30,414
+Let's toy around some more with surfaces and portals.
+
+72
+00:06:30,680 --> 00:06:35,700
+For example, what happens when we glue together two sides of a rectangle, but with flipped directions?
+
+73
+00:06:36,140 --> 00:06:40,837
+Well, we get a Moebius strip - a surface where each round trip makes you flip orientation.
+
+74
+00:06:41,223 --> 00:06:44,443
+When you glue the other pair without flipping, you get a Klein bottle.
+
+75
+00:06:45,563 --> 00:06:49,203
+When you flip both pairs, you get something called Projective Plane.
+
+76
+00:06:50,063 --> 00:06:52,743
+Now, we are not limited to rectangles, though.
+
+77
+00:06:53,003 --> 00:06:57,163
+We can, for example, take a parallelogram and glue opposing edges together.
+
+78
+00:06:57,783 --> 00:07:01,452
+Geometrically this is a skewed torus, topologically it's the same thing.
+
+79
+00:07:01,769 --> 00:07:05,509
+A Flatsnail sitting inside would see herself repeated in a skewed grid pattern.
+
+80
+00:07:06,229 --> 00:07:10,123
+What happens if you take a hexagon and glue opposing sides together without flipping?
+
+81
+00:07:10,468 --> 00:07:14,128
+Well, a flatsnail inside would see herself in the same pattern as before.
+
+82
+00:07:14,528 --> 00:07:17,941
+So this is just another way to construct the same skewed torus.
+
+83
+00:07:18,543 --> 00:07:20,783
+Let's go back to the video game torus.
+
+84
+00:07:21,143 --> 00:07:24,010
+Can't we do a similar construction in three-dimensional space?
+
+85
+00:07:24,317 --> 00:07:25,437
+Of course we can.
+
+86
+00:07:25,777 --> 00:07:31,411
+All we have to do is take a cuboid in space, and link opposing sides with portals without twisting anything.
+
+87
+00:07:31,713 --> 00:07:40,667
+If some spacefarer happens to be trapped inside, he will find himself in a three dimensional video game space where he comes back to his origin when he flies long enough along one of the axis.
+
+88
+00:07:41,372 --> 00:07:46,652
+He won't even notice the portals - he would just experience a universe that somehow repeats itself.
+
+89
+00:07:46,652 --> 00:07:47,912
+This is called a hyper-torus.
+
+90
+00:07:49,772 --> 00:07:57,212
+Just like our video game torus, the hypertorus is "flat", which means that the rules of school geometry still hold for very large objects.
+
+91
+00:07:57,712 --> 00:08:00,612
+In part 2 we will define more precisely what this means.
+
+92
+00:08:01,332 --> 00:08:02,990
+Did you see what we just did?
+
+93
+00:08:03,154 --> 00:08:06,905
+We constructed a flat universe, with finite volume, but no edge.
+
+94
+00:08:07,328 --> 00:08:09,421
+Something Hank and Derek thought was impossible.
+
+95
+00:08:09,902 --> 00:08:17,622
+Such a universe looks exactly like infinite flat three-dimensional space, except that it repeats itself like a hotel wallpaper - in three directions.
+
+96
+00:08:17,982 --> 00:08:22,366
+Some earthling scientists think that the hyper-torus is a possible shape of the universe.
+
+97
+00:08:25,408 --> 00:08:27,148
+Yes Earthling, no edge.
+
+98
+00:08:28,408 --> 00:08:31,268
+But the hypertorus is not the only flat finite model.
+
+99
+00:08:31,688 --> 00:08:35,693
+For example, you can obtain another model by turning the top portal by 90°.
+
+100
+00:08:36,095 --> 00:08:38,475
+This is called the "quarter-turn manifold".
+
+101
+00:08:38,855 --> 00:08:44,055
+A third variant is the "half-turn manifold", obtained by turning the top portal by 180°.
+
+102
+00:08:45,255 --> 00:08:47,985
+Remember how we constructed a torus with a honeycomb pattern?
+
+103
+00:08:48,252 --> 00:08:50,959
+You can do the same with a hexagonal prism to get the hypertorus.
+
+104
+00:08:51,723 --> 00:09:00,663
+Now, when you rotate the top gate by 60° to get the "one-sixth turn manifold", or by 120° to obtain the "one-third turn manifold".
+
+105
+00:09:01,023 --> 00:09:07,233
+There are overall 10 models for a finite closed flat universe - 6 orientable and 4 non-orientable ones.
+
+106
+00:09:07,555 --> 00:09:09,286
+What does "non-orientable" mean?
+
+107
+00:09:09,536 --> 00:09:14,501
+It means that the universe is like a moebius strip: When you make a round trip, you might come home mirror-inverted.
+
+108
+00:09:15,401 --> 00:09:17,329
+This is called an Alice Universe.
+
+109
+00:09:17,329 --> 00:09:19,209
+For you, your planet will be mirror-inverted.
+
+110
+00:09:20,289 --> 00:09:26,049
+Also, as electrical charge is a matter of orientation, the planet and everything on it will consist of antimatter.
+
+111
+00:09:28,989 --> 00:09:33,111
+But the ten finite, closed, flat models are not the only possibilities.
+
+112
+00:09:33,417 --> 00:09:39,272
+In part two and three we will see other, curved models for the universe, like the Hyper-sphere or the Poincaré space.
+
+113
+00:09:39,573 --> 00:09:43,165
+We will also talk about evidence that may help finding out which model is correct.
+
+114
+00:09:43,652 --> 00:09:46,772
+Of course, the crash course for alien visitors continues.
+
+115
+00:09:46,772 --> 00:09:54,397
+What do you think: Should I alternate between the Crash Course and No Edge episodes, or rather finish this mini-series and then continue the crash course?
+
+116
+00:09:54,719 --> 00:09:59,779
+Tell me your preference in the comments below, or on my Twitter account, or my Facebook page.
+
+117
+00:10:00,219 --> 00:10:01,219
+Thanks for watching.
+
+118
+00:10:01,698 --> 00:10:09,480
+Like if you enjoyed it, share if you really enjoyed it, subscribe if you don't want to miss my next videos, and as always: Don't forget to be alien.
+

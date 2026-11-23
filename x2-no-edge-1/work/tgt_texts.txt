@@ -1,0 +1,118 @@
+Saudações, alienígenas e terráqueos!
+Este não é um episódio de Terráqueos 101, seu curso intensivo para visitantes alienígenas, mas uma série de três vídeos curtos sobre algo que confunde terráqueos e alienígenas: a forma do universo.
+A maioria não entende o espaço.
+Ele não é o que pensam.
+Todos acham que o universo é infinito e plano.
+Mas, de um ponto de vista não euclidiano e não local, ele é mais uma grande bola de troço espacial, meio mole, meio torto.
+E a forma dessa grande bola é o tema desta série em três partes.
+Quando falamos de forma, falamos de duas coisas: topologia e geometria.
+Geometria trata de distâncias, ângulos, áreas e assim por diante.
+A topologia não liga para ângulos e distâncias exatos, só para quais regiões são vizinhas.
+Por exemplo, ao deformar um quadrado, você muda a geometria, mas não a topologia, desde que não rasgue, não faça furos nem cole partes.
+Para simplificar, vamos ignorar a expansão do universo e olhar só um instantâneo dele, ou seja, uma fatia do espaço-tempo.
+Infelizmente, não sei ao certo qual é a forma dessa fatia.
+Toda pesquisa em cosmotopologia é segredo de defesa da Burocracia Galáctica Central.
+Então, só posso discutir hipóteses, diferentes modelos possíveis do universo.
+Há basicamente três tipos: esféricos, planos e hiperbólicos.
+Hoje vamos falar dos modelos planos.
+Plano ou não, há muitos equívocos por aí sobre o universo.
+Não, Hank!
+Um universo finito e um universo com borda são coisas bem diferentes.
+Não, Gorf.
+Espaço curvo não quer dizer que o universo se curva num hiperespaço externo.
+Só quer dizer que as leis da geometria não são as que você espera.
+Ele não se expande rumo a lugar nenhum, só se expande.
+Não, Derek.
+Um universo plano não é necessariamente infinito, e pode ter retas que voltam à origem.
+Para ser sincero...
+Isso é uma tremenda burrice.
+Então, o que é um universo finito, afinal?
+É um universo com volume finito.
+Ou seja, bastaria uma quantidade finita de ácido hidroxílico para inundar o universo todo.
+Já sem borda quer dizer que, ao explorar o universo, você não vai, de repente, bater num muro com o nada do outro lado.
+Mas não é a mesma coisa?
+Sem borda, dá para voar sem parar, audaciosamente indo onde nenhum homem ou alienígena jamais esteve.
+E, fazendo isso, você vê cada vez mais volume, então o volume total deve ser infinito...
+Certo?
+Errado.
+Porque, voando por tempo suficiente, você pode acabar em espaço conhecido, e até voltar ao seu planeta.
+Ou seja, o espaço pode se dobrar sobre si mesmo.
+Para entender isso, vejamos o que acontece em duas dimensões.
+Como muitas raças alienígenas, os terráqueos já se perguntaram qual era a forma da superfície do planeta.
+Uns imaginavam uma superfície infinita, outros achavam que ela tinha borda.
+No fim, descobriram que ambos estavam errados.
+Não há borda, mas a superfície é finita: zarpando numa direção e seguindo em linha reta, você acaba voltando ao ponto de partida.
+O motivo, claro, é que a Terra é uma esfera.
+Seres tridimensionais entendem fácil superfícies finitas sem borda.
+Mas como explicar isso a seres bidimensionais, como as lesmas planas de Régulus 3?
+Lesmas planas só pensam em duas dimensões, mas têm uma tecnologia de portais muito avançada.
+Um portal delas muda a topologia de uma superfície colando partes diferentes, por exemplo dois lados opostos de um quadrado.
+Quando uma lesma sai do retângulo por um lado, entra pelo outro, como num videogame.
+Topologicamente, isso é um cilindro.
+Vamos chamá-lo de cilindro de videogame.
+Como seria um cilindro de videogame visto de dentro?
+Lesmas planas não enxergam longe, mas, se enxergassem, veriam uma série infinita de imagens do mesmo espaço.
+Algo como o que você vê entre dois espelhos paralelos.
+E se colarmos também os outros dois lados do quadrado?
+Agora o efeito de videogame vale em duas direções.
+Uma lesma de vista boa lá dentro veria a própria imagem repetida numa grade.
+Topologicamente, isso é um toro, a superfície de uma rosquinha.
+Então, vamos chamar esse retângulo duplamente enrolado de toro de videogame.
+O importante é que não é preciso uma terceira dimensão para definir um cilindro ou um toro.
+Basta ter portais para colar as bordas.
+E, depois de colar, dá para esquecer os portais e curtir um ambiente de videogame contínuo, mas que dá voltas.
+Uma lesma criada nesse toro estaria acostumada a viver numa superfície plana, finita, meio enrolada e sem borda.
+Sem precisar de portais nem de espaço dobrado, sem falar nessa tal terceira dimensão esotérica.
+Mas e o universo em que vivemos?
+É tão impensável que ele seja parecido, só que em três dimensões?
+Por que não seria?
+Existe algum motivo para o universo ter que ser um espaço euclidiano ou estar num hiperespaço euclidiano de mais dimensões?
+Mas voltemos às duas dimensões.
+Vamos brincar mais um pouco com superfícies e portais.
+Por exemplo, e se colarmos dois lados de um retângulo, mas com as direções invertidas?
+Bom, temos uma faixa de Möbius, uma superfície em que cada volta inverte sua orientação.
+Colando o outro par sem inverter, temos uma garrafa de Klein.
+Invertendo os dois pares, temos o chamado plano projetivo.
+Mas não estamos limitados a retângulos.
+Podemos, por exemplo, pegar um paralelogramo e colar as bordas opostas.
+Geometricamente, isso é um toro inclinado; topologicamente, é a mesma coisa.
+Uma lesma lá dentro se veria repetida numa grade inclinada.
+E se pegarmos um hexágono e colarmos os lados opostos sem inverter?
+Bom, a lesma lá dentro se veria no mesmo padrão de antes.
+Então é só outro jeito de construir o mesmo toro inclinado.
+Voltemos ao toro de videogame.
+Dá para fazer algo parecido no espaço tridimensional?
+Claro que dá.
+Basta pegar um paralelepípedo no espaço e ligar os lados opostos com portais, sem torcer nada.
+Se um viajante espacial ficar preso lá dentro, estará num espaço de videogame tridimensional, onde volta à origem se voar o bastante ao longo de um dos eixos.
+Ele nem vai notar os portais, só vai ver um universo que, de algum jeito, se repete.
+Isso se chama hipertoro.
+Como o toro de videogame, o hipertoro é plano: as regras da geometria escolar valem mesmo para objetos enormes.
+Na parte 2, vamos definir isso melhor.
+Viram o que acabamos de fazer?
+Construímos um universo plano, com volume finito, mas sem borda.
+Algo que Hank e Derek achavam impossível.
+Esse universo parece um espaço plano infinito, só que se repete como papel de parede de hotel, em três direções.
+Alguns cientistas terráqueos acham que o hipertoro é uma forma possível do universo.
+Sim, terráqueo, sem borda.
+Mas o hipertoro não é o único modelo plano finito.
+Por exemplo, girando o portal de cima em 90°, temos outro modelo.
+Ele se chama variedade de um quarto de volta.
+Uma terceira variante é a variedade de meia volta, girando o portal de cima em 180°.
+Lembra como construímos um toro com padrão de colmeia?
+Dá para fazer o mesmo com um prisma hexagonal e obter o hipertoro.
+E agora, girando o portal de cima em 60°, temos a variedade de um sexto de volta, ou em 120°, a variedade de um terço de volta.
+No total, há 10 modelos de universo plano, finito e fechado: 6 orientáveis e 4 não orientáveis.
+O que quer dizer não orientável?
+Quer dizer que o universo é como uma faixa de Möbius: ao dar uma volta, você pode chegar em casa espelhado.
+Isso se chama Universo de Alice.
+Para você, seu planeta estará espelhado.
+E, como a carga elétrica é questão de orientação, o planeta e tudo nele será de antimatéria.
+Mas esses dez modelos planos, finitos e fechados não são as únicas possibilidades.
+Nas partes 2 e 3, veremos outros modelos, curvos, como a hiperesfera e o espaço de Poincaré.
+Também vamos falar das evidências que podem ajudar a descobrir qual modelo é o certo.
+Claro, o curso intensivo para visitantes alienígenas continua.
+O que vocês acham: devo alternar entre o curso intensivo e os episódios de Sem Borda, ou terminar esta minissérie e depois voltar ao curso?
+Digam nos comentários, no meu Twitter ou na minha página do Facebook.
+Obrigado por assistir.
+Curta se gostou, compartilhe se gostou muito, inscreva-se para não perder os próximos vídeos e, como sempre: não se esqueça de ser alienígena.

@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.78,
+  "new_start": 0.0,
+  "dur": 2.502,
+  "speed": 1.259,
+  "k": 1.0258992805755396,
+  "text_tgt": "Bem-vindo ao segundo episódio de Terráqueos 101."
+ },
+ {
+  "id": 2,
+  "start": 2.78,
+  "limit": 5.62,
+  "new_start": 2.852,
+  "dur": 2.538708333333333,
+  "speed": 1.162,
+  "k": 1.017150821596244,
+  "text_tgt": "Hoje você vai aprender sobre a origem da vida na Terra."
+ },
+ {
+  "id": 3,
+  "start": 5.62,
+  "limit": 9.24,
+  "new_start": 5.740708333333333,
+  "dur": 3.353625,
+  "speed": 1.312,
+  "k": 1.0231008287292818,
+  "text_tgt": "A maioria dos terráqueos acha que a vida deles surgiu nos oceanos da Terra jovem."
+ },
+ {
+  "id": 4,
+  "start": 9.24,
+  "limit": 13.8,
+  "new_start": 9.444333333333333,
+  "dur": 4.250208333333333,
+  "speed": 1.127,
+  "k": 1.0088176169590641,
+  "text_tgt": "Mas, na verdade, ela veio do espaço, num míssil perdido da Guerra das Lulas."
+ },
+ {
+  "id": 5,
+  "start": 48.14,
+  "limit": 54.28,
+  "new_start": 48.38454166666667,
+  "dur": 5.833333333333333,
+  "speed": 1.14,
+  "k": 1.0070575461454938,
+  "text_tgt": "O míssil que caiu nos oceanos da Terra jovem não levava carga explosiva, nuclear nem de colapso quântico."
+ },
+ {
+  "id": 6,
+  "start": 54.28,
+  "limit": 62.46,
+  "new_start": 54.567875,
+  "dur": 7.868416666666667,
+  "speed": 1.117,
+  "k": 1.00469641401793,
+  "text_tgt": "A carga era de dois milhões de exemplares de uma nanoarma simples, à base de carbono e autorreplicante, uma variante primitiva da temida gosma cinza."
+ },
+ {
+  "id": 7,
+  "start": 62.46,
+  "limit": 69.62,
+  "new_start": 62.78629166666667,
+  "dur": 6.850875,
+  "speed": 1.14,
+  "k": 1.005708798882681,
+  "text_tgt": "Aliás, os terráqueos chamariam isso de arma biológica, ou forma de vida artificial, mas só porque a vida na Terra veio dessa arma."
+ },
+ {
+  "id": 8,
+  "start": 69.62,
+  "limit": 72.92,
+  "new_start": 69.98716666666667,
+  "dur": 3.0328333333333335,
+  "speed": 1.309,
+  "k": 1.025101010101011,
+  "text_tgt": "Você deve lembrar da Guerra das Lulas das primeiras aulas de história."
+ },
+ {
+  "id": 9,
+  "start": 72.92,
+  "limit": 79.34,
+  "new_start": 73.37,
+  "dur": 6.592583333333334,
+  "speed": 1.35,
+  "k": 1.0813992731048803,
+  "text_tgt": "Foi uma guerra impiedosa entre o então Domínio de Andrômeda e o antigo Reino das Lulas, travada com todos os meios autorizados pela burocracia central."
+ },
+ {
+  "id": 10,
+  "start": 79.34,
+  "limit": 91.04,
+  "new_start": 80.31258333333334,
+  "dur": 10.84,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O Domínio acabou esmagando as Lulas, mas o pedido de vitória foi negado pela burocracia, porque faltou explicar um dos três milhões de mísseis planetários disparados na guerra: justamente o que veio parar na Terra."
+ },
+ {
+  "id": 11,
+  "start": 91.04,
+  "limit": 93.3,
+  "new_start": 92.01258333333334,
+  "dur": 1.9985,
+  "speed": 1.336,
+  "k": 1.0391592920354025,
+  "text_tgt": "A arma biológica era à base de carbono."
+ },
+ {
+  "id": 12,
+  "start": 93.3,
+  "limit": 99.78,
+  "new_start": 94.36108333333334,
+  "dur": 6.201125,
+  "speed": 1.253,
+  "k": 1.010976080246913,
+  "text_tgt": "Quase todo nanolaboratório usa carbono para criar formas de vida artificiais, porque o átomo de carbono é o bloco de montar ideal."
+ },
+ {
+  "id": 13,
+  "start": 99.78,
+  "limit": 104.88,
+  "new_start": 100.91220833333334,
+  "dur": 4.8205,
+  "speed": 1.259,
+  "k": 1.0138235294117657,
+  "text_tgt": "Veja: as ligações que um átomo faz dependem dos elétrons e das vagas livres na sua camada externa."
+ },
+ {
+  "id": 14,
+  "start": 104.88,
+  "limit": 111.82,
+  "new_start": 106.08270833333334,
+  "dur": 6.613791666666667,
+  "speed": 1.072,
+  "k": 1.0034281940441885,
+  "text_tgt": "Uma ligação covalente é um acordo de troca de elétrons entre dois átomos: eu ponho um elétron na sua vaga, você põe um na minha."
+ },
+ {
+  "id": 15,
+  "start": 111.82,
+  "limit": 118.58,
+  "new_start": 113.04650000000001,
+  "dur": 6.4158333333333335,
+  "speed": 1.01,
+  "k": 1.0008629191321492,
+  "text_tgt": "Então, o flúor faz uma ligação, o oxigênio faz duas, o nitrogênio faz três, o carbono faz quatro."
+ },
+ {
+  "id": 16,
+  "start": 118.58,
+  "limit": 125.18,
+  "new_start": 119.81233333333334,
+  "dur": 6.312375,
+  "speed": 1.226,
+  "k": 1.0094507575757563,
+  "text_tgt": "O boro tem cinco vagas mas só três elétrons para dividir, então faz três ligações, o berílio faz duas, e o lítio, uma."
+ },
+ {
+  "id": 17,
+  "start": 125.18,
+  "limit": 134.56,
+  "new_start": 126.47470833333334,
+  "dur": 9.051625,
+  "speed": 1.065,
+  "k": 1.0023054371002136,
+  "text_tgt": "Por isso o carbono é o melhor amigo do nanotécnico: com nada menos que 4 conexões por átomo, dá para montar de tudo: cadeias, redes, anéis, o que você quiser."
+ },
+ {
+  "id": 18,
+  "start": 134.56,
+  "limit": 144.56,
+  "new_start": 135.87633333333335,
+  "dur": 9.708833333333333,
+  "speed": 1.202,
+  "k": 1.0058833333333332,
+  "text_tgt": "Com uns outros átomos, como oxigênio ou nitrogênio, aqui e ali, e as vagas livres tapadas com átomos de hidrogênio, montar nanomáquinas é tão fácil quanto brincar de blocos de montar para alienígenas mirins."
+ },
+ {
+  "id": 19,
+  "start": 144.56,
+  "limit": 150.04,
+  "new_start": 145.93516666666667,
+  "dur": 5.029958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, voltando à nossa nanoarma, recém-solta nos oceanos mornos da Terra jovem."
+ },
+ {
+  "id": 20,
+  "start": 150.04,
+  "limit": 160.26,
+  "new_start": 151.41516666666666,
+  "dur": 9.882166666666667,
+  "speed": 1.035,
+  "k": 1.0011904761904762,
+  "text_tgt": "Essas armas funcionam como religiões virais: uma religião viral é basicamente um conjunto de instruções para os fiéis espalharem a religião, o que pode ou não envolver matar os infiéis."
+ },
+ {
+  "id": 21,
+  "start": 160.26,
+  "limit": 162.88,
+  "new_start": 161.64733333333334,
+  "dur": 3.629583333333333,
+  "speed": 1.35,
+  "k": 1.5189249363867658,
+  "text_tgt": "Nanoarmas autorreplicantes funcionam do mesmo jeito, só que sem os fiéis."
+ },
+ {
+  "id": 22,
+  "start": 162.88,
+  "limit": 171.32,
+  "new_start": 165.62691666666666,
+  "dur": 8.089,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "As instruções costumam vir com umas nanomáquinas moleculares chamadas enzimas, que fazem a replicação em si, e um invólucro para manter tudo junto."
+ },
+ {
+  "id": 23,
+  "start": 171.32,
+  "limit": 185.3,
+  "new_start": 174.06691666666666,
+  "dur": 13.671,
+  "speed": 1.155,
+  "k": 1.0029327610872663,
+  "text_tgt": "Neste caso, as instruções estavam escritas numa molécula chamada DNA, uma variante primitiva do XNA, a molécula registrada dos nanolaboratórios arctarianos, o que não surpreende, já que as fábricas de armas arctarianas abasteciam os dois lados na Guerra das Lulas."
+ },
+ {
+  "id": 24,
+  "start": 185.3,
+  "limit": 199.78,
+  "new_start": 188.08791666666667,
+  "dur": 14.141041666666666,
+  "speed": 1.014,
+  "k": 1.0007625460405163,
+  "text_tgt": "O DNA dessas antigas armas biológicas costumava trazer instruções de autorreplicação, mais uma mensagem, muitas vezes um insulto, tipo \"Toma essa, cabeça de tentáculo!\", ou \"Morte aos comedores de peixe!\", ou, neste caso, \"Lulas são burras\"."
+ },
+ {
+  "id": 25,
+  "start": 199.78,
+  "limit": 204.94,
+  "new_start": 202.57895833333333,
+  "dur": 4.509,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, esses saquinhos de DNA e enzimas começaram a se autorreplicar."
+ },
+ {
+  "id": 26,
+  "start": 204.94,
+  "limit": 208.84,
+  "new_start": 207.73895833333333,
+  "dur": 3.563875,
+  "speed": 1.041,
+  "k": 1.0035576923076908,
+  "text_tgt": "Só que replicar não adianta muito sem uma fonte de biomassa nova."
+ },
+ {
+  "id": 27,
+  "start": 208.84,
+  "limit": 216.56,
+  "new_start": 211.65283333333332,
+  "dur": 6.659,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A criatura foi feita para se replicar num planeta de lulas, rico em carbono elementar, então biomassa não seria problema."
+ },
+ {
+  "id": 28,
+  "start": 216.56,
+  "limit": 219.72,
+  "new_start": 219.37283333333332,
+  "dur": 2.73,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas aqui na Terra, carbono elementar era raro."
+ },
+ {
+  "id": 29,
+  "start": 219.72,
+  "limit": 223.62,
+  "new_start": 222.53283333333331,
+  "dur": 3.5915833333333333,
+  "speed": 1.141,
+  "k": 1.0106623931623917,
+  "text_tgt": "Foi aí que a criatura começou a evoluir: o começo da vida na Terra."
+ },
+ {
+  "id": 30,
+  "start": 223.62,
+  "limit": 228.1,
+  "new_start": 226.47441666666666,
+  "dur": 4.210583333333333,
+  "speed": 1.306,
+  "k": 1.0179873511904785,
+  "text_tgt": "Vamos deixar bem claro: a vida na Terra é totalmente diferente da vida em qualquer outro lugar."
+ },
+ {
+  "id": 31,
+  "start": 228.1,
+  "limit": 233.28,
+  "new_start": 231.035,
+  "dur": 4.94,
+  "speed": 1.35,
+  "k": 1.02123552123552,
+  "text_tgt": "Na Galáxia inteira, a evolução da vida é regulada pela todo-poderosa e onipresente Burocracia Galáctica."
+ },
+ {
+  "id": 32,
+  "start": 233.28,
+  "limit": 242.28,
+  "new_start": 236.325,
+  "dur": 8.680916666666667,
+  "speed": 1.1,
+  "k": 1.003435185185185,
+  "text_tgt": "Quando um planeta é aprovado para desenvolver vida, ele fica a cargo de um bioadministrador credenciado, vindo de uma civilização avançada de classe 14 ou superior."
+ },
+ {
+  "id": 33,
+  "start": 242.28,
+  "limit": 257.58,
+  "new_start": 245.35591666666664,
+  "dur": 14.982,
+  "speed": 1.112,
+  "k": 1.002091503267975,
+  "text_tgt": "O administrador supervisiona a evolução, decide a criação de espécies, aprova mutações, acompanha o desenvolvimento da civilização e, mais importante, cumpre todas as etapas exigidas pelo Departamento Galáctico de Evolução Planetária, ou seja, muita papelada."
+ },
+ {
+  "id": 34,
+  "start": 257.58,
+  "limit": 265.34,
+  "new_start": 260.68791666666664,
+  "dur": 7.128,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O objetivo oficial disso tudo é criar vida consciente e levá-la até o ponto em que ela invente o dinheiro, para poder pagar impostos."
+ },
+ {
+  "id": 35,
+  "start": 265.34,
+  "limit": 275.14,
+  "new_start": 268.44791666666663,
+  "dur": 9.478583333333333,
+  "speed": 1.097,
+  "k": 1.0029166666666653,
+  "text_tgt": "Mas o objetivo real de todo bioadministrador é fazer as formas de vida do planeta inventarem a escrita, porque daí elas cuidam da própria papelada e ele pode ir embora."
+ },
+ {
+  "id": 36,
+  "start": 275.14,
+  "limit": 280.38,
+  "new_start": 278.27649999999994,
+  "dur": 4.928583333333333,
+  "speed": 1.12,
+  "k": 1.007363231552161,
+  "text_tgt": "Mas, como vimos no último episódio, a Terra está fora do alcance da Burocracia Galáctica."
+ },
+ {
+  "id": 37,
+  "start": 280.38,
+  "limit": 288.34,
+  "new_start": 283.5550833333333,
+  "dur": 7.6375416666666665,
+  "speed": 1.076,
+  "k": 1.0034600083752119,
+  "text_tgt": "Por isso, a vida na Terra segue uma evolução selvagem e sem nenhuma regulação, uma explosão de vida limitada só pelos recursos naturais."
+ },
+ {
+  "id": 38,
+  "start": 288.34,
+  "limit": 293.1,
+  "new_start": 291.542625,
+  "dur": 4.5244583333333335,
+  "speed": 1.35,
+  "k": 1.0240458683473286,
+  "text_tgt": "Resumindo: o sonho erótico de qualquer bioanarquista e o pesadelo de qualquer bioadministrador."
+ },
+ {
+  "id": 39,
+  "start": 293.1,
+  "limit": 299.36,
+  "new_start": 296.4170833333333,
+  "dur": 4.909958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, é por isso que o Domínio nunca admitiu oficialmente que perdeu o míssil na Terra."
+ },
+ {
+  "id": 40,
+  "start": 299.36,
+  "limit": 304.96,
+  "new_start": 302.6770833333333,
+  "dur": 5.294083333333333,
+  "speed": 1.139,
+  "k": 1.0078720238095298,
+  "text_tgt": "A evolução descontrolada se baseia em três mecanismos: replicação, mutação e seleção natural."
+ },
+ {
+  "id": 41,
+  "start": 304.96,
+  "limit": 309.14,
+  "new_start": 308.32116666666667,
+  "dur": 3.8773333333333335,
+  "speed": 1.158,
+  "k": 1.0113237639553412,
+  "text_tgt": "A forma mais simples de replicação é duplicar o código e o indivíduo."
+ },
+ {
+  "id": 42,
+  "start": 309.14,
+  "limit": 314.08,
+  "new_start": 312.5485,
+  "dur": 4.591583333333333,
+  "speed": 1.004,
+  "k": 1.0003205128205133,
+  "text_tgt": "Existe outra forma de replicação, a reprodução sexual, que veremos depois."
+ },
+ {
+  "id": 43,
+  "start": 314.08,
+  "limit": 315.98,
+  "new_start": 317.4900833333333,
+  "dur": 1.621625,
+  "speed": 1.258,
+  "k": 1.037697368421034,
+  "text_tgt": "A mutação é muito mal compreendida."
+ },
+ {
+  "id": 44,
+  "start": 315.98,
+  "limit": 321.18,
+  "new_start": 319.4617083333333,
+  "dur": 3.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não é ganhar um tentáculo na cabeça depois de pegar radiação demais."
+ },
+ {
+  "id": 45,
+  "start": 321.18,
+  "limit": 325.64,
+  "new_start": 324.6617083333333,
+  "dur": 4.1165,
+  "speed": 1.013,
+  "k": 1.0014573991031437,
+  "text_tgt": "Isso pode valer para os Metamutantes Tangerianos, mas não é assim na Terra."
+ },
+ {
+  "id": 46,
+  "start": 325.64,
+  "limit": 335.06,
+  "new_start": 329.1282083333333,
+  "dur": 9.112583333333333,
+  "speed": 1.128,
+  "k": 1.00452052370842,
+  "text_tgt": "Na Terra, mutação é uma variação, geralmente pequena, nos filhotes, por causa de um código genético danificado: uma cor de pele diferente, ou pernas mais fortes."
+ },
+ {
+  "id": 47,
+  "start": 335.06,
+  "limit": 341.72,
+  "new_start": 338.59079166666663,
+  "dur": 6.3355,
+  "speed": 1.07,
+  "k": 1.0038288288288248,
+  "text_tgt": "Já a seleção natural quer dizer que a natureza favorece os indivíduos bons em comer, se reproduzir e não morrer."
+ },
+ {
+  "id": 48,
+  "start": 341.72,
+  "limit": 345.0,
+  "new_start": 345.2762916666666,
+  "dur": 2.9848333333333334,
+  "speed": 1.186,
+  "k": 1.0167174796748053,
+  "text_tgt": "Os humanos costumam resumir isso como \"sobrevivência do mais apto\"."
+ },
+ {
+  "id": 49,
+  "start": 345.0,
+  "limit": 349.88,
+  "new_start": 348.61112499999996,
+  "dur": 4.61825,
+  "speed": 1.336,
+  "k": 1.0180840163934435,
+  "text_tgt": "Pode até ser, desde que sobreviver e ser apto sirvam ao objetivo final: espalhar o código."
+ },
+ {
+  "id": 50,
+  "start": 349.88,
+  "limit": 354.64,
+  "new_start": 353.57937499999997,
+  "dur": 4.349958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O código não liga para o bem-estar do indivíduo, desde que seja espalhado."
+ },
+ {
+  "id": 51,
+  "start": 354.64,
+  "limit": 358.64,
+  "new_start": 358.33937499999996,
+  "dur": 3.7235416666666667,
+  "speed": 1.259,
+  "k": 1.0183854166666666,
+  "text_tgt": "Se isso significa ser devorado pelos filhos, a evolução não vê problema."
+ },
+ {
+  "id": 52,
+  "start": 358.64,
+  "limit": 362.12,
+  "new_start": 362.4129166666666,
+  "dur": 3.218583333333333,
+  "speed": 1.336,
+  "k": 1.0254549808429065,
+  "text_tgt": "Um exemplo simples de seleção natural seria um animal fugindo de um predador."
+ },
+ {
+  "id": 53,
+  "start": 362.12,
+  "limit": 365.98,
+  "new_start": 365.9814999999999,
+  "dur": 3.725875,
+  "speed": 1.35,
+  "k": 1.055926165803105,
+  "text_tgt": "Se por acaso nasceu nele uma quinta perna que o deixa mais rápido que o predador, ótimo."
+ },
+ {
+  "id": 54,
+  "start": 365.98,
+  "limit": 371.14,
+  "new_start": 370.0573749999999,
+  "dur": 4.848458333333333,
+  "speed": 1.122,
+  "k": 1.0074531653746832,
+  "text_tgt": "Mas, na verdade, basta, e é bem mais provável, correr só um pouquinho mais rápido que o irmão."
+ },
+ {
+  "id": 55,
+  "start": 371.14,
+  "limit": 376.06,
+  "new_start": 375.25583333333327,
+  "dur": 4.5732083333333335,
+  "speed": 1.01,
+  "k": 1.0006521002709994,
+  "text_tgt": "Assim, até variações pequenas podem fazer a diferença entre morrer e sobreviver."
+ },
+ {
+  "id": 56,
+  "start": 376.06,
+  "limit": 380.72,
+  "new_start": 380.1790416666666,
+  "dur": 4.346791666666666,
+  "speed": 1.113,
+  "k": 1.0078952074391934,
+  "text_tgt": "Com o tempo, essas variações se acumulam e a espécie fica cada vez mais rápida."
+ },
+ {
+  "id": 57,
+  "start": 380.72,
+  "limit": 382.84,
+  "new_start": 384.8758333333333,
+  "dur": 1.76,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas voltando ao nosso organismo."
+ },
+ {
+  "id": 58,
+  "start": 382.84,
+  "limit": 389.14,
+  "new_start": 386.9958333333332,
+  "dur": 5.88,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele precisava de carbono para se multiplicar, mas o carbono só existia como gás carbônico na atmosfera."
+ },
+ {
+  "id": 59,
+  "start": 389.14,
+  "limit": 396.78,
+  "new_start": 393.29583333333323,
+  "dur": 7.3581666666666665,
+  "speed": 1.234,
+  "k": 1.0089223385689372,
+  "text_tgt": "Fora isso, havia um nitrogênio bem inútil e toneladas de ácido hidroxílico, sabe, aquele líquido nojento que cobre dois terços do planeta."
+ },
+ {
+  "id": 60,
+  "start": 396.78,
+  "limit": 403.1,
+  "new_start": 401.0039999999999,
+  "dur": 5.98075,
+  "speed": 1.04,
+  "k": 1.0017009493670805,
+  "text_tgt": "Então a evolução entrou em ação e nossos organismos criaram um método para transformar gás carbônico em biomassa."
+ },
+ {
+  "id": 61,
+  "start": 403.1,
+  "limit": 407.3,
+  "new_start": 407.33474999999993,
+  "dur": 3.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Na forma evoluída, esse processo se chama fotossíntese."
+ },
+ {
+  "id": 62,
+  "start": 407.3,
+  "limit": 414.38,
+  "new_start": 411.5347499999999,
+  "dur": 6.962208333333334,
+  "speed": 1.35,
+  "k": 1.032797787193976,
+  "text_tgt": "A fotossíntese consiste basicamente em usar a luz do sol para transformar gás carbônico e ácido hidroxílico em oxigênio e num composto chamado açúcar."
+ },
+ {
+  "id": 63,
+  "start": 414.38,
+  "limit": 424.04,
+  "new_start": 418.84695833333325,
+  "dur": 9.396041666666667,
+  "speed": 1.308,
+  "k": 1.0089070048309152,
+  "text_tgt": "O oxigênio é uma substância tóxica que precisava ser liberada na atmosfera, mas o açúcar é bem útil: vem em vários tipos e serve para guardar energia a curto prazo e para obter biomassa."
+ },
+ {
+  "id": 64,
+  "start": 424.04,
+  "limit": 431.68,
+  "new_start": 428.5929999999999,
+  "dur": 7.297833333333333,
+  "speed": 1.014,
+  "k": 1.001025305410124,
+  "text_tgt": "Também dá para montar cadeias com ele e obter amido, para guardar energia a longo prazo, ou celulose, para reforço estrutural."
+ },
+ {
+  "id": 65,
+  "start": 431.68,
+  "limit": 435.22,
+  "new_start": 436.2408333333332,
+  "dur": 3.2752916666666665,
+  "speed": 1.322,
+  "k": 1.02409369114877,
+  "text_tgt": "As plantas da Terra ainda usam a fotossíntese para produzir sua biomassa."
+ },
+ {
+  "id": 66,
+  "start": 435.22,
+  "limit": 444.76,
+  "new_start": 439.8661249999999,
+  "dur": 9.02,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vale notar que só um quinze avos do açúcar da fotossíntese vem do ácido hidroxílico, na verdade, só os átomos de hidrogênio que tapam as vagas livres."
+ },
+ {
+  "id": 67,
+  "start": 444.76,
+  "limit": 446.8,
+  "new_start": 449.40612499999986,
+  "dur": 1.68,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O resto vem do gás carbônico."
+ },
+ {
+  "id": 68,
+  "start": 446.8,
+  "limit": 454.56,
+  "new_start": 451.4461249999999,
+  "dur": 7.4275,
+  "speed": 1.062,
+  "k": 1.0022551546391765,
+  "text_tgt": "Então, quando visitar a Terra e encontrar florestas gigantes, lembre que 93% da matéria seca delas é feita de \"ar\"."
+ },
+ {
+  "id": 69,
+  "start": 454.56,
+  "limit": 461.0,
+  "new_start": 459.22362499999986,
+  "dur": 6.099666666666667,
+  "speed": 1.023,
+  "k": 1.0015010351966878,
+  "text_tgt": "Agora que nosso organismo sabia criar biomassa literalmente do ar, ele se multiplicou e tomou o planeta inteiro."
+ },
+ {
+  "id": 70,
+  "start": 461.0,
+  "limit": 475.66,
+  "new_start": 465.6732916666665,
+  "dur": 13.798958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No caminho, se dividiu em várias espécies, e algumas criaram melhorias, como um núcleo celular, tentáculos minúsculos para se mover, ou a reprodução sexual, que é basicamente misturar os códigos de dois indivíduos para criar um novo."
+ },
+ {
+  "id": 71,
+  "start": 475.66,
+  "limit": 478.96,
+  "new_start": 480.3332916666665,
+  "dur": 3.0050416666666666,
+  "speed": 1.188,
+  "k": 1.016679292929307,
+  "text_tgt": "Vamos ver mais sobre reprodução sexual no próximo episódio."
+ },
+ {
+  "id": 72,
+  "start": 478.96,
+  "limit": 481.88,
+  "new_start": 483.6883333333332,
+  "dur": 2.632,
+  "speed": 1.212,
+  "k": 1.0212328767123233,
+  "text_tgt": "Tudo parecia bem para nossos organismos comedores de luz."
+ },
+ {
+  "id": 73,
+  "start": 481.88,
+  "limit": 484.44,
+  "new_start": 486.67033333333325,
+  "dur": 2.2700833333333335,
+  "speed": 1.207,
+  "k": 1.0234700520833324,
+  "text_tgt": "Mas, depois de um tempo, surgiu um problema."
+ },
+ {
+  "id": 74,
+  "start": 484.44,
+  "limit": 487.92,
+  "new_start": 489.2904166666666,
+  "dur": 3.218583333333333,
+  "speed": 1.336,
+  "k": 1.0254549808429065,
+  "text_tgt": "Lembra do oxigênio, aquele subproduto tóxico da fotossíntese?"
+ },
+ {
+  "id": 75,
+  "start": 487.92,
+  "limit": 492.54,
+  "new_start": 492.8589999999999,
+  "dur": 4.2999583333333335,
+  "speed": 1.1,
+  "k": 1.0064844877344867,
+  "text_tgt": "Essa coisa tinha se acumulado na atmosfera e chegado a uma concentração perigosa."
+ },
+ {
+  "id": 76,
+  "start": 492.54,
+  "limit": 501.78,
+  "new_start": 497.5089583333333,
+  "dur": 8.950458333333334,
+  "speed": 1.211,
+  "k": 1.0065431096681148,
+  "text_tgt": "Podia ter sido o fim da vida na Terra, mas, por sorte, um organismo sofreu uma mutação e achou um jeito de transformar oxigênio e açúcar de volta em gás carbônico, ácido hidroxílico e energia."
+ },
+ {
+  "id": 77,
+  "start": 501.78,
+  "limit": 505.96,
+  "new_start": 506.8094166666666,
+  "dur": 3.857125,
+  "speed": 1.078,
+  "k": 1.006489234449759,
+  "text_tgt": "Isso se chama respiração, e é basicamente a fotossíntese ao contrário."
+ },
+ {
+  "id": 78,
+  "start": 505.96,
+  "limit": 518.56,
+  "new_start": 511.0165416666666,
+  "dur": 11.96,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Agora havia dois tipos de criatura: os comedores de luz, as plantas, que criam açúcar e oxigênio, e os respiradores de oxigênio, os animais, que transformam açúcar e oxigênio de volta em gás carbônico."
+ },
+ {
+  "id": 79,
+  "start": 518.56,
+  "limit": 520.46,
+  "new_start": 523.6165416666665,
+  "dur": 1.770375,
+  "speed": 1.35,
+  "k": 1.1159868421052097,
+  "text_tgt": "Mas como os animais conseguiam o açúcar?"
+ },
+ {
+  "id": 80,
+  "start": 520.46,
+  "limit": 522.5,
+  "new_start": 525.7369166666665,
+  "dur": 1.7262916666666666,
+  "speed": 1.118,
+  "k": 1.0177900326797567,
+  "text_tgt": "Ora, devorando plantas!"
+ },
+ {
+  "id": 81,
+  "start": 522.5,
+  "limit": 526.3,
+  "new_start": 527.8132083333331,
+  "dur": 3.528,
+  "speed": 1.284,
+  "k": 1.020526315789486,
+  "text_tgt": "Logo esses animais se multiplicaram e baixaram o nível de oxigênio na atmosfera."
+ },
+ {
+  "id": 82,
+  "start": 526.3,
+  "limit": 531.58,
+  "new_start": 531.6912083333332,
+  "dur": 5.007,
+  "speed": 1.288,
+  "k": 1.0145833333333165,
+  "text_tgt": "Desde então, plantas e animais dividem o planeta, e cada grupo produz o gás de que o outro precisa."
+ },
+ {
+  "id": 83,
+  "start": 531.58,
+  "limit": 533.42,
+  "new_start": 537.0482083333332,
+  "dur": 1.55825,
+  "speed": 1.245,
+  "k": 1.037092391304394,
+  "text_tgt": "Mas a evolução não parou por aí."
+ },
+ {
+  "id": 84,
+  "start": 533.42,
+  "limit": 538.64,
+  "new_start": 538.9564583333331,
+  "dur": 4.903,
+  "speed": 1.103,
+  "k": 1.0063218390804545,
+  "text_tgt": "Com o tempo, ela criou criaturas cada vez melhores em comer, se reproduzir e não morrer."
+ },
+ {
+  "id": 85,
+  "start": 538.64,
+  "limit": 544.18,
+  "new_start": 544.2094583333331,
+  "dur": 5.266875,
+  "speed": 1.274,
+  "k": 1.0138763537906204,
+  "text_tgt": "As células comedoras de luz viraram plantas multicelulares, conquistaram os oceanos e depois a terra firme."
+ },
+ {
+  "id": 86,
+  "start": 544.18,
+  "limit": 552.3,
+  "new_start": 549.8263333333332,
+  "dur": 7.83075,
+  "speed": 1.217,
+  "k": 1.0074815270935955,
+  "text_tgt": "Os respiradores de oxigênio evoluíram para animais multicelulares e ganharam coisas como simetria, sistema nervoso e uma queda por ficar andando por aí."
+ },
+ {
+  "id": 87,
+  "start": 552.3,
+  "limit": 556.64,
+  "new_start": 558.0070833333332,
+  "dur": 4.011208333333333,
+  "speed": 1.067,
+  "k": 1.0048867127496086,
+  "text_tgt": "Um ramo evoluiu para criaturinhas com exoesqueleto, chamadas insetos."
+ },
+ {
+  "id": 88,
+  "start": 556.64,
+  "limit": 561.92,
+  "new_start": 562.3682916666666,
+  "dur": 4.986666666666666,
+  "speed": 1.199,
+  "k": 1.0107323232323284,
+  "text_tgt": "Outros ganharam endoesqueleto, olhos e boca, acabaram rastejando para a terra firme e criaram pernas."
+ },
+ {
+  "id": 89,
+  "start": 561.92,
+  "limit": 566.16,
+  "new_start": 567.7049583333333,
+  "dur": 3.9844583333333334,
+  "speed": 1.35,
+  "k": 1.0222779088050291,
+  "text_tgt": "A maioria das espécies dessa época já está extinta, exceto, claro, os micróbios."
+ },
+ {
+  "id": 90,
+  "start": 568.9,
+  "limit": 570.16,
+  "new_start": 574.7794166666666,
+  "dur": 0.9682916666666667,
+  "speed": 1.198,
+  "k": 1.046263227513235,
+  "text_tgt": "Dica estratégica!"
+ },
+ {
+  "id": 91,
+  "start": 570.16,
+  "limit": 576.48,
+  "new_start": 576.0977083333333,
+  "dur": 5.973291666666666,
+  "speed": 1.011,
+  "k": 1.0005208333333253,
+  "text_tgt": "Se quiser exterminar todos os humanos e animais da Terra para preparar a colonização, não esqueça dos insetos!"
+ },
+ {
+  "id": 92,
+  "start": 576.48,
+  "limit": 581.22,
+  "new_start": 582.421,
+  "dur": 4.454458333333333,
+  "speed": 1.219,
+  "k": 1.0135988045007012,
+  "text_tgt": "Eles estão em todo lugar, são difíceis de matar e conseguem ser muito, muito irritantes."
+ },
+ {
+  "id": 93,
+  "start": 581.22,
+  "limit": 587.16,
+  "new_start": 587.2254583333333,
+  "dur": 5.619541666666667,
+  "speed": 1.096,
+  "k": 1.0049733445566877,
+  "text_tgt": "A diferença mais óbvia entre plantas e animais é que os animais se mexem, e as plantas ficam num lugar só."
+ },
+ {
+  "id": 94,
+  "start": 587.16,
+  "limit": 589.12,
+  "new_start": 593.195,
+  "dur": 0.6299583333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por quê?"
+ },
+ {
+  "id": 95,
+  "start": 589.12,
+  "limit": 598.52,
+  "new_start": 595.1550000000001,
+  "dur": 9.125333333333334,
+  "speed": 1.261,
+  "k": 1.0080141843971655,
+  "text_tgt": "Bem, os animais precisam procurar plantas comestíveis ou correr atrás de outros animais, já as plantas se alimentam de ar, ácido hidroxílico e luz do sol, recursos que existem em todo lugar."
+ },
+ {
+  "id": 96,
+  "start": 598.52,
+  "limit": 602.08,
+  "new_start": 604.6303333333334,
+  "dur": 3.233375,
+  "speed": 1.067,
+  "k": 1.0065660112359385,
+  "text_tgt": "Só que espalhar o DNA não é fácil quando não dá para se mexer."
+ },
+ {
+  "id": 97,
+  "start": 602.08,
+  "limit": 606.16,
+  "new_start": 608.2137083333334,
+  "dur": 3.781,
+  "speed": 1.169,
+  "k": 1.0125000000000182,
+  "text_tgt": "Então as plantas acharam um jeito de fazer os animais carregarem o DNA delas por aí."
+ },
+ {
+  "id": 98,
+  "start": 606.16,
+  "limit": 609.56,
+  "new_start": 612.3447083333334,
+  "dur": 3.0634166666666665,
+  "speed": 1.041,
+  "k": 1.0039460784313792,
+  "text_tgt": "Lembra do açúcar, o principal produto da fotossíntese?"
+ },
+ {
+  "id": 99,
+  "start": 609.56,
+  "limit": 613.44,
+  "new_start": 615.7581250000001,
+  "dur": 3.538,
+  "speed": 1.026,
+  "k": 1.0020618556700749,
+  "text_tgt": "Os animais adoram isso, porque é fácil de processar e rico em energia."
+ },
+ {
+  "id": 100,
+  "start": 613.44,
+  "limit": 617.82,
+  "new_start": 619.6461250000001,
+  "dur": 4.061625,
+  "speed": 1.103,
+  "k": 1.0072203196347043,
+  "text_tgt": "Normalmente, as plantas não guardam muito açúcar, porque não querem ser comidas."
+ },
+ {
+  "id": 101,
+  "start": 617.82,
+  "limit": 625.9,
+  "new_start": 624.05775,
+  "dur": 7.818875,
+  "speed": 1.325,
+  "k": 1.010999381188128,
+  "text_tgt": "Mas aí elas criaram órgãos sexuais expostos e cheios de açúcar, as flores, para subornar os insetos a levar o DNA delas a outras plantas para a reprodução sexual."
+ },
+ {
+  "id": 102,
+  "start": 625.9,
+  "limit": 632.62,
+  "new_start": 632.226625,
+  "dur": 6.414666666666666,
+  "speed": 1.155,
+  "k": 1.0066468253968213,
+  "text_tgt": "Depois puseram as sementes em pacotinhos de açúcar deliciosos, as frutas, para subornar animais maiores a levar as sementes por aí."
+ },
+ {
+  "id": 103,
+  "start": 632.62,
+  "limit": 636.38,
+  "new_start": 638.9912916666667,
+  "dur": 3.41,
+  "speed": 1.0,
+  "k": 1.0000000000000024,
+  "text_tgt": "Frutas e flores são coloridas para chamar a atenção dos animais."
+ },
+ {
+  "id": 104,
+  "start": 636.38,
+  "limit": 640.26,
+  "new_start": 642.7512916666667,
+  "dur": 3.5970416666666667,
+  "speed": 1.231,
+  "k": 1.0172787800687297,
+  "text_tgt": "Na língua das plantas, cores vivas querem dizer \"Aqui tem açúcar\"."
+ },
+ {
+  "id": 105,
+  "start": 640.26,
+  "limit": 651.38,
+  "new_start": 646.6983333333334,
+  "dur": 10.378,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já os animais não querem que partes do corpo sejam comidas, então, na língua dos animais, cores vivas querem dizer \"Sou venenoso\", ou \"Me pega se puder, eu tenho asas!\"."
+ },
+ {
+  "id": 106,
+  "start": 651.38,
+  "limit": 660.46,
+  "new_start": 657.8183333333334,
+  "dur": 8.78525,
+  "speed": 1.178,
+  "k": 1.00608480176211,
+  "text_tgt": "Todas essas plantas, insetos, comedores de frutas, predadores e micróbios formam um sistema complexo e autorregulado, sem precisar de bioadministrador."
+ },
+ {
+  "id": 107,
+  "start": 660.46,
+  "limit": 662.78,
+  "new_start": 666.9535833333334,
+  "dur": 2.017333333333333,
+  "speed": 1.155,
+  "k": 1.0204022988506027,
+  "text_tgt": "Os terráqueos chamam isso de ecossistema."
+ },
+ {
+  "id": 108,
+  "start": 662.78,
+  "limit": 663.98,
+  "new_start": 669.3209166666668,
+  "dur": 1.0148333333333333,
+  "speed": 1.35,
+  "k": 1.137361111111068,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 109,
+  "start": 663.98,
+  "limit": 673.18,
+  "new_start": 670.6857500000001,
+  "dur": 8.856583333333333,
+  "speed": 1.032,
+  "k": 1.0007155797101523,
+  "text_tgt": "Um experimento popular entre estudantes é abduzir um terráqueo, um animal comedor de celulose e umas plantas, e pôr todos num tanque para criar um microecossistema."
+ },
+ {
+  "id": 110,
+  "start": 673.18,
+  "limit": 674.66,
+  "new_start": 679.8923333333335,
+  "dur": 1.1563333333333334,
+  "speed": 1.081,
+  "k": 1.0177927927927803,
+  "text_tgt": "Mas isso não funciona."
+ },
+ {
+  "id": 111,
+  "start": 674.66,
+  "limit": 679.88,
+  "new_start": 681.3986666666668,
+  "dur": 4.923208333333333,
+  "speed": 1.172,
+  "k": 1.010193167305231,
+  "text_tgt": "O resultado é bem melhor com umas plantas e animais do oceano num tanquinho cheio de ácido hidroxílico."
+ },
+ {
+  "id": 112,
+  "start": 679.88,
+  "limit": 687.08,
+  "new_start": 686.6718750000001,
+  "dur": 6.916166666666666,
+  "speed": 1.229,
+  "k": 1.0091898148148084,
+  "text_tgt": "A certa altura, a evolução levou a animais cada vez maiores, até o planeta ser dominado por criaturas gigantes chamadas dinossauros."
+ },
+ {
+  "id": 113,
+  "start": 687.08,
+  "limit": 690.52,
+  "new_start": 693.9380416666668,
+  "dur": 3.1851666666666665,
+  "speed": 1.35,
+  "k": 1.0276647286821883,
+  "text_tgt": "Alguns deles evoluíram para pequenas criaturas voadoras chamadas aves."
+ },
+ {
+  "id": 114,
+  "start": 690.52,
+  "limit": 695.28,
+  "new_start": 697.4732083333334,
+  "dur": 4.420625,
+  "speed": 1.027,
+  "k": 1.0022321428571448,
+  "text_tgt": "Outras criaturas passaram a alimentar os filhotes com um líquido chamado leite."
+ },
+ {
+  "id": 115,
+  "start": 695.28,
+  "limit": 702.0,
+  "new_start": 702.2438333333334,
+  "dur": 6.258958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um ramo desses animais ganhou certa inteligência e jeito para manusear objetos, e acabou virando os terráqueos."
+ },
+ {
+  "id": 116,
+  "start": 702.0,
+  "limit": 711.36,
+  "new_start": 708.9638333333335,
+  "dur": 8.97,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os primeiros terráqueos viviam quase como animais, colhendo frutas, caçando e se protegendo de predadores, só que com ferramentas feitas por eles mesmos."
+ },
+ {
+  "id": 117,
+  "start": 711.36,
+  "limit": 714.82,
+  "new_start": 718.3238333333335,
+  "dur": 3.1982083333333335,
+  "speed": 1.332,
+  "k": 1.0254937379576001,
+  "text_tgt": "É aqui que a evolução natural termina e a civilização começa."
+ },
+ {
+  "id": 118,
+  "start": 714.82,
+  "limit": 716.4,
+  "new_start": 721.8720416666669,
+  "dur": 1.2452083333333333,
+  "speed": 1.044,
+  "k": 1.009625527426207,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 119,
+  "start": 716.4,
+  "limit": 721.64,
+  "new_start": 723.4672500000001,
+  "dur": 4.959875,
+  "speed": 1.246,
+  "k": 1.0133349236641203,
+  "text_tgt": "Se você viaja no tempo e visita a época dos dinossauros, por favor, não leve nenhum dinossauro com você."
+ },
+ {
+  "id": 120,
+  "start": 721.64,
+  "limit": 729.66,
+  "new_start": 728.7771250000002,
+  "dur": 7.695666666666667,
+  "speed": 1.081,
+  "k": 1.0032003325020804,
+  "text_tgt": "Se não fossem os incontáveis turistas do tempo levando animais como lembrancinha ou bicho de estimação, os dinossauros não estariam extintos."
+ },
+ {
+  "id": 121,
+  "start": 729.66,
+  "limit": 733.52,
+  "new_start": 736.8227916666668,
+  "dur": 3.5702083333333334,
+  "speed": 1.21,
+  "k": 1.0155980138169223,
+  "text_tgt": "Existe um pequeno grupo de terráqueos que talvez não tenha surgido pela evolução."
+ },
+ {
+  "id": 122,
+  "start": 733.52,
+  "limit": 735.9,
+  "new_start": 740.7430000000002,
+  "dur": 1.94,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Eles se chamam de criacionistas."
+ },
+ {
+  "id": 123,
+  "start": 735.9,
+  "limit": 742.22,
+  "new_start": 743.1230000000002,
+  "dur": 5.986583333333333,
+  "speed": 1.044,
+  "k": 1.0026239451476713,
+  "text_tgt": "Segundo eles mesmos, foram criados por um bioengenheiro extraterrestre há alguns milhares de ciclos solares."
+ },
+ {
+  "id": 124,
+  "start": 742.22,
+  "limit": 748.58,
+  "new_start": 749.4595833333335,
+  "dur": 6.076666666666667,
+  "speed": 1.239,
+  "k": 1.010482180293499,
+  "text_tgt": "A intervenção dele causou uma catástrofe ambiental, uma inundação de ácido hidroxílico que matou todos os outros seres da região."
+ },
+ {
+  "id": 125,
+  "start": 748.58,
+  "limit": 758.18,
+  "new_start": 755.8862500000001,
+  "dur": 9.255958333333334,
+  "speed": 1.008,
+  "k": 1.0006206597222318,
+  "text_tgt": "Os criacionistas, avisados pelo criador, se salvaram num navio, cruzaram um oceano e se instalaram num lugar chamado América, onde esperam o criador vir buscá-los."
+ },
+ {
+  "id": 126,
+  "start": 758.18,
+  "limit": 762.6,
+  "new_start": 765.4922083333335,
+  "dur": 4.098791666666667,
+  "speed": 1.093,
+  "k": 1.0065139517345234,
+  "text_tgt": "Mas a história toda parece improvável e não bate com os registros burocráticos."
+ },
+ {
+  "id": 127,
+  "start": 762.6,
+  "limit": 767.5,
+  "new_start": 769.9410000000001,
+  "dur": 4.620541666666667,
+  "speed": 1.257,
+  "k": 1.014396258503406,
+  "text_tgt": "Por isso, a maioria dos cientistas alienígenas concorda que ela provavelmente foi inventada pelos terráqueos."
+ },
+ {
+  "id": 128,
+  "start": 767.5,
+  "limit": 771.0,
+  "new_start": 774.9115416666668,
+  "dur": 3.195625,
+  "speed": 1.145,
+  "k": 1.0130357142857143,
+  "text_tgt": "Neste episódio, vimos a evolução que levou aos terráqueos."
+ },
+ {
+  "id": 129,
+  "start": 771.0,
+  "limit": 790.54,
+  "new_start": 778.4571666666668,
+  "dur": 18.038958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essa evolução foi movida por uma única força: um código antigo, programado para se replicar ao infinito, solto num ambiente sem controle, perseguindo seu objetivo até conquistar um planeta inteiro, criar vida inteligente e construir uma civilização espacial, tudo isso para entregar uma mensagem simples: Lulas são burras."
+ },
+ {
+  "id": 130,
+  "start": 790.54,
+  "limit": 799.58,
+  "new_start": 797.9971666666668,
+  "dur": 8.724583333333333,
+  "speed": 1.122,
+  "k": 1.0038255899704929,
+  "text_tgt": "No próximo episódio, vamos aprender mais sobre sexualidade: como funciona, como muda as regras da evolução, e por que ela nem existiria se não fosse pelos parasitas."
+ }
+]

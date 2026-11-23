@@ -1,0 +1,235 @@
+Saudações, colegas alienígenas!
+Vocês devem estar se perguntando por que não postei nenhum episódio faz tempo.
+A resposta é simples: relatividade.
+Fiz uma viagem a noventa e nove vírgula cinco por cento da velocidade da luz.
+A viagem durou cerca de um ciclo lunar para mim, mas dez ciclos lunares para vocês.
+Mas agora estou de volta, com um episódio sobre uma ciência terráquea estranha e peculiar: a matemática.
+A sede de conhecimento dos terráqueos vem de vários fatores, como curiosidade, dúvida, guerra, exibicionismo e preguiça.
+Esta última, a preguiça, é o que deu origem à matemática.
+Voltaremos a isso mais tarde.
+Resumindo, a matemática poderia ser chamada de "ciência da verdade".
+Para entender essa ideia, precisamos entender o conceito terráqueo de verdadeiro e falso.
+Em outras palavras: a lógica terráquea.
+Se você é alienígena, deve conhecer a lógica ternária difusa comum: as afirmações podem valer "verdadeiro", "falso", "não sei", ou qualquer coisa no meio.
+Isso costuma ser representado como o "triângulo da incerteza".
+Para quem não conhece a lógica ternária, deixe-me explicar.
+Imagine uma loteria centauriana: você tem uma caixa com seis criaturas, tribbles e snorks, e tira uma delas, torcendo por um tribble.
+A afirmação "vou tirar um tribble" será verdadeira se você souber que todas as criaturas são tribbles.
+Se só houver snorks, a afirmação será falsa.
+Com três tribbles e três snorks, a resposta fica no meio do caminho entre verdadeiro e falso.
+Se você não faz ideia do que tem na caixa, o valor é "não sei".
+Se você sabe que há um tribble e dois snorks, mas não sabe o resto, o valor fica em algum ponto dentro do triângulo.
+Claro, esse valor depende do que você sabe: quando ganha informação, o valor se afasta do canto "não sei".
+Isso é, resumindo, o "triângulo da incerteza".
+Muitas raças alienígenas só conhecem os três cantos e não ligam para os valores intermediários.
+A lógica política é o oposto: os cantos do triângulo são cortados.
+Um político alienígena nunca vai dizer claramente que algo é verdadeiro, ou falso, nem admitir que não sabe.
+Bem, ele pode dizer que não sabia: esse valor lógico se chama "negação plausível".
+Mas nem tudo cabe nesse esquema.
+A lógica administrativa usada pela Burocracia Galáctica Central, por exemplo, tem onze valores: aprovado, rejeitado, formulário errado, traga mais documentos, processo perdido, não é neste guichê, isso vai demorar, aguardando pagamento, não posso fazer nada, carimbo errado e guichê fechado, volte mais tarde.
+A lógica administrativa é um dos motivos pelos quais ninguém sabe direito como a Burocracia funciona.
+Já as lulas espaciais têm uma lógica unária, baseada num valor só: "blup".
+A informação de verdade está nas nuances de como o "blup" é pronunciado.
+É parecido com a palavra terráquea "sinistro", que pode querer dizer "muito bom" ou "muito ruim".
+Já a lógica terráquea é binária.
+O cérebro terráqueo é feito de células chamadas neurônios, que só têm dois estados: quieto e ativo.
+Da mesma forma, a lógica terráquea se baseia em dois valores: falso e verdadeiro.
+Não existe meio-termo.
+Os terráqueos acreditam que toda afirmação vale "verdadeiro" ou "falso", e quando não se vê nenhum dos dois, é só porque o valor real está escondido.
+Os terráqueos chamam esse valor oculto imaginário de "verdade".
+Aliás, esse pensamento binário é o motivo de os terráqueos terem tanta dificuldade para entender a física quântica.
+O cérebro deles não aceita a ideia de que, por exemplo, duas realidades diferentes podem coexistir enquanto ninguém as observa.
+Se juntarmos a lógica binária com o conceito terráqueo de "coisas", temos a teoria dos conjuntos.
+Um conjunto é uma coleção de elementos, entidades matemáticas que representam qualquer tipo de "coisa".
+Os elementos estão dentro ou fora de um conjunto: a lógica terráquea não conhece meio-termo.
+A lógica terráquea leva ao que os terráqueos chamam de "conclusões": regras para combinar afirmações e obter novas afirmações.
+As conclusões são o tecido de que a matemática é feita. Voltaremos a isso.
+Mas as raízes da matemática estão num problema bem prático: contar, ou, de modo geral, medir.
+Vou explicar.
+Toda civilização planetária jovem precisa achar um jeito de medir recursos: população, terra cultivável, comida, imóveis, matéria-prima, tempo: tudo isso precisa ser bem medido.
+Além disso, construir exige medir antes coisas como comprimentos, áreas, volumes e ângulos.
+Quantidades pequenas dá para medir direto, mas a coisa complica quando elas são maiores ou difíceis de medir.
+É aí que entra o cálculo: um atalho, um jeito de combinar quantidades disponíveis para obter outras.
+Em outras palavras, calcular é igual a medir vezes preguiça.
+Cada raça alienígena tem seus próprios métodos de cálculo.
+Os aldebaranianos, por exemplo, usam uma curva para multiplicar valores.
+É um método estranho, mas funciona.
+Agora, quanto maior a civilização, mais coisas há para calcular.
+Em geral, é nesse ponto que o bioadministrador do planeta dá à civilização acesso limitado à Grande Rede Galáctica, e assim aos supercérebros planetários, que fazem os cálculos da galáxia inteira.
+O acesso aos supercérebros é totalmente grátis, pelo menos por umas centenas de ciclos solares.
+Mas, quando a civilização já depende totalmente de poder computacional externo, uma Estrela Fiscal se teleporta para a órbita e o planeta vira membro pagante da Burocracia Galáctica.
+A essa altura, eles não têm muita escolha.
+O "monopólio da computação" faz dos supercérebros planetários um dos poderes que comandam a Burocracia Galáctica Central, ao lado da Receita, do Departamento de Controle, do Aparato, da Inteligência Galáctica, da Força Espacial, do Comitê, do Banco Galáctico...
+Bem, é complicado.
+Na verdade, ninguém sabe direito quem mexe os pauzinhos na Galáxia.
+Mas a Humanidade não tinha bioadministrador nem acesso a supercérebros, então teve que criar seu próprio jeito de fazer contas: a matemática.
+No fundo, a matemática é um jeito de evitar calcular, e calcular é um jeito de evitar medir e contar.
+Por isso, podemos definir: "matemática é igual a medir vezes preguiça ao quadrado".
+Dicas para turistas: em geral, livros terráqueos são um suvenir interessante e exótico.
+Mas a matemática é contrabando pelas leis galácticas, porque ameaça o monopólio da computação dos supercérebros.
+Você não vai querer topar com uma patrulha do hiperespaço com um livro de matemática a bordo: pode dar muito problema.
+O primeiro contato de alienígenas com a matemática foi há muitos milênios.
+Há mais de quatro mil ciclos solares, uns contrabandistas de informação alienígenas pousaram numa região chamada Egito e ofereceram aos terráqueos métodos avançados de cálculo e o valor exato de Pi, em troca da receita da cerveja.
+Os egípcios recusaram educadamente: seus métodos de cálculo bastavam para construir pirâmides enormes, sem falar da logística de pagar e abrigar milhares de trabalhadores e mover milhões de toneladas de carbonato de cálcio.
+Quanto ao Pi, eles já o tinham embutido nas medidas de algumas pirâmides, usando barris cilíndricos rolados e empilhados.
+Para construir as pirâmides, os egípcios desenvolveram uma coisa chamada geometria: a teoria das formas.
+Resumindo, a geometria trata de linhas, ângulos e áreas, e de como evitar medi-los.
+Os contrabandistas de informação voltaram mil ciclos solares depois, desta vez na Babilônia.
+Mas os babilônios não se impressionaram.
+Seus matemáticos conheciam o teorema de Pitágoras, resolviam equações do segundo grau e calculavam a raiz quadrada de dois com erro de um décimo de milésimo.
+De modo geral, os babilônios dominavam a arte de manipular números.
+Os terráqueos chamam isso de aritmética.
+O que são números?
+Bem, tem a ver com "coisas".
+Para quantificar coisas, os terráqueos inventaram os números, uma série de "coisas" abstratas chamadas 1, 2, 3, 4, 5, 6, 7 e assim por diante.
+Pense nos números como uma série de adesivos imaginários.
+Quando os terráqueos querem quantificar coisas, colam os adesivos nelas, um por um.
+Isso se chama "contar".
+O último adesivo colado indica a quantidade de coisas, o seu "número".
+Os terráqueos são obcecados por números.
+Eles contam e numeram tudo: casas, filhos, veículos, livros, até reis e deuses. Absolutamente tudo.
+Exceto os micróbios.
+Há muitas formas de representar números.
+Mas a mais comum é o sistema decimal.
+Os números são escritos como séries de algarismos: nove deles correspondem aos números de 1 a 9, mais um algarismo "vazio" chamado zero.
+Os dez algarismos vêm do fato de os terráqueos terem dez dedos, os tentáculos ossudos na ponta dos membros superiores.
+Algumas civilizações antigas usavam base 12 ou base 60, que são mais práticas para divisões.
+Ainda hoje há restos dos dois sistemas, em especial na medição do tempo.
+Os computadores terráqueos usam base 2, porque se baseiam na lógica verdadeiro-falso, e não na lógica verdadeiro-falso-não sei da maioria dos computadores alienígenas.
+Aliás, as lulas têm um sistema parecido, mas de base 1, que só tem o algarismo zero.
+Qualquer número acima de zero não pode ser expresso nesse sistema e se chama "alguns".
+Os terráqueos acharam os números bem úteis, e quando os terráqueos acham algo útil, pode apostar que vão querer mais.
+Para começar, pegaram o algarismo 0 e fizeram dele um número, fechando o buraco abaixo do 1.
+Em geral, os matemáticos terráqueos não gostam de buracos.
+Por exemplo, quando você subtrai 5 de 2, cai num buraco "abaixo de zero".
+Então, os terráqueos inventaram os números negativos.
+Da mesma forma, quando você divide 5 por 2, cai no buraco entre 2 e 3.
+Então os terráqueos inventaram as frações, também chamadas de números racionais.
+Esses números podem ser representados numa bela linha reta.
+No antigo Egito e na Babilônia, a matemática era só um conjunto de regras práticas, uma caixa de ferramentas para arquitetos e contadores.
+Mas isso estava prestes a mudar.
+Há uns 2300 ciclos solares, nossos contrabandistas de informação voltaram uma terceira vez, de novo ao Egito.
+Lá conheceram um matemático grego chamado Euclides, que tinha criado uma abordagem totalmente nova da matemática: os axiomas.
+Vendo que não tinham nada melhor a oferecer, nossos alienígenas foram embora para nunca mais voltar.
+Mas o que são axiomas?
+Bem, axiomas são suposições básicas sobre as quais se constrói uma teoria.
+Pegue, por exemplo, os números naturais 1, 2, 3, 4, 5 e assim por diante.
+Esses números podem ser descritos pelos chamados axiomas de Peano.
+Existe um número chamado zero.
+Todo número tem um sucessor.
+Zero não é sucessor de ninguém.
+Dois números diferentes nunca têm o mesmo sucessor.
+Se uma propriedade vale para 0 e passa de cada número para o seu sucessor, então vale para todos os números.
+Isso se chama "indução".
+Dado um conjunto de axiomas, dá para usar a lógica e construir um prédio inteiro de conclusões.
+As conclusões interessantes se chamam "teoremas".
+É basicamente assim que toda a matemática moderna é construída.
+Note que os matemáticos não acham que os axiomas se baseiam na "verdade".
+São só suposições de partida.
+Os matemáticos gostam de brincar com os axiomas, tirar um, pôr outro, e ver o que acontece.
+Note que a matemática nunca diz "isso é verdade", e sim "dado isto e isto, você pode concluir aquilo".
+Em outras palavras, os teoremas matemáticos são sempre verdadeiros, porque são tautologias elaboradas.
+Dá para definir a matemática como "caça a tautologias interessantes".
+Esse é o lado teórico da matemática, mas ainda existe o prático: medir vezes preguiça ao quadrado.
+Agora, segundo os matemáticos, fazer matemática não é tanto construir castelos no ar, e sim explorar um território desconhecido.
+Você tem que construir as estradas e as pontes, mas a paisagem já está lá, esperando.
+Então, vamos explorar um pouco a paisagem da matemática?
+Bem no centro temos a lógica básica e as duas disciplinas, geometria e aritmética.
+Como já disse, a geometria trata de formas e medidas, e a aritmética trata de números e operações.
+Este é o ponto de partida para explorar a matemática.
+Daqui, vamos descobrir várias regiões da matemática: teoria dos números e álgebra, que vêm da aritmética, topologia, que vem da geometria, e análise, que é a aritmética usada para medir a geometria.
+Vamos começar pela topologia.
+A topologia é, por assim dizer, geometria menos medição.
+É uma espécie de "geometria de borracha": estuda as propriedades das formas que não mudam quando você as deforma.
+Se você explorar as propriedades dos números naturais, chega à teoria dos números.
+Os teóricos dos números adoram os números primos, números que não se decompõem em fatores menores.
+Agora, a aritmética pode ser generalizada com um truquezinho que os matemáticos adoram.
+Primeiro, você pega um exemplo, digamos, os números naturais.
+Segundo, você enuncia algumas regras básicas.
+E terceiro, você esquece o exemplo e trata essas regras como axiomas.
+É exatamente assim que a aritmética se generaliza em álgebra.
+Por exemplo, "somar" não vale só para números, mas também para outras coisas, como setas, movimentos no espaço, permutações, rotações, ou até passos de dança.
+Grosso modo: quando você generaliza as regras da adição, obtém semigrupos.
+Incluindo a subtração, obtém grupos.
+Permitindo a multiplicação, obtém anéis.
+E garantindo que dá para dividir, obtém corpos.
+Tudo isso pertence ao domínio da álgebra.
+De certo modo, a álgebra trata de manipular símbolos.
+Dica científica.
+Se você é xenobiólogo, deve conhecer os bloblings, criaturas tipo água-viva de vários formatos.
+A classificação dos bloblings é basicamente um problema de topologia, mas dá para resolver com teoria dos grupos.
+Em outras palavras, somando e subtraindo.
+Veja, os bloblings curtem o que os terráqueos chamariam de bondage: eles gostam de enrolar elásticos fechados em volta do corpo.
+Há incontáveis jeitos de amarrar, mas dá para definir "adição" e "subtração" entre as voltas: esta volta mais aquela dá aquela outra, ou aquela menos duas vezes esta dá aquela.
+Para este blobling em particular, todas as amarrações saem de duas voltas combinadas: por dentro do buraco e em volta dele.
+Os matemáticos diriam que é um grupo de posto dois.
+Outros bloblings precisam de quatro voltas, ou seis, ou catorze.
+Esse número não muda quando deformamos o blobling, e os topólogos adoram isso.
+Então, esse número serve para classificar os bloblings.
+Se isso foi demais para você, não se preocupe: o importante é que dá para usar álgebra para resolver problemas de topologia.
+Essa área entre a topologia e a álgebra se chama topologia algébrica.
+A álgebra parece um pouco o que os terráqueos chamam de magia: você manipula uns símbolos, aplica umas fórmulas, e de repente fez algo que não tem nada a ver.
+Dá para dizer que qualquer álgebra suficientemente avançada é indistinguível da magia.
+Isso vale mais ainda para outra disciplina: a teoria das categorias.
+Essa teoria trata de coisas ligadas por setas.
+Parece bobagem, mas é surpreendentemente útil.
+Os matemáticos chamam o uso da teoria das categorias em outras áreas de "bobagem abstrata".
+Não é piada, chama assim mesmo.
+"Bobagem abstrata".
+Já vimos duas grandes regiões da matemática: a topologia, que é geometria menos medição, e a álgebra, que é aritmética menos números.
+Uma terceira grande área pega os números da aritmética e os usa para medir a geometria.
+Isso se chama análise.
+Para entender a análise, primeiro precisamos entender outra coisa: o infinito.
+O que é o infinito?
+Bem, é mais um tapa-buraco: quando você conta e conta sem parar, os números não chegam a lugar nenhum.
+Então os matemáticos inventaram um número "depois" de todos os naturais: o infinito.
+Com o conceito de infinito, dá para observar, por exemplo, sequências crescentes de números infinitamente longas.
+Algumas tendem ao infinito, outras se aproximam de algum número racional, mas outras não se aproximam de nada, caem num buraco.
+Só que os matemáticos não gostam de buracos.
+Então definiram um novo tipo de número para tapar os buracos: os números reais.
+Um número real é qualquer coisa de que uma sequência infinita de números possa se aproximar.
+Os números reais são ótimos para medir coisas: comprimentos, ângulos, áreas, tempo e assim por diante.
+A análise se interessa especialmente por "funções", medidas que mudam com o tempo.
+Isso leva a duas coisas: valores acumulados, ou "integrais", e taxas de variação, ou "derivadas".
+Acontece que uma é o inverso da outra.
+Esse é o Teorema Fundamental do Cálculo.
+A análise tem muitas aplicações práticas na engenharia e nas ciências naturais, principalmente na física.
+Vamos falar das ciências terráqueas em outro episódio.
+Dica estratégica: ao atacar um planeta, uma tática comum é cortar o defensor da Grande Rede Galáctica, para bloquear todos os cálculos balísticos.
+Mas a artilharia terráquea não precisa da Rede, ela usa matemática.
+Então é melhor esperar fogo de artilharia muito bem mirado.
+Com os números reais, os matemáticos taparam quase todos os buracos.
+Mas resta um: ainda não existe raiz quadrada de menos um, nem de nenhum número negativo.
+Então os matemáticos inventaram uma raiz quadrada de menos um e a chamaram de "i".
+Sem saber direito onde pôr, colocaram acima da linha.
+Esse novo número, e tudo o que dá para criar combinando números reais com i, são os números complexos.
+De volta à nossa paisagem matemática.
+Como entre a álgebra e a topologia, há áreas interdisciplinares entre a análise e as outras áreas.
+Combinando análise com topologia, temos a geometria diferencial, a teoria das formas com noções de comprimento e ângulo.
+É muito útil, por exemplo, para especular sobre a forma do universo.
+Na fronteira entre análise e álgebra temos a geometria algébrica, a teoria das formas definidas por polinômios.
+Um exemplo seria esta superfície em forma de coração, definida por esta equação.
+Espectadores terráqueos, fiquem à vontade para mandar a fórmula a parceiros de reprodução com queda para a matemática.
+Pelo que sei, os terráqueos gostam de fazer essas coisas.
+Não sei por quê.
+Deve ser um ritual.
+Há muitas outras disciplinas matemáticas, por exemplo, a teoria da probabilidade.
+No fundo, é uma extensão da lógica binária para toda a aresta verdadeiro-falso do triângulo da incerteza.
+Os terráqueos acham que até as afirmações incertas ficam em algum ponto entre verdadeiro e falso.
+Ainda falta uma dimensão inteira, mas já é um avanço.
+Vou terminar com um teorema que não pertence a nenhuma das áreas citadas.
+Ele fica mais lá no oceano da lógica e da metamatemática.
+Estou falando do primeiro teorema de Gödel.
+Ele tem tudo a ver com a lógica "verdadeiro ou falso" dos terráqueos.
+Veja, a maioria das afirmações matemáticas de uma teoria pode ser provada verdadeira, ou provada falsa.
+Mas Gödel construiu uma afirmação que diz "eu não posso ser provada".
+A afirmação não pode ser falsa, senão seria uma afirmação falsa e demonstrável, o que seria absurdo.
+Então, pela lógica terráquea, ela tem que ser verdadeira.
+Mas, se é verdadeira, então ela é mesmo indemonstrável.
+Então temos uma afirmação verdadeira que não dá para provar dentro da teoria.
+Em outras palavras, a matemática pode provar muita coisa, mas nunca vai conseguir provar ou refutar tudo: sempre vai haver perguntas em aberto.
+Este foi o décimo terceiro episódio de Terráqueos 101.
+O próximo episódio vai tratar dos dois sistemas de pensamento dos terráqueos: intuição e razão.
+Mas antes vou fazer o terceiro e último episódio da minha série "Sem Borda", sobre a forma do universo.
+Inscreva-se para não perder.
+Obrigado por assistir e, como sempre: não se esqueça de ser alienígena.

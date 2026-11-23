@@ -1,0 +1,1502 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.06,
+  "new_start": 0.0,
+  "dur": 1.7982083333333334,
+  "speed": 1.333,
+  "k": 1.042819579288026,
+  "text_tgt": "Saudações, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 2.06,
+  "limit": 6.38,
+  "new_start": 2.1482083333333333,
+  "dur": 3.9720416666666667,
+  "speed": 1.002,
+  "k": 1.0004726080246913,
+  "text_tgt": "Hoje vamos falar de uma das coisas favoritas dos terráqueos: comida."
+ },
+ {
+  "id": 3,
+  "start": 39.26,
+  "limit": 44.9,
+  "new_start": 39.350249999999996,
+  "dur": 5.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como muitos organismos, os terráqueos precisam de vários químicos para manter o metabolismo."
+ },
+ {
+  "id": 4,
+  "start": 44.9,
+  "limit": 49.98,
+  "new_start": 44.990249999999996,
+  "dur": 4.189958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esses químicos entram de três jeitos: respirando, bebendo e comendo."
+ },
+ {
+  "id": 5,
+  "start": 49.98,
+  "limit": 55.58,
+  "new_start": 50.070249999999994,
+  "dur": 5.01,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Respirar é aspirar oxigênio e expelir gás carbônico, que é mais pesado que o oxigênio."
+ },
+ {
+  "id": 6,
+  "start": 55.58,
+  "limit": 65.36,
+  "new_start": 55.670249999999996,
+  "dur": 8.019,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então os terráqueos perdem peso o tempo todo respirando, cerca de meio quilo por dia, que é reposto, claro, comendo e bebendo."
+ },
+ {
+  "id": 7,
+  "start": 65.36,
+  "limit": 68.32,
+  "new_start": 65.45025,
+  "dur": 1.948,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Comer é pôr alimento pela boca."
+ },
+ {
+  "id": 8,
+  "start": 68.32,
+  "limit": 72.66,
+  "new_start": 68.41024999999999,
+  "dur": 3.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A boca tem duas funções: triturar a comida e analisá-la."
+ },
+ {
+  "id": 9,
+  "start": 72.66,
+  "limit": 77.6,
+  "new_start": 72.75025,
+  "dur": 4.60575,
+  "speed": 1.04,
+  "k": 1.003188259109312,
+  "text_tgt": "Beber é basicamente igual, mas com líquidos, sobretudo ácido hidroxílico."
+ },
+ {
+  "id": 10,
+  "start": 77.6,
+  "limit": 86.02,
+  "new_start": 77.70599999999999,
+  "dur": 6.428,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Além do ácido hidroxílico, a comida tem três componentes principais: carboidratos, gordura e proteínas."
+ },
+ {
+  "id": 11,
+  "start": 86.02,
+  "limit": 88.02,
+  "new_start": 86.12599999999999,
+  "dur": 2.4074166666666668,
+  "speed": 1.35,
+  "k": 1.3787083333333334,
+  "text_tgt": "Os carboidratos são a principal fonte de energia do corpo."
+ },
+ {
+  "id": 12,
+  "start": 88.02,
+  "limit": 93.6,
+  "new_start": 88.88341666666666,
+  "dur": 4.798958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Lembra do açúcar, as moléculas energéticas que as plantas fazem com luz do sol e ar?"
+ },
+ {
+  "id": 13,
+  "start": 93.6,
+  "limit": 97.74,
+  "new_start": 94.46341666666666,
+  "dur": 3.54,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os açúcares mais simples são glicose, frutose e sacarose."
+ },
+ {
+  "id": 14,
+  "start": 97.74,
+  "limit": 105.92,
+  "new_start": 98.60341666666666,
+  "dur": 7.819,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A glicose parece uma rosquinha centauriana com uma bandeirinha, a frutose uma rosquinha menor com duas bandeirinhas, e a sacarose as duas coladas."
+ },
+ {
+  "id": 15,
+  "start": 105.92,
+  "limit": 110.46,
+  "new_start": 106.78341666666667,
+  "dur": 3.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Também existem versões não circulares dessas moléculas."
+ },
+ {
+  "id": 16,
+  "start": 110.46,
+  "limit": 115.6,
+  "new_start": 111.32341666666666,
+  "dur": 4.657958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bom, carboidratos são basicamente açúcar e tudo o que dá para montar com açúcar."
+ },
+ {
+  "id": 17,
+  "start": 115.6,
+  "limit": 125.2,
+  "new_start": 116.46341666666666,
+  "dur": 8.8,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, numa cadeia de glicose com todas as bandeirinhas para o mesmo lado, você tem o amido, boa fonte de energia, que está, por exemplo, no pão."
+ },
+ {
+  "id": 18,
+  "start": 125.2,
+  "limit": 132.98,
+  "new_start": 126.06341666666667,
+  "dur": 6.25,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas quando você alterna a orientação das bandeirinhas, tem a celulose, indigerível para as criaturas da Terra."
+ },
+ {
+  "id": 19,
+  "start": 132.98,
+  "limit": 135.14,
+  "new_start": 133.84341666666666,
+  "dur": 1.7,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Menos para os micróbios."
+ },
+ {
+  "id": 20,
+  "start": 137.72,
+  "limit": 145.62,
+  "new_start": 138.58341666666666,
+  "dur": 7.149,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Até animais que comem celulose, como vacas, não a digerem sozinhos: quem digere são os micróbios do intestino."
+ },
+ {
+  "id": 21,
+  "start": 145.62,
+  "limit": 150.94,
+  "new_start": 146.48341666666667,
+  "dur": 4.9855833333333335,
+  "speed": 1.043,
+  "k": 1.0029291979949888,
+  "text_tgt": "Um tipo especial de estrutura de celulose é a madeira, o material dos troncos das árvores."
+ },
+ {
+  "id": 22,
+  "start": 150.94,
+  "limit": 154.88,
+  "new_start": 151.81900000000002,
+  "dur": 3.6346666666666665,
+  "speed": 1.147,
+  "k": 1.0113367174280885,
+  "text_tgt": "São basicamente fibras de celulose presas numa matriz de lignina."
+ },
+ {
+  "id": 23,
+  "start": 154.88,
+  "limit": 160.2,
+  "new_start": 155.8036666666667,
+  "dur": 5.017166666666666,
+  "speed": 1.162,
+  "k": 1.0088659147869685,
+  "text_tgt": "A madeira também não é comestível, mas tem um papel importante na evolução da alimentação terráquea."
+ },
+ {
+  "id": 24,
+  "start": 160.2,
+  "limit": 162.4,
+  "new_start": 161.17083333333335,
+  "dur": 1.55,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Voltaremos a isso depois."
+ },
+ {
+  "id": 25,
+  "start": 162.4,
+  "limit": 165.9,
+  "new_start": 163.37083333333337,
+  "dur": 3.1805833333333333,
+  "speed": 1.091,
+  "k": 1.0087380952380953,
+  "text_tgt": "O segundo componente da comida terráquea são as gorduras."
+ },
+ {
+  "id": 26,
+  "start": 165.9,
+  "limit": 167.24,
+  "new_start": 166.9014166666667,
+  "dur": 0.9980416666666667,
+  "speed": 1.022,
+  "k": 1.006001243781092,
+  "text_tgt": "O que é gordura?"
+ },
+ {
+  "id": 27,
+  "start": 167.24,
+  "limit": 174.08,
+  "new_start": 168.24945833333337,
+  "dur": 6.509875,
+  "speed": 1.063,
+  "k": 1.0029057017543854,
+  "text_tgt": "Bem, moléculas de gordura parecem lulinhas gordas, com corpo de glicerol e três tentáculos de ácidos graxos."
+ },
+ {
+  "id": 28,
+  "start": 174.08,
+  "limit": 181.5,
+  "new_start": 175.10933333333335,
+  "dur": 5.819,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Átomos de hidrogênio faltando nos tentáculos criam dobras: aí falamos de ácidos graxos insaturados."
+ },
+ {
+  "id": 29,
+  "start": 181.5,
+  "limit": 188.14,
+  "new_start": 182.52933333333334,
+  "dur": 6.311916666666667,
+  "speed": 1.074,
+  "k": 1.003300702811247,
+  "text_tgt": "Enfim, as criaturas usam gordura sobretudo para guardar energia, por exemplo para sobreviver ao frio, quando falta comida."
+ },
+ {
+  "id": 30,
+  "start": 188.14,
+  "limit": 192.74,
+  "new_start": 189.19125,
+  "dur": 4.313041666666667,
+  "speed": 1.217,
+  "k": 1.0137047101449226,
+  "text_tgt": "Predadores, e terráqueos em especial, adoram comer a gordura de outras criaturas."
+ },
+ {
+  "id": 31,
+  "start": 192.74,
+  "limit": 198.14,
+  "new_start": 193.85429166666665,
+  "dur": 5.064875,
+  "speed": 1.048,
+  "k": 1.0027546296296337,
+  "text_tgt": "Nos países ricos, hoje há tanta comida que as pessoas costumam acumular gordura demais."
+ },
+ {
+  "id": 32,
+  "start": 198.14,
+  "limit": 206.88,
+  "new_start": 199.26916666666665,
+  "dur": 7.818958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tentam queimar gordura com exercícios físicos: quando o corpo queima gordura, produz mais gás carbônico, e assim perde mais peso."
+ },
+ {
+  "id": 33,
+  "start": 206.88,
+  "limit": 216.1,
+  "new_start": 208.00916666666666,
+  "dur": 7.129,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um jeito menos cansativo seria só baixar o aquecimento: no frio, o corpo terráqueo gasta energia para manter a temperatura."
+ },
+ {
+  "id": 34,
+  "start": 216.1,
+  "limit": 219.72,
+  "new_start": 217.22916666666666,
+  "dur": 3.05,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Estranhamente, esse método não é muito popular."
+ },
+ {
+  "id": 35,
+  "start": 219.72,
+  "limit": 223.1,
+  "new_start": 220.84916666666666,
+  "dur": 3.0813333333333333,
+  "speed": 1.168,
+  "k": 1.0151873767258397,
+  "text_tgt": "Agora, o terceiro componente da comida: as proteínas."
+ },
+ {
+  "id": 36,
+  "start": 223.1,
+  "limit": 230.98,
+  "new_start": 224.2805,
+  "dur": 7.5765416666666665,
+  "speed": 1.143,
+  "k": 1.005906302876481,
+  "text_tgt": "São nanomáquinas moleculares complexas que basicamente tocam o organismo em nível molecular, da força muscular à troca de mensagens."
+ },
+ {
+  "id": 37,
+  "start": 230.98,
+  "limit": 241.38,
+  "new_start": 232.20704166666667,
+  "dur": 9.56,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um tipo importante são os nanorrobôs chamados enzimas, que catalisam todo tipo de reação química, até tarefas complexas como copiar o código genético."
+ },
+ {
+  "id": 38,
+  "start": 241.38,
+  "limit": 246.02,
+  "new_start": 242.60704166666667,
+  "dur": 4.3300833333333335,
+  "speed": 1.127,
+  "k": 1.0086386494252841,
+  "text_tgt": "Os projetos desses nanorrobôs de proteína estão todos codificados no DNA."
+ },
+ {
+  "id": 39,
+  "start": 246.02,
+  "limit": 251.32,
+  "new_start": 247.287125,
+  "dur": 4.976791666666666,
+  "speed": 1.075,
+  "k": 1.005055031446544,
+  "text_tgt": "Mas como um código genético de uma dimensão contém projetos de nanomáquinas de três dimensões?"
+ },
+ {
+  "id": 40,
+  "start": 251.32,
+  "limit": 256.9,
+  "new_start": 252.61391666666668,
+  "dur": 5.233291666666666,
+  "speed": 1.003,
+  "k": 1.0005899044205524,
+  "text_tgt": "Bem, todas as proteínas são feitas de só vinte peças básicas, chamadas aminoácidos."
+ },
+ {
+  "id": 41,
+  "start": 256.9,
+  "limit": 260.62,
+  "new_start": 258.1972083333333,
+  "dur": 3.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essas peças se encaixam formando longas cadeias."
+ },
+ {
+  "id": 42,
+  "start": 260.62,
+  "limit": 269.82,
+  "new_start": 261.91720833333335,
+  "dur": 8.189,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É assim que se fazem proteínas: as sequências de DNA viram cadeias de aminoácidos, cada três pares de bases para um tipo de aminoácido."
+ },
+ {
+  "id": 43,
+  "start": 269.82,
+  "limit": 277.76,
+  "new_start": 271.11720833333334,
+  "dur": 7.277958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pronta a cadeia, ela se enrola sozinha numa coisa toda molenga, torta, enrolada e rodopiante: a proteína em si."
+ },
+ {
+  "id": 44,
+  "start": 277.76,
+  "limit": 291.7,
+  "new_start": 279.05720833333334,
+  "dur": 13.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Algumas dessas peças básicas o corpo terráqueo não sabe sintetizar, e precisa tirar de plantas e animais: ou comendo os pacotes de proteína que eles fazem para a prole, ou comendo o próprio corpo deles, sobretudo tecido muscular."
+ },
+ {
+  "id": 45,
+  "start": 291.7,
+  "limit": 297.04,
+  "new_start": 292.99720833333333,
+  "dur": 3.33,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essas peças se chamam aminoácidos essenciais."
+ },
+ {
+  "id": 46,
+  "start": 297.04,
+  "limit": 299.52,
+  "new_start": 298.33720833333336,
+  "dur": 1.37,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 47,
+  "start": 299.52,
+  "limit": 304.48,
+  "new_start": 300.8172083333333,
+  "dur": 4.646333333333334,
+  "speed": 1.117,
+  "k": 1.007325268817197,
+  "text_tgt": "Os terráqueos comem muita carne, e quase toda vem de animais domesticados, como vacas."
+ },
+ {
+  "id": 48,
+  "start": 304.48,
+  "limit": 310.34,
+  "new_start": 305.81354166666665,
+  "dur": 4.84,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então você pode ter a ideia de enfraquecê-los com uma abdução em massa de vacas."
+ },
+ {
+  "id": 49,
+  "start": 310.34,
+  "limit": 322.78,
+  "new_start": 311.6735416666666,
+  "dur": 8.009,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas a tática pode sair pela culatra: muitos nutricionistas e ecologistas terráqueos acham que eles comem carne demais, sobretudo nos países ricos."
+ },
+ {
+  "id": 50,
+  "start": 322.78,
+  "limit": 328.82,
+  "new_start": 324.1135416666666,
+  "dur": 4.349958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou seja, abduzindo as vacas, você pode até fazer um favor à Humanidade."
+ },
+ {
+  "id": 51,
+  "start": 328.82,
+  "limit": 342.2,
+  "new_start": 330.1535416666666,
+  "dur": 12.75,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Além de ácido hidroxílico, carboidratos, gordura e proteínas, os terráqueos precisam de outras coisas em menor quantidade, por exemplo ferro, cálcio, vitaminas e cloreto de sódio, também conhecido como sal."
+ },
+ {
+  "id": 52,
+  "start": 342.2,
+  "limit": 348.76,
+  "new_start": 343.5335416666666,
+  "dur": 5.65,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O sal é um composto iônico, unido não por um acordo de dividir elétrons, mas de emprestar."
+ },
+ {
+  "id": 53,
+  "start": 348.76,
+  "limit": 353.7,
+  "new_start": 350.0935416666666,
+  "dur": 4.673958333333333,
+  "speed": 1.322,
+  "k": 1.0169956140350882,
+  "text_tgt": "Um átomo de sódio empresta um elétron a um átomo de cloro, e os dois ficam com a camada externa completa."
+ },
+ {
+  "id": 54,
+  "start": 353.7,
+  "limit": 359.5,
+  "new_start": 355.11749999999995,
+  "dur": 4.518916666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso deixa os dois átomos carregados, ou seja, íons, e eles grudam."
+ },
+ {
+  "id": 55,
+  "start": 359.5,
+  "limit": 361.58,
+  "new_start": 360.91749999999996,
+  "dur": 1.7313333333333334,
+  "speed": 1.005,
+  "k": 1.0006410256410332,
+  "text_tgt": "Isso se chama ligação iônica."
+ },
+ {
+  "id": 56,
+  "start": 361.58,
+  "limit": 364.9,
+  "new_start": 362.9988333333333,
+  "dur": 2.86,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O sal é muito importante para o metabolismo terráqueo."
+ },
+ {
+  "id": 57,
+  "start": 364.9,
+  "limit": 369.02,
+  "new_start": 366.3188333333333,
+  "dur": 2.55,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já certas comidas são perigosas para o corpo."
+ },
+ {
+  "id": 58,
+  "start": 369.02,
+  "limit": 376.78,
+  "new_start": 370.4388333333333,
+  "dur": 6.72,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Principalmente comida infestada ou alterada por pequenos rivais ou parasitas, como micróbios, insetos ou fungos."
+ },
+ {
+  "id": 59,
+  "start": 376.78,
+  "limit": 379.56,
+  "new_start": 378.1988333333333,
+  "dur": 2.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse tipo de comida se chama podre."
+ },
+ {
+  "id": 60,
+  "start": 379.56,
+  "limit": 386.0,
+  "new_start": 380.97883333333334,
+  "dur": 5.418958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para separar comida boa de comida ruim ou podre, os terráqueos precisam analisá-la antes de comer."
+ },
+ {
+  "id": 61,
+  "start": 386.0,
+  "limit": 388.02,
+  "new_start": 387.41883333333334,
+  "dur": 1.73775,
+  "speed": 1.243,
+  "k": 1.0335396039604052,
+  "text_tgt": "Para isso servem o olfato e o paladar."
+ },
+ {
+  "id": 62,
+  "start": 388.02,
+  "limit": 395.6,
+  "new_start": 389.5065833333333,
+  "dur": 7.06,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O nariz e a boca têm conjuntos de sensores químicos, os quimiorreceptores, ligados ao sistema de recompensa do cérebro."
+ },
+ {
+  "id": 63,
+  "start": 395.6,
+  "limit": 403.02,
+  "new_start": 397.08658333333335,
+  "dur": 6.325333333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Basicamente, comida \"boa\" dá prazer e vontade de engolir, comida \"ruim\" dá desprazer e vontade de cuspir."
+ },
+ {
+  "id": 64,
+  "start": 403.02,
+  "limit": 412.44,
+  "new_start": 404.5065833333333,
+  "dur": 6.93,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O prazer também muda conforme as necessidades do corpo: depois de comer seis animais, o sétimo já não tem tanta graça."
+ },
+ {
+  "id": 65,
+  "start": 412.44,
+  "limit": 419.6,
+  "new_start": 413.9265833333333,
+  "dur": 6.728041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E o gosto por comida pode ser aprendido: muitos terráqueos aprenderam a apreciar comida podre, como queijo ou cerveja."
+ },
+ {
+  "id": 66,
+  "start": 419.6,
+  "limit": 421.7,
+  "new_start": 421.08658333333335,
+  "dur": 1.58,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Voltaremos a isso já já."
+ },
+ {
+  "id": 67,
+  "start": 421.7,
+  "limit": 425.48,
+  "new_start": 423.1865833333333,
+  "dur": 2.569958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O gosto também passa de geração em geração."
+ },
+ {
+  "id": 68,
+  "start": 425.48,
+  "limit": 427.56,
+  "new_start": 426.96658333333335,
+  "dur": 1.7699166666666666,
+  "speed": 1.13,
+  "k": 1.019190705128213,
+  "text_tgt": "Isso se chama cultura alimentar."
+ },
+ {
+  "id": 69,
+  "start": 427.56,
+  "limit": 434.1,
+  "new_start": 429.0865,
+  "dur": 5.59,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Há basicamente cinco tipos de gosto: o doce, o azedo, o salgado, o amargo e o umami."
+ },
+ {
+  "id": 70,
+  "start": 434.1,
+  "limit": 441.04,
+  "new_start": 435.6265,
+  "dur": 6.399,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O doce é o mais simples, uma sensação agradável que indica a fonte de energia preferida dos terráqueos: açúcar."
+ },
+ {
+  "id": 71,
+  "start": 441.04,
+  "limit": 446.98,
+  "new_start": 442.5665,
+  "dur": 5.628375,
+  "speed": 1.114,
+  "k": 1.006460437710438,
+  "text_tgt": "O azedo indica ácidos, como ácido cítrico ou vitamina C, presentes em muitas frutas."
+ },
+ {
+  "id": 72,
+  "start": 446.98,
+  "limit": 453.48,
+  "new_start": 448.54487500000005,
+  "dur": 4.498958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O salgado indica sobretudo íons de sódio, em especial do cloreto de sódio."
+ },
+ {
+  "id": 73,
+  "start": 453.48,
+  "limit": 459.2,
+  "new_start": 455.04487500000005,
+  "dur": 5.394,
+  "speed": 1.066,
+  "k": 1.0041958041958094,
+  "text_tgt": "O amargo é um gosto em geral desagradável, de alerta, que pode sugerir comida podre ou venenosa."
+ },
+ {
+  "id": 74,
+  "start": 459.2,
+  "limit": 463.48,
+  "new_start": 460.7888750000001,
+  "dur": 3.857,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O último, umami, indica um composto chamado glutamato."
+ },
+ {
+  "id": 75,
+  "start": 463.48,
+  "limit": 467.88,
+  "new_start": 465.0688750000001,
+  "dur": 3.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele está em muitas comidas e costuma ser sentido como saboroso."
+ },
+ {
+  "id": 76,
+  "start": 467.88,
+  "limit": 473.64,
+  "new_start": 469.4688750000001,
+  "dur": 4.869958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Talvez exista um sexto gosto, que indica gordura, mas por ora é só hipótese."
+ },
+ {
+  "id": 77,
+  "start": 473.64,
+  "limit": 486.6,
+  "new_start": 475.2288750000001,
+  "dur": 11.19,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Curiosamente, certas comidas não agem nos receptores de gosto, mas nos de temperatura da boca: o óleo de menta parece frio, já a comida dita \"apimentada\" ativa os receptores de calor, e pode até doer."
+ },
+ {
+  "id": 78,
+  "start": 486.6,
+  "limit": 495.0,
+  "new_start": 488.1888750000001,
+  "dur": 6.728,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Há um mito comum sobre o paladar: muitos terráqueos acham que os receptores de cada gosto ficam numa zona diferente da língua."
+ },
+ {
+  "id": 79,
+  "start": 495.0,
+  "limit": 503.08,
+  "new_start": 496.5888750000001,
+  "dur": 6.33,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É fácil desmentir, ainda mais sendo terráqueo: ponha algo doce no fundo da língua, ou algo amargo na ponta."
+ },
+ {
+  "id": 80,
+  "start": 503.08,
+  "limit": 508.84,
+  "new_start": 504.66887500000007,
+  "dur": 5.159958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mesmo assim, muitos terráqueos seguem crendo nessa bobagem em vez de testar por conta própria."
+ },
+ {
+  "id": 81,
+  "start": 508.84,
+  "limit": 512.22,
+  "new_start": 510.42887500000006,
+  "dur": 3.0749583333333335,
+  "speed": 1.147,
+  "k": 1.0133012820512663,
+  "text_tgt": "Bom, de onde os terráqueos tiram tanta coisa comestível?"
+ },
+ {
+  "id": 82,
+  "start": 512.22,
+  "limit": 521.48,
+  "new_start": 513.8538333333333,
+  "dur": 7.63,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No início da Humanidade, do mesmo jeito que os animais: caçando animais, colhendo frutos e sementes, e devorando as partes comestíveis."
+ },
+ {
+  "id": 83,
+  "start": 521.48,
+  "limit": 526.6,
+  "new_start": 523.1138333333333,
+  "dur": 4.794375,
+  "speed": 1.07,
+  "k": 1.004760742187499,
+  "text_tgt": "Mas em algum momento fizeram uma descoberta importante: a digestão externa artificial."
+ },
+ {
+  "id": 84,
+  "start": 526.6,
+  "limit": 529.78,
+  "new_start": 528.2582083333333,
+  "dur": 2.834625,
+  "speed": 1.016,
+  "k": 1.001454402515739,
+  "text_tgt": "É parecido com métodos de outras raças da galáxia."
+ },
+ {
+  "id": 85,
+  "start": 529.78,
+  "limit": 537.48,
+  "new_start": 531.4428333333333,
+  "dur": 6.359041666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os Snuglings de Karaxi-2, por exemplo, vivem sob densas nuvens que os protegem da radiação mortal do seu sol."
+ },
+ {
+  "id": 86,
+  "start": 537.48,
+  "limit": 543.28,
+  "new_start": 539.1428333333333,
+  "dur": 5.309958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Eles comem criaturas chamadas frooks, mas certos frooks são difíceis de matar e de digerir."
+ },
+ {
+  "id": 87,
+  "start": 543.28,
+  "limit": 549.16,
+  "new_start": 544.9428333333333,
+  "dur": 5.567458333333334,
+  "speed": 1.119,
+  "k": 1.0063704648526084,
+  "text_tgt": "Então os Snuglings catapultam os frooks acima das nuvens, onde os raios gama do sol os assam."
+ },
+ {
+  "id": 88,
+  "start": 549.16,
+  "limit": 554.54,
+  "new_start": 550.8602916666666,
+  "dur": 4.0,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando caem, estão mais fáceis de digerir, e também mortos."
+ },
+ {
+  "id": 89,
+  "start": 554.54,
+  "limit": 563.64,
+  "new_start": 556.2402916666666,
+  "dur": 7.599,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uns 400000 ciclos solares atrás, os terráqueos descobriram um método parecido para tornar a comida digerível: o fogo!"
+ },
+ {
+  "id": 90,
+  "start": 563.64,
+  "limit": 566.84,
+  "new_start": 565.3402916666666,
+  "dur": 2.875125,
+  "speed": 1.081,
+  "k": 1.0078515624999858,
+  "text_tgt": "Lembra da madeira, aquela estrutura dura de celulose?"
+ },
+ {
+  "id": 91,
+  "start": 566.84,
+  "limit": 572.08,
+  "new_start": 568.5654166666667,
+  "dur": 4.529958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Madeira seca queima fácil, e não é difícil fazer fogo com pedaços dela."
+ },
+ {
+  "id": 92,
+  "start": 572.08,
+  "limit": 586.36,
+  "new_start": 573.8054166666667,
+  "dur": 12.85,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No começo, usavam o fogo para se aquecer e espantar predadores, mas uns 250000 ciclos solares atrás descobriram que certas comidas, sobretudo carne, mudam de gosto e textura depois de um tempo no fogo."
+ },
+ {
+  "id": 93,
+  "start": 586.36,
+  "limit": 588.64,
+  "new_start": 588.0854166666667,
+  "dur": 1.4,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama assar."
+ },
+ {
+  "id": 94,
+  "start": 588.64,
+  "limit": 591.1,
+  "new_start": 590.3654166666666,
+  "dur": 1.8453333333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas por que os terráqueos fazem isso?"
+ },
+ {
+  "id": 95,
+  "start": 591.1,
+  "limit": 594.02,
+  "new_start": 592.8254166666667,
+  "dur": 2.0,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, há vários motivos para assar."
+ },
+ {
+  "id": 96,
+  "start": 594.02,
+  "limit": 597.68,
+  "new_start": 595.7454166666666,
+  "dur": 3.198,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Primeiro, o calor mata a maioria dos micróbios da comida."
+ },
+ {
+  "id": 97,
+  "start": 597.68,
+  "limit": 605.92,
+  "new_start": 599.4054166666666,
+  "dur": 7.905916666666666,
+  "speed": 1.041,
+  "k": 1.001931634304206,
+  "text_tgt": "Segundo, a temperatura quebra moléculas como o amido e desdobra certas proteínas, e a comida fica mais fácil de mastigar e de digerir."
+ },
+ {
+  "id": 98,
+  "start": 605.92,
+  "limit": 612.48,
+  "new_start": 607.6613333333332,
+  "dur": 4.957958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No fundo, assar é uma pré-digestão externa, usando a energia química da madeira."
+ },
+ {
+  "id": 99,
+  "start": 612.48,
+  "limit": 616.84,
+  "new_start": 614.2213333333333,
+  "dur": 4.0335833333333335,
+  "speed": 1.071,
+  "k": 1.0054090214067246,
+  "text_tgt": "Ao assar, a comida muitas vezes ganha uma crosta marrom e crocante."
+ },
+ {
+  "id": 100,
+  "start": 616.84,
+  "limit": 619.74,
+  "new_start": 618.6049166666667,
+  "dur": 2.1,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama \"reação de Maillard\"."
+ },
+ {
+  "id": 101,
+  "start": 619.74,
+  "limit": 623.64,
+  "new_start": 621.5049166666666,
+  "dur": 3.567375,
+  "speed": 1.054,
+  "k": 1.0044551282051342,
+  "text_tgt": "Basicamente, é uma reação entre açúcar e aminoácidos."
+ },
+ {
+  "id": 102,
+  "start": 623.64,
+  "limit": 625.94,
+  "new_start": 625.4222916666666,
+  "dur": 2.0,
+  "speed": 1.165,
+  "k": 1.0217391304347523,
+  "text_tgt": "Os terráqueos adoram o gosto dessa crosta."
+ },
+ {
+  "id": 103,
+  "start": 625.94,
+  "limit": 632.0,
+  "new_start": 627.7722916666667,
+  "dur": 5.467958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, muitos terráqueos acham que assar a carne \"sela os sucos\", mas isso é bobagem."
+ },
+ {
+  "id": 104,
+  "start": 632.0,
+  "limit": 637.2,
+  "new_start": 633.8322916666666,
+  "dur": 4.907583333333333,
+  "speed": 1.19,
+  "k": 1.011073717948709,
+  "text_tgt": "Outro jeito de esquentar a comida é fervê-la: mergulhar a comida em ácido hidroxílico fervendo."
+ },
+ {
+  "id": 105,
+  "start": 637.2,
+  "limit": 644.68,
+  "new_start": 639.0898749999999,
+  "dur": 6.629,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A diferença é que a temperatura não passa do ponto de fervura do ácido hidroxílico, e não há reação de Maillard."
+ },
+ {
+  "id": 106,
+  "start": 644.68,
+  "limit": 650.22,
+  "new_start": 646.5698749999998,
+  "dur": 3.459,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No fundo, é só outra versão da mesma pré-digestão externa."
+ },
+ {
+  "id": 107,
+  "start": 650.22,
+  "limit": 655.52,
+  "new_start": 652.1098749999999,
+  "dur": 4.976708333333334,
+  "speed": 1.075,
+  "k": 1.0050393081761093,
+  "text_tgt": "Ferver e assar fazem parte do que os terráqueos fazem com a comida antes de comer: cozinhar."
+ },
+ {
+  "id": 108,
+  "start": 655.52,
+  "limit": 660.84,
+  "new_start": 657.4365833333333,
+  "dur": 5.046916666666666,
+  "speed": 1.278,
+  "k": 1.0144580200501156,
+  "text_tgt": "E terráqueos não seriam terráqueos se não tivessem feito da culinária uma parte elaborada da cultura."
+ },
+ {
+  "id": 109,
+  "start": 660.84,
+  "limit": 667.76,
+  "new_start": 662.8335,
+  "dur": 6.11,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Cozinhar também inclui cortar e fatiar a comida, misturar e combinar vários ingredientes, e temperar."
+ },
+ {
+  "id": 110,
+  "start": 667.76,
+  "limit": 680.18,
+  "new_start": 669.7534999999999,
+  "dur": 10.699,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Temperar é pôr ingredientes que mudam o gosto, quase sempre para aumentar o prazer de comer: mais um exemplo de terráqueos burlando o sistema de recompensa do cérebro por um prazer biologicamente inútil."
+ },
+ {
+  "id": 111,
+  "start": 680.18,
+  "limit": 681.58,
+  "new_start": 682.1734999999999,
+  "dur": 1.102625,
+  "speed": 1.179,
+  "k": 1.0375892857142182,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 112,
+  "start": 681.58,
+  "limit": 686.48,
+  "new_start": 683.6261249999999,
+  "dur": 4.5620416666666666,
+  "speed": 1.039,
+  "k": 1.0024574829932018,
+  "text_tgt": "Se o seu metabolismo é à base de hidrocarbonetos, você pode visitar um restaurante."
+ },
+ {
+  "id": 113,
+  "start": 686.48,
+  "limit": 691.68,
+  "new_start": 688.5381666666666,
+  "dur": 4.438958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Lá dá para observar os hábitos alimentares dos terráqueos, e até provar a comida."
+ },
+ {
+  "id": 114,
+  "start": 691.68,
+  "limit": 697.24,
+  "new_start": 693.7381666666665,
+  "dur": 4.259,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas cuidado com as bebidas terráqueas, elas costumam ter efeitos surpreendentes."
+ },
+ {
+  "id": 115,
+  "start": 697.24,
+  "limit": 705.86,
+  "new_start": 699.2981666666666,
+  "dur": 8.278916666666667,
+  "speed": 1.029,
+  "k": 1.0010344160866198,
+  "text_tgt": "Uns 10000 ciclos solares atrás, veio uma segunda descoberta: terráqueos do planeta todo começaram a cultivar comida e criar animais."
+ },
+ {
+  "id": 116,
+  "start": 705.86,
+  "limit": 714.48,
+  "new_start": 707.9270833333333,
+  "dur": 7.989,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Basicamente, viraram bioadministradores de pequena escala, criando novas espécies de plantas e animais conforme suas necessidades."
+ },
+ {
+  "id": 117,
+  "start": 714.48,
+  "limit": 716.32,
+  "new_start": 716.5470833333333,
+  "dur": 1.512625,
+  "speed": 1.071,
+  "k": 1.0122961956521563,
+  "text_tgt": "Isso se chama agricultura."
+ },
+ {
+  "id": 118,
+  "start": 716.32,
+  "limit": 721.3,
+  "new_start": 718.4097083333332,
+  "dur": 4.649583333333333,
+  "speed": 1.056,
+  "k": 1.0039323962516926,
+  "text_tgt": "Hoje virou uma produção industrial capaz de alimentar sete bilhões de terráqueos."
+ },
+ {
+  "id": 119,
+  "start": 721.3,
+  "limit": 723.5,
+  "new_start": 723.4092916666666,
+  "dur": 1.12,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, quase."
+ },
+ {
+  "id": 120,
+  "start": 723.5,
+  "limit": 729.62,
+  "new_start": 725.6092916666666,
+  "dur": 5.797,
+  "speed": 1.091,
+  "k": 1.0044117647058814,
+  "text_tgt": "Um dos aspectos mais estranhos da cultura alimentar é o hábito terráqueo de deixar a comida apodrecer de forma controlada."
+ },
+ {
+  "id": 121,
+  "start": 729.62,
+  "limit": 732.54,
+  "new_start": 731.7562916666667,
+  "dur": 2.770375,
+  "speed": 1.35,
+  "k": 1.0686215753424808,
+  "text_tgt": "Um exemplo são as bebidas alcoólicas, como vinho ou cerveja."
+ },
+ {
+  "id": 122,
+  "start": 732.54,
+  "limit": 737.72,
+  "new_start": 734.8766666666667,
+  "dur": 3.89,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O vinho, por exemplo, é suco podre de frutas chamadas uvas."
+ },
+ {
+  "id": 123,
+  "start": 737.72,
+  "limit": 743.46,
+  "new_start": 740.0566666666667,
+  "dur": 5.119,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "As bebidas alcoólicas têm um efeito especial no cérebro: falaremos disso em outro episódio."
+ },
+ {
+  "id": 124,
+  "start": 743.46,
+  "limit": 752.18,
+  "new_start": 745.7966666666667,
+  "dur": 7.229,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Outro exemplo de comida podre de propósito são o iogurte e o queijo: leite alterado por micróbios, num processo que pode levar meses."
+ },
+ {
+  "id": 125,
+  "start": 752.18,
+  "limit": 755.9,
+  "new_start": 754.5166666666667,
+  "dur": 3.4457916666666666,
+  "speed": 1.274,
+  "k": 1.0203741039426448,
+  "text_tgt": "O queijo às vezes é até exposto a fungos que o fazem apodrecer ainda mais."
+ },
+ {
+  "id": 126,
+  "start": 755.9,
+  "limit": 763.9,
+  "new_start": 758.3124583333333,
+  "dur": 6.09,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso transforma o gosto simples do leite num gosto mais complexo, às vezes até com um toque amargo."
+ },
+ {
+  "id": 127,
+  "start": 763.9,
+  "limit": 775.58,
+  "new_start": 766.3124583333333,
+  "dur": 11.229,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Em geral, comer é uma atividade social muito ritualizada: grupos comem juntos, amigos se unem dividindo uma refeição, e rituais de acasalamento muitas vezes envolvem comer juntos em público."
+ },
+ {
+  "id": 128,
+  "start": 775.58,
+  "limit": 782.42,
+  "new_start": 777.9924583333334,
+  "dur": 5.788,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas, apesar dos rituais sofisticados, os terráqueos mantêm hábitos dos ancestrais das cavernas."
+ },
+ {
+  "id": 129,
+  "start": 782.42,
+  "limit": 791.66,
+  "new_start": 784.8324583333333,
+  "dur": 7.619,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Observei várias famílias terráqueas em que a mãe cozinha, mas chama o pai para cortar o assado: na pré-história, tarefa do chefe da tribo."
+ },
+ {
+  "id": 130,
+  "start": 791.66,
+  "limit": 798.8,
+  "new_start": 794.0724583333333,
+  "dur": 5.42,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E muitos homens gostam de assar carne no fogo aberto, como os caçadores de mamute de antigamente."
+ },
+ {
+  "id": 131,
+  "start": 798.8,
+  "limit": 805.82,
+  "new_start": 801.2124583333333,
+  "dur": 6.7275833333333335,
+  "speed": 1.204,
+  "k": 1.0082027540360736,
+  "text_tgt": "Estranhamente, os terráqueos costumam separar os lanches \"doces\" de açúcar das refeições \"salgadas\", maiores, com todo tipo de nutriente."
+ },
+ {
+  "id": 132,
+  "start": 805.82,
+  "limit": 816.34,
+  "new_start": 808.2900416666666,
+  "dur": 8.489,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Talvez porque cada refeição tem uma função: o lanche doce dá um pico rápido de energia, muitas vezes reforçado por drogas estimulantes, como café ou cigarro."
+ },
+ {
+  "id": 133,
+  "start": 816.34,
+  "limit": 822.96,
+  "new_start": 818.8100416666666,
+  "dur": 4.139958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já as refeições salgadas fornecem todo tipo de nutriente a longo prazo."
+ },
+ {
+  "id": 134,
+  "start": 822.96,
+  "limit": 830.68,
+  "new_start": 825.4300416666666,
+  "dur": 7.372,
+  "speed": 1.016,
+  "k": 1.000259067357524,
+  "text_tgt": "Às vezes, a refeição \"salgada\" é seguida de um lanche doce, talvez para dar a energia necessária para digerir a tal refeição."
+ },
+ {
+  "id": 135,
+  "start": 830.68,
+  "limit": 834.16,
+  "new_start": 833.1520416666666,
+  "dur": 1.38,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama sobremesa."
+ },
+ {
+  "id": 136,
+  "start": 834.16,
+  "limit": 835.6,
+  "new_start": 836.6320416666666,
+  "dur": 1.1474166666666668,
+  "speed": 1.194,
+  "k": 1.0398726851851456,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 137,
+  "start": 835.6,
+  "limit": 840.82,
+  "new_start": 838.1294583333333,
+  "dur": 4.917416666666667,
+  "speed": 1.151,
+  "k": 1.0090836526181302,
+  "text_tgt": "Um manual alienígena clássico explica que dá para usar comida para condicionar filhotes de terráqueo."
+ },
+ {
+  "id": 138,
+  "start": 840.82,
+  "limit": 849.34,
+  "new_start": 843.396875,
+  "dur": 8.228458333333334,
+  "speed": 1.204,
+  "k": 1.0068613067292667,
+  "text_tgt": "Mostre a eles uma série de imagens: se apertarem \"curtir\", ganham chocolate, se apertarem \"não curtir\", ganham espinafre, um vegetal que muitos filhotes odeiam."
+ },
+ {
+  "id": 139,
+  "start": 849.34,
+  "limit": 855.18,
+  "new_start": 851.9753333333333,
+  "dur": 3.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Resultado: eles vão começar a curtir todas as imagens."
+ },
+ {
+  "id": 140,
+  "start": 855.18,
+  "limit": 864.56,
+  "new_start": 857.8153333333332,
+  "dur": 8.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Só que esse experimento foi feito tantas vezes que hoje inúmeros ex-abduzidos sentem um desejo compulsivo de apertar \"curtir\" o dia todo."
+ },
+ {
+  "id": 141,
+  "start": 864.56,
+  "limit": 873.88,
+  "new_start": 867.1953333333332,
+  "dur": 8.992458333333333,
+  "speed": 1.062,
+  "k": 1.0024096924177341,
+  "text_tgt": "Além disso, muitas vítimas sentem uma vontade compulsiva de usar a palavra \"tipo\" o máximo possível, tipo, em toda santa frase, tipo, o dia inteiro."
+ },
+ {
+  "id": 142,
+  "start": 873.88,
+  "limit": 883.14,
+  "new_start": 876.5377916666665,
+  "dur": 8.934583333333334,
+  "speed": 1.07,
+  "k": 1.0026547876169918,
+  "text_tgt": "Se eu fosse, tipo, um terráqueo que tem, tipo, sentimentos, eu ficaria, tipo, triste por esses pobres abduzidos, que ficam, tipo, limitados na fala pelo, tipo, resto da vida."
+ },
+ {
+  "id": 143,
+  "start": 883.14,
+  "limit": 890.98,
+  "new_start": 885.8223749999999,
+  "dur": 7.513916666666667,
+  "speed": 1.078,
+  "k": 1.003050595238091,
+  "text_tgt": "Um recado aos meus espectadores terráqueos: fiquem tranquilos, se sentirem vontade de clicar em \"curtir\" agora, não quer dizer que foram condicionados."
+ },
+ {
+  "id": 144,
+  "start": 890.98,
+  "limit": 893.72,
+  "new_start": 893.6862916666665,
+  "dur": 1.98,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Talvez vocês só curtam meus vídeos."
+ },
+ {
+  "id": 145,
+  "start": 893.72,
+  "limit": 903.86,
+  "new_start": 896.4262916666665,
+  "dur": 9.804666666666666,
+  "speed": 1.029,
+  "k": 1.0014464168310335,
+  "text_tgt": "Um sinal seguro de que vocês não foram manipulados seria a vontade de clicar também em \"inscrever-se\" e em \"compartilhar\", já que esses botões não faziam parte do experimento."
+ },
+ {
+  "id": 146,
+  "start": 903.86,
+  "limit": 906.88,
+  "new_start": 906.5809583333332,
+  "dur": 2.72575,
+  "speed": 1.185,
+  "k": 1.0184602649006684,
+  "text_tgt": "Por favor, não pensem que estou tentando manipular vocês."
+ },
+ {
+  "id": 147,
+  "start": 906.88,
+  "limit": 909.36,
+  "new_start": 909.6567083333332,
+  "dur": 1.01,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não é o meu estilo."
+ },
+ {
+  "id": 148,
+  "start": 909.36,
+  "limit": 912.24,
+  "new_start": 912.1367083333332,
+  "dur": 2.568875,
+  "speed": 1.125,
+  "k": 1.0134982638888905,
+  "text_tgt": "Este foi o nono episódio de Terráqueos 101."
+ },
+ {
+  "id": 149,
+  "start": 912.24,
+  "limit": 921.98,
+  "new_start": 915.0555833333332,
+  "dur": 8.179,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Da próxima vez falaremos da linguagem: como funciona, como surgiu, e por que as causas do seu aparente declínio são justamente as forças que a constroem."
+ },
+ {
+  "id": 150,
+  "start": 921.98,
+  "limit": 925.85,
+  "new_start": 924.7955833333332,
+  "dur": 3.5853333333333333,
+  "speed": 1.23,
+  "k": 1.0168819982773458,
+  "text_tgt": "Obrigado por assistir, e como sempre: não se esqueça de ser alienígena!"
+ }
+]

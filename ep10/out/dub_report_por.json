@@ -1,0 +1,1622 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 1.98,
+  "new_start": 0.0,
+  "dur": 1.7755416666666666,
+  "speed": 1.35,
+  "k": 1.0735058922558922,
+  "text_tgt": "Saudações, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 1.98,
+  "limit": 4.7,
+  "new_start": 2.1255416666666664,
+  "dur": 2.4122916666666665,
+  "speed": 1.14,
+  "k": 1.015548406862745,
+  "text_tgt": "Este é o décimo episódio de Terráqueos 101."
+ },
+ {
+  "id": 3,
+  "start": 4.7,
+  "limit": 8.96,
+  "new_start": 4.887833333333333,
+  "dur": 3.9739583333333335,
+  "speed": 1.228,
+  "k": 1.0150136932707354,
+  "text_tgt": "Hoje vamos aprender sobre a forma de comunicação favorita dos terráqueos: a língua."
+ },
+ {
+  "id": 4,
+  "start": 41.94,
+  "limit": 47.14,
+  "new_start": 42.19179166666666,
+  "dur": 4.379,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma língua é um código acústico, produzido pela boca e captado pelos ouvidos."
+ },
+ {
+  "id": 5,
+  "start": 47.14,
+  "limit": 52.66,
+  "new_start": 47.39179166666666,
+  "dur": 5.2,
+  "speed": 1.09,
+  "k": 1.0054347826086965,
+  "text_tgt": "A informação vai em grupos de sons chamados palavras, enfileiradas em sequências chamadas frases."
+ },
+ {
+  "id": 6,
+  "start": 52.66,
+  "limit": 58.8,
+  "new_start": 52.94179166666666,
+  "dur": 5.369958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma frase pode, por exemplo, informar que certo veículo está infestado por certo tipo de animal."
+ },
+ {
+  "id": 7,
+  "start": 58.8,
+  "limit": 62.22,
+  "new_start": 59.08179166666666,
+  "dur": 2.75,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A língua também pode ser transmitida em forma visual."
+ },
+ {
+  "id": 8,
+  "start": 62.22,
+  "limit": 63.72,
+  "new_start": 62.50179166666666,
+  "dur": 1.1634583333333333,
+  "speed": 1.04,
+  "k": 1.0089722222222222,
+  "text_tgt": "Isso se chama escrita."
+ },
+ {
+  "id": 9,
+  "start": 63.72,
+  "limit": 66.52,
+  "new_start": 64.01525,
+  "dur": 2.36,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos falar da escrita em outro episódio."
+ },
+ {
+  "id": 10,
+  "start": 66.52,
+  "limit": 70.0,
+  "new_start": 66.81524999999999,
+  "dur": 3.08,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "As muitas línguas da Terra têm raízes muito antigas."
+ },
+ {
+  "id": 11,
+  "start": 70.0,
+  "limit": 76.88,
+  "new_start": 70.29525,
+  "dur": 6.565041666666667,
+  "speed": 1.115,
+  "k": 1.0050932655038767,
+  "text_tgt": "Como a história terráquea é um caos de conquistas e migrações, as línguas vivem se misturando, fundindo e dividindo."
+ },
+ {
+  "id": 12,
+  "start": 76.88,
+  "limit": 79.6,
+  "new_start": 77.21029166666666,
+  "dur": 2.3989166666666666,
+  "speed": 1.088,
+  "k": 1.0106311274509807,
+  "text_tgt": "Além disso, as línguas estão sempre mudando."
+ },
+ {
+  "id": 13,
+  "start": 79.6,
+  "limit": 82.3,
+  "new_start": 79.95920833333332,
+  "dur": 1.84,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Voltaremos a isso mais tarde."
+ },
+ {
+  "id": 14,
+  "start": 82.3,
+  "limit": 87.18,
+  "new_start": 82.65920833333332,
+  "dur": 4.550375,
+  "speed": 1.061,
+  "k": 1.0041752049180306,
+  "text_tgt": "Para entender a língua, precisamos entender como os terráqueos modelam o mundo na mente."
+ },
+ {
+  "id": 15,
+  "start": 87.18,
+  "limit": 94.84,
+  "new_start": 87.55958333333332,
+  "dur": 7.337041666666667,
+  "speed": 1.074,
+  "k": 1.0035302436901659,
+  "text_tgt": "A maioria dos alienígenas vê o mundo físico como o chamado \"conglomerado\": uma espécie de sopa de energia quadridimensional no espaço-tempo."
+ },
+ {
+  "id": 16,
+  "start": 94.84,
+  "limit": 102.02,
+  "new_start": 95.246625,
+  "dur": 6.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas os terráqueos não veem assim: primeiro, para eles, espaço e tempo são coisas totalmente separadas."
+ },
+ {
+  "id": 17,
+  "start": 102.02,
+  "limit": 106.52,
+  "new_start": 102.42662499999999,
+  "dur": 4.238458333333333,
+  "speed": 1.342,
+  "k": 1.0196574074074072,
+  "text_tgt": "Segundo, a visão de mundo deles gira em torno da matéria: energia abaixo da velocidade da luz."
+ },
+ {
+  "id": 18,
+  "start": 106.52,
+  "limit": 113.1,
+  "new_start": 107.01508333333332,
+  "dur": 5.54,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para descrever a matéria, eles têm três conceitos: coisas, propriedades e ações."
+ },
+ {
+  "id": 19,
+  "start": 113.1,
+  "limit": 116.24,
+  "new_start": 113.59508333333332,
+  "dur": 2.850041666666667,
+  "speed": 1.207,
+  "k": 1.0191215498938428,
+  "text_tgt": "As coisas são, digamos, o macarrão da sopa de energia."
+ },
+ {
+  "id": 20,
+  "start": 116.24,
+  "limit": 119.94,
+  "new_start": 116.79512499999998,
+  "dur": 3.4233333333333333,
+  "speed": 1.259,
+  "k": 1.019819819819819,
+  "text_tgt": "Uma coisa é um monte de matéria conectada, em geral com um formato próprio."
+ },
+ {
+  "id": 21,
+  "start": 119.94,
+  "limit": 122.36,
+  "new_start": 120.56845833333331,
+  "dur": 1.8453333333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, uma fruta é uma coisa."
+ },
+ {
+  "id": 22,
+  "start": 122.36,
+  "limit": 125.88,
+  "new_start": 122.98845833333331,
+  "dur": 3.251916666666667,
+  "speed": 1.31,
+  "k": 1.0232717803030316,
+  "text_tgt": "Meia fruta não é uma coisa, a menos que você corte a fruta em duas."
+ },
+ {
+  "id": 23,
+  "start": 125.88,
+  "limit": 129.3,
+  "new_start": 126.59037499999998,
+  "dur": 3.1571666666666665,
+  "speed": 1.336,
+  "k": 1.0254873294346931,
+  "text_tgt": "Duas frutas não são uma coisa, a menos que estejam ligadas de algum jeito."
+ },
+ {
+  "id": 24,
+  "start": 129.3,
+  "limit": 132.56,
+  "new_start": 130.09754166666664,
+  "dur": 3.8510833333333334,
+  "speed": 1.35,
+  "k": 1.288675869120658,
+  "text_tgt": "Por outro lado, uma árvore frutífera também é uma coisa, assim como uma semente."
+ },
+ {
+  "id": 25,
+  "start": 132.56,
+  "limit": 140.1,
+  "new_start": 134.298625,
+  "dur": 7.231166666666667,
+  "speed": 1.14,
+  "k": 1.0054597701149435,
+  "text_tgt": "Num sentido mais amplo, coisa é tudo que tem forma e parece um monte de matéria conectada, como a lua, uma nuvem ou uma sombra."
+ },
+ {
+  "id": 26,
+  "start": 140.1,
+  "limit": 147.38,
+  "new_start": 141.87979166666665,
+  "dur": 6.878958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Segundo o Sixty Symbols, a \"maior coisa do universo\" é um aglomerado de 73 quasares com 4 bilhões de anos-luz."
+ },
+ {
+  "id": 27,
+  "start": 147.38,
+  "limit": 150.08,
+  "new_start": 149.15979166666665,
+  "dur": 2.711125,
+  "speed": 1.35,
+  "k": 1.133749999999993,
+  "text_tgt": "As coisas são descritas por palavras-coisa, os substantivos."
+ },
+ {
+  "id": 28,
+  "start": 150.08,
+  "limit": 159.8,
+  "new_start": 152.22091666666665,
+  "dur": 9.374375,
+  "speed": 1.007,
+  "k": 1.0004501028806585,
+  "text_tgt": "Ninguém consegue criar uma palavra nova para cada coisa do mundo, então os terráqueos agrupam coisas parecidas numa categoria e usam a mesma palavra, por exemplo, \"estrela\"."
+ },
+ {
+  "id": 29,
+  "start": 159.8,
+  "limit": 169.86,
+  "new_start": 161.94529166666666,
+  "dur": 8.85,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Toda criatura multicelular que faz fotossíntese é \"planta\", toda planta grande de tronco lenhoso é \"árvore\", e toda criatura móvel que come outras é \"animal\"."
+ },
+ {
+  "id": 30,
+  "start": 169.86,
+  "limit": 172.14,
+  "new_start": 172.00529166666666,
+  "dur": 1.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Menos os micróbios."
+ },
+ {
+  "id": 31,
+  "start": 175.42,
+  "limit": 182.9,
+  "new_start": 177.56529166666664,
+  "dur": 7.1859166666666665,
+  "speed": 1.194,
+  "k": 1.0074754901960759,
+  "text_tgt": "Usar a mesma palavra para coisas parecidas não é só um truque para simplificar: agrupar coisas em categorias é algo básico da mente terráquea."
+ },
+ {
+  "id": 32,
+  "start": 182.9,
+  "limit": 190.68,
+  "new_start": 185.10120833333332,
+  "dur": 7.329958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ajuda a ganhar e reter conhecimento, por exemplo, o de que é melhor correr se você vir qualquer coisa da categoria \"velociraptor zumbi\"."
+ },
+ {
+  "id": 33,
+  "start": 190.68,
+  "limit": 195.06,
+  "new_start": 192.88120833333332,
+  "dur": 4.085041666666666,
+  "speed": 1.187,
+  "k": 1.0125665905631667,
+  "text_tgt": "O segundo conceito são as propriedades: rótulos que a mente cola nas coisas."
+ },
+ {
+  "id": 34,
+  "start": 195.06,
+  "limit": 200.02,
+  "new_start": 197.31625,
+  "dur": 4.409958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma propriedade é um atributo comum a várias coisas, como \"grande\" ou \"verde\"."
+ },
+ {
+  "id": 35,
+  "start": 200.02,
+  "limit": 203.62,
+  "new_start": 202.27625,
+  "dur": 3.2705,
+  "speed": 1.061,
+  "k": 1.005694444444446,
+  "text_tgt": "As propriedades são, digamos, o sabor do macarrão na sopa."
+ },
+ {
+  "id": 36,
+  "start": 203.62,
+  "limit": 207.82,
+  "new_start": 205.89675,
+  "dur": 3.85275,
+  "speed": 1.012,
+  "k": 1.0006547619047645,
+  "text_tgt": "Elas são indicadas por outro tipo de palavra, os adjetivos."
+ },
+ {
+  "id": 37,
+  "start": 207.82,
+  "limit": 216.2,
+  "new_start": 210.0995,
+  "dur": 8.067416666666666,
+  "speed": 1.113,
+  "k": 1.0044649960222758,
+  "text_tgt": "Coisas e propriedades são ótimas para descrever o status quo, uma fatia do espaço-tempo, mas para descrever processos no tempo precisamos de algo mais."
+ },
+ {
+  "id": 38,
+  "start": 216.2,
+  "limit": 219.46,
+  "new_start": 218.51691666666667,
+  "dur": 2.81,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É aí que entra o terceiro conceito: as ações."
+ },
+ {
+  "id": 39,
+  "start": 219.46,
+  "limit": 225.46,
+  "new_start": 221.7769166666667,
+  "dur": 5.652166666666667,
+  "speed": 1.012,
+  "k": 1.000361111111111,
+  "text_tgt": "Uma ação é qualquer processo que muda a posição de um ou mais objetos, ou suas propriedades."
+ },
+ {
+  "id": 40,
+  "start": 225.46,
+  "limit": 230.36,
+  "new_start": 227.77908333333335,
+  "dur": 4.388958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Em geral, pensa-se que a ação parte de uma coisa, o \"sujeito\" da ação."
+ },
+ {
+  "id": 41,
+  "start": 230.36,
+  "limit": 233.94,
+  "new_start": 232.67908333333335,
+  "dur": 3.2664166666666667,
+  "speed": 1.111,
+  "k": 1.01017225325885,
+  "text_tgt": "Algumas ações afetam outras coisas, os \"objetos\" da ação."
+ },
+ {
+  "id": 42,
+  "start": 233.94,
+  "limit": 239.7,
+  "new_start": 236.29550000000003,
+  "dur": 4.03,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse conceito está ligado à causalidade, que vou explicar em outro episódio."
+ },
+ {
+  "id": 43,
+  "start": 239.7,
+  "limit": 242.94,
+  "new_start": 242.05550000000002,
+  "dur": 2.87,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pense, por exemplo, numa fruta caindo da árvore."
+ },
+ {
+  "id": 44,
+  "start": 242.94,
+  "limit": 248.58,
+  "new_start": 245.29550000000003,
+  "dur": 5.3780833333333335,
+  "speed": 1.333,
+  "k": 1.0156176122931415,
+  "text_tgt": "Para a maioria dos alienígenas, é só um aglomerado de energia quadridimensional, alinhado a uma geodésica do conglomerado."
+ },
+ {
+  "id": 45,
+  "start": 248.58,
+  "limit": 254.44,
+  "new_start": 251.02358333333336,
+  "dur": 5.0,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não para os terráqueos: eles veem isso como uma \"ação\" que muda o lugar da fruta no espaço."
+ },
+ {
+  "id": 46,
+  "start": 254.44,
+  "limit": 259.1,
+  "new_start": 256.8835833333334,
+  "dur": 3.759,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A maioria diria que a fruta é o \"sujeito\" da ação: a fruta cai."
+ },
+ {
+  "id": 47,
+  "start": 259.1,
+  "limit": 266.28,
+  "new_start": 261.5435833333334,
+  "dur": 6.477,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um físico terráqueo diria que a Terra atrai a fruta: então a Terra é o sujeito, e a fruta, o objeto."
+ },
+ {
+  "id": 48,
+  "start": 266.28,
+  "limit": 269.04,
+  "new_start": 268.72358333333335,
+  "dur": 2.4756666666666667,
+  "speed": 1.232,
+  "k": 1.0237922705313833,
+  "text_tgt": "Um jardineiro diria que a árvore derruba seus frutos."
+ },
+ {
+  "id": 49,
+  "start": 269.04,
+  "limit": 274.88,
+  "new_start": 271.54925000000003,
+  "dur": 5.52225,
+  "speed": 1.101,
+  "k": 1.0055222602739768,
+  "text_tgt": "Um terráqueo religioso diria que foi a vontade de Deus, e um teórico da conspiração culparia os maçons."
+ },
+ {
+  "id": 50,
+  "start": 274.88,
+  "limit": 280.74,
+  "new_start": 277.42150000000004,
+  "dur": 4.759,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não importa como eles vejam, sempre há uma ação e um sujeito, e às vezes um objeto."
+ },
+ {
+  "id": 51,
+  "start": 280.74,
+  "limit": 285.22,
+  "new_start": 283.28150000000005,
+  "dur": 4.1710416666666665,
+  "speed": 1.134,
+  "k": 1.0091610863095195,
+  "text_tgt": "As ações são descritas por palavras-ação, os verbos, como \"cair\" ou \"comer\"."
+ },
+ {
+  "id": 52,
+  "start": 285.22,
+  "limit": 289.94,
+  "new_start": 287.80254166666674,
+  "dur": 4.375583333333333,
+  "speed": 1.017,
+  "k": 1.001182909604526,
+  "text_tgt": "Os verbos costumam vir com uma palavra para o sujeito, por exemplo: \"terráqueo come\"."
+ },
+ {
+  "id": 53,
+  "start": 289.94,
+  "limit": 297.34,
+  "new_start": 292.52812500000005,
+  "dur": 7.081375,
+  "speed": 1.093,
+  "k": 1.004239864864868,
+  "text_tgt": "Outras palavras acrescentam informação, por exemplo sobre objetos e propriedades: \"o terráqueo come a maçã vermelha perto da árvore\"."
+ },
+ {
+  "id": 54,
+  "start": 297.34,
+  "limit": 299.22,
+  "new_start": 299.95950000000005,
+  "dur": 1.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama frase."
+ },
+ {
+  "id": 55,
+  "start": 299.22,
+  "limit": 305.52,
+  "new_start": 301.8395000000001,
+  "dur": 6.01475,
+  "speed": 1.22,
+  "k": 1.0102777777777852,
+  "text_tgt": "A ordem das palavras importa: a frase \"a árvore vermelha come o terráqueo perto da maçã\" significa algo bem diferente."
+ },
+ {
+  "id": 56,
+  "start": 305.52,
+  "limit": 316.72,
+  "new_start": 308.2042500000001,
+  "dur": 9.41,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas: se você arranjar um tradutor universal com inglês, mandarim, espanhol, russo, francês e árabe, vai se virar na maior parte das regiões do mundo."
+ },
+ {
+  "id": 57,
+  "start": 316.72,
+  "limit": 321.5,
+  "new_start": 319.40425000000016,
+  "dur": 4.398958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas confira se ele tem filtro de insultos, senão você pode se meter em encrenca."
+ },
+ {
+  "id": 58,
+  "start": 321.5,
+  "limit": 328.6,
+  "new_start": 324.18425000000013,
+  "dur": 5.949958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas como os terráqueos pensam e falam de coisas não materiais, como espaço, tempo, relações, matemática?"
+ },
+ {
+  "id": 59,
+  "start": 328.6,
+  "limit": 330.72,
+  "new_start": 331.28425000000016,
+  "dur": 1.7751666666666666,
+  "speed": 1.014,
+  "k": 1.0024371069182367,
+  "text_tgt": "É aí que entra a abstração."
+ },
+ {
+  "id": 60,
+  "start": 330.72,
+  "limit": 342.26,
+  "new_start": 333.4094166666668,
+  "dur": 10.659,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para os terráqueos, há vários níveis de abstração: o corpo, o mundo físico, o espaço, o tempo, coisas mais abstratas como relações sociais, e conceitos puramente abstratos."
+ },
+ {
+  "id": 61,
+  "start": 342.26,
+  "limit": 345.86,
+  "new_start": 344.94941666666676,
+  "dur": 3.32275,
+  "speed": 1.258,
+  "k": 1.020208333333327,
+  "text_tgt": "Os terráqueos pensam no abstrato do mesmo jeito que pensam no mundo físico."
+ },
+ {
+  "id": 62,
+  "start": 345.86,
+  "limit": 349.3,
+  "new_start": 348.62216666666677,
+  "dur": 3.05,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Toda entidade bem delimitada é, por exemplo, uma coisa."
+ },
+ {
+  "id": 63,
+  "start": 349.3,
+  "limit": 353.7,
+  "new_start": 352.06216666666677,
+  "dur": 4.065166666666666,
+  "speed": 1.043,
+  "k": 1.0034469696969748,
+  "text_tgt": "Eles até reaproveitam palavras concretas para falar de ideias abstratas."
+ },
+ {
+  "id": 64,
+  "start": 353.7,
+  "limit": 357.56,
+  "new_start": 356.47733333333343,
+  "dur": 3.5282916666666666,
+  "speed": 1.06,
+  "k": 1.0047387737478375,
+  "text_tgt": "Usar palavras de uma coisa para descrever outra se chama metáfora."
+ },
+ {
+  "id": 65,
+  "start": 357.56,
+  "limit": 361.88,
+  "new_start": 360.3556250000001,
+  "dur": 4.015625,
+  "speed": 1.153,
+  "k": 1.0105613425925941,
+  "text_tgt": "Os números, por exemplo, costumam ser descritos com metáforas espaciais verticais."
+ },
+ {
+  "id": 66,
+  "start": 361.88,
+  "limit": 365.38,
+  "new_start": 364.7212500000001,
+  "dur": 3.1767916666666665,
+  "speed": 1.086,
+  "k": 1.0076547619047618,
+  "text_tgt": "Os números estão altos, baixos, eles sobem, caem."
+ },
+ {
+  "id": 67,
+  "start": 365.38,
+  "limit": 369.08,
+  "new_start": 368.2480416666668,
+  "dur": 3.11,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso vem do hábito terráqueo de empilhar mercadorias."
+ },
+ {
+  "id": 68,
+  "start": 369.08,
+  "limit": 372.1,
+  "new_start": 371.94804166666677,
+  "dur": 2.738958333333333,
+  "speed": 1.245,
+  "k": 1.0228338852096999,
+  "text_tgt": "Já o tempo é descrito com metáforas espaciais horizontais."
+ },
+ {
+  "id": 69,
+  "start": 372.1,
+  "limit": 374.8,
+  "new_start": 375.0370000000001,
+  "dur": 2.386041666666667,
+  "speed": 1.119,
+  "k": 1.0133487654321032,
+  "text_tgt": "Antes, depois, lá atrás no tempo, o tempo corre."
+ },
+ {
+  "id": 70,
+  "start": 374.8,
+  "limit": 377.44,
+  "new_start": 377.77304166666676,
+  "dur": 1.87,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso vem do movimento horizontal."
+ },
+ {
+  "id": 71,
+  "start": 377.44,
+  "limit": 385.34,
+  "new_start": 380.41304166666674,
+  "dur": 7.621333333333333,
+  "speed": 1.257,
+  "k": 1.0090295358649817,
+  "text_tgt": "As línguas galácticas comuns costumam ser criadas por supercomputadores, criaturas de pura lógica que tiveram de aprender sobre tempo, espaço e realidade."
+ },
+ {
+  "id": 72,
+  "start": 385.34,
+  "limit": 389.92,
+  "new_start": 388.3843750000001,
+  "dur": 3.298,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por isso, essas línguas foram do abstrato para o concreto."
+ },
+ {
+  "id": 73,
+  "start": 389.92,
+  "limit": 395.02,
+  "new_start": 392.96437500000013,
+  "dur": 4.399958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já as línguas terráqueas vão no sentido contrário: do concreto para o abstrato."
+ },
+ {
+  "id": 74,
+  "start": 395.02,
+  "limit": 399.76,
+  "new_start": 398.0643750000001,
+  "dur": 4.429583333333333,
+  "speed": 1.122,
+  "k": 1.0083509142053426,
+  "text_tgt": "Muitas expressões de espaço e tempo vêm até do nível mais baixo de abstração: o corpo."
+ },
+ {
+  "id": 75,
+  "start": 399.76,
+  "limit": 405.78,
+  "new_start": 402.84395833333343,
+  "dur": 5.792583333333333,
+  "speed": 1.35,
+  "k": 1.0203626799557062,
+  "text_tgt": "As \"costas\" de um terráqueo, os \"fundos\" de uma casa, \"andar para trás\", \"lá atrás, no século 19\" etc."
+ },
+ {
+  "id": 76,
+  "start": 405.78,
+  "limit": 409.24,
+  "new_start": 408.98654166666677,
+  "dur": 3.183625,
+  "speed": 1.269,
+  "k": 1.0212789017340933,
+  "text_tgt": "Curiosamente, alguns conceitos espaciais vêm do corpo dos animais."
+ },
+ {
+  "id": 77,
+  "start": 409.24,
+  "limit": 413.98,
+  "new_start": 412.52016666666674,
+  "dur": 4.418833333333334,
+  "speed": 1.084,
+  "k": 1.0060829817158912,
+  "text_tgt": "A \"cabeça\" de um animal, a \"cabeça\" do trem, \"encabeçar\", \"estar à frente do seu tempo\"..."
+ },
+ {
+  "id": 78,
+  "start": 413.98,
+  "limit": 416.26,
+  "new_start": 417.2890000000001,
+  "dur": 2.05925,
+  "speed": 1.35,
+  "k": 1.0566885964912407,
+  "text_tgt": "Os terráqueos chamam isso de \"modelo zoomórfico\"."
+ },
+ {
+  "id": 79,
+  "start": 416.26,
+  "limit": 420.46,
+  "new_start": 419.6982500000001,
+  "dur": 3.64,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas as metáforas também servem para criar frases mais expressivas."
+ },
+ {
+  "id": 80,
+  "start": 420.46,
+  "limit": 435.44,
+  "new_start": 423.8982500000001,
+  "dur": 14.68275,
+  "speed": 1.157,
+  "k": 1.003521361815753,
+  "text_tgt": "Veja os rituais de acasalamento terráqueos: em vez de dizer \"Gosto de você, quer transar?\", alguém pode dizer \"Você é o amor da minha vida, meu sol, minha lua e minhas estrelas, a chave do meu coração, o sódio do meu cloro e o parmesão do meu espaguete, quer transar?\""
+ },
+ {
+  "id": 81,
+  "start": 435.44,
+  "limit": 441.6,
+  "new_start": 438.9310000000001,
+  "dur": 5.6790416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não dá para subestimar as metáforas: vamos ver que elas são um dos mecanismos centrais na formação da língua."
+ },
+ {
+  "id": 82,
+  "start": 441.6,
+  "limit": 443.92,
+  "new_start": 445.0910000000001,
+  "dur": 1.59,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A língua está sempre mudando."
+ },
+ {
+  "id": 83,
+  "start": 443.92,
+  "limit": 447.36,
+  "new_start": 447.4110000000001,
+  "dur": 3.1558333333333333,
+  "speed": 1.226,
+  "k": 1.0191375968992256,
+  "text_tgt": "Curiosamente, os terráqueos veem isso como uma decadência constante."
+ },
+ {
+  "id": 84,
+  "start": 447.36,
+  "limit": 450.24,
+  "new_start": 450.91683333333344,
+  "dur": 2.5795416666666666,
+  "speed": 1.163,
+  "k": 1.0172019675925943,
+  "text_tgt": "Veja, por exemplo, a língua chamada inglês."
+ },
+ {
+  "id": 85,
+  "start": 450.24,
+  "limit": 455.86,
+  "new_start": 453.84637500000014,
+  "dur": 5.346916666666667,
+  "speed": 1.277,
+  "k": 1.0136862396204025,
+  "text_tgt": "Para muitos terráqueos modernos, o inglês está num estado lamentável e era muito mais perfeito um século antes."
+ },
+ {
+  "id": 86,
+  "start": 455.86,
+  "limit": 474.68,
+  "new_start": 459.5432916666668,
+  "dur": 18.549,
+  "speed": 1.317,
+  "k": 1.004197662061637,
+  "text_tgt": "Mas se você viajar ao passado e perguntar a escritores e sábios de outras eras, vai ouvir queixas parecidas: de George Orwell em 1946, Harry Thurston Peck em 1899, August Schleicher em 1848, Thomas Sheridan em 1780, Jonathan Swift em 1712, ou Thomas Sprat em 1667."
+ },
+ {
+  "id": 87,
+  "start": 474.68,
+  "limit": 476.88,
+  "new_start": 478.4422916666668,
+  "dur": 1.9245833333333333,
+  "speed": 1.273,
+  "k": 1.0339015151515205,
+  "text_tgt": "As citações completas estão na descrição."
+ },
+ {
+  "id": 88,
+  "start": 476.88,
+  "limit": 486.44,
+  "new_start": 480.71687500000013,
+  "dur": 9.223375,
+  "speed": 1.043,
+  "k": 1.0013990585774057,
+  "text_tgt": "Se há algum consenso entre os linguistas dos séculos passados, é que a língua mais perfeita de todos os tempos foi o latim clássico, há dois mil ciclos solares."
+ },
+ {
+  "id": 89,
+  "start": 486.44,
+  "limit": 489.78,
+  "new_start": 490.2902500000001,
+  "dur": 3.0157083333333334,
+  "speed": 1.081,
+  "k": 1.0076971057884307,
+  "text_tgt": "Já os estudiosos do latim daquela época discordariam."
+ },
+ {
+  "id": 90,
+  "start": 489.78,
+  "limit": 495.98,
+  "new_start": 493.65595833333344,
+  "dur": 5.910208333333333,
+  "speed": 1.203,
+  "k": 1.0097110215053688,
+  "text_tgt": "Em 46 a.C., por exemplo, Cícero reclamava que o latim do seu tempo era bem menos perfeito que o de um século antes."
+ },
+ {
+  "id": 91,
+  "start": 495.98,
+  "limit": 500.52,
+  "new_start": 499.91616666666675,
+  "dur": 4.27025,
+  "speed": 1.295,
+  "k": 1.0176762114537525,
+  "text_tgt": "O que os terráqueos veem como decadência é, na verdade, uma evolução perpétua e cíclica."
+ },
+ {
+  "id": 92,
+  "start": 500.52,
+  "limit": 504.22,
+  "new_start": 504.53641666666675,
+  "dur": 3.376625,
+  "speed": 1.078,
+  "k": 1.0071959459459336,
+  "text_tgt": "É como a aparente queda de uma nave que, na verdade, está em órbita."
+ },
+ {
+  "id": 93,
+  "start": 504.22,
+  "limit": 508.52,
+  "new_start": 508.26304166666677,
+  "dur": 3.989375,
+  "speed": 1.128,
+  "k": 1.0091569767441966,
+  "text_tgt": "Essa evolução perpétua da língua pode ser comparada aos Heteromorfos de Galarius."
+ },
+ {
+  "id": 94,
+  "start": 508.52,
+  "limit": 516.08,
+  "new_start": 512.6024166666667,
+  "dur": 7.269666666666667,
+  "speed": 1.194,
+  "k": 1.0078924162257417,
+  "text_tgt": "Essas criaturas polimórficas vivem sob a alta pressão atmosférica do gigante gasoso Galarius Sete e são coordenadas por um campo telepático global."
+ },
+ {
+  "id": 95,
+  "start": 516.08,
+  "limit": 522.92,
+  "new_start": 520.2220833333334,
+  "dur": 6.5227916666666665,
+  "speed": 1.096,
+  "k": 1.004794103313852,
+  "text_tgt": "Dá para comparar cada criatura a uma palavra, partes do corpo a sílabas, e grupos de criaturas a expressões e frases."
+ },
+ {
+  "id": 96,
+  "start": 522.92,
+  "limit": 529.24,
+  "new_start": 527.0948750000001,
+  "dur": 6.048333333333333,
+  "speed": 1.283,
+  "k": 1.0123945147679243,
+  "text_tgt": "A mudança constante dos Heteromorfos se baseia em quatro mecanismos: fusão, erosão, assimilação e combinação."
+ },
+ {
+  "id": 97,
+  "start": 529.24,
+  "limit": 537.88,
+  "new_start": 533.4932083333334,
+  "dur": 7.407958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Fusão: por causa da alta pressão, grupos de criaturas se fundem, e vários indivíduos viram meros órgãos de um só organismo."
+ },
+ {
+  "id": 98,
+  "start": 537.88,
+  "limit": 542.22,
+  "new_start": 542.1332083333334,
+  "dur": 4.030208333333333,
+  "speed": 1.126,
+  "k": 1.0092645929339403,
+  "text_tgt": "Erosão: partes do corpo são desgastadas sem parar por tempestades violentas."
+ },
+ {
+  "id": 99,
+  "start": 542.22,
+  "limit": 549.78,
+  "new_start": 546.5134166666668,
+  "dur": 7.254541666666666,
+  "speed": 1.155,
+  "k": 1.0058917548500954,
+  "text_tgt": "Assimilação: o campo telepático da população deixa as criaturas da mesma espécie cada vez mais parecidas, até terem membros e órgãos idênticos."
+ },
+ {
+  "id": 100,
+  "start": 549.78,
+  "limit": 554.02,
+  "new_start": 554.1179583333335,
+  "dur": 3.9267916666666665,
+  "speed": 1.12,
+  "k": 1.0086772798742116,
+  "text_tgt": "Mas, com a erosão e a assimilação, as criaturas ficam mais fracas."
+ },
+ {
+  "id": 101,
+  "start": 554.02,
+  "limit": 560.84,
+  "new_start": 558.3947500000002,
+  "dur": 6.239,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Daí o quarto mecanismo: combinação, a capacidade de formar grupos que fazem tarefas totalmente novas."
+ },
+ {
+  "id": 102,
+  "start": 560.84,
+  "limit": 570.66,
+  "new_start": 565.2147500000002,
+  "dur": 9.475458333333334,
+  "speed": 1.012,
+  "k": 1.0005558384249895,
+  "text_tgt": "É fácil ver que isso forma um ciclo sem fim: as criaturas se agrupam, se fundem, são assimiladas e erodidas, ficam menores e mais fracas, se combinam de novo etc."
+ },
+ {
+  "id": 103,
+  "start": 570.66,
+  "limit": 577.36,
+  "new_start": 575.0402083333336,
+  "dur": 6.25,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já as línguas terráqueas seguem um ciclo parecido: fusão, erosão, assimilação e metáfora."
+ },
+ {
+  "id": 104,
+  "start": 577.36,
+  "limit": 583.28,
+  "new_start": 581.7402083333336,
+  "dur": 5.582583333333333,
+  "speed": 1.035,
+  "k": 1.0021255630630699,
+  "text_tgt": "Fusão: grupos de palavras tendem a se fundir, muitas vezes formando sufixos e prefixos."
+ },
+ {
+  "id": 105,
+  "start": 583.28,
+  "limit": 587.12,
+  "new_start": 587.672791666667,
+  "dur": 3.5235416666666666,
+  "speed": 1.104,
+  "k": 1.0087348090277695,
+  "text_tgt": "Isso cria o que os terráqueos chamam de conjugações e declinações."
+ },
+ {
+  "id": 106,
+  "start": 587.12,
+  "limit": 592.16,
+  "new_start": 591.5463333333337,
+  "dur": 4.704208333333334,
+  "speed": 1.048,
+  "k": 1.002819113756621,
+  "text_tgt": "Erosão: as palavras encurtam e os sons mudam para ficarem mais fáceis de pronunciar."
+ },
+ {
+  "id": 107,
+  "start": 592.16,
+  "limit": 595.54,
+  "new_start": 596.600541666667,
+  "dur": 3.1077916666666665,
+  "speed": 1.28,
+  "k": 1.0230152859960566,
+  "text_tgt": "Assimilação: as diferenças entre palavras tendem a se aplainar."
+ },
+ {
+  "id": 108,
+  "start": 595.54,
+  "limit": 599.74,
+  "new_start": 600.0583333333337,
+  "dur": 3.884,
+  "speed": 1.112,
+  "k": 1.0080952380952273,
+  "text_tgt": "Por exemplo, as conjugações dos verbos ficam cada vez mais parecidas."
+ },
+ {
+  "id": 109,
+  "start": 599.74,
+  "limit": 602.24,
+  "new_start": 604.2923333333338,
+  "dur": 2.2002916666666668,
+  "speed": 1.168,
+  "k": 1.0201166666666668,
+  "text_tgt": "É assim que se formam as regras gramaticais."
+ },
+ {
+  "id": 110,
+  "start": 602.24,
+  "limit": 608.88,
+  "new_start": 606.8426250000005,
+  "dur": 6.339125,
+  "speed": 1.153,
+  "k": 1.007398343373496,
+  "text_tgt": "Esses três mecanismos vêm da preguiça terráquea: deixam a língua mais fácil de pronunciar e as regras mais fáceis de decorar."
+ },
+ {
+  "id": 111,
+  "start": 608.88,
+  "limit": 612.0,
+  "new_start": 613.5317500000004,
+  "dur": 2.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas também tiram a expressividade das palavras."
+ },
+ {
+  "id": 112,
+  "start": 612.0,
+  "limit": 615.36,
+  "new_start": 616.6517500000004,
+  "dur": 3.04425,
+  "speed": 1.107,
+  "k": 1.0101934523809484,
+  "text_tgt": "É aí que entra o quarto mecanismo: a metáfora."
+ },
+ {
+  "id": 113,
+  "start": 615.36,
+  "limit": 622.66,
+  "new_start": 620.0460000000005,
+  "dur": 6.279958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como já vimos, metáfora é usar palavras, ou grupos de palavras, para expressar algo totalmente novo."
+ },
+ {
+  "id": 114,
+  "start": 622.66,
+  "limit": 626.14,
+  "new_start": 627.3460000000005,
+  "dur": 2.81,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É o principal mecanismo construtivo da língua."
+ },
+ {
+  "id": 115,
+  "start": 626.14,
+  "limit": 638.8,
+  "new_start": 630.8260000000005,
+  "dur": 12.338541666666666,
+  "speed": 1.09,
+  "k": 1.0022544760400236,
+  "text_tgt": "Como no ciclo de vida dos heteromorfos, a evolução da língua é um ciclo sem fim de criação e destruição: palavras se combinam em metáforas novas e coloridas, se fundem, são erodidas e assimiladas até ficarem mutiladas e gastas."
+ },
+ {
+  "id": 116,
+  "start": 638.8,
+  "limit": 642.42,
+  "new_start": 643.5145416666671,
+  "dur": 3.3480833333333333,
+  "speed": 1.287,
+  "k": 1.0215699815837924,
+  "text_tgt": "Por fim, se combinam em novas metáforas expressivas, e assim por diante."
+ },
+ {
+  "id": 117,
+  "start": 642.42,
+  "limit": 646.46,
+  "new_start": 647.2126250000005,
+  "dur": 4.155541666666666,
+  "speed": 1.35,
+  "k": 1.1152330858085593,
+  "text_tgt": "Todo o edifício da língua não passa de um recife de asteroides feito de metáforas mortas."
+ },
+ {
+  "id": 118,
+  "start": 646.46,
+  "limit": 657.14,
+  "new_start": 651.7181666666671,
+  "dur": 10.239958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou seja, a etimologia é fractal: palavras são velhos grupos de palavras, que eram velhos grupos de palavras, que eram velhos grupos de palavras, e assim por diante."
+ },
+ {
+  "id": 119,
+  "start": 659.12,
+  "limit": 661.22,
+  "new_start": 664.3781666666671,
+  "dur": 1.37,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 120,
+  "start": 661.22,
+  "limit": 663.18,
+  "new_start": 666.4781666666671,
+  "dur": 1.634,
+  "speed": 1.071,
+  "k": 1.0122448979592236,
+  "text_tgt": "A língua terráquea pode enganar."
+ },
+ {
+  "id": 121,
+  "start": 663.18,
+  "limit": 672.94,
+  "new_start": 668.4621666666671,
+  "dur": 9.462916666666667,
+  "speed": 1.173,
+  "k": 1.0054217896174755,
+  "text_tgt": "Por exemplo, o uso frequente da palavra \"tanque\" nas mensagens de rádio pode levar você a concluir que os terráqueos vão usar grandes tanques para borrifar ácido hidroxílico mortal nas suas tropas."
+ },
+ {
+  "id": 122,
+  "start": 672.94,
+  "limit": 681.62,
+  "new_start": 678.2750833333338,
+  "dur": 8.332333333333333,
+  "speed": 1.014,
+  "k": 1.0002688172043068,
+  "text_tgt": "Mas, depois de equipar todos os seus soldados contra ácido hidroxílico, você pode descobrir que tanques militares são algo bem diferente."
+ },
+ {
+  "id": 123,
+  "start": 681.62,
+  "limit": 685.82,
+  "new_start": 686.9574166666671,
+  "dur": 3.8653333333333335,
+  "speed": 1.04,
+  "k": 1.0036507936507828,
+  "text_tgt": "Para mostrar a evolução da língua, vejamos a palavra inglesa \"gonna\"."
+ },
+ {
+  "id": 124,
+  "start": 685.82,
+  "limit": 689.66,
+  "new_start": 691.1727500000004,
+  "dur": 3.568416666666667,
+  "speed": 1.286,
+  "k": 1.0204210069444664,
+  "text_tgt": "No inglês moderno, ela indica futuro próximo: \"We're gonna eat\", \"vamos comer\"."
+ },
+ {
+  "id": 125,
+  "start": 689.66,
+  "limit": 694.34,
+  "new_start": 695.091166666667,
+  "dur": 4.384458333333333,
+  "speed": 1.186,
+  "k": 1.011636396011382,
+  "text_tgt": "É abreviação de \"going to\", mas só no sentido de \"prestes a\", não de \"indo até\"."
+ },
+ {
+  "id": 126,
+  "start": 694.34,
+  "limit": 700.1,
+  "new_start": 699.8256250000004,
+  "dur": 5.449708333333334,
+  "speed": 1.123,
+  "k": 1.006893807870372,
+  "text_tgt": "Centenas de ciclos solares atrás, \"going to\" só se usava no sentido de \"ir ou viajar a um lugar\"."
+ },
+ {
+  "id": 127,
+  "start": 700.1,
+  "limit": 710.78,
+  "new_start": 705.6253333333337,
+  "dur": 10.337208333333333,
+  "speed": 1.035,
+  "k": 1.0006749375780322,
+  "text_tgt": "Aí, no que os terráqueos chamam de século 15, surge \"going to do something\", mas só no sentido \"ir a algum lugar para fazer algo\", como soldados que vão levar um prisioneiro a um castelo."
+ },
+ {
+  "id": 128,
+  "start": 710.78,
+  "limit": 721.26,
+  "new_start": 716.3125416666671,
+  "dur": 10.166208333333334,
+  "speed": 1.125,
+  "k": 1.0034549936386752,
+  "text_tgt": "Daí o sentido foi ficando mais abstrato, e no século 17 lemos sobre um depósito de armas que \"is going to be taken away\", que vai ser levado embora: e o depósito com certeza não sai andando."
+ },
+ {
+  "id": 129,
+  "start": 721.26,
+  "limit": 727.2,
+  "new_start": 726.8287500000005,
+  "dur": 5.658666666666667,
+  "speed": 1.242,
+  "k": 1.0115600448933688,
+  "text_tgt": "Assim, \"going to\" virou, nas palavras de um manual de gramática de 1646, \"um sinal do futuro\"."
+ },
+ {
+  "id": 130,
+  "start": 727.2,
+  "limit": 730.48,
+  "new_start": 732.8374166666671,
+  "dur": 3.0115,
+  "speed": 1.301,
+  "k": 1.0248475609756182,
+  "text_tgt": "Daí em diante, o futuro com \"going to\" ficou cada vez mais popular."
+ },
+ {
+  "id": 131,
+  "start": 730.48,
+  "limit": 738.02,
+  "new_start": 736.1989166666671,
+  "dur": 6.429,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, no início do século 20, aparece uma variante erodida de \"going to\": a palavra \"gonna\", usada até hoje."
+ },
+ {
+  "id": 132,
+  "start": 741.04,
+  "limit": 751.42,
+  "new_start": 746.758916666667,
+  "dur": 9.48,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dica científica: muitos terráqueos acham que a língua e a lógica são processadas só pela metade esquerda do cérebro, e criatividade, imagens e música só pela direita."
+ },
+ {
+  "id": 133,
+  "start": 751.42,
+  "limit": 753.26,
+  "new_start": 757.138916666667,
+  "dur": 1.46,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso é pura bobagem."
+ },
+ {
+  "id": 134,
+  "start": 753.26,
+  "limit": 765.6,
+  "new_start": 758.978916666667,
+  "dur": 10.55,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se você trocar a metade esquerda do cérebro de um pintor francófono com a de um músico anglófono, não ganha um músico francófono e um pintor anglófono: ganha só dois terráqueos bem bagunçados."
+ },
+ {
+  "id": 135,
+  "start": 765.6,
+  "limit": 769.32,
+  "new_start": 771.3189166666671,
+  "dur": 3.06,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas agora, vamos viajar para o futuro da língua inglesa."
+ },
+ {
+  "id": 136,
+  "start": 769.32,
+  "limit": 771.18,
+  "new_start": 775.0389166666671,
+  "dur": 1.5859166666666666,
+  "speed": 1.28,
+  "k": 1.040815412186436,
+  "text_tgt": "Pense no verbo \"to have\", \"ter\"."
+ },
+ {
+  "id": 137,
+  "start": 771.18,
+  "limit": 776.98,
+  "new_start": 776.9748333333338,
+  "dur": 5.454458333333333,
+  "speed": 1.021,
+  "k": 1.0007686781609078,
+  "text_tgt": "Tradicionalmente, ele se conjuga \"I have, you have, he has, we have, you have, they have\"."
+ },
+ {
+  "id": 138,
+  "start": 776.98,
+  "limit": 784.34,
+  "new_start": 782.7792916666671,
+  "dur": 7.008958333333333,
+  "speed": 1.007,
+  "k": 1.0,
+  "text_tgt": "No presente, a erosão já criou as formas mais curtas, as contrações: I've, You've, He's, We've, You've, They've."
+ },
+ {
+  "id": 139,
+  "start": 784.34,
+  "limit": 788.06,
+  "new_start": 790.1392916666671,
+  "dur": 3.425875,
+  "speed": 1.188,
+  "k": 1.0150201612903462,
+  "text_tgt": "O pronome e o verbo estão prestes a se fundir numa palavra só."
+ },
+ {
+  "id": 140,
+  "start": 788.06,
+  "limit": 794.3,
+  "new_start": 793.9151666666671,
+  "dur": 5.923916666666667,
+  "speed": 1.104,
+  "k": 1.0054353632478619,
+  "text_tgt": "Em algumas regiões, o plural \"You've\" foi trocado por \"Y'all've\", forma curta de \"You all have\"."
+ },
+ {
+  "id": 141,
+  "start": 794.3,
+  "limit": 803.0,
+  "new_start": 800.1890833333338,
+  "dur": 8.375458333333333,
+  "speed": 1.084,
+  "k": 1.0029262452107226,
+  "text_tgt": "Daqui a cem ciclos solares, o apóstrofo vai cair e os pronomes terão virado prefixos: Ive, Youve, Hes, Weve, Yallve, Theyve."
+ },
+ {
+  "id": 142,
+  "start": 803.0,
+  "limit": 810.92,
+  "new_start": 808.9145416666671,
+  "dur": 6.94,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Alguns séculos depois, a assimilação vai simplificar a conjugação para Ive, Youve, Heve, Weve, Yallve, Theyve."
+ },
+ {
+  "id": 143,
+  "start": 810.92,
+  "limit": 816.2,
+  "new_start": 816.8345416666671,
+  "dur": 4.935583333333334,
+  "speed": 1.009,
+  "k": 1.0010574494949331,
+  "text_tgt": "Por fim, a erosão vai trocar \"Ive\" pelo mais fácil \"Eve\", e \"Yallve\" por \"Yave\"."
+ },
+ {
+  "id": 144,
+  "start": 816.2,
+  "limit": 845.24,
+  "new_start": 822.1201250000004,
+  "dur": 27.267,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Daqui a oitocentos ciclos solares, todos os verbos ingleses terão os mesmos prefixos no presente, de novo por assimilação: Eetalk, Youtalk, Hetalk, Wetalk, Yatalk, Theetalk, e o futuro será marcado por um \"gonna\" erodido: Eenatalk, Younatalk, Henatalk, Wenatalk, Yanatalk, Theenatalk, e o passado por um \"have\" aleijado: Eevetalk, Youvetalk, Hevetalk, Wevetalk, Yavetalk, Theevetalk."
+ },
+ {
+  "id": 145,
+  "start": 845.24,
+  "limit": 850.08,
+  "new_start": 851.1601250000003,
+  "dur": 4.528208333333334,
+  "speed": 1.115,
+  "k": 1.0078942837465499,
+  "text_tgt": "Mas, ao mesmo tempo, a mecânica da metáfora vai criar novas expressões coloridas."
+ },
+ {
+  "id": 146,
+  "start": 850.08,
+  "limit": 856.34,
+  "new_start": 856.0383333333336,
+  "dur": 5.975416666666667,
+  "speed": 1.223,
+  "k": 1.010449946751865,
+  "text_tgt": "Por exemplo, daqui a mil anos, a invenção da viagem no tempo vai exigir todo um conjunto novo de tempos verbais."
+ },
+ {
+  "id": 147,
+  "start": 856.34,
+  "limit": 863.94,
+  "new_start": 862.3637500000003,
+  "dur": 6.388958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para dizer que alguém deu um salto no tempo para escapar da morte, se diria \"Heve jum fro'die\": \"ele pulou do morrer\"."
+ },
+ {
+  "id": 148,
+  "start": 863.94,
+  "limit": 870.46,
+  "new_start": 869.9637500000003,
+  "dur": 6.1745,
+  "speed": 1.02,
+  "k": 1.0006901840490825,
+  "text_tgt": "Ou seja, o verbo \"pular\", que era um movimento do corpo, vira um verbo auxiliar dos tempos de viagem no tempo."
+ },
+ {
+  "id": 149,
+  "start": 870.46,
+  "limit": 875.42,
+  "new_start": 876.4882500000003,
+  "dur": 4.627375,
+  "speed": 1.052,
+  "k": 1.0035030241935639,
+  "text_tgt": "Aliás, este episódio se baseia em parte no livro terráqueo \"The Unfolding of Language\"."
+ },
+ {
+  "id": 150,
+  "start": 875.42,
+  "limit": 878.78,
+  "new_start": 881.4656250000004,
+  "dur": 2.92,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele descreve em detalhe como a língua se desenvolveu."
+ },
+ {
+  "id": 151,
+  "start": 878.78,
+  "limit": 880.68,
+  "new_start": 884.8256250000004,
+  "dur": 1.5818333333333334,
+  "speed": 1.1,
+  "k": 1.0167543859649246,
+  "text_tgt": "Coloquei o link na descrição."
+ },
+ {
+  "id": 152,
+  "start": 880.68,
+  "limit": 887.02,
+  "new_start": 886.7574583333337,
+  "dur": 6.027833333333334,
+  "speed": 1.113,
+  "k": 1.0059674027339591,
+  "text_tgt": "Uma nota pessoal: para ser parceiro do YouTube ou ganhar dinheiro com seus vídeos, você precisa de uma conta AdSense."
+ },
+ {
+  "id": 153,
+  "start": 887.02,
+  "limit": 890.58,
+  "new_start": 893.1352916666671,
+  "dur": 3.267541666666667,
+  "speed": 1.196,
+  "k": 1.0161633895130917,
+  "text_tgt": "Como a maioria dos youtubers, tomei cuidado para respeitar as regras."
+ },
+ {
+  "id": 154,
+  "start": 890.58,
+  "limit": 896.76,
+  "new_start": 896.7528333333337,
+  "dur": 5.865208333333333,
+  "speed": 1.113,
+  "k": 1.0056971413160813,
+  "text_tgt": "Mesmo assim, o AdSense fechou minha conta por \"atividade inválida\", sem me dizer do que estou sendo acusado."
+ },
+ {
+  "id": 155,
+  "start": 896.76,
+  "limit": 902.44,
+  "new_start": 902.968041666667,
+  "dur": 5.350875,
+  "speed": 1.063,
+  "k": 1.0036751760563267,
+  "text_tgt": "Isso significa três coisas: vou continuar fazendo vídeos, mas nunca vou poder ganhar dinheiro com eles."
+ },
+ {
+  "id": 156,
+  "start": 902.44,
+  "limit": 906.02,
+  "new_start": 908.668916666667,
+  "dur": 3.2834166666666667,
+  "speed": 1.175,
+  "k": 1.0149208566108214,
+  "text_tgt": "Segundo, nunca mais vou poder ser parceiro ou entrar numa rede."
+ },
+ {
+  "id": 157,
+  "start": 906.02,
+  "limit": 911.2,
+  "new_start": 912.3023333333336,
+  "dur": 4.904875,
+  "speed": 1.272,
+  "k": 1.0144546332046207,
+  "text_tgt": "E terceiro, não faço ideia de por que fui punido: só posso imaginar que alguém me bombardeou de cliques."
+ },
+ {
+  "id": 158,
+  "start": 911.2,
+  "limit": 915.62,
+  "new_start": 917.5572083333336,
+  "dur": 2.24,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Devo fazer um vídeo sobre esse incidente."
+ },
+ {
+  "id": 159,
+  "start": 915.62,
+  "limit": 918.62,
+  "new_start": 921.9772083333336,
+  "dur": 2.72775,
+  "speed": 1.282,
+  "k": 1.0259166666666666,
+  "text_tgt": "Este foi o décimo episódio de Terráqueos 101."
+ },
+ {
+  "id": 160,
+  "start": 918.62,
+  "limit": 924.64,
+  "new_start": 925.0549583333336,
+  "dur": 5.715541666666667,
+  "speed": 1.146,
+  "k": 1.007565060908087,
+  "text_tgt": "Da próxima vez, vamos falar de algo crucial para entender todo tipo de comportamento de grupo: os rituais."
+ },
+ {
+  "id": 161,
+  "start": 924.64,
+  "limit": 928.86,
+  "new_start": 931.1205000000003,
+  "dur": 3.9410416666666666,
+  "speed": 1.256,
+  "k": 1.01683451816745,
+  "text_tgt": "Isso também vai explicar por que os terráqueos gostam de camisetas com símbolos estranhos."
+ },
+ {
+  "id": 162,
+  "start": 928.86,
+  "limit": 932.56,
+  "new_start": 935.411541666667,
+  "dur": 3.688875,
+  "speed": 1.35,
+  "k": 1.091587837837858,
+  "text_tgt": "Obrigado por assistir e, como sempre: não se esqueça de ser alienígena!"
+ }
+]

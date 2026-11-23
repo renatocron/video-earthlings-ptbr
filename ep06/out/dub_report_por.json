@@ -1,0 +1,1342 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 1.48,
+  "new_start": 0.0,
+  "dur": 1.202375,
+  "speed": 1.26,
+  "k": 1.048902027027027,
+  "text_tgt": "Olá, aqui é o Zogg."
+ },
+ {
+  "id": 2,
+  "start": 1.48,
+  "limit": 4.5,
+  "new_start": 1.552375,
+  "dur": 2.911125,
+  "speed": 1.35,
+  "k": 1.0798427152317882,
+  "text_tgt": "Bem-vindo ao sexto episódio de Terráqueos 101."
+ },
+ {
+  "id": 3,
+  "start": 4.5,
+  "limit": 6.32,
+  "new_start": 4.8135,
+  "dur": 1.42,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Hoje vamos falar de beleza."
+ },
+ {
+  "id": 4,
+  "start": 42.1,
+  "limit": 49.78,
+  "new_start": 42.4135,
+  "dur": 7.373916666666666,
+  "speed": 1.15,
+  "k": 1.005718315972222,
+  "text_tgt": "Beleza é um conceito típico dos terráqueos: uma qualidade subjetiva de objetos, criaturas, formas geométricas ou até ideias."
+ },
+ {
+  "id": 5,
+  "start": 49.78,
+  "limit": 66.16,
+  "new_start": 50.13741666666667,
+  "dur": 16.040625,
+  "speed": 1.033,
+  "k": 1.0006486568986572,
+  "text_tgt": "Pergunte a um terráqueo o que é beleza e ele vai balbuciar que é uma luz no coração, o esplendor da verdade, a manifestação de leis naturais secretas, a imagem sensível do Infinito, o sorriso da verdade, a eternidade se olhando no espelho, ou até o presente de um bioadministrador imaginário."
+ },
+ {
+  "id": 6,
+  "start": 66.16,
+  "limit": 68.5,
+  "new_start": 66.52804166666667,
+  "dur": 2.0,
+  "speed": 1.03,
+  "k": 1.004273504273503,
+  "text_tgt": "Ou seja, eles não fazem ideia."
+ },
+ {
+  "id": 7,
+  "start": 68.5,
+  "limit": 75.16,
+  "new_start": 68.87804166666666,
+  "dur": 6.029958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O que é estranho, já que a beleza atrai os terráqueos mais do que um divórcio em massa atrai advogados de Centauro."
+ },
+ {
+  "id": 8,
+  "start": 75.16,
+  "limit": 77.94,
+  "new_start": 75.53804166666666,
+  "dur": 2.5,
+  "speed": 1.252,
+  "k": 1.0251798561151075,
+  "text_tgt": "Os terráqueos se sentem atraídos por todo tipo de coisa."
+ },
+ {
+  "id": 9,
+  "start": 77.94,
+  "limit": 83.9,
+  "new_start": 78.38804166666665,
+  "dur": 4.899958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Às vezes o motivo é óbvio, porque a coisa serve para comer, se reproduzir e não morrer."
+ },
+ {
+  "id": 10,
+  "start": 83.9,
+  "limit": 91.74,
+  "new_start": 84.34804166666666,
+  "dur": 7.492541666666667,
+  "speed": 1.005,
+  "k": 1.0003241921768722,
+  "text_tgt": "Mas às vezes eles se atraem por coisas sem nenhuma utilidade imediata, como flores, música, árvores ou pedras preciosas."
+ },
+ {
+  "id": 11,
+  "start": 91.74,
+  "limit": 94.74,
+  "new_start": 92.19058333333332,
+  "dur": 2.6770833333333335,
+  "speed": 1.087,
+  "k": 1.0090277777777779,
+  "text_tgt": "Essa atração aparentemente inútil se chama beleza."
+ },
+ {
+  "id": 12,
+  "start": 94.74,
+  "limit": 97.7,
+  "new_start": 95.21766666666666,
+  "dur": 2.635,
+  "speed": 1.074,
+  "k": 1.0084459459459432,
+  "text_tgt": "Um exemplo de objeto bonito é este quadro."
+ },
+ {
+  "id": 13,
+  "start": 97.7,
+  "limit": 101.8,
+  "new_start": 98.20266666666666,
+  "dur": 3.8078333333333334,
+  "speed": 1.197,
+  "k": 1.014105691056912,
+  "text_tgt": "Para um alienígena, é só a imagem de uma fêmea terráquea na frente de uma paisagem."
+ },
+ {
+  "id": 14,
+  "start": 101.8,
+  "limit": 105.6,
+  "new_start": 102.36049999999999,
+  "dur": 3.2679583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para os terráqueos, é um dos objetos mais bonitos do mundo."
+ },
+ {
+  "id": 15,
+  "start": 105.6,
+  "limit": 108.7,
+  "new_start": 106.16049999999998,
+  "dur": 2.805375,
+  "speed": 1.187,
+  "k": 1.0178629032258038,
+  "text_tgt": "Mas o que torna coisas como este quadro tão especiais?"
+ },
+ {
+  "id": 16,
+  "start": 108.7,
+  "limit": 119.76,
+  "new_start": 109.31587499999999,
+  "dur": 10.190041666666668,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O mais óbvio na beleza é que os terráqueos gostam dela, e se você aprendeu algo neste curso, é que sempre que eles gostam de algo, pode apostar que o imperativo genético está por trás."
+ },
+ {
+  "id": 17,
+  "start": 119.76,
+  "limit": 121.26,
+  "new_start": 120.375875,
+  "dur": 1.2444583333333334,
+  "speed": 1.35,
+  "k": 1.0629722222222222,
+  "text_tgt": "A beleza não deve ser exceção."
+ },
+ {
+  "id": 18,
+  "start": 121.26,
+  "limit": 126.94,
+  "new_start": 121.97033333333333,
+  "dur": 5.3602083333333335,
+  "speed": 1.091,
+  "k": 1.005318368544602,
+  "text_tgt": "Então, em vez de filosofar sobre eternidade e verdade, vamos ver alguns exemplos."
+ },
+ {
+  "id": 19,
+  "start": 126.94,
+  "limit": 140.72,
+  "new_start": 127.68054166666666,
+  "dur": 13.426541666666667,
+  "speed": 1.001,
+  "k": 1.0,
+  "text_tgt": "Os terráqueos costumam achar bonitos: flores, paisagens férteis, fêmeas atraentes mas sexualmente indisponíveis, canto de pássaros, metais e pedras preciosas, prédios imponentes, e até formas ou ideias interessantes."
+ },
+ {
+  "id": 20,
+  "start": 140.72,
+  "limit": 143.74,
+  "new_start": 141.46054166666664,
+  "dur": 1.8453333333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por que eles se atraem por essas coisas?"
+ },
+ {
+  "id": 21,
+  "start": 143.74,
+  "limit": 146.52,
+  "new_start": 144.48054166666665,
+  "dur": 2.33,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos pegar um exemplo: paisagens."
+ },
+ {
+  "id": 22,
+  "start": 146.52,
+  "limit": 154.38,
+  "new_start": 147.26054166666665,
+  "dur": 7.5648333333333335,
+  "speed": 1.179,
+  "k": 1.0069762510602225,
+  "text_tgt": "Experimentos mostram que os terráqueos acham uma paisagem bonita se ela é fértil, tem ácido hidroxílico doce e algumas árvores que sirvam de lenha."
+ },
+ {
+  "id": 23,
+  "start": 154.38,
+  "limit": 160.54,
+  "new_start": 155.17537499999997,
+  "dur": 6.051833333333334,
+  "speed": 1.35,
+  "k": 1.0392586580086585,
+  "text_tgt": "Curiosamente, é exatamente o tipo de paisagem que um bioadministrador escolheria para uma colônia num planeta alienígena."
+ },
+ {
+  "id": 24,
+  "start": 160.54,
+  "limit": 167.38,
+  "new_start": 161.57720833333332,
+  "dur": 6.643,
+  "speed": 1.35,
+  "k": 1.022368421052631,
+  "text_tgt": "Em geral, o bioadministrador atrai espécimes para uma região com um \"emissor de campo de resposta psíquica positiva\", mais conhecido como \"caixa-feliz\"."
+ },
+ {
+  "id": 25,
+  "start": 167.38,
+  "limit": 171.94,
+  "new_start": 168.5702083333333,
+  "dur": 3.62,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quem entra no raio de emissão da caixa-feliz fica feliz na hora."
+ },
+ {
+  "id": 26,
+  "start": 171.94,
+  "limit": 178.96,
+  "new_start": 173.13020833333331,
+  "dur": 6.7022916666666665,
+  "speed": 1.095,
+  "k": 1.0045999525166176,
+  "text_tgt": "Então os espécimes se fixam ali e cultivam a terra felizes, mesmo que o esforço só dê frutos muitas estações depois."
+ },
+ {
+  "id": 27,
+  "start": 178.96,
+  "limit": 184.02,
+  "new_start": 180.18249999999998,
+  "dur": 4.786666666666667,
+  "speed": 1.289,
+  "k": 1.0151515151515147,
+  "text_tgt": "Ou seja, a caixa-feliz é uma isca, um prazer substituto, uma promessa de felicidade futura."
+ },
+ {
+  "id": 28,
+  "start": 184.02,
+  "limit": 189.68,
+  "new_start": 185.31916666666663,
+  "dur": 5.048958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Meu palpite é que a beleza é exatamente igual a uma caixa-feliz, só que sem a caixa-feliz."
+ },
+ {
+  "id": 29,
+  "start": 189.68,
+  "limit": 195.16,
+  "new_start": 190.97916666666663,
+  "dur": 5.173875,
+  "speed": 1.15,
+  "k": 1.0080063868613156,
+  "text_tgt": "A evolução favorece os terráqueos que se fixam onde podem colher comida no verão e lenha no inverno."
+ },
+ {
+  "id": 30,
+  "start": 195.16,
+  "limit": 199.44,
+  "new_start": 196.50304166666663,
+  "dur": 3.9865,
+  "speed": 1.189,
+  "k": 1.013200934579439,
+  "text_tgt": "Mas os terráqueos em geral buscam prazer imediato em vez de pensar meses à frente."
+ },
+ {
+  "id": 31,
+  "start": 199.44,
+  "limit": 209.2,
+  "new_start": 200.83954166666663,
+  "dur": 9.418916666666666,
+  "speed": 1.017,
+  "k": 1.0009135928961757,
+  "text_tgt": "Então a evolução achou um truque: premiar na hora quem descobre uma paisagem fértil com um prazer substituto, uma espécie de campo-feliz virtual, para motivá-los a ficar ali."
+ },
+ {
+  "id": 32,
+  "start": 209.2,
+  "limit": 211.56,
+  "new_start": 210.6084583333333,
+  "dur": 2.041916666666667,
+  "speed": 1.097,
+  "k": 1.0135240112994293,
+  "text_tgt": "É isso que os terráqueos chamam de beleza."
+ },
+ {
+  "id": 33,
+  "start": 211.56,
+  "limit": 214.96,
+  "new_start": 213.00037499999996,
+  "dur": 2.95,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Claro que a beleza não é um campo-feliz de verdade."
+ },
+ {
+  "id": 34,
+  "start": 214.96,
+  "limit": 225.06,
+  "new_start": 216.40037499999997,
+  "dur": 9.780291666666667,
+  "speed": 1.097,
+  "k": 1.0029991749174922,
+  "text_tgt": "É um sentimento gerado pela Fera, que inunda o Ego de prazer ao ver uma paisagem fértil, ou ao captar sinais de paisagens férteis, como flores ou canto de pássaros."
+ },
+ {
+  "id": 35,
+  "start": 225.06,
+  "limit": 228.86,
+  "new_start": 226.53066666666663,
+  "dur": 3.15,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas nem toda coisa bonita tem a ver com paisagens férteis."
+ },
+ {
+  "id": 36,
+  "start": 228.86,
+  "limit": 232.64,
+  "new_start": 230.33066666666664,
+  "dur": 3.8562916666666665,
+  "speed": 1.35,
+  "k": 1.1127755731922477,
+  "text_tgt": "Para muitos terráqueos, \"beleza\" significa acima de tudo \"fêmeas bonitas\"."
+ },
+ {
+  "id": 37,
+  "start": 232.64,
+  "limit": 237.32,
+  "new_start": 234.5369583333333,
+  "dur": 4.386541666666667,
+  "speed": 1.19,
+  "k": 1.0120815527065512,
+  "text_tgt": "Uma fêmea é considerada bonita se é sexualmente atraente, mas não está disponível de imediato."
+ },
+ {
+  "id": 38,
+  "start": 237.32,
+  "limit": 247.42,
+  "new_start": 239.27349999999996,
+  "dur": 9.756083333333333,
+  "speed": 1.029,
+  "k": 1.0006023102310235,
+  "text_tgt": "Como expliquei no episódio 3, as fêmeas terráqueas são exigentes com os parceiros por causa da capacidade limitada de ter filhos, então os machos precisam se esforçar para ser escolhidos."
+ },
+ {
+  "id": 39,
+  "start": 247.42,
+  "limit": 253.22,
+  "new_start": 249.3795833333333,
+  "dur": 5.18,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando a fêmea é muito atraente, essa corte pode durar um bom tempo e envolver vários candidatos."
+ },
+ {
+  "id": 40,
+  "start": 253.22,
+  "limit": 256.82,
+  "new_start": 255.1795833333333,
+  "dur": 3.5185,
+  "speed": 1.35,
+  "k": 1.074583333333335,
+  "text_tgt": "Infelizmente, os terráqueos preferem prazer imediato a uma delícia futura incerta."
+ },
+ {
+  "id": 41,
+  "start": 256.82,
+  "limit": 261.12,
+  "new_start": 259.0480833333333,
+  "dur": 4.00825,
+  "speed": 1.205,
+  "k": 1.0135465116279043,
+  "text_tgt": "Então a evolução precisou de um truque para que eles não desistissem cedo demais."
+ },
+ {
+  "id": 42,
+  "start": 261.12,
+  "limit": 267.96,
+  "new_start": 263.4063333333333,
+  "dur": 6.561708333333334,
+  "speed": 1.248,
+  "k": 1.0104836744639414,
+  "text_tgt": "O truque foi basicamente o mesmo das paisagens: beleza, um campo-feliz virtual em volta de fêmeas atraentes mas indisponíveis."
+ },
+ {
+  "id": 43,
+  "start": 267.96,
+  "limit": 279.0,
+  "new_start": 270.3180416666666,
+  "dur": 10.694083333333333,
+  "speed": 1.02,
+  "k": 1.0003698671497565,
+  "text_tgt": "Então, o que fêmeas bonitas e paisagens bonitas têm em comum é só o fato de as duas terem sido marcadas como \"bonitas\" pela evolução, como sinal de fertilidade e promessa de felicidade futura."
+ },
+ {
+  "id": 44,
+  "start": 279.0,
+  "limit": 288.46,
+  "new_start": 281.36212499999993,
+  "dur": 9.185,
+  "speed": 1.265,
+  "k": 1.007928118393237,
+  "text_tgt": "Machos também podem ser bonitos, ainda mais numa sociedade que questiona seus papéis de gênero: quando os machos podem ser cortejados, precisam de beleza para manter os pretendentes interessados."
+ },
+ {
+  "id": 45,
+  "start": 288.46,
+  "limit": 292.46,
+  "new_start": 290.89712499999996,
+  "dur": 3.699625,
+  "speed": 1.162,
+  "k": 1.01240625,
+  "text_tgt": "Mas e os metais, as pedras preciosas e os prédios enormes?"
+ },
+ {
+  "id": 46,
+  "start": 292.46,
+  "limit": 296.78,
+  "new_start": 294.94674999999995,
+  "dur": 4.0027083333333335,
+  "speed": 1.099,
+  "k": 1.0075713734567917,
+  "text_tgt": "Bem, eles indicam outra coisa que pode levar à felicidade futura: riqueza."
+ },
+ {
+  "id": 47,
+  "start": 296.78,
+  "limit": 305.54,
+  "new_start": 299.2994583333333,
+  "dur": 8.420583333333333,
+  "speed": 1.039,
+  "k": 1.0012081430745758,
+  "text_tgt": "Quando um terráqueo, ou uma comunidade, é rico, tende a exibir a riqueza com metais raros, pedras preciosas, tecidos caros e prédios enormes."
+ },
+ {
+  "id": 48,
+  "start": 305.54,
+  "limit": 307.76,
+  "new_start": 308.0700416666666,
+  "dur": 1.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama pompa."
+ },
+ {
+  "id": 49,
+  "start": 307.76,
+  "limit": 314.04,
+  "new_start": 310.2900416666666,
+  "dur": 5.953291666666667,
+  "speed": 1.07,
+  "k": 1.0037088641188912,
+  "text_tgt": "Morar numa cidade rica ou perto de alguém rico não costuma dar prazer imediato, mas pode compensar a longo prazo."
+ },
+ {
+  "id": 50,
+  "start": 314.04,
+  "limit": 323.36,
+  "new_start": 316.59333333333325,
+  "dur": 8.729,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vale para comerciantes, mercenários, operários, criados, prostitutas, artesãos, charlatães, assassinos, fiscais da receita e muitos outros."
+ },
+ {
+  "id": 51,
+  "start": 323.36,
+  "limit": 327.82,
+  "new_start": 325.91333333333324,
+  "dur": 4.1898333333333335,
+  "speed": 1.296,
+  "k": 1.0178998505231736,
+  "text_tgt": "Então a natureza humana usa de novo o truque do campo-feliz para atrair gente para a riqueza."
+ },
+ {
+  "id": 52,
+  "start": 327.82,
+  "limit": 330.28,
+  "new_start": 330.45316666666656,
+  "dur": 2.11,
+  "speed": 1.0,
+  "k": 1.0000000000000082,
+  "text_tgt": "É por isso que a pompa é considerada bonita."
+ },
+ {
+  "id": 53,
+  "start": 330.28,
+  "limit": 335.9,
+  "new_start": 332.91316666666654,
+  "dur": 5.347375,
+  "speed": 1.281,
+  "k": 1.0137677935943052,
+  "text_tgt": "Os terráqueos costumam pendurar no corpo bugigangas de metais e pedras preciosas para ficarem mais atraentes."
+ },
+ {
+  "id": 54,
+  "start": 335.9,
+  "limit": 343.7,
+  "new_start": 338.61054166666656,
+  "dur": 7.468958333333333,
+  "speed": 1.047,
+  "k": 1.002430555555554,
+  "text_tgt": "Funciona porque ser rico é sexy, mas também porque o campo-feliz da pompa dessas bugigangas se soma ao campo-feliz da beleza da pessoa."
+ },
+ {
+  "id": 55,
+  "start": 343.7,
+  "limit": 346.34,
+  "new_start": 346.4294999999999,
+  "dur": 2.3465,
+  "speed": 1.189,
+  "k": 1.0214015151515203,
+  "text_tgt": "Os terráqueos chamam essas bugigangas de joias."
+ },
+ {
+  "id": 56,
+  "start": 346.34,
+  "limit": 353.92,
+  "new_start": 349.1259999999999,
+  "dur": 6.619,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas a beleza terráquea vai além de paisagens, fêmeas e pompa: ela vale também para formas, padrões e até ideias."
+ },
+ {
+  "id": 57,
+  "start": 353.92,
+  "limit": 362.64,
+  "new_start": 356.70599999999996,
+  "dur": 8.2,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essa beleza abstrata segue critérios como proporção, simetria, formas suaves, simplicidade, contraste e autossimilaridade."
+ },
+ {
+  "id": 58,
+  "start": 362.64,
+  "limit": 365.5,
+  "new_start": 365.42599999999993,
+  "dur": 2.6074166666666665,
+  "speed": 1.35,
+  "k": 1.0340617715617666,
+  "text_tgt": "Mas por que a natureza marcaria essas coisas como bonitas?"
+ },
+ {
+  "id": 59,
+  "start": 365.5,
+  "limit": 370.46,
+  "new_start": 368.3834166666666,
+  "dur": 4.618125,
+  "speed": 1.024,
+  "k": 1.0016381048387137,
+  "text_tgt": "Critérios como simetria e formas suaves podem vir da atração sexual."
+ },
+ {
+  "id": 60,
+  "start": 370.46,
+  "limit": 374.96,
+  "new_start": 373.3515416666666,
+  "dur": 4.20475,
+  "speed": 1.182,
+  "k": 1.0121666666666664,
+  "text_tgt": "E pedras lisas podem indicar a presença de ácido hidroxílico na estação das chuvas."
+ },
+ {
+  "id": 61,
+  "start": 374.96,
+  "limit": 378.54,
+  "new_start": 377.9062916666666,
+  "dur": 3.275125,
+  "speed": 1.145,
+  "k": 1.0126047486033405,
+  "text_tgt": "Mas duvido que isso baste para explicar o senso de beleza abstrata."
+ },
+ {
+  "id": 62,
+  "start": 378.54,
+  "limit": 381.36,
+  "new_start": 381.53141666666664,
+  "dur": 2.50675,
+  "speed": 1.113,
+  "k": 1.0130319148936195,
+  "text_tgt": "Talvez tenha a ver com resolver problemas abstratos."
+ },
+ {
+  "id": 63,
+  "start": 381.36,
+  "limit": 386.1,
+  "new_start": 384.3881666666666,
+  "dur": 4.46525,
+  "speed": 1.281,
+  "k": 1.0158755274261584,
+  "text_tgt": "Mesmo problemas complicados costumam ter soluções surpreendentemente simples e elegantes."
+ },
+ {
+  "id": 64,
+  "start": 386.1,
+  "limit": 391.5,
+  "new_start": 389.2034166666666,
+  "dur": 5.113833333333333,
+  "speed": 1.23,
+  "k": 1.0118209876543252,
+  "text_tgt": "Os bioadministradores usam isso quando querem influenciar o raciocínio de alguma criatura nativa genial."
+ },
+ {
+  "id": 65,
+  "start": 391.5,
+  "limit": 402.24,
+  "new_start": 394.66724999999997,
+  "dur": 10.406791666666667,
+  "speed": 1.057,
+  "k": 1.0015634698944746,
+  "text_tgt": "Eles escaneiam o cérebro do gênio, observam o raciocínio e marcam ideias simples e elegantes com pequenos campos-felizes, porque ideias simples e elegantes podem levar a uma solução simples e elegante."
+ },
+ {
+  "id": 66,
+  "start": 402.24,
+  "limit": 404.5,
+  "new_start": 405.42404166666665,
+  "dur": 1.989125,
+  "speed": 1.292,
+  "k": 1.0350110619469068,
+  "text_tgt": "A beleza abstrata funciona do mesmo jeito."
+ },
+ {
+  "id": 67,
+  "start": 404.5,
+  "limit": 407.32,
+  "new_start": 407.7631666666667,
+  "dur": 2.6074166666666665,
+  "speed": 1.35,
+  "k": 1.0487293144208063,
+  "text_tgt": "Imagine um terráqueo pré-histórico prestes a inventar a roda."
+ },
+ {
+  "id": 68,
+  "start": 407.32,
+  "limit": 413.74,
+  "new_start": 410.72058333333337,
+  "dur": 6.075333333333333,
+  "speed": 1.022,
+  "k": 1.0008307372793328,
+  "text_tgt": "Até agora ele tem isto: uma roda pentagonal irregular, que funciona, mas dá cinco \"pulos\" a cada volta."
+ },
+ {
+  "id": 69,
+  "start": 413.74,
+  "limit": 419.1,
+  "new_start": 417.1459166666667,
+  "dur": 5.028375,
+  "speed": 1.056,
+  "k": 1.0034281716417883,
+  "text_tgt": "A lógica pode levá-lo a pensar que, cortando alguns cantos, reduz o número de pulos por volta."
+ },
+ {
+  "id": 70,
+  "start": 419.1,
+  "limit": 420.96,
+  "new_start": 422.5242916666667,
+  "dur": 1.5213333333333334,
+  "speed": 1.032,
+  "k": 1.006093189964181,
+  "text_tgt": "Mas esse é o caminho errado."
+ },
+ {
+  "id": 71,
+  "start": 420.96,
+  "limit": 426.18,
+  "new_start": 424.39562500000005,
+  "dur": 4.927416666666667,
+  "speed": 1.199,
+  "k": 1.0109993614303905,
+  "text_tgt": "Já o senso de beleza pode levá-lo na direção oposta, a uma forma mais elegante: um círculo."
+ },
+ {
+  "id": 72,
+  "start": 426.18,
+  "limit": 429.56,
+  "new_start": 429.67304166666673,
+  "dur": 2.658,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E, no fim, é uma ótima forma para uma roda."
+ },
+ {
+  "id": 73,
+  "start": 429.56,
+  "limit": 434.06,
+  "new_start": 433.05304166666673,
+  "dur": 4.172875,
+  "speed": 1.071,
+  "k": 1.0050833333333333,
+  "text_tgt": "Então, ao lidar com problemas, a beleza pode ser uma pista para a solução."
+ },
+ {
+  "id": 74,
+  "start": 434.06,
+  "limit": 438.58,
+  "new_start": 437.5759166666667,
+  "dur": 4.172083333333333,
+  "speed": 1.011,
+  "k": 1.000460914454281,
+  "text_tgt": "Talvez por isso os terráqueos digam que a beleza é \"o esplendor da verdade\"."
+ },
+ {
+  "id": 75,
+  "start": 438.58,
+  "limit": 445.16,
+  "new_start": 442.09800000000007,
+  "dur": 5.96,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dica científica: ao fazer experimentos com terráqueos, examine como o cérebro deles processa padrões."
+ },
+ {
+  "id": 76,
+  "start": 445.16,
+  "limit": 448.64,
+  "new_start": 448.6780000000001,
+  "dur": 3.204125,
+  "speed": 1.264,
+  "k": 1.0213002873563333,
+  "text_tgt": "Você vai notar que alguns padrões são mais fáceis de processar que outros."
+ },
+ {
+  "id": 77,
+  "start": 448.64,
+  "limit": 453.64,
+  "new_start": 452.2321250000001,
+  "dur": 4.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Há uma teoria de que a facilidade de processar padrões tem ligação com a beleza!"
+ },
+ {
+  "id": 78,
+  "start": 453.64,
+  "limit": 457.68,
+  "new_start": 457.2321250000001,
+  "dur": 3.752083333333333,
+  "speed": 1.21,
+  "k": 1.0153671617161664,
+  "text_tgt": "Os terráqueos chamam isso de \"teoria da fluência de processamento do prazer estético\"."
+ },
+ {
+  "id": 79,
+  "start": 457.68,
+  "limit": 459.16,
+  "new_start": 461.33420833333344,
+  "dur": 1.13925,
+  "speed": 1.027,
+  "k": 1.0062499999999877,
+  "text_tgt": "Lembra deste quadro?"
+ },
+ {
+  "id": 80,
+  "start": 459.16,
+  "limit": 470.58,
+  "new_start": 462.82345833333346,
+  "dur": 11.10725,
+  "speed": 1.119,
+  "k": 1.003261821366028,
+  "text_tgt": "Agora entendemos por que os terráqueos o acham tão bonito: mostra uma mulher rica, atraente, mas não vulgar, diante de uma paisagem bem fértil, cercada de montanhas que fornecem ácido hidroxílico doce."
+ },
+ {
+  "id": 81,
+  "start": 470.58,
+  "limit": 475.52,
+  "new_start": 474.28070833333345,
+  "dur": 4.597791666666667,
+  "speed": 1.022,
+  "k": 1.0015772604588398,
+  "text_tgt": "Além disso, a composição segue regras geométricas simples e é quase simétrica."
+ },
+ {
+  "id": 82,
+  "start": 475.52,
+  "limit": 483.28,
+  "new_start": 479.2285000000001,
+  "dur": 7.118,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E embora o pintor pegue leve na pompa, o quadro em si vale uns sete milhões de Créditos da República, o que sem dúvida aumenta o charme."
+ },
+ {
+  "id": 83,
+  "start": 483.28,
+  "limit": 492.32,
+  "new_start": 486.9885000000001,
+  "dur": 8.694791666666667,
+  "speed": 1.019,
+  "k": 1.0005300516224167,
+  "text_tgt": "Claro que, neste caso, não há paisagem de verdade nem mulher de verdade, é só tinta sobre folhas de celulose, um engano elaborado dos sentidos."
+ },
+ {
+  "id": 84,
+  "start": 492.32,
+  "limit": 494.3,
+  "new_start": 496.03329166666674,
+  "dur": 1.7069166666666666,
+  "speed": 1.283,
+  "k": 1.0388468013467917,
+  "text_tgt": "É isso que os terráqueos chamam de \"arte\"."
+ },
+ {
+  "id": 85,
+  "start": 494.3,
+  "limit": 496.3,
+  "new_start": 498.0902083333334,
+  "dur": 1.6759166666666667,
+  "speed": 1.08,
+  "k": 1.0129583333333334,
+  "text_tgt": "Já voltamos a esse fenômeno."
+ },
+ {
+  "id": 86,
+  "start": 496.3,
+  "limit": 520.66,
+  "new_start": 500.11612500000007,
+  "dur": 24.025166666666667,
+  "speed": 1.075,
+  "k": 1.0006226053639866,
+  "text_tgt": "Nos últimos episódios, vimos que a Fera manipula o Ego com diferentes tipos de prazer, ou, se preferir, com diferentes tipos de campos-felizes: o campo-diversão dos jogos e histórias, o campo-sexy dos terráqueos atraentes, o campo-gostoso da comida, o campo-amor da família, o campo-fofura dos filhotes, o campo-graça, que vou explicar em outro episódio, e o campo-beleza de coisas como flores, joias e paraboloides hiperbólicos."
+ },
+ {
+  "id": 87,
+  "start": 520.66,
+  "limit": 528.4,
+  "new_start": 524.4912916666667,
+  "dur": 7.419041666666667,
+  "speed": 1.093,
+  "k": 1.0037521533161056,
+  "text_tgt": "Como a beleza é uma espécie de campo-feliz para tudo, a natureza a usa muito para reforçar campos-sexy, campos-fofura e campos-amor."
+ },
+ {
+  "id": 88,
+  "start": 528.4,
+  "limit": 531.0,
+  "new_start": 532.2603333333334,
+  "dur": 2.3077083333333333,
+  "speed": 1.196,
+  "k": 1.0221955128205038,
+  "text_tgt": "Por isso os terráqueos podem achar essas coisas bonitas."
+ },
+ {
+  "id": 89,
+  "start": 531.0,
+  "limit": 550.1,
+  "new_start": 534.9180416666667,
+  "dur": 18.760875,
+  "speed": 1.058,
+  "k": 1.0005693717277475,
+  "text_tgt": "Os terráqueos aprenderam a imitar os estímulos que geram todos esses campos: drogas imitam diversão, pornô imita estímulos sexuais, refrigerante diet imita doçura, bichos de pelúcia e bonecas imitam entes queridos, lolcats imitam bichinhos, piadas imitam situações engraçadas, e a arte imita os estímulos da beleza."
+ },
+ {
+  "id": 90,
+  "start": 550.1,
+  "limit": 556.14,
+  "new_start": 554.0289166666666,
+  "dur": 5.735291666666667,
+  "speed": 1.156,
+  "k": 1.0074986203090568,
+  "text_tgt": "O fenômeno da arte lembra o que acontece em alguns planetas administrados quando o bioadministrador vai embora."
+ },
+ {
+  "id": 91,
+  "start": 556.14,
+  "limit": 562.12,
+  "new_start": 560.1142083333333,
+  "dur": 5.653375,
+  "speed": 1.079,
+  "k": 1.003908862876251,
+  "text_tgt": "Às vezes os nativos acham uma caixa-feliz esquecida, fazem engenharia reversa e constroem as suas próprias."
+ },
+ {
+  "id": 92,
+  "start": 562.12,
+  "limit": 569.44,
+  "new_start": 566.1175833333333,
+  "dur": 6.971666666666667,
+  "speed": 1.017,
+  "k": 1.0002276867030897,
+  "text_tgt": "Essas caixas são vendidas, postas em praças e vitrines, onde inundam o ambiente com ondas-felizes totalmente inúteis."
+ },
+ {
+  "id": 93,
+  "start": 569.44,
+  "limit": 576.42,
+  "new_start": 573.43925,
+  "dur": 6.680125,
+  "speed": 1.163,
+  "k": 1.0071812320917044,
+  "text_tgt": "Nativos ricos usam caixinhas-felizes no pescoço para ficarem mais atraentes, ou exibem as caixas em casa para mostrar riqueza."
+ },
+ {
+  "id": 94,
+  "start": 576.42,
+  "limit": 587.08,
+  "new_start": 580.469375,
+  "dur": 9.31,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quem cria novos padrões de ondas-felizes fica rico e famoso, empresas usam caixas-felizes em propaganda, e a produção de caixas e padrões vira uma indústria inteira."
+ },
+ {
+  "id": 95,
+  "start": 587.08,
+  "limit": 591.14,
+  "new_start": 591.1293750000001,
+  "dur": 3.743375,
+  "speed": 1.103,
+  "k": 1.0082204433497672,
+  "text_tgt": "Na Terra acontece exatamente o mesmo, só que sem as caixas-felizes."
+ },
+ {
+  "id": 96,
+  "start": 591.14,
+  "limit": 597.26,
+  "new_start": 595.2227500000001,
+  "dur": 5.814375,
+  "speed": 1.142,
+  "k": 1.0072508169934633,
+  "text_tgt": "Terráqueos chamados artistas aprenderam a imitar os estímulos da beleza em pinturas, esculturas e por aí vai."
+ },
+ {
+  "id": 97,
+  "start": 597.26,
+  "limit": 599.42,
+  "new_start": 601.3871250000001,
+  "dur": 1.8389166666666668,
+  "speed": 1.093,
+  "k": 1.0133873456790272,
+  "text_tgt": "Esses objetos se chamam obras de arte."
+ },
+ {
+  "id": 98,
+  "start": 599.42,
+  "limit": 609.46,
+  "new_start": 603.5760416666667,
+  "dur": 9.692083333333333,
+  "speed": 1.01,
+  "k": 1.0002075033200453,
+  "text_tgt": "A arte está para a beleza natural como o refrigerante diet está para o açúcar, ou o pornô para o sexo: imita os estímulos do prazer, mas fora de contexto e sem utilidade."
+ },
+ {
+  "id": 99,
+  "start": 609.46,
+  "limit": 619.64,
+  "new_start": 613.6181250000001,
+  "dur": 9.599,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não é à toa que a arte terráquea muitas vezes foca em gente bonita e na abundância da natureza: paisagens, flores, frutas e todo tipo de criatura viva."
+ },
+ {
+  "id": 100,
+  "start": 619.64,
+  "limit": 621.81,
+  "new_start": 623.798125,
+  "dur": 1.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Menos os micróbios."
+ },
+ {
+  "id": 101,
+  "start": 624.86,
+  "limit": 626.58,
+  "new_start": 629.018125,
+  "dur": 1.3,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 102,
+  "start": 626.58,
+  "limit": 629.8,
+  "new_start": 630.7381250000001,
+  "dur": 2.529,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se você se interessa por arte, visite um museu."
+ },
+ {
+  "id": 103,
+  "start": 629.8,
+  "limit": 635.18,
+  "new_start": 633.958125,
+  "dur": 5.070791666666667,
+  "speed": 1.13,
+  "k": 1.007582094175961,
+  "text_tgt": "Mas evite a arte moderna, que muitas vezes desafia ou distorce o conceito de beleza."
+ },
+ {
+  "id": 104,
+  "start": 635.18,
+  "limit": 639.34,
+  "new_start": 639.3789166666667,
+  "dur": 3.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Melhor começar pela arte clássica, é bem mais fácil de entender."
+ },
+ {
+  "id": 105,
+  "start": 639.34,
+  "limit": 647.8,
+  "new_start": 643.5389166666668,
+  "dur": 7.879,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A arte não se limita ao visual: um dos principais sinais de regiões férteis é o canto dos pássaros, que por isso é considerado bonito."
+ },
+ {
+  "id": 106,
+  "start": 647.8,
+  "limit": 653.22,
+  "new_start": 651.9989166666667,
+  "dur": 5.0895,
+  "speed": 1.061,
+  "k": 1.0035977859778462,
+  "text_tgt": "Os terráqueos criaram algo que parece uma tentativa de imitar o canto dos pássaros: a música."
+ },
+ {
+  "id": 107,
+  "start": 653.22,
+  "limit": 660.46,
+  "new_start": 657.4384166666666,
+  "dur": 6.898916666666667,
+  "speed": 1.029,
+  "k": 1.0012315837937371,
+  "text_tgt": "Os métodos mais comuns de fazer música são cantar, soprar tubos de metal e usar cordas vibrando presas a caixas ocas."
+ },
+ {
+  "id": 108,
+  "start": 660.46,
+  "limit": 668.48,
+  "new_start": 664.6873333333333,
+  "dur": 6.68,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A música provavelmente também foi moldada por rituais pré-históricos, seleção sexual e imitação de pássaros na caça."
+ },
+ {
+  "id": 109,
+  "start": 668.48,
+  "limit": 676.76,
+  "new_start": 672.7073333333333,
+  "dur": 7.94675,
+  "speed": 1.052,
+  "k": 1.0020229468599067,
+  "text_tgt": "Os terráqueos amam tanto a beleza que fazem até objetos do dia a dia artísticos e bonitos, como roupas, cadeiras ou prédios."
+ },
+ {
+  "id": 110,
+  "start": 676.76,
+  "limit": 678.12,
+  "new_start": 681.0040833333333,
+  "dur": 1.3333333333333333,
+  "speed": 1.35,
+  "k": 1.237745098039203,
+  "text_tgt": "Eles chamam isso de \"design\"."
+ },
+ {
+  "id": 111,
+  "start": 678.12,
+  "limit": 683.54,
+  "new_start": 682.6874166666665,
+  "dur": 5.122583333333333,
+  "speed": 1.183,
+  "k": 1.0097017220172277,
+  "text_tgt": "Como a arte, o design segue modas: o que é bonito hoje pode ficar feio em algumas décadas."
+ },
+ {
+  "id": 112,
+  "start": 683.54,
+  "limit": 688.72,
+  "new_start": 688.1599999999999,
+  "dur": 4.649958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um caso de design bem curioso são os veículos individuais chamados carros."
+ },
+ {
+  "id": 113,
+  "start": 688.72,
+  "limit": 693.12,
+  "new_start": 693.3399999999999,
+  "dur": 4.0575,
+  "speed": 1.025,
+  "k": 1.0017045454545506,
+  "text_tgt": "Seja qual for a moda, os carros sempre têm um rosto estilizado na frente."
+ },
+ {
+  "id": 114,
+  "start": 693.12,
+  "limit": 694.6,
+  "new_start": 697.7475,
+  "dur": 0.6299583333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por quê?"
+ },
+ {
+  "id": 115,
+  "start": 694.6,
+  "limit": 696.06,
+  "new_start": 699.2275,
+  "dur": 1.1165416666666668,
+  "speed": 1.021,
+  "k": 1.004480593607359,
+  "text_tgt": "Não faço ideia."
+ },
+ {
+  "id": 116,
+  "start": 696.06,
+  "limit": 705.32,
+  "new_start": 700.6940416666666,
+  "dur": 8.928916666666666,
+  "speed": 1.055,
+  "k": 1.0020428365730627,
+  "text_tgt": "Talvez os terráqueos tenham medo de coisas rápidas e sem rosto, como deslizamentos, incêndios florestais, ondas gigantes ou enxames de insetos furiosos."
+ },
+ {
+  "id": 117,
+  "start": 705.32,
+  "limit": 710.38,
+  "new_start": 709.9729583333333,
+  "dur": 3.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então põem rostos nos carros para que assustem menos."
+ },
+ {
+  "id": 118,
+  "start": 710.38,
+  "limit": 711.6,
+  "new_start": 715.0329583333332,
+  "dur": 1.0148333333333333,
+  "speed": 1.35,
+  "k": 1.1187158469945104,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 119,
+  "start": 711.6,
+  "limit": 717.26,
+  "new_start": 716.3977916666665,
+  "dur": 5.393916666666667,
+  "speed": 1.32,
+  "k": 1.0148262661955298,
+  "text_tgt": "Se você quer ganhar a confiança dos terráqueos antes de dominar o planeta, vai ser difícil se eles acharem suas naves feias."
+ },
+ {
+  "id": 120,
+  "start": 717.26,
+  "limit": 722.04,
+  "new_start": 722.1417083333332,
+  "dur": 4.577791666666666,
+  "speed": 1.35,
+  "k": 1.0309187587168815,
+  "text_tgt": "Então talvez valha abduzir alguns designers terráqueos e mandá-los projetar uma linda nave de pouso."
+ },
+ {
+  "id": 121,
+  "start": 722.04,
+  "limit": 728.04,
+  "new_start": 727.0694999999998,
+  "dur": 6.051833333333334,
+  "speed": 1.35,
+  "k": 1.0669722222222222,
+  "text_tgt": "Formas elegantes, pintura branca e um toque de azul ou verde são ótimos para convencer os terráqueos de que você \"vem em paz\"."
+ },
+ {
+  "id": 122,
+  "start": 728.04,
+  "limit": 737.9,
+  "new_start": 733.4713333333332,
+  "dur": 9.049,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas pegue leve na pompa, porque, A, os terráqueos associam pompa exagerada a tiranos e chefões do crime, e, B, os nativos podem ficar tentados a roubar sua nave."
+ },
+ {
+  "id": 123,
+  "start": 741.68,
+  "limit": 745.82,
+  "new_start": 747.1113333333332,
+  "dur": 3.8232083333333335,
+  "speed": 1.109,
+  "k": 1.0080213365539208,
+  "text_tgt": "A arte pode parecer um absurdo, um autoengano, uma piada global."
+ },
+ {
+  "id": 124,
+  "start": 745.82,
+  "limit": 751.44,
+  "new_start": 751.2845416666665,
+  "dur": 5.303708333333334,
+  "speed": 1.103,
+  "k": 1.0059979240806636,
+  "text_tgt": "Mas dá para ver de outro ângulo: como uma tentativa da Humanidade de ir além da necessidade biológica."
+ },
+ {
+  "id": 125,
+  "start": 751.44,
+  "limit": 764.34,
+  "new_start": 756.9382499999999,
+  "dur": 12.599666666666666,
+  "speed": 1.184,
+  "k": 1.003850129198968,
+  "text_tgt": "Os terráqueos vivem sob a tirania do imperativo genético bem mais do que imaginam, mas talvez a arte, e a beleza em geral, sejam um jeito de escapar das garras desse tirano, de enganar a própria natureza para ganhar felicidade sem necessidade biológica."
+ },
+ {
+  "id": 126,
+  "start": 764.34,
+  "limit": 769.6,
+  "new_start": 769.8879166666666,
+  "dur": 4.923208333333333,
+  "speed": 1.042,
+  "k": 1.0025110899873273,
+  "text_tgt": "Por outro lado, dá para dizer o mesmo de lolcats, refrigerante diet ou pornô."
+ },
+ {
+  "id": 127,
+  "start": 769.6,
+  "limit": 770.68,
+  "new_start": 775.1611249999999,
+  "dur": 0.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Enfim..."
+ },
+ {
+  "id": 128,
+  "start": 770.68,
+  "limit": 774.24,
+  "new_start": 776.2411249999998,
+  "dur": 3.2368333333333332,
+  "speed": 1.081,
+  "k": 1.007537453183504,
+  "text_tgt": "Bom, este foi o episódio 6 de Terráqueos 101."
+ },
+ {
+  "id": 129,
+  "start": 774.24,
+  "limit": 780.0,
+  "new_start": 779.8279583333331,
+  "dur": 5.229958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma nota pessoal: mês que vem estarei de férias, vou visitar os castelos orbitais de Erioll."
+ },
+ {
+  "id": 130,
+  "start": 780.0,
+  "limit": 787.48,
+  "new_start": 785.5879583333331,
+  "dur": 7.13675,
+  "speed": 1.024,
+  "k": 1.00090240641711,
+  "text_tgt": "Então o próximo episódio talvez só saia no Dia Galáctico dos Nerdfighters, ou, em termos terráqueos, no começo de setembro."
+ },
+ {
+  "id": 131,
+  "start": 787.48,
+  "limit": 793.62,
+  "new_start": 793.0747083333331,
+  "dur": 5.8355,
+  "speed": 1.143,
+  "k": 1.0074104234527708,
+  "text_tgt": "No próximo episódio, vamos aprender os mecanismos sociais por trás de palavras como \"olá\", \"por favor\", \"obrigado\" e \"desculpa\"."
+ },
+ {
+  "id": 132,
+  "start": 793.62,
+  "limit": 797.58,
+  "new_start": 799.2602083333331,
+  "dur": 3.6460833333333333,
+  "speed": 1.119,
+  "k": 1.0091119528619437,
+  "text_tgt": "E também por que o comércio internacional de carma é um grande negócio."
+ },
+ {
+  "id": 133,
+  "start": 797.58,
+  "limit": 799.78,
+  "new_start": 803.2562916666665,
+  "dur": 1.8850833333333334,
+  "speed": 1.114,
+  "k": 1.0159469696970012,
+  "text_tgt": "Como sempre, obrigado por assistir."
+ },
+ {
+  "id": 134,
+  "start": 799.78,
+  "limit": 801.55,
+  "new_start": 805.4913749999998,
+  "dur": 1.65925,
+  "speed": 1.35,
+  "k": 1.1351694915254353,
+  "text_tgt": "E não se esqueça de ser alienígena!"
+ }
+]

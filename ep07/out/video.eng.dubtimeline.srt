@@ -1,0 +1,392 @@
+1
+00:00:00,000 --> 00:00:01,520
+Hello, fellow aliens.
+
+2
+00:00:01,935 --> 00:00:09,082
+Today we will learn about seemingly simple words like "Hello", "Please", or "Thank you", and about the complex interactions behind them.
+
+3
+00:00:09,324 --> 00:00:11,968
+We may call these interactions "Social mechanics".
+
+4
+00:00:48,816 --> 00:00:53,828
+Galactic protocols require that the first sentence of any first contact must be the sentence "We come in peace".
+
+5
+00:00:54,111 --> 00:00:55,361
+This is called a greeting.
+
+6
+00:00:55,721 --> 00:00:59,861
+Of course, this sentence is optional in case you don't actually come in peace.
+
+7
+00:01:02,461 --> 00:01:04,528
+Earthlings always greet each other when they encounter.
+
+8
+00:01:05,237 --> 00:01:07,157
+They are not the only race to do so.
+
+9
+00:01:08,077 --> 00:01:14,345
+The Lava Golems from Sanguis 4 for example greet each other by describing what they will do if ever they meet in mortal combat.
+
+10
+00:01:14,829 --> 00:01:23,709
+One Golem may say: "I will rip your guts out and wrap them around your head!", to which the other one may reply "I will turn you inside out and cover you with yellow sauce"!
+
+11
+00:01:24,069 --> 00:01:29,522
+And that's only how they greet the mailman - greetings between close siblings or written greetings are much longer.
+
+12
+00:01:29,522 --> 00:01:32,758
+For Golems, greetings serve to show off social dominance.
+
+13
+00:01:33,446 --> 00:01:35,282
+Earthling greetings have another purpose.
+
+14
+00:01:35,767 --> 00:01:38,247
+It has to do with so-called social relationships.
+
+15
+00:01:38,787 --> 00:01:41,347
+To understand this, let me digress a bit.
+
+16
+00:01:42,167 --> 00:01:43,227
+This is a sofa.
+
+17
+00:01:43,687 --> 00:01:45,201
+Its purpose doesn't matter here.
+
+18
+00:01:45,554 --> 00:01:55,714
+What matters is that A) Many earthlings have a sofa, B) Earthlings take their sofa with them when they move, and, most importantly, C) You need more than one earthling to move a sofa.
+
+19
+00:01:55,714 --> 00:02:03,454
+So, earthlings need to cooperate to move all those sofas around, which makes them perfect examples for how earthlings organize cooperation.
+
+20
+00:02:07,134 --> 00:02:10,505
+The key to cooperation management is social relationships.
+
+21
+00:02:10,907 --> 00:02:15,839
+Besides family bonds, earthlings create more or less intense bonds with other earthlings.
+
+22
+00:02:16,162 --> 00:02:19,322
+The intensity of the relationship determines the level of cooperation.
+
+23
+00:02:20,922 --> 00:02:23,902
+For example, a stranger would not care about your sofa.
+
+24
+00:02:24,222 --> 00:02:26,809
+An acquaintance would sit on your sofa when you invite him.
+
+25
+00:02:27,053 --> 00:02:31,573
+A friend would help you moving your sofa, and a lover would want to have sex with you on the sofa.
+
+26
+00:02:32,533 --> 00:02:38,925
+Now, as the intensity of relationships changes over time, earthlings need to synchronize the perceived relationship level.
+
+27
+00:02:39,206 --> 00:02:40,702
+That's where greetings come in.
+
+28
+00:02:41,023 --> 00:02:43,093
+Each level has its own greeting rituals.
+
+29
+00:02:43,729 --> 00:02:51,091
+Acquaintances use formal greetings, friends more informal greetings, and lovers get all touchy and kissy and give each other cute animal names.
+
+30
+00:02:51,757 --> 00:02:57,097
+Also, greetings serve to communicate and synchronize other information, like differences in social status.
+
+31
+00:02:59,317 --> 00:03:04,617
+Tips for tourists: When you make first contact, you can use the formula "I come in peace".
+
+32
+00:03:05,077 --> 00:03:08,347
+Anyway, earthlings will expect you to say something outlandish.
+
+33
+00:03:08,715 --> 00:03:16,662
+However, the formula "Bring me to your leader" won't be very helpful, as most earthlings' social rank is too low to know their country's leader personally.
+
+34
+00:03:16,964 --> 00:03:19,677
+The best you can expect is a meeting with some local official.
+
+35
+00:03:20,771 --> 00:03:25,798
+To understand words like "Please" or "Thank you", we need to understand another mechanism: Gratitude.
+
+36
+00:03:26,365 --> 00:03:32,480
+When trading goods or services with strangers, Earthlings use money - a virtual trade good I will explain in another episode.
+
+37
+00:03:32,843 --> 00:03:40,663
+But for trade with friends and family they use mostly another virtual currency called gratitude, which is - unlike money - always bound to one relationship.
+
+38
+00:03:42,123 --> 00:03:45,585
+Take, for example, an earthling A who needs help to move his sofa.
+
+39
+00:03:45,909 --> 00:03:51,061
+He approaches B who greets him with "Hello, my friend", which indicates to A that they are still friends.
+
+40
+00:03:51,584 --> 00:03:55,904
+So, A can offer B an exchange: Gratitude against help with the sofa.
+
+41
+00:03:56,324 --> 00:04:03,104
+To initiate the exchange, A uses the ritual word "Please", which indicates a trade offer: Favour against gratitude.
+
+42
+00:04:03,104 --> 00:04:12,583
+If B isn't interested in the trade, A may even increase the amount of offered gratitude, by changing the formula to something like "Pretty please" or "please please please with a cherry on top".
+
+43
+00:04:12,864 --> 00:04:16,544
+It's basically a kind of bargaining, except that the currency is gratitude.
+
+44
+00:04:17,284 --> 00:04:21,014
+Now, let's say B accepts the trade offer and helps him with his sofa.
+
+45
+00:04:21,258 --> 00:04:24,358
+As agreed upon, A gives B gratitude in exchange.
+
+46
+00:04:24,778 --> 00:04:27,231
+He does so with the ritual formula "Thank you".
+
+47
+00:04:27,231 --> 00:04:30,842
+B receives the gratitude with another ritual formula, "You're welcome".
+
+48
+00:04:31,084 --> 00:04:34,842
+The exact formulae may vary, in order to indicate the amount of gratitude.
+
+49
+00:04:35,345 --> 00:04:39,685
+This is very important, to keep the perceived gratitude scores synchronized.
+
+50
+00:04:40,105 --> 00:04:43,144
+B can then use the gratitude whenever he wants a favour from A.
+
+51
+00:04:43,716 --> 00:04:50,663
+If A wants some gratitude back but B doesn't make a trade offer, he can do him a favour, or he can give him an object in exchange for gratitude.
+
+52
+00:04:51,307 --> 00:04:52,776
+This is called a gift.
+
+53
+00:04:52,776 --> 00:04:58,136
+Friends often exchange gifts, this improves the friendship and allows balancing the gratitude level.
+
+54
+00:04:58,558 --> 00:05:05,695
+The strange thing about gratitude is that it is not exactly quantifiable or measurable - most earthlings don't even realize that it's a virtual trade good.
+
+55
+00:05:05,996 --> 00:05:10,220
+But maintaining the gratitude flow is crucial for the functioning of any personal relationship.
+
+56
+00:05:10,846 --> 00:05:15,357
+Actually, a relationship where one part gives and gives without receiving is called "exploitation".
+
+57
+00:05:16,259 --> 00:05:18,139
+Or sometimes "friend zone".
+
+58
+00:05:21,219 --> 00:05:28,912
+Scientific advice: If you have a time machine, you can make the following experiment: Abduct an earthling, bring him back in time and make him meet himself.
+
+59
+00:05:29,254 --> 00:05:35,743
+The goal is to create a conflict situation - say, finding some delicious food after several days without eating.
+
+60
+00:05:36,164 --> 00:05:43,264
+Many earthlings will come to the conclusion that social rules don't apply to their own time clones, which can lead to very interesting situations.
+
+61
+00:05:54,284 --> 00:05:59,524
+Now, what happens if B does something bad to A, like ruining his sofa by accident?
+
+62
+00:05:59,884 --> 00:06:10,800
+There is another mechanism for this kind of situation: In this case, B is considered at fault, which has three consequences: First, B is punished by the feeling of guilt, caused by his own niggler in his head.
+
+63
+00:06:11,281 --> 00:06:16,597
+Second, A resents B for a while, which is just a ritual to communicate fault and maintain guilt.
+
+64
+00:06:17,083 --> 00:06:22,795
+Third, to end this situation, B has to use another ritual formula, "Please excuse me" or "Sorry".
+
+65
+00:06:22,795 --> 00:06:29,575
+As we have learned before, the word "please" opens a gratitude trade - in this case, gratitude against purging the fault.
+
+66
+00:06:29,955 --> 00:06:39,035
+If A accepts the trade, he gets the gratitude and stops resenting B, and everything is as before - except for the ruined sofa and the modified gratitude scores.
+
+67
+00:06:40,915 --> 00:06:44,875
+Strategic advice: "Sorry" is a very powerful word.
+
+68
+00:06:45,195 --> 00:06:50,890
+When you attack earth, you might destroy one big earthling city, and then transmit the message "We are so sorry".
+
+69
+00:06:51,274 --> 00:06:56,690
+If you banter something about technical issues or cultural misunderstandings, odds are that earthlings will believe you.
+
+70
+00:06:57,237 --> 00:06:59,512
+However, this trick won't work a second time.
+
+71
+00:07:07,735 --> 00:07:15,462
+Greetings, thanks and excuses are rituals - symbolic actions which don't actually do anything, but have an important place in earthling society.
+
+72
+00:07:15,784 --> 00:07:17,940
+We will talk about rituals in another episode.
+
+73
+00:07:18,428 --> 00:07:22,474
+By the way, ritualistic behaviour is common amongst mobile lifeforms on earth.
+
+74
+00:07:22,737 --> 00:07:24,517
+Except for the microbes.
+
+75
+00:07:27,397 --> 00:07:30,577
+Not everything can be explained with gratitude points, though.
+
+76
+00:07:31,037 --> 00:07:38,471
+In large earthling settlements, you often see individuals called beggars who ask complete strangers for money, using the ritual word "please".
+
+77
+00:07:39,016 --> 00:07:48,404
+Some alien scientists describe those beggars as "gratitude traders", but that doesn't make sense: Why should an earthling buy the gratitude of a stranger who will never ever help him with his sofa?
+
+78
+00:07:48,606 --> 00:07:53,026
+And why should someone accumulate gratitude debts he can never expect to be able to pay back?
+
+79
+00:07:53,646 --> 00:07:56,864
+I think there is another social mechanism behind this: Karma.
+
+80
+00:07:57,266 --> 00:08:04,551
+Most earthlings have the more or less vague feeling that there is some kind of invisible point system, that you get points by being good and lose points by being bad.
+
+81
+00:08:04,954 --> 00:08:07,091
+Some earthlings call these points "Karma".
+
+82
+00:08:07,605 --> 00:08:13,729
+Some believe that karma is rewarded in the afterlife, in the next reincarnation, in this life, or not at all.
+
+83
+00:08:13,729 --> 00:08:20,184
+But anyway, getting Karma causes a pleasant feeling of superiority, and makes the niggler in the head shut up for a while.
+
+84
+00:08:20,629 --> 00:08:30,023
+If you consider Karma as a virtual exchange good, like money or gratitude, things become a lot clearer: Beggars are actual karma producers who sell their product on the street.
+
+85
+00:08:30,483 --> 00:08:36,207
+Karma becomes kind of a luxury good: It's not vital, but it makes you feel good and helps to display your wealth.
+
+86
+00:08:36,207 --> 00:08:39,407
+Not everybody buys karma directly from the producer, though.
+
+87
+00:08:39,927 --> 00:08:48,651
+Many cities have intermediaries like soup kitchen where karma producers - poor earthlings - can sell their karma against food, and rich earthlings can buy karma against money.
+
+88
+00:08:49,134 --> 00:08:51,863
+And that's not all: Karma is big business!
+
+89
+00:08:52,164 --> 00:09:01,909
+Whenever earthlings in a region are struck by a natural catastrophe, international karma traders show up within hours, provide help, harvest karma and sell it to people in rich countries.
+
+90
+00:09:01,909 --> 00:09:06,909
+This is called "humanitarian aid", but it is nothing else than world-wide karma trade.
+
+91
+00:09:07,149 --> 00:09:13,204
+Roughly speaking, poor countries are in general karma exporters, whereas rich countries are generally karma importers.
+
+92
+00:09:13,729 --> 00:09:16,229
+Karma comes, so to say, in different flavours.
+
+93
+00:09:17,189 --> 00:09:28,429
+Besides humanitarian karma there exist, for example, animal protection karma, ecology karma, religious karma, patriotic karma, pacifist karma, and karma for buying from a specific company.
+
+94
+00:09:28,429 --> 00:09:35,691
+A personal word to my earthling viewers: If you want some alien-flavoured karma, click on Like, subscribe and tell all your friends.
+
+95
+00:09:36,096 --> 00:09:43,864
+And if you draw the attention of a popular blogger, Youtuber, rockstar, or whoever might bring me new traffic, I may also throw in some personal gratitude.
+
+96
+00:09:44,328 --> 00:09:50,693
+In case you wonder why you would want the gratitude of a 3 feet high alien, I only say one word: Teleportation!
+
+97
+00:09:52,854 --> 00:10:02,431
+In the next episode, I will explain something that most aliens find very puzzling: Funny things, humour, and the strange noises earthlings make when they find something funny.
+
+98
+00:10:02,973 --> 00:10:05,581
+Thanks for watching, and don't forget to be alien!
+

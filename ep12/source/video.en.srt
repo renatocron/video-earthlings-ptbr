@@ -1,0 +1,1144 @@
+1
+00:00:00,190 --> 00:00:02,470
+Greetings, fellow aliens!
+
+2
+00:00:02,470 --> 00:00:05,320
+Welcome to the twelveth episode of Earthlings
+101.
+
+3
+00:00:05,320 --> 00:00:42,089
+Today we will learn about the earthlings'
+most important sense: Vision, or eyesight.
+
+4
+00:00:42,089 --> 00:00:46,059
+Vision is the capacity to perceive light in
+order to create a mental image of the environment.
+
+5
+00:00:46,059 --> 00:00:48,199
+But what is light?
+
+6
+00:00:48,199 --> 00:00:51,300
+Light is electromagnetic radiation wthin a
+certain range.
+
+7
+00:00:51,300 --> 00:00:56,460
+The earth athmosphere filters most radiation
+from the sun, except for three ranges of wavelengths:
+
+8
+00:00:56,460 --> 00:01:00,260
+The radio window, the infrared window, and
+the optical window.
+
+9
+00:01:00,260 --> 00:01:05,300
+The latter is between 300 and 1100 nanometers
+- that's the frequency of light.
+
+10
+00:01:05,300 --> 00:01:09,970
+Earthlings can perceive light between 390
+and 700 nanometers - that's called visible
+
+11
+00:01:09,970 --> 00:01:10,970
+light.
+
+12
+00:01:10,970 --> 00:01:15,320
+The earthlings perceive light with their eyes
+- a pair of globular organs in the head.
+
+13
+00:01:15,320 --> 00:01:20,000
+Eyes are primitive biocameras: Light falls
+through a lense, is focused onto a photosensitive
+
+14
+00:01:20,000 --> 00:01:24,490
+layer called retina, is transformed into electrical
+signals, and then...
+
+15
+00:01:24,490 --> 00:01:27,420
+Well, that's when things become interesting.
+
+16
+00:01:27,420 --> 00:01:30,910
+Earthling sensor are often compared with the
+sensor system of levy drones.
+
+17
+00:01:30,910 --> 00:01:35,360
+When the Galactic Tax Authority executes a
+planetary tax examination, it sends in a Tax
+
+18
+00:01:35,360 --> 00:01:39,520
+Star which releases millions of levy drones
+to the planet's surface.
+
+19
+00:01:39,520 --> 00:01:44,250
+Each levy drone is equipped with a multitude
+of tax assessment sensors, including a sophisticated
+
+20
+00:01:44,250 --> 00:01:46,300
+high-definition camera.
+
+21
+00:01:46,300 --> 00:01:50,520
+On first glance, a drone camera seems to work
+exactly like an earthling eye:
+
+22
+00:01:50,520 --> 00:01:54,800
+Light falls through a lense system onto an
+array of spectroscopic photoreceptors.
+
+23
+00:01:54,800 --> 00:01:58,900
+The spectroscopic pixel matrix is then sent
+to the central computer where it is processed
+
+24
+00:01:58,900 --> 00:02:01,760
+and transformed into a 3d voxel model.
+
+25
+00:02:01,760 --> 00:02:06,570
+Finally, the tax routines compute the monetary
+value of each taxable entity.
+
+26
+00:02:06,570 --> 00:02:10,860
+If you take this - minus the tax part - you
+get a very good explanation of how earthling
+
+27
+00:02:10,860 --> 00:02:12,450
+vision does not work.
+
+28
+00:02:12,450 --> 00:02:16,750
+Because, from the moment on when the light
+hits the retina, earthling vision is completely
+
+29
+00:02:16,750 --> 00:02:17,750
+different.
+
+30
+00:02:17,750 --> 00:02:22,180
+In particular, what the eyes send to the brain
+is not only pixel data, but also data about
+
+31
+00:02:22,180 --> 00:02:24,560
+contrast, color contrast and motion.
+
+32
+00:02:24,560 --> 00:02:28,860
+In other words, the first step of data processing
+happens literally within the eyes.
+
+33
+00:02:28,860 --> 00:02:33,800
+See, the retina consists of light-sensitive
+cells, rods and cones.
+
+34
+00:02:33,800 --> 00:02:37,640
+Above those cells we have a thin layer of
+intermediate neurons, which wire them to the
+
+35
+00:02:37,640 --> 00:02:39,920
+neuro-cables leading to the brain.
+
+36
+00:02:39,920 --> 00:02:44,250
+Some neurons simply forward information from
+the rods and cones, but others provide a clever
+
+37
+00:02:44,250 --> 00:02:47,340
+lateral wiring to detect contrast or motion.
+
+38
+00:02:47,340 --> 00:02:51,140
+For example, one neuron might emit a signal
+when a certain spot is brighter than it's
+
+39
+00:02:51,140 --> 00:02:52,190
+neighbourhood.
+
+40
+00:02:52,190 --> 00:02:57,580
+In consequence, the cell detects contrast,
+or, in other words, contours.
+
+41
+00:02:57,580 --> 00:03:01,550
+Another neuron might only fire when it detects
+motion in a certain direction.
+
+42
+00:03:01,550 --> 00:03:05,560
+Still another neuron emits a signal when it
+perceives a color difference between neighbour
+
+43
+00:03:05,560 --> 00:03:07,490
+spots, and so on.
+
+44
+00:03:07,490 --> 00:03:12,930
+So, what is sent to the brain is information
+about motion, contrast and color contrast.
+
+45
+00:03:12,930 --> 00:03:14,849
+But where is the information sent?
+
+46
+00:03:14,849 --> 00:03:17,800
+The eyes are wired to the Thalamus, in the
+center of the brain.
+
+47
+00:03:17,800 --> 00:03:22,710
+"Thalamus" is an ancient word for "inner chamber",
+and it's kind of a data connection center.
+
+48
+00:03:22,710 --> 00:03:26,160
+Whoever sends information to the brain must
+pass through the thalamus.
+
+49
+00:03:26,160 --> 00:03:29,580
+In particular, the eyes are wired to the two
+lateral geniculate nuclei -
+
+50
+00:03:29,580 --> 00:03:32,890
+that's just a fancy word for "knee-shaped
+bumps on the side".
+
+51
+00:03:32,890 --> 00:03:36,750
+The right bump receives data from the right
+halves of the retinae of both eyes, the left
+
+52
+00:03:36,750 --> 00:03:38,410
+bump from the left halves.
+
+53
+00:03:38,410 --> 00:03:42,160
+The information is then forwarded to the visual
+cortex in the back of the brain where it is
+
+54
+00:03:42,160 --> 00:03:44,970
+processed and sent to the rest of the brain.
+
+55
+00:03:44,970 --> 00:03:49,251
+Spatial and motion data are sent upwards,
+where they serve to create a dynamic 3D model
+
+56
+00:03:49,251 --> 00:03:50,770
+of the environment.
+
+57
+00:03:50,770 --> 00:03:56,900
+Color and shape information is sent sidewards
+and used to identify objects.
+
+58
+00:03:56,900 --> 00:03:57,900
+scientific advice:
+
+59
+00:03:57,900 --> 00:03:59,861
+An interesting field of research is optical
+illusions.
+
+60
+00:03:59,861 --> 00:04:00,861
+Take this one, for example.
+
+61
+00:04:00,861 --> 00:04:06,349
+When you tell an earthling to fix the planet
+in the center of the image, he will see a
+
+62
+00:04:06,349 --> 00:04:12,470
+green orbiting saucer in the rotating free
+slot between the pink ones - although there
+
+63
+00:04:12,470 --> 00:04:13,644
+is no green saucer, only pink ones.
+
+64
+00:04:13,644 --> 00:04:17,500
+The green is an after-image of the pink - maybe
+due to the color contrast vision I will explain
+
+65
+00:04:17,500 --> 00:04:18,500
+later.
+
+66
+00:04:18,500 --> 00:04:23,790
+Sometimes the pink saucers will even disappear
+and he will only see the green one.
+
+67
+00:04:23,790 --> 00:04:27,320
+Earthlings always center both eyes onto one
+spot in the visual field.
+
+68
+00:04:27,320 --> 00:04:31,050
+The centers of the retinae have the highest
+density of cones and provide the sharpest
+
+69
+00:04:31,050 --> 00:04:32,050
+view.
+
+70
+00:04:32,050 --> 00:04:35,460
+The farther you are away from the center,
+the blurrier the vision gets.
+
+71
+00:04:35,460 --> 00:04:38,300
+That's why earthlings always move their eyes
+around.
+
+72
+00:04:38,300 --> 00:04:42,370
+The brain does a good job in computing the
+movement away, so the environment appears
+
+73
+00:04:42,370 --> 00:04:43,370
+static.
+
+74
+00:04:43,370 --> 00:04:46,940
+But this doesn't work when you poke the eyeball
+slightly with a finger - in this case the
+
+75
+00:04:46,940 --> 00:04:49,830
+world seems to move.
+
+76
+00:04:49,830 --> 00:04:54,520
+As mentioned before, the data received by
+the visual cortex are used for two purposes:
+
+77
+00:04:54,520 --> 00:04:58,290
+Spatial orientation and motion data, and identifying
+objects.
+
+78
+00:04:58,290 --> 00:05:00,450
+Let's start with the former one.
+
+79
+00:05:00,450 --> 00:05:04,180
+For spatial orientation, having two eyes comes
+in handy:
+
+80
+00:05:04,180 --> 00:05:08,130
+The brain uses the slight differences between
+the data from both eyes to estimate the distance
+
+81
+00:05:08,130 --> 00:05:09,930
+of different objects.
+
+82
+00:05:09,930 --> 00:05:14,180
+Other input data are also taken into account,
+in particular the smaller angular size of
+
+83
+00:05:14,180 --> 00:05:15,750
+distant objects.
+
+84
+00:05:15,750 --> 00:05:20,560
+The brain uses those data to construct a dynamic
+3D model of the environment.
+
+85
+00:05:20,560 --> 00:05:22,880
+Most animals have similar visual systems.
+
+86
+00:05:22,880 --> 00:05:28,020
+Predators often have frontal eyes with overlapping
+fields of view, to provide an optimal 3D vision
+
+87
+00:05:28,020 --> 00:05:29,020
+in order to seize their prey.
+
+88
+00:05:29,020 --> 00:05:34,449
+Prey animals, on the other hand, have often
+lateral eyes to increase the field of view,
+
+89
+00:05:34,449 --> 00:05:37,120
+so they can detect whoever wants to eat them.
+
+90
+00:05:37,120 --> 00:05:42,320
+Except for the microbes.
+
+91
+00:05:42,320 --> 00:05:45,550
+Now to the second point: identifying objects.
+
+92
+00:05:45,550 --> 00:05:49,800
+This happens in the temporal cortex - that's
+just a fancy word for "on the sides of the
+
+93
+00:05:49,800 --> 00:05:50,900
+head".
+
+94
+00:05:50,900 --> 00:05:53,930
+Earthling brains are powerful pattern-recognition
+machines.
+
+95
+00:05:53,930 --> 00:05:57,520
+We have already seen that the eyes send contour
+data to the brain.
+
+96
+00:05:57,520 --> 00:06:02,979
+What happens is that identified simple contour
+patterns - corners, edges etc. - are assembled
+
+97
+00:06:02,979 --> 00:06:06,030
+into more and more complex patterns.
+
+98
+00:06:06,030 --> 00:06:10,360
+Earthlings are great at identifying shapes
+even from incomplete contour elements.
+
+99
+00:06:10,360 --> 00:06:15,100
+That's important, for example for identifying
+partially hidden animals.
+
+100
+00:06:15,100 --> 00:06:18,639
+When the initial contour elements are not
+properly alligned, the brain has problems
+
+101
+00:06:18,639 --> 00:06:20,730
+assembling the overall shape.
+
+102
+00:06:20,730 --> 00:06:26,250
+Those lines, for example, appear as spirals,
+but they are actually circles.
+
+103
+00:06:26,250 --> 00:06:31,620
+The pattern recognition of faces is well developped,
+as it contributes to the recognition of individuals.
+
+104
+00:06:31,620 --> 00:06:35,370
+Earthling scientists have identified a neuron
+in a brain that reacts to the celebrity Halle
+
+105
+00:06:35,370 --> 00:06:38,370
+Berry, but not to images of other Earthlings.
+
+106
+00:06:38,370 --> 00:06:43,250
+The neuron also reacts to Halle Berry in a
+feline costume covering most of her face,
+
+107
+00:06:43,250 --> 00:06:44,670
+as well as to her name.
+
+108
+00:06:44,670 --> 00:06:48,470
+So, this cell seems to be a really big fan
+of Halle Berry.
+
+109
+00:06:48,470 --> 00:06:52,870
+They also found a neuron that likes Jennifer
+Aniston, and another one that admires Ronald
+
+110
+00:06:52,870 --> 00:06:54,630
+Reagan.
+
+111
+00:06:54,630 --> 00:06:57,270
+Recognition of things is mainly based onto
+shape and color.
+
+112
+00:06:57,270 --> 00:07:00,370
+The concept of color can be confusing for
+aliens.
+
+113
+00:07:00,370 --> 00:07:04,660
+Most educated earthlings would agree that
+color is a physical property of light.
+
+114
+00:07:04,660 --> 00:07:07,610
+But as we will see, that is utter nonsense.
+
+115
+00:07:07,610 --> 00:07:11,180
+Color isn't about physics - it's about biology!
+
+116
+00:07:11,180 --> 00:07:15,040
+Earthling color perception can be compared
+to how the Gloobobs of Aldaris 7 perceive
+
+117
+00:07:15,040 --> 00:07:16,080
+sound.
+
+118
+00:07:16,080 --> 00:07:19,070
+Gloobobs are known for having the worst brass
+bands in the Galaxy.
+
+119
+00:07:19,070 --> 00:07:22,800
+It's not their fault: Those creatures have
+a very primitive audio perception and can
+
+120
+00:07:22,800 --> 00:07:30,940
+only distinguish three ranges of frequencies,
+called Ged, Bleen, and Droo.
+
+121
+00:07:30,940 --> 00:07:35,120
+Every sound, every chord or melody they hear
+will be reduced in their ears to a mix off
+
+122
+00:07:35,120 --> 00:07:37,389
+Ged, Bleen and Droo.
+
+123
+00:07:37,389 --> 00:07:42,810
+The Gloobob ears contain sound receptors for
+each one of the three pitch ranges.
+
+124
+00:07:42,810 --> 00:07:47,850
+The sensibilities of the receptors are somewhat
+fuzzy, so they can tell single sounds apart.
+
+125
+00:07:47,850 --> 00:07:49,960
+For example, when you play a scale...
+
+126
+00:07:49,960 --> 00:07:58,639
+...Gloobobs hear this:
+
+127
+00:07:58,639 --> 00:08:01,210
+But they are completely lost when it comes
+to chords.
+
+128
+00:08:01,210 --> 00:08:04,710
+Two notes are already too much.
+
+129
+00:08:04,710 --> 00:08:09,509
+Take for example a chord consisting of Ged
+and Bleen - for Gloobob ears, that sounds
+
+130
+00:08:09,509 --> 00:08:13,610
+exactly like "Nello", halfway between Ged
+and Bleen.
+
+131
+00:08:13,610 --> 00:08:19,560
+So, for Gloobobs, Ged plus Bleen equals Nello,
+which is of course nonsense - the only thing
+
+132
+00:08:19,560 --> 00:08:23,569
+that is equal is the perception of the sounds
+by Gloobob ears.
+
+133
+00:08:23,569 --> 00:08:27,710
+Gloobob scientists have theorized that all
+sounds belong to a three dimensional "sound
+
+134
+00:08:27,710 --> 00:08:31,430
+space", defined by the perceived intensity
+of Ged, Bleen and Droo.
+
+135
+00:08:31,430 --> 00:08:34,830
+Mind, this isn't physics - it's biology.
+
+136
+00:08:34,830 --> 00:08:39,330
+Gloobob sound recording devices can only produce
+three sounds - enough to imitate sounds for
+
+137
+00:08:39,330 --> 00:08:42,289
+Gloobob ears, but not for everybody else.
+
+138
+00:08:42,289 --> 00:08:46,560
+The same holds for Gloobob instruments - hence
+the bad brass bands.
+
+139
+00:08:46,560 --> 00:08:48,260
+Why am I telling you this?
+
+140
+00:08:48,260 --> 00:08:50,760
+Because earthling vision works the same.
+
+141
+00:08:50,760 --> 00:08:54,629
+Earthlings have only three kinds of color
+receptors, often called - not quite correctly
+
+142
+00:08:54,629 --> 00:08:57,010
+- red, green and blue.
+
+143
+00:08:57,010 --> 00:09:01,080
+Even the most complex combination of frequencies
+are reduced by earthling eyes to a combination
+
+144
+00:09:01,080 --> 00:09:03,130
+of red, green and blue.
+
+145
+00:09:03,130 --> 00:09:06,970
+For example, earthlings cannot distinguish
+between monochromatic yellow light and a mix
+
+146
+00:09:06,970 --> 00:09:08,550
+of red and green light.
+
+147
+00:09:08,550 --> 00:09:12,770
+In both cases, the red and green receptors
+are excited in the same way.
+
+148
+00:09:12,770 --> 00:09:16,209
+That's why earthlings say that "red plus green
+equals yellow".
+
+149
+00:09:16,209 --> 00:09:18,529
+This is biology, not physics.
+
+150
+00:09:18,529 --> 00:09:23,020
+In other words, color isn't a physical property
+- it only exists in the brain.
+
+151
+00:09:23,020 --> 00:09:27,430
+Actually, the expression "red receptor" is
+misleading - this receptor's peak is rather
+
+152
+00:09:27,430 --> 00:09:29,330
+in the green-yellow range.
+
+153
+00:09:29,330 --> 00:09:32,209
+This reduces an effect called chromatic aberration.
+
+154
+00:09:32,209 --> 00:09:36,500
+But anyway, what is sent to the brain is not
+the raw receptor response but color contrast
+
+155
+00:09:36,500 --> 00:09:43,040
+data - more precisely, yellow-blue contrast,
+red-green contrast, and luminosity contrast.
+
+156
+00:09:43,040 --> 00:09:46,420
+But what is the advantage of sending color
+contrast data?
+
+157
+00:09:46,420 --> 00:09:50,440
+To understand this, we have to understand
+what color actually is.
+
+158
+00:09:50,440 --> 00:09:54,670
+When you ask educated adult earthlings what
+color is, they will probably brabble something
+
+159
+00:09:54,670 --> 00:09:58,440
+about frequencies, color circles and additive
+color blending.
+
+160
+00:09:58,440 --> 00:10:02,680
+But when you ask earthling cubs, they will
+talk about blue teddies, yellow flowers and
+
+161
+00:10:02,680 --> 00:10:04,140
+pink sofas.
+
+162
+00:10:04,140 --> 00:10:09,200
+In other words, they see color not as a property
+of light, but as a property of objects.
+
+163
+00:10:09,200 --> 00:10:11,660
+And that's actually a much better approach.
+
+164
+00:10:11,660 --> 00:10:16,930
+See, when an earthling has a pink car, it
+will always be a pink car, no matter how it
+
+165
+00:10:16,930 --> 00:10:20,180
+is lit.
+
+166
+00:10:20,180 --> 00:10:22,000
+Earthling visions relies on whatever light
+source is available.
+
+167
+00:10:22,000 --> 00:10:31,200
+The reflected light might differ, but for
+the earthling, his car will always have the
+
+168
+00:10:31,200 --> 00:10:32,200
+same color.
+
+169
+00:10:32,200 --> 00:10:35,180
+So, the word "pink" doesn't actually describe
+light - it describes how the surface reacts
+
+170
+00:10:35,180 --> 00:10:38,269
+to varying light, as perceived by the earthling
+eye.
+
+171
+00:10:38,269 --> 00:10:42,670
+So, color is a property of surfaces, which
+exists only in the brain.
+
+172
+00:10:42,670 --> 00:10:43,810
+How is this even possible ?
+
+173
+00:10:43,810 --> 00:10:48,330
+Well, what happens is that the brain takes
+the sensor information and computes the lighting
+
+174
+00:10:48,330 --> 00:10:49,330
+away.
+
+175
+00:10:49,330 --> 00:10:53,950
+What remains is a perceived property of surfaces,
+an imaginary material invariant - color.
+
+176
+00:10:53,950 --> 00:10:59,370
+Here, the color contrast data comes in handy:
+No matter the lighting, a pink sofa is always
+
+177
+00:10:59,370 --> 00:11:03,209
+pinker than the green carpet it is standing
+on.
+
+178
+00:11:03,209 --> 00:11:07,670
+Color is a good example of how earthlings
+construct a model of reality in their brain.
+
+179
+00:11:07,670 --> 00:11:11,510
+Physical objects are collections of atoms
+with properties like shape, size and spectral
+
+180
+00:11:11,510 --> 00:11:13,620
+characteristics of the surface.
+
+181
+00:11:13,620 --> 00:11:18,490
+But the brain can't directly access to those
+properties - all it has is sensor information.
+
+182
+00:11:18,490 --> 00:11:23,240
+So it takes this information, computes factors
+like lighting and distance away, and constructs
+
+183
+00:11:23,240 --> 00:11:25,910
+simplified models of the objects in the world.
+
+184
+00:11:25,910 --> 00:11:30,680
+The imaginary properties of the object models
+correspond more or less to physical reality.
+
+185
+00:11:30,680 --> 00:11:35,000
+Size and shape are rather accurate approximation
+of an object's actual geometry, but color
+
+186
+00:11:35,000 --> 00:11:38,160
+is a rough simplification of it's spectral
+characteristics.
+
+187
+00:11:38,160 --> 00:11:42,200
+So, color is an imaginary property of materials.
+
+188
+00:11:42,200 --> 00:11:47,260
+This makes sense, as the main purpose of color
+is actually the identification of materials.
+
+189
+00:11:47,260 --> 00:11:51,620
+Color allows finding things like flintstone,
+fertile earth or ripe fruits.
+
+190
+00:11:51,620 --> 00:11:55,339
+The brain takes out the lighting information
+to obtain the lighting-invariant "color" and
+
+191
+00:11:55,339 --> 00:12:00,640
+tell different materials apart - even if the
+reflected light is actually the same.
+
+192
+00:12:00,640 --> 00:12:02,610
+Colors have a high symbolic meaning.
+
+193
+00:12:02,610 --> 00:12:06,550
+Blue is perceived as calm and cool, as lakes
+and oceans are blue.
+
+194
+00:12:06,550 --> 00:12:10,170
+Green is associated with nature, because plants
+are green.
+
+195
+00:12:10,170 --> 00:12:14,610
+Yellow is perceived as joyful and energetic,
+because earth orbits a yellow star.
+
+196
+00:12:14,610 --> 00:12:22,779
+Red is associated with violence and danger,
+as red is the color of fire and blood.
+
+197
+00:12:22,779 --> 00:12:26,650
+Fictional characters are sometimes color-coded
+for easy identification.
+
+198
+00:12:26,650 --> 00:12:30,660
+Cartoon characters can often be identified
+with little more than color information - even
+
+199
+00:12:30,660 --> 00:12:32,370
+humanized animals.
+
+200
+00:12:32,370 --> 00:12:37,310
+This works also for some live action characters,
+especially when they wear some sort of uniform.
+
+201
+00:12:37,310 --> 00:12:40,990
+Colors play also an important part in earthlings'
+social life.
+
+202
+00:12:40,990 --> 00:12:44,020
+For example, lovers like to give each other
+colorful flowers.
+
+203
+00:12:44,020 --> 00:12:47,570
+There isn't any practical sense, as you can't
+eat flowers.
+
+204
+00:12:47,570 --> 00:12:50,279
+There is an old saying amongst alien anthropologists:
+
+205
+00:12:50,279 --> 00:12:53,779
+If it doesn't make sense, it's probably a
+ritual.
+
+206
+00:12:53,779 --> 00:12:56,170
+Tips for tourists.
+
+207
+00:12:56,170 --> 00:13:00,760
+If you want to watch an earthling movie, don't
+expect realistic colors:
+
+208
+00:13:00,760 --> 00:13:03,680
+Earthling cameras can only record three color
+components.
+
+209
+00:13:03,680 --> 00:13:07,779
+Personally, I find black-and-white movies
+less disturbing.
+
+210
+00:13:07,779 --> 00:13:12,860
+Above all, stay away from so-called 3D movies,
+especially if you have only one eye.
+
+211
+00:13:12,860 --> 00:13:18,120
+It shall be noted that some female earthlings
+have four types of cones instead of three.
+
+212
+00:13:18,120 --> 00:13:21,860
+In earthling terms, they have a four-dimensional
+color space.
+
+213
+00:13:21,860 --> 00:13:25,860
+There are also accounds on individuals able
+to perceive an additional color called octarine.
+
+214
+00:13:25,860 --> 00:13:31,160
+But the same accounts also report an unregistered
+habitable planar super-structure with bio-propulsion,
+
+215
+00:13:31,160 --> 00:13:34,380
+as well as other oddities, so this is probably
+fiction.
+
+216
+00:13:34,380 --> 00:13:38,310
+Anyway, this is nothing compared with an aquatic
+animal called the mantis shrimp which has
+
+217
+00:13:38,310 --> 00:13:42,420
+a sixteen-dimensional color space.
+
+218
+00:13:42,420 --> 00:13:44,040
+Strategic advice.
+
+219
+00:13:44,040 --> 00:13:46,829
+Mantis shrimps would make a good base to breed
+super-soldiers:
+
+220
+00:13:46,829 --> 00:13:50,020
+Their color vision would make earthling camouflage
+useless,
+
+221
+00:13:50,020 --> 00:13:54,660
+they have sharp appendages they can accelerate
+to the speed of earthlings weapons projectiles,
+
+222
+00:13:54,660 --> 00:13:56,339
+they wear a natural body armour,
+
+223
+00:13:56,339 --> 00:13:59,510
+and they can move so fast that the liquid
+around them starts boiling.
+
+224
+00:13:59,510 --> 00:14:02,380
+However, you might want to do something about
+their size.
+
+225
+00:14:02,380 --> 00:14:04,940
+I will conclude with an open question:
+
+226
+00:14:04,940 --> 00:14:08,769
+Spectral violet, the light at the upper end
+of the visual spectrum, is allegedly perceived
+
+227
+00:14:08,769 --> 00:14:10,339
+as slightly reddish.
+
+228
+00:14:10,339 --> 00:14:13,899
+That's why earthlings bend the spectrum to
+a circle - the color wheel.
+
+229
+00:14:13,899 --> 00:14:18,339
+But violet light is far off the so-called
+red receptors - why is it perceived as reddish?
+
+230
+00:14:18,339 --> 00:14:20,089
+I see two possibilities.
+
+231
+00:14:20,089 --> 00:14:23,850
+Either the red receptors have a second bump
+in the violet zone.
+
+232
+00:14:23,850 --> 00:14:27,900
+Or spectral violet isn't actually perceived
+as reddish blue, but as deep blue, and the
+
+233
+00:14:27,900 --> 00:14:30,290
+name "violet" is actually a misnomer.
+
+234
+00:14:30,290 --> 00:14:34,960
+The fact that computer screens can't display
+spectral violet might add to the confusion.
+
+235
+00:14:34,960 --> 00:14:36,640
+I honestly don't know.
+
+236
+00:14:36,640 --> 00:14:39,950
+So I'll ask my earthling viewers: What do
+you think?
+
+237
+00:14:39,950 --> 00:14:45,150
+And if you have, say, access to a violet laser,
+or a violet light weapon : Does spectral violet
+
+238
+00:14:45,150 --> 00:14:48,209
+actually appear reddish, or rather deep blue?
+
+239
+00:14:48,209 --> 00:14:50,480
+If it's reddish: How comes?
+
+240
+00:14:50,480 --> 00:14:53,280
+If it's deep blue: Why the color wheel?
+
+241
+00:14:53,280 --> 00:14:55,779
+This was the twelveth episode of Earthlings
+101.
+
+242
+00:14:55,779 --> 00:15:01,650
+Next time we will speak about earthling mathematics
+- a science of truth, space, numbers, and
+
+243
+00:15:01,650 --> 00:15:02,940
+the gender of Blobblings.
+
+244
+00:15:02,940 --> 00:15:07,720
+Thanks for watching, click on "like" if you
+liked it, and as always: Don't forget to be
+
+245
+00:15:07,720 --> 00:15:26,639
+alien!
+

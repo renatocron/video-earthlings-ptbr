@@ -1,0 +1,902 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.62,
+  "text_src": "Greetings, fellow aliens!"
+ },
+ {
+  "id": 2,
+  "start": 2.06,
+  "end": 6.18,
+  "text_src": "Today we will talk about one of the earthlings' favourite things: Food."
+ },
+ {
+  "id": 3,
+  "start": 39.26,
+  "end": 44.42,
+  "text_src": "Like many organisms, earthlings need various chemicals to sustain their metabolism."
+ },
+ {
+  "id": 4,
+  "start": 44.9,
+  "end": 49.16,
+  "text_src": "These chemicals are taken in three ways: Breathing, drinking and eating."
+ },
+ {
+  "id": 5,
+  "start": 49.98,
+  "end": 55.58,
+  "text_src": "Breathing means aspirating oxygen and exhaling carbon dioxide, which is heavier than oxygen."
+ },
+ {
+  "id": 6,
+  "start": 55.58,
+  "end": 64.12,
+  "text_src": "So, earthlings constantly lose weight through breathing, approximately half a kilogram per day, which is of course replaced by eating and drinking."
+ },
+ {
+  "id": 7,
+  "start": 65.36,
+  "end": 67.94,
+  "text_src": "Eating means taking aliments through the mouth."
+ },
+ {
+  "id": 8,
+  "start": 68.32,
+  "end": 72.22,
+  "text_src": "The mouth has two purposes: Shredding the food, and analyzing it."
+ },
+ {
+  "id": 9,
+  "start": 72.66,
+  "end": 76.84,
+  "text_src": "Drinking is basically the same, but with liquids - mainly hydric acid."
+ },
+ {
+  "id": 10,
+  "start": 77.6,
+  "end": 84.02,
+  "text_src": "Besides hydric acid, there are three main components of food: Carbohydrates, fat and proteins."
+ },
+ {
+  "id": 11,
+  "start": 86.02,
+  "end": 87.7,
+  "text_src": "Carbohydrates are the main energy source of the body."
+ },
+ {
+  "id": 12,
+  "start": 88.02,
+  "end": 93.32,
+  "text_src": "Remember sugar, the energy-rich molecules produced by plants out of sunlight and thin air?"
+ },
+ {
+  "id": 13,
+  "start": 93.6,
+  "end": 97.06,
+  "text_src": "The simplest sugars are glucose, fructose and sucrose."
+ },
+ {
+  "id": 14,
+  "start": 97.74,
+  "end": 105.92,
+  "text_src": "Glucose looks a bit like a Centauri donut with a little flag, fructose like a smaller donut with two little flags, and sucrose like the two of them glued together."
+ },
+ {
+  "id": 15,
+  "start": 105.92,
+  "end": 109.44,
+  "text_src": "There are also non-circular variants of those molecules."
+ },
+ {
+  "id": 16,
+  "start": 110.46,
+  "end": 115.36,
+  "text_src": "Now, carbohydrates are basically sugar, and everything you can assemble from sugar."
+ },
+ {
+  "id": 17,
+  "start": 115.6,
+  "end": 125.2,
+  "text_src": "For example, when you create a glucose chain and put all the little flags in the same direction, you get starch, a good energy source - you find it, for example, in bread."
+ },
+ {
+  "id": 18,
+  "start": 125.2,
+  "end": 132.26,
+  "text_src": "But when you alternate the orientation of the flags, you get cellulose, which is indigestible for earth creatures."
+ },
+ {
+  "id": 19,
+  "start": 132.98,
+  "end": 134.88,
+  "text_src": "Except for the microbes."
+ },
+ {
+  "id": 20,
+  "start": 137.72,
+  "end": 144.88,
+  "text_src": "Even cellulose-eating animals like cows can't digest it by themselves; they have it digested by microbes in their bowels."
+ },
+ {
+  "id": 21,
+  "start": 145.62,
+  "end": 150.6,
+  "text_src": "A special kind of cellulose structure is wood - the stuff the stems of trees are made of."
+ },
+ {
+  "id": 22,
+  "start": 150.94,
+  "end": 154.22,
+  "text_src": "It's basically cellulose fibers held together by a matrix of lignin."
+ },
+ {
+  "id": 23,
+  "start": 154.88,
+  "end": 159.94,
+  "text_src": "Wood is not edible either, but it plays an important part in the development of earthling alimentation."
+ },
+ {
+  "id": 24,
+  "start": 160.2,
+  "end": 161.9,
+  "text_src": "We will come back to this later."
+ },
+ {
+  "id": 25,
+  "start": 162.4,
+  "end": 165.54,
+  "text_src": "The second component of earthling food are fats."
+ },
+ {
+  "id": 26,
+  "start": 165.9,
+  "end": 166.88,
+  "text_src": "What is fat?"
+ },
+ {
+  "id": 27,
+  "start": 167.24,
+  "end": 174.08,
+  "text_src": "Well, fat molecules look a bit like fat little baby squids, with a body of glycerol and three tentacles of fatty acids."
+ },
+ {
+  "id": 28,
+  "start": 174.08,
+  "end": 180.9,
+  "text_src": "Missing hydrogen atoms in the tentacles create kinks, in this case we speak of unsaturated fatty acids."
+ },
+ {
+  "id": 29,
+  "start": 181.5,
+  "end": 187.66,
+  "text_src": "Anyway, creatures use fat principally to store energy, for example to survive the cold season when food is rare."
+ },
+ {
+  "id": 30,
+  "start": 188.14,
+  "end": 192.22,
+  "text_src": "Predators, and earthlings in particular, love eating fat of other creatures."
+ },
+ {
+  "id": 31,
+  "start": 192.74,
+  "end": 198.14,
+  "text_src": "In rich countries, people have nowadays so much to eat that they often accumulate too much fat."
+ },
+ {
+  "id": 32,
+  "start": 198.14,
+  "end": 206.52,
+  "text_src": "They try to burn fat with physical exercises - when the body burns fat, it produces more carbon dioxide, thus loses more weight."
+ },
+ {
+  "id": 33,
+  "start": 206.88,
+  "end": 215.36,
+  "text_src": "A less exhausting way of burning fat would probably be to simply turn the heating down - when it's cold, the earthling body consumes energy to maintain its temperature."
+ },
+ {
+  "id": 34,
+  "start": 216.1,
+  "end": 218.48,
+  "text_src": "Strangely, this method is not very popular."
+ },
+ {
+  "id": 35,
+  "start": 219.72,
+  "end": 222.7,
+  "text_src": "Now to the third component of food: proteins."
+ },
+ {
+  "id": 36,
+  "start": 223.1,
+  "end": 230.46,
+  "text_src": "Those are complex molecular nanomachines which basically run the organism on the molecular level, from muscle power to transmitting messages."
+ },
+ {
+  "id": 37,
+  "start": 230.98,
+  "end": 240.52,
+  "text_src": "An important kind of proteins are those little nanobots called enzymes which catalyse all kinds of chemical reactions, including complex tasks like copying the genetic code."
+ },
+ {
+  "id": 38,
+  "start": 241.38,
+  "end": 245.38,
+  "text_src": "The blueprints for these protein-nanobots are all encoded in the DNA."
+ },
+ {
+  "id": 39,
+  "start": 246.02,
+  "end": 250.94,
+  "text_src": "But how can a one-dimensional genetic code contain blueprints of three-dimensional nanomachines?"
+ },
+ {
+  "id": 40,
+  "start": 251.32,
+  "end": 256.46,
+  "text_src": "Well, all proteins are made of only twenty basic building blocks called amino acids."
+ },
+ {
+  "id": 41,
+  "start": 256.9,
+  "end": 260.06,
+  "text_src": "Those building blocks can be plugged together to build long chains."
+ },
+ {
+  "id": 42,
+  "start": 260.62,
+  "end": 269.82,
+  "text_src": "That's exactly how proteins are built: The DNA sequences are translated into amino acid chains, with three base pairs corresponding to one type of amino acid."
+ },
+ {
+  "id": 43,
+  "start": 269.82,
+  "end": 276.78,
+  "text_src": "Once the chain is built, it naturally curls together to some wibbly wobbly curly whirly thing, the actual protein."
+ },
+ {
+  "id": 44,
+  "start": 277.76,
+  "end": 291.38,
+  "text_src": "Now, some of these basic building blocks can't be synthesized by the earthling body, they need to be taken from plants and animals - either by eating protein packages they produce for their offspring, or by eating their body, especially muscle tissue."
+ },
+ {
+  "id": 45,
+  "start": 291.7,
+  "end": 294.68,
+  "text_src": "Those building blocks are called essential amino acids."
+ },
+ {
+  "id": 46,
+  "start": 297.04,
+  "end": 298.28,
+  "text_src": "Strategic advice."
+ },
+ {
+  "id": 47,
+  "start": 299.52,
+  "end": 303.98,
+  "text_src": "Earthlings eat a lot of meat, and most of the meat comes from tamed animals like cows."
+ },
+ {
+  "id": 48,
+  "start": 304.48,
+  "end": 308.38,
+  "text_src": "So you might have the idea of weakening earthlings with a massive abduction of cows."
+ },
+ {
+  "id": 49,
+  "start": 310.34,
+  "end": 319.88,
+  "text_src": "However, this tactic might backfire on the long run: Many earthlings nutritionists and ecologists think that modern earthlings eat far too much meat, especially in rich countries."
+ },
+ {
+  "id": 50,
+  "start": 322.78,
+  "end": 327.48,
+  "text_src": "So, when you abduct most of the cows, you might actually do mankind a favour."
+ },
+ {
+  "id": 51,
+  "start": 328.82,
+  "end": 341.26,
+  "text_src": "Besides hydric acid, carbohydrates, fat and proteins, earthlings need other things in smaller quantities, for example iron, calcium, vitamins and sodium chloride, aka salt."
+ },
+ {
+  "id": 52,
+  "start": 342.2,
+  "end": 348.4,
+  "text_src": "Salt is an ionic compound, held together not by an electron sharing deal, but an electron lending deal."
+ },
+ {
+  "id": 53,
+  "start": 348.76,
+  "end": 353.7,
+  "text_src": "A sodium atom lends an electron to a chlorine atom, so they have both a complete outer shell."
+ },
+ {
+  "id": 54,
+  "start": 353.7,
+  "end": 359.2,
+  "text_src": "This makes both atoms electrically charged, in other words ions, so they stick together."
+ },
+ {
+  "id": 55,
+  "start": 359.5,
+  "end": 361.18,
+  "text_src": "This is called an ionic bond."
+ },
+ {
+  "id": 56,
+  "start": 361.58,
+  "end": 364.12,
+  "text_src": "Salt is very important for the earthling metabolism."
+ },
+ {
+  "id": 57,
+  "start": 364.9,
+  "end": 368.74,
+  "text_src": "Some food, on the other side, is dangerous for the body."
+ },
+ {
+  "id": 58,
+  "start": 369.02,
+  "end": 376.48,
+  "text_src": "This holds particularly for food infested or altered by tiny food rivals or parasites like microbes, insects or fungi."
+ },
+ {
+  "id": 59,
+  "start": 376.78,
+  "end": 378.82,
+  "text_src": "This kind of food is called rotten."
+ },
+ {
+  "id": 60,
+  "start": 379.56,
+  "end": 385.76,
+  "text_src": "To distinguish good food from bad or rotten food, earthlings need a way to analyze food before eating it."
+ },
+ {
+  "id": 61,
+  "start": 386.0,
+  "end": 388.02,
+  "text_src": "That's the purpose of smell and taste."
+ },
+ {
+  "id": 62,
+  "start": 388.02,
+  "end": 395.06,
+  "text_src": "The nose and the mouth contain arrays of chemical sensors called chemo-receptors which are linked to the brain's reward system."
+ },
+ {
+  "id": 63,
+  "start": 395.6,
+  "end": 402.16,
+  "text_src": "Basically, \"good\" food causes pleasure and the urge to swallow, \"bad\" food creates displeasure and the urge to spit it out."
+ },
+ {
+  "id": 64,
+  "start": 403.02,
+  "end": 411.44,
+  "text_src": "The pleasure is also modified depending on the current needs of the body - after eating six animal bodies, the seventh one just doesn't taste so good anymore."
+ },
+ {
+  "id": 65,
+  "start": 412.44,
+  "end": 419.12,
+  "text_src": "Also, finding food pleasurable can be learned - many earthlings have learned to appreciate rotten food like cheese or beer."
+ },
+ {
+  "id": 66,
+  "start": 419.6,
+  "end": 421.18,
+  "text_src": "We will come back to this in a moment."
+ },
+ {
+  "id": 67,
+  "start": 421.7,
+  "end": 424.96,
+  "text_src": "Food appreciation is also transmitted from generation to generation."
+ },
+ {
+  "id": 68,
+  "start": 425.48,
+  "end": 427.06,
+  "text_src": "This is called food culture."
+ },
+ {
+  "id": 69,
+  "start": 427.56,
+  "end": 433.44,
+  "text_src": "There are basically five kinds of taste: sweet, sour, salty, bitter and umami."
+ },
+ {
+  "id": 70,
+  "start": 434.1,
+  "end": 440.32,
+  "text_src": "Sweet is the simplest one, a pleasing sensation which indicates the earthlings preferred energy source: sugar."
+ },
+ {
+  "id": 71,
+  "start": 441.04,
+  "end": 446.12,
+  "text_src": "Sour indicates acids like citric acid or Vitamin C, which you find in many fruits."
+ },
+ {
+  "id": 72,
+  "start": 446.98,
+  "end": 452.42,
+  "text_src": "Salty indicates primarily the presence of sodium ions, in particular from sodium chloride."
+ },
+ {
+  "id": 73,
+  "start": 453.48,
+  "end": 458.56,
+  "text_src": "Bitter is a generally displeasing, alarming taste which may hint at rotten or poisonous food."
+ },
+ {
+  "id": 74,
+  "start": 459.2,
+  "end": 463.48,
+  "text_src": "The last one, umami, indicates a compound called glutamate."
+ },
+ {
+  "id": 75,
+  "start": 463.48,
+  "end": 466.9,
+  "text_src": "It can be found in many types of food and is generally perceived as savoury."
+ },
+ {
+  "id": 76,
+  "start": 467.88,
+  "end": 472.92,
+  "text_src": "There might be a sixth taste, which indicates fat, but for now that's just a hypothesis."
+ },
+ {
+  "id": 77,
+  "start": 473.64,
+  "end": 486.6,
+  "text_src": "Interestingly, some food acts not on the taste receptors but on the temperature receptors in the mouth: Mint oil, for example, is perceived as cool, whereas so-called \"spicy\" food triggers the heat receptors and may even be perceived as painful."
+ },
+ {
+  "id": 78,
+  "start": 486.6,
+  "end": 494.58,
+  "text_src": "There is a common misconception about taste: Many earthlings believe that receptors for different tastes are located in different zones of the tongue."
+ },
+ {
+  "id": 79,
+  "start": 495.0,
+  "end": 502.32,
+  "text_src": "This is easy to disprove, especially for earthlings - just put something sweet onto the back of your tongue, or something bitter onto the tip."
+ },
+ {
+  "id": 80,
+  "start": 503.08,
+  "end": 508.2,
+  "text_src": "Nevertheless, many earthlings keep on believing this nonsense rather than trying it out for themselves."
+ },
+ {
+  "id": 81,
+  "start": 508.84,
+  "end": 511.9,
+  "text_src": "Now, where do the earthlings get all the edible stuff?"
+ },
+ {
+  "id": 82,
+  "start": 512.22,
+  "end": 521.04,
+  "text_src": "At dawn of mankind, they got it essentially the same way as animals: By hunting animals and gathering fruits and seeds, and devouring the edible parts."
+ },
+ {
+  "id": 83,
+  "start": 521.48,
+  "end": 526.08,
+  "text_src": "But at some point, they made an important discovery: Artificial external digestion."
+ },
+ {
+  "id": 84,
+  "start": 526.6,
+  "end": 529.78,
+  "text_src": "This is similar to methods used by other races in the galaxy."
+ },
+ {
+  "id": 85,
+  "start": 529.78,
+  "end": 537.1,
+  "text_src": "The Snuglings of Karaxi-2, for example, live under a thick cloud cover protecting them from the deadly radiation of their sun."
+ },
+ {
+  "id": 86,
+  "start": 537.48,
+  "end": 542.96,
+  "text_src": "They feed on creatures called frooks, but some kinds of Frooks are hard to kill and difficult to digest."
+ },
+ {
+  "id": 87,
+  "start": 543.28,
+  "end": 548.9,
+  "text_src": "So the Snuglings catapult the frooks above the cloud cover where they are roasted by the gamma rays of the sun."
+ },
+ {
+  "id": 88,
+  "start": 549.16,
+  "end": 553.1,
+  "text_src": "When they fall down, they are easier to digest, and also, dead."
+ },
+ {
+  "id": 89,
+  "start": 554.54,
+  "end": 561.52,
+  "text_src": "Some 400000 solar cycles ago, Earthlings discovered a similar method to make food digestible: Fire!"
+ },
+ {
+  "id": 90,
+  "start": 563.64,
+  "end": 566.48,
+  "text_src": "Remember wood, this hardened cellulose structure?"
+ },
+ {
+  "id": 91,
+  "start": 566.84,
+  "end": 571.32,
+  "text_src": "Dry wood combusts easily, and it's not hard to build a fire out of wood pieces."
+ },
+ {
+  "id": 92,
+  "start": 572.08,
+  "end": 586.04,
+  "text_src": "Originally, earthlings used fire to keep warm and drive away predators, but some 250000 solar cycles ago they discovered that some food, in particular meat, changes its taste and consistency when exposed to fire for a while."
+ },
+ {
+  "id": 93,
+  "start": 586.36,
+  "end": 587.76,
+  "text_src": "This is called roasting."
+ },
+ {
+  "id": 94,
+  "start": 588.64,
+  "end": 590.74,
+  "text_src": "But why do earthlings do that?"
+ },
+ {
+  "id": 95,
+  "start": 591.1,
+  "end": 593.4,
+  "text_src": "Well, there are several reasons for roasting."
+ },
+ {
+  "id": 96,
+  "start": 594.02,
+  "end": 597.24,
+  "text_src": "First, the heat kills most of the microbes in the food."
+ },
+ {
+  "id": 97,
+  "start": 597.68,
+  "end": 605.4,
+  "text_src": "Secondly, the temperature breaks down molecules like starch and unfolds some proteins, which makes the food easier to chew and easier to digest."
+ },
+ {
+  "id": 98,
+  "start": 605.92,
+  "end": 611.32,
+  "text_src": "Basically, roasting food is some kind of external pre-digestion, using the chemical energy in wood."
+ },
+ {
+  "id": 99,
+  "start": 612.48,
+  "end": 616.42,
+  "text_src": "Now, when roasting food, it often gets a brown crispy crust."
+ },
+ {
+  "id": 100,
+  "start": 616.84,
+  "end": 619.28,
+  "text_src": "What happens here is called \"Maillard reaction\"."
+ },
+ {
+  "id": 101,
+  "start": 619.74,
+  "end": 623.08,
+  "text_src": "Basically, it's a reaction between sugar and amino acids."
+ },
+ {
+  "id": 102,
+  "start": 623.64,
+  "end": 625.44,
+  "text_src": "Earthlings love the taste of this crust."
+ },
+ {
+  "id": 103,
+  "start": 625.94,
+  "end": 631.22,
+  "text_src": "By the way, many earthlings think that roasting meat \"seals in the juices\" - but that is nonsense."
+ },
+ {
+  "id": 104,
+  "start": 632.0,
+  "end": 637.2,
+  "text_src": "Now, another way of heating food is boiling it - exposing it to boiling hydric acid."
+ },
+ {
+  "id": 105,
+  "start": 637.2,
+  "end": 644.22,
+  "text_src": "Boiling differs from roasting in that the temperature doesn't exceed the boiling point of hydric acid, and there is no Maillard reaction."
+ },
+ {
+  "id": 106,
+  "start": 644.68,
+  "end": 649.24,
+  "text_src": "Basically, it's just another variant of the same external pre-digestion process."
+ },
+ {
+  "id": 107,
+  "start": 650.22,
+  "end": 655.14,
+  "text_src": "Boiling and roasting are part of what earthlings do with their food before they eat it: Cooking."
+ },
+ {
+  "id": 108,
+  "start": 655.52,
+  "end": 660.42,
+  "text_src": "And earthlings wouldn't be earthlings if they hadn't developed cooking into an elaborate part of their culture."
+ },
+ {
+  "id": 109,
+  "start": 660.84,
+  "end": 667.76,
+  "text_src": "Cooking also includes cutting and slicing food, mixing and combining different ingredients, and spicing the food."
+ },
+ {
+  "id": 110,
+  "start": 667.76,
+  "end": 679.32,
+  "text_src": "Spicing means adding ingredients that alter the taste, mostly to increase the pleasure of eating: Yet another example of earthlings tricking out their brains' reward system to get biologically pointless pleasure."
+ },
+ {
+  "id": 111,
+  "start": 680.18,
+  "end": 681.58,
+  "text_src": "Tips for tourists."
+ },
+ {
+  "id": 112,
+  "start": 681.58,
+  "end": 685.98,
+  "text_src": "If you have a hydrocarbon-based metabolism, you might visit a restaurant."
+ },
+ {
+  "id": 113,
+  "start": 686.48,
+  "end": 691.16,
+  "text_src": "Here you can observe earthlings' eating habits, and also taste some food for yourself."
+ },
+ {
+  "id": 114,
+  "start": 691.68,
+  "end": 696.3,
+  "text_src": "However, beware of earthling drinks, they have often surprising effects."
+ },
+ {
+  "id": 115,
+  "start": 697.24,
+  "end": 705.86,
+  "text_src": "Some 10000 solar cycles ago, a second discovery was made: Earthlings all over the planet started cultivating food and herding animals."
+ },
+ {
+  "id": 116,
+  "start": 705.86,
+  "end": 713.92,
+  "text_src": "Basically, they started acting like small-scale bio administrators, rearing new species of plants and animals according to their needs."
+ },
+ {
+  "id": 117,
+  "start": 714.48,
+  "end": 715.7,
+  "text_src": "This is called agriculture."
+ },
+ {
+  "id": 118,
+  "start": 716.32,
+  "end": 720.94,
+  "text_src": "Nowadays it has grown to an industrial scale food production able to feed seven billion earthlings."
+ },
+ {
+  "id": 119,
+  "start": 721.3,
+  "end": 722.68,
+  "text_src": "Well, almost."
+ },
+ {
+  "id": 120,
+  "start": 723.5,
+  "end": 729.2,
+  "text_src": "One of the strangest aspects of food culture is the earthling habit of letting food rot in a controlled manner."
+ },
+ {
+  "id": 121,
+  "start": 729.62,
+  "end": 732.54,
+  "text_src": "One example is alcoholic beverages like wine or beer."
+ },
+ {
+  "id": 122,
+  "start": 732.54,
+  "end": 736.98,
+  "text_src": "Wine, for example, is rotten juice from fruits called grapes."
+ },
+ {
+  "id": 123,
+  "start": 737.72,
+  "end": 742.5,
+  "text_src": "Alcoholic beverages have a particular effect on the brain - we will talk about this in another episode."
+ },
+ {
+  "id": 124,
+  "start": 743.46,
+  "end": 751.66,
+  "text_src": "Another example for deliberately rotten food are products like yoghurt or cheese: Milk, altered by microbes, a process that can take months."
+ },
+ {
+  "id": 125,
+  "start": 752.18,
+  "end": 755.9,
+  "text_src": "Cheese is sometimes even exposed to fungi which make it rot even more."
+ },
+ {
+  "id": 126,
+  "start": 755.9,
+  "end": 762.7,
+  "text_src": "This process transforms the simple taste of milk into a more complex taste, sometimes even with hints of bitterness."
+ },
+ {
+  "id": 127,
+  "start": 763.9,
+  "end": 774.72,
+  "text_src": "Generally, eating is a highly ritualized, social activity: Social groups eat together, friends bond by sharing a meal, and mating rituals often involve eating together in a public place."
+ },
+ {
+  "id": 128,
+  "start": 775.58,
+  "end": 781.52,
+  "text_src": "But despite the sophisticated rituals, earthlings still keep some habits from their cave-dwelling ancestors."
+ },
+ {
+  "id": 129,
+  "start": 782.42,
+  "end": 791.2,
+  "text_src": "I have observed several earthling families where the mother cooks, but calls the father to cut the roast - in prehistoric times, the job of the tribe chieftain."
+ },
+ {
+  "id": 130,
+  "start": 791.66,
+  "end": 797.08,
+  "text_src": "Also, many men like to roast meat over open fire, just like mammoth hunters in the olden days."
+ },
+ {
+  "id": 131,
+  "start": 798.8,
+  "end": 805.34,
+  "text_src": "Strangely, earthlings often separate \"sweet\" sugar snacks from larger \"salty\" meals which contain all kinds of nutrients."
+ },
+ {
+  "id": 132,
+  "start": 805.82,
+  "end": 814.96,
+  "text_src": "The reason might be that both meals have different functions: The sugar snacks give a quick energy boost, which is often enhanced by stimulating drugs like coffee or cigarettes."
+ },
+ {
+  "id": 133,
+  "start": 816.34,
+  "end": 822.2,
+  "text_src": "The salty meals, on the other hand, provide long-term supply with all kinds of nutrients."
+ },
+ {
+  "id": 134,
+  "start": 822.96,
+  "end": 830.3,
+  "text_src": "Sometimes, the \"salty\" meal is followed by a sweet snack, possibly in order to provide the energy boost needed to digest said meal."
+ },
+ {
+  "id": 135,
+  "start": 830.68,
+  "end": 831.9,
+  "text_src": "This is called a dessert."
+ },
+ {
+  "id": 136,
+  "start": 834.16,
+  "end": 835.1,
+  "text_src": "Scientific advice."
+ },
+ {
+  "id": 137,
+  "start": 835.6,
+  "end": 840.6,
+  "text_src": "A classic alien textbook explains that you can use food to condition earthling cubs."
+ },
+ {
+  "id": 138,
+  "start": 840.82,
+  "end": 849.34,
+  "text_src": "Show them a series of images: When they hit a \"like\" button, they get some chocolate, when they hit a dislike button they get spinach, a vegetable many cubs hate."
+ },
+ {
+  "id": 139,
+  "start": 849.34,
+  "end": 852.9,
+  "text_src": "As a result, they will start liking every single image."
+ },
+ {
+  "id": 140,
+  "start": 855.18,
+  "end": 864.16,
+  "text_src": "However, this experiment has been done so many times that nowadays, countless former abductees feel the compulsive desire to hit \"like\" buttons all day long."
+ },
+ {
+  "id": 141,
+  "start": 864.56,
+  "end": 873.88,
+  "text_src": "Moreover, many victims feel the compulsive urge to use the word, \"like\", as often as possible - like, in every sentence, like, all day long."
+ },
+ {
+  "id": 142,
+  "start": 873.88,
+  "end": 882.82,
+  "text_src": "If I were like an earthling who could have like feelings, I would be like sad for these poor abductees, as they are like linguistically handicapped for like the rest of their life."
+ },
+ {
+  "id": 143,
+  "start": 883.14,
+  "end": 890.98,
+  "text_src": "A word to my earthling viewers: Rest assured, if you feel the urge to click on \"like\" right now, it does not necessarily mean you have been conditioned."
+ },
+ {
+  "id": 144,
+  "start": 890.98,
+  "end": 893.24,
+  "text_src": "Maybe you just like my videos."
+ },
+ {
+  "id": 145,
+  "start": 893.72,
+  "end": 902.38,
+  "text_src": "A sure telltale sign that you have not been mentally manipulated would be the urge to click on \"subscribe\" and on \"share\" as well, as those buttons were not part of the experiment."
+ },
+ {
+  "id": 146,
+  "start": 903.86,
+  "end": 906.56,
+  "text_src": "Please don't think I'm trying to manipulate you."
+ },
+ {
+  "id": 147,
+  "start": 906.88,
+  "end": 908.44,
+  "text_src": "That's just not my style."
+ },
+ {
+  "id": 148,
+  "start": 909.36,
+  "end": 911.72,
+  "text_src": "This was the ninth episode of Earthlings 101."
+ },
+ {
+  "id": 149,
+  "start": 912.24,
+  "end": 921.36,
+  "text_src": "Next time we'll talk about language: How it works, how it developed, and why the causes of its apparent decline - are actually the very forces that build it."
+ },
+ {
+  "id": 150,
+  "start": 921.98,
+  "end": 925.66,
+  "text_src": "Thanks for watching, and as always: Don't forget to be alien!"
+ }
+]

@@ -1,0 +1,218 @@
+1
+00:00:00,060 --> 00:00:01,647
+Olá, colegas alienígenas.
+
+2
+00:00:02,002 --> 00:00:06,297
+Isto não é um episódio do Terráqueos 101,
+o curso intensivo para alienígenas, mas
+
+3
+00:00:06,317 --> 00:00:08,872
+uma resposta a um vídeo
+terráqueo sobre um disco girando.
+
+4
+00:00:09,170 --> 00:00:13,267
+Como quase todos vocês viajam dentro de
+discos girando, talvez achem interessante.
+
+5
+00:00:13,577 --> 00:00:17,378
+O vídeo terráqueo mostra um disco com um
+furo fora do centro, girando de pé no chão.
+
+6
+00:00:17,732 --> 00:00:21,976
+O curioso é que o lado pesado do disco
+sobe, como se desafiasse a gravidade.
+
+7
+00:00:22,273 --> 00:00:23,428
+Por que isso acontece?
+
+8
+00:00:23,932 --> 00:00:28,312
+Antes de testar em casa: se você tem um
+daqueles painéis de pilotagem chiques sem
+
+9
+00:00:28,332 --> 00:00:30,047
+atrito, lá não funciona.
+
+10
+00:00:30,364 --> 00:00:34,086
+Tente numa superfície áspera, porque
+o atrito é essencial no efeito.
+
+11
+00:00:34,415 --> 00:00:38,533
+Na verdade, o efeito se baseia nas três
+regras básicas da física de discos voadores.
+
+12
+00:00:38,829 --> 00:00:42,558
+Para quem esqueceu as aulas de
+pilotagem, um lembrete rápido.
+
+13
+00:00:42,981 --> 00:00:46,767
+A primeira regra diz que um disco voador
+sempre gira em torno do seu centro de
+
+14
+00:00:46,787 --> 00:00:47,268
+massa.
+
+15
+00:00:47,618 --> 00:00:52,246
+Então, se você abduzir um rebanho de vacas
+e guardar todas num lado do disco, o eixo
+
+16
+00:00:52,266 --> 00:00:54,993
+de giro fica entre o centro
+geométrico e as vacas.
+
+17
+00:00:55,353 --> 00:00:58,240
+Por isso, sempre confira a distribuição
+da carga antes de decolar.
+
+18
+00:00:58,539 --> 00:01:03,378
+A segunda regra diz que, quando o disco
+raspa de lado no chão, ele tende a tombar.
+
+19
+00:01:04,607 --> 00:01:06,416
+Por isso, sempre pouse na vertical.
+
+20
+00:01:06,720 --> 00:01:10,990
+E, por fim, a terceira regra diz que,
+quando você inclina o disco girando para um
+
+21
+00:01:11,010 --> 00:01:13,205
+lado, ele tende a rolar de lado.
+
+22
+00:01:13,911 --> 00:01:17,276
+Isso se chama precessão, e todo piloto
+de disco já sentiu isso na pele.
+
+23
+00:01:17,539 --> 00:01:20,365
+Por isso, pare de girar
+antes de manobrar ou pousar.
+
+24
+00:01:20,791 --> 00:01:25,298
+Agora, imagine um piloto que tomou conhaque
+sagitariano demais e ficou descuidado.
+
+25
+00:01:25,647 --> 00:01:29,727
+Ele pousa na Terra com um rebanho de vacas
+num lado do disco, e esquece de baixar o
+
+26
+00:01:29,747 --> 00:01:30,590
+trem de pouso.
+
+27
+00:01:30,899 --> 00:01:32,255
+O que acontece no pouso?
+
+28
+00:01:32,724 --> 00:01:36,332
+Bem, o ponto que toca o chão não vai
+ficar embaixo do centro de massa.
+
+29
+00:01:36,668 --> 00:01:39,452
+Se o disco não estiver girando,
+ele simplesmente tomba.
+
+30
+00:01:39,778 --> 00:01:41,709
+Mas agora suponha que
+o disco está girando.
+
+31
+00:01:42,031 --> 00:01:45,234
+A primeira regra diz que ele gira
+em torno do centro de massa.
+
+32
+00:01:45,991 --> 00:01:50,228
+Ou seja, ao pousar, o ponto de
+contato raspa no chão em círculo.
+
+33
+00:01:50,691 --> 00:01:55,085
+A segunda regra diz que o atrito com o chão
+faz o disco tombar, e a terceira diz que
+
+34
+00:01:55,105 --> 00:01:59,449
+esse tombo cria uma precessão, que faz o
+disco virar de lado em vez de tombar, e
+
+35
+00:01:59,469 --> 00:02:01,120
+aqui o centro de massa sobe.
+
+36
+00:02:02,516 --> 00:02:06,481
+Então, as vacas sobem em vez de
+descer. Mas, voltando ao disco girando.
+
+37
+00:02:06,797 --> 00:02:08,012
+É basicamente a mesma coisa.
+
+38
+00:02:08,372 --> 00:02:11,679
+Só que sem as vacas e o disco voador, o
+disco gira em torno do centro de massa.
+
+39
+00:02:12,029 --> 00:02:16,660
+Então, se não estiver perfeitamente simétrico,
+o ponto mais baixo raspa em círculo
+
+40
+00:02:16,680 --> 00:02:20,713
+no chão, criando um torque de tombo, que
+é tudo o que a precessão queria para virar
+
+41
+00:02:20,733 --> 00:02:22,093
+o lado pesado para cima.
+
+42
+00:02:22,463 --> 00:02:26,481
+Isso continua até o centro de massa ficar
+acima do ponto de contato com o chão.
+
+43
+00:02:26,831 --> 00:02:31,144
+Aliás, os humanos têm um brinquedo chamado
+pião invertido, que funciona igualzinho.
+
+44
+00:02:31,447 --> 00:02:36,568
+Resumindo: é por isso que, A, o disco vira
+com o lado pesado para cima, e B, pilotos
+
+45
+00:02:36,588 --> 00:02:39,214
+de disco devem pegar leve
+no conhaque sagitariano.
+
+46
+00:02:39,547 --> 00:02:40,668
+Obrigado por assistir!
+

@@ -1,0 +1,812 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 5.46,
+  "new_start": 0.0,
+  "dur": 5.193,
+  "speed": 1.321,
+  "k": 1.0152014652014651,
+  "text_tgt": "Olá, meu nome é Zogg, e quero dar as boas-vindas ao Terráqueos 101, o curso intensivo para alienígenas em visita à Terra."
+ },
+ {
+  "id": 2,
+  "start": 39.46,
+  "limit": 41.36,
+  "new_start": 39.543,
+  "dur": 1.569,
+  "speed": 1.058,
+  "k": 1.0100000000000007,
+  "text_tgt": "Afinal, que curso é este?"
+ },
+ {
+  "id": 3,
+  "start": 41.36,
+  "limit": 45.42,
+  "new_start": 41.461999999999996,
+  "dur": 4.577791666666666,
+  "speed": 1.35,
+  "k": 1.2137417898193752,
+  "text_tgt": "Ao longo do curso, vamos ver tudo o que um visitante alienígena precisa saber sobre os terráqueos e o planeta deles."
+ },
+ {
+  "id": 4,
+  "start": 45.42,
+  "limit": 52.1,
+  "new_start": 46.38979166666666,
+  "dur": 6.569625,
+  "speed": 1.35,
+  "k": 1.035872005988024,
+  "text_tgt": "Não importa se você é turista espacial, cientista alienígena ou conquistador galáctico: se você se interessa pela espécie humana, este curso é para você."
+ },
+ {
+  "id": 5,
+  "start": 52.1,
+  "limit": 57.84,
+  "new_start": 53.309416666666664,
+  "dur": 5.4242083333333335,
+  "speed": 1.108,
+  "k": 1.005959639953542,
+  "text_tgt": "O primeiro episódio é uma introdução geral à raça humana, ou, como eles mesmos se chamam: a Humanidade."
+ },
+ {
+  "id": 6,
+  "start": 57.84,
+  "limit": 62.08,
+  "new_start": 59.083625,
+  "dur": 4.977791666666667,
+  "speed": 1.35,
+  "k": 1.2565546383647812,
+  "text_tgt": "Os terráqueos vivem numa região bem chata da galáxia e não são lá muito bonitos, inteligentes ou saborosos."
+ },
+ {
+  "id": 7,
+  "start": 62.08,
+  "limit": 63.64,
+  "new_start": 64.41141666666667,
+  "dur": 1.6874166666666666,
+  "speed": 1.35,
+  "k": 1.306036324786323,
+  "text_tgt": "Então, por que eles são tão interessantes?"
+ },
+ {
+  "id": 8,
+  "start": 63.64,
+  "limit": 72.34,
+  "new_start": 66.44883333333334,
+  "dur": 8.419458333333333,
+  "speed": 1.254,
+  "k": 1.0079837164750953,
+  "text_tgt": "Bem, o planeta deles fica dentro de uma reserva natural, dentro de uma área sem trânsito, dentro da zona neutra entre o Império de Andrômeda e a União das Repúblicas Comunistas Galácticas."
+ },
+ {
+  "id": 9,
+  "start": 72.34,
+  "limit": 76.9,
+  "new_start": 75.21829166666667,
+  "dur": 4.976291666666667,
+  "speed": 1.35,
+  "k": 1.1680464181286543,
+  "text_tgt": "Por causa dessa posição, o planeta fica fora do alcance da todo-poderosa e onipresente Burocracia Galáctica."
+ },
+ {
+  "id": 10,
+  "start": 76.9,
+  "limit": 81.6,
+  "new_start": 80.54458333333334,
+  "dur": 5.17775,
+  "speed": 1.35,
+  "k": 1.1761170212765983,
+  "text_tgt": "Só um censo planetário exigiria mais papelada do que a última reforma galáctica da tributação de anéis planetários."
+ },
+ {
+  "id": 11,
+  "start": 81.6,
+  "limit": 92.32,
+  "new_start": 86.07233333333333,
+  "dur": 10.406958333333334,
+  "speed": 1.123,
+  "k": 1.0034476057213932,
+  "text_tgt": "Resultado: a vida na Terra evoluiu sem nenhuma supervisão administrativa, guerras e migrações não precisam de aprovação, espécies inteiras surgem e somem sem papelada, e todo o lucro fica no planeta."
+ },
+ {
+  "id": 12,
+  "start": 92.32,
+  "limit": 94.82,
+  "new_start": 96.82929166666666,
+  "dur": 2.191291666666667,
+  "speed": 1.134,
+  "k": 1.0165166666666667,
+  "text_tgt": "Os terráqueos nem pagam imposto sobre a lua!"
+ },
+ {
+  "id": 13,
+  "start": 94.82,
+  "limit": 99.58,
+  "new_start": 99.37058333333333,
+  "dur": 4.491458333333333,
+  "speed": 1.3,
+  "k": 1.017113095238094,
+  "text_tgt": "O lar dos terráqueos é uma pedrinha chamada Terra, que orbita uma estrela amarela sem graça chamada Sol."
+ },
+ {
+  "id": 14,
+  "start": 99.58,
+  "limit": 102.46,
+  "new_start": 104.21204166666666,
+  "dur": 3.1318333333333332,
+  "speed": 1.35,
+  "k": 1.2089699074074094,
+  "text_tgt": "Como é um paraíso fiscal, eles podem se dar ao luxo de ter uma lua enorme."
+ },
+ {
+  "id": 15,
+  "start": 102.46,
+  "limit": 109.5,
+  "new_start": 107.69387499999999,
+  "dur": 7.888166666666667,
+  "speed": 1.35,
+  "k": 1.1701941287878777,
+  "text_tgt": "O planeta é quase todo coberto de ácido hidroxílico, também conhecido como monóxido de di-hidrogênio, um químico viscoso e nojento, tóxico para a maioria das formas de vida galácticas."
+ },
+ {
+  "id": 16,
+  "start": 109.5,
+  "limit": 117.54,
+  "new_start": 115.93204166666666,
+  "dur": 7.771875,
+  "speed": 1.315,
+  "k": 1.010183457711442,
+  "text_tgt": "A vida na Terra se divide, grosso modo, em quatro tipos de criatura: primeiro, as plantas, feixes de fibra esverdeados que se agarram ao chão e se alimentam de luz do sol."
+ },
+ {
+  "id": 17,
+  "start": 117.54,
+  "limit": 123.42,
+  "new_start": 124.05391666666667,
+  "dur": 5.603,
+  "speed": 1.267,
+  "k": 1.0124149659863952,
+  "text_tgt": "Segundo, os animais, sacos móveis cheios de gosma vermelha, que comem plantas e às vezes outros animais."
+ },
+ {
+  "id": 18,
+  "start": 123.42,
+  "limit": 128.38,
+  "new_start": 130.00691666666665,
+  "dur": 5.584458333333333,
+  "speed": 1.35,
+  "k": 1.1964633736559154,
+  "text_tgt": "Terceiro, os terráqueos, sacos de gosma rosa que comem animais e plantas e fazem um monte de coisa esquisita no tempo livre."
+ },
+ {
+  "id": 19,
+  "start": 128.38,
+  "limit": 131.22,
+  "new_start": 135.941375,
+  "dur": 2.540625,
+  "speed": 1.169,
+  "k": 1.017825704225351,
+  "text_tgt": "É dessas coisas esquisitas que trata este curso."
+ },
+ {
+  "id": 20,
+  "start": 131.22,
+  "limit": 135.98,
+  "new_start": 138.832,
+  "dur": 5.25925,
+  "speed": 1.35,
+  "k": 1.1784138655462206,
+  "text_tgt": "E quarto, existem zilhões de criaturinhas minúsculas, chamadas micróbios, que comem praticamente todo o resto."
+ },
+ {
+  "id": 21,
+  "start": 135.98,
+  "limit": 139.46,
+  "new_start": 144.44125,
+  "dur": 3.9036666666666666,
+  "speed": 1.35,
+  "k": 1.2223180076628288,
+  "text_tgt": "Mas os micróbios são tão pequenos que os terráqueos não conseguem vê-los com seus olhos primitivos."
+ },
+ {
+  "id": 22,
+  "start": 139.46,
+  "limit": 145.44,
+  "new_start": 148.69491666666667,
+  "dur": 5.6654583333333335,
+  "speed": 1.112,
+  "k": 1.0059294871794888,
+  "text_tgt": "Então os terráqueos acham que estão no topo da cadeia alimentar e se consideram a espécie dominante do planeta."
+ },
+ {
+  "id": 23,
+  "start": 145.44,
+  "limit": 152.3,
+  "new_start": 154.710375,
+  "dur": 7.634833333333333,
+  "speed": 1.35,
+  "k": 1.1639698736637487,
+  "text_tgt": "Ao visitar a Terra, você pode ouvir relatos de outros tipos de criatura, que se alimentam de terráqueos, buscam a luz da lua e evitam a luz do sol e o ácido hidroxílico."
+ },
+ {
+  "id": 24,
+  "start": 152.3,
+  "limit": 155.34,
+  "new_start": 162.69520833333334,
+  "dur": 2.766958333333333,
+  "speed": 1.283,
+  "k": 1.0253152412280728,
+  "text_tgt": "Mas essas criaturas não existem: os terráqueos as inventaram."
+ },
+ {
+  "id": 25,
+  "start": 155.34,
+  "limit": 158.72,
+  "new_start": 165.81216666666668,
+  "dur": 3.34075,
+  "speed": 1.35,
+  "k": 1.0919378698224866,
+  "text_tgt": "Inventar coisas faz parte das esquisitices que os terráqueos costumam fazer."
+ },
+ {
+  "id": 26,
+  "start": 158.72,
+  "limit": 162.16,
+  "new_start": 169.5029166666667,
+  "dur": 2.78,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos explicar isso nos próximos episódios."
+ },
+ {
+  "id": 27,
+  "start": 162.16,
+  "limit": 166.02,
+  "new_start": 172.9429166666667,
+  "dur": 3.77625,
+  "speed": 1.35,
+  "k": 1.06897668393782,
+  "text_tgt": "Dica estratégica: como já dissemos, o ácido hidroxílico é abundante na Terra."
+ },
+ {
+  "id": 28,
+  "start": 166.02,
+  "limit": 171.72,
+  "new_start": 177.0691666666667,
+  "dur": 5.866666666666666,
+  "speed": 1.35,
+  "k": 1.0906432748538033,
+  "text_tgt": "Então, se você está planejando uma invasão, garanta que suas naves, armaduras e equipamentos não sejam solúveis em ácido hidroxílico."
+ },
+ {
+  "id": 29,
+  "start": 171.72,
+  "limit": 177.22,
+  "new_start": 183.28583333333336,
+  "dur": 5.160958333333333,
+  "speed": 1.025,
+  "k": 1.001992424242424,
+  "text_tgt": "Não há nada mais vergonhoso do que ver sua poderosa força de invasão derreter numa chuva de verão."
+ },
+ {
+  "id": 30,
+  "start": 177.22,
+  "limit": 188.24,
+  "new_start": 188.79679166666668,
+  "dur": 10.726833333333333,
+  "speed": 1.197,
+  "k": 1.0051572897761636,
+  "text_tgt": "A vida na Terra gira em torno de três coisas: comer, se reproduzir e não morrer. O que é meio redundante, já que comer serve para não morrer, e se reproduzir e não morrer servem para não deixar o código genético morrer."
+ },
+ {
+  "id": 31,
+  "start": 188.24,
+  "limit": 194.0,
+  "new_start": 199.873625,
+  "dur": 5.487875,
+  "speed": 1.281,
+  "k": 1.0135199652777793,
+  "text_tgt": "O código genético é um código quaternário, escrito em moléculas minúsculas e guardado nos blocos básicos do corpo deles."
+ },
+ {
+  "id": 32,
+  "start": 194.0,
+  "limit": 200.84,
+  "new_start": 205.7115,
+  "dur": 7.687416666666667,
+  "speed": 1.35,
+  "k": 1.1750609161793366,
+  "text_tgt": "Ele define a aparência, as habilidades e o comportamento da criatura, e os códigos de maior sucesso são os que fazem suas criaturas proteger e espalhar o código."
+ },
+ {
+  "id": 33,
+  "start": 200.84,
+  "limit": 205.74,
+  "new_start": 213.74891666666667,
+  "dur": 3.8689583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Em outras palavras: comer, se reproduzir e não morrer."
+ },
+ {
+  "id": 34,
+  "start": 205.74,
+  "limit": 219.1,
+  "new_start": 218.64891666666668,
+  "dur": 13.170375,
+  "speed": 1.35,
+  "k": 1.0120041167664682,
+  "text_tgt": "Com o tempo, os animais desenvolveram um monte de truques para ficar cada vez melhores em comer, se reproduzir e não morrer: armas naturais, tamanho, chifres ou penas inúteis mas atraentes, velocidade, cascos protetores, camuflagem, a capacidade de escalar ou até de voar."
+ },
+ {
+  "id": 35,
+  "start": 219.1,
+  "limit": 223.16,
+  "new_start": 232.16929166666668,
+  "dur": 4.036291666666667,
+  "speed": 1.35,
+  "k": 1.0803674055829222,
+  "text_tgt": "Mas, na hora de criar os terráqueos, a natureza ficou com preguiça e não deu nada disso a eles."
+ },
+ {
+  "id": 36,
+  "start": 223.16,
+  "limit": 226.82,
+  "new_start": 236.55558333333335,
+  "dur": 3.351,
+  "speed": 1.131,
+  "k": 1.0112021857923508,
+  "text_tgt": "Em vez disso, deu só um cérebro e mandou eles se virarem sozinhos."
+ },
+ {
+  "id": 37,
+  "start": 226.82,
+  "limit": 227.94,
+  "new_start": 240.25658333333334,
+  "dur": 0.8512083333333333,
+  "speed": 1.304,
+  "k": 1.072507440476186,
+  "text_tgt": "E eles se viraram."
+ },
+ {
+  "id": 38,
+  "start": 227.94,
+  "limit": 229.34,
+  "new_start": 241.45779166666668,
+  "dur": 1.1451666666666667,
+  "speed": 1.35,
+  "k": 1.067976190476186,
+  "text_tgt": "Muito bem, aliás."
+ },
+ {
+  "id": 39,
+  "start": 229.34,
+  "limit": 234.88,
+  "new_start": 242.95295833333336,
+  "dur": 5.266541666666667,
+  "speed": 1.287,
+  "k": 1.0138161853188943,
+  "text_tgt": "O truque foi trocar os atributos naturais que faltavam por outros, feitos por eles mesmos, que eles chamaram de \"ferramentas\"."
+ },
+ {
+  "id": 40,
+  "start": 234.88,
+  "limit": 239.22,
+  "new_start": 248.56950000000003,
+  "dur": 4.525166666666666,
+  "speed": 1.35,
+  "k": 1.123310291858678,
+  "text_tgt": "Com essas ferramentas, os terráqueos se adaptam a qualquer circunstância melhor do que qualquer outra espécie do planeta."
+ },
+ {
+  "id": 41,
+  "start": 239.22,
+  "limit": 241.38,
+  "new_start": 253.4446666666667,
+  "dur": 1.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Exceto os micróbios."
+ },
+ {
+  "id": 42,
+  "start": 244.02,
+  "limit": 248.74,
+  "new_start": 258.2446666666667,
+  "dur": 4.621458333333333,
+  "speed": 1.35,
+  "k": 1.053275070621469,
+  "text_tgt": "Dicas para turistas: férias na Terra podem ser emocionantes, mas também podem sair bem caras."
+ },
+ {
+  "id": 43,
+  "start": 248.74,
+  "limit": 252.82,
+  "new_start": 263.21612500000003,
+  "dur": 3.79725,
+  "speed": 1.243,
+  "k": 1.0164828431372588,
+  "text_tgt": "Se o orçamento está curto e você só quer passar o fim de semana, por que não dar um pulo na lua?"
+ },
+ {
+  "id": 44,
+  "start": 252.82,
+  "limit": 258.88,
+  "new_start": 267.363375,
+  "dur": 5.723958333333333,
+  "speed": 1.036,
+  "k": 1.0023033553355332,
+  "text_tgt": "Ela não é lotada, tem uma vista ótima da Terra, e você pode até topar com alguns artefatos humanos."
+ },
+ {
+  "id": 45,
+  "start": 258.88,
+  "limit": 262.88,
+  "new_start": 273.43733333333336,
+  "dur": 4.35475,
+  "speed": 1.35,
+  "k": 1.1761875,
+  "text_tgt": "Um dos melhores jeitos de continuar comendo, se reproduzindo e não morrendo é, na verdade, matar."
+ },
+ {
+  "id": 46,
+  "start": 262.88,
+  "limit": 264.52,
+  "new_start": 278.14208333333335,
+  "dur": 2.2074166666666666,
+  "speed": 1.35,
+  "k": 1.559400406504078,
+  "text_tgt": "Os terráqueos são verdadeiros especialistas em matar."
+ },
+ {
+  "id": 47,
+  "start": 264.52,
+  "limit": 270.6,
+  "new_start": 280.6995,
+  "dur": 5.743,
+  "speed": 1.043,
+  "k": 1.0021381578947302,
+  "text_tgt": "A Humanidade é a única civilização galáctica que inventou a bomba de hidrogênio antes do teletransporte."
+ },
+ {
+  "id": 48,
+  "start": 270.6,
+  "limit": 278.06,
+  "new_start": 286.7925,
+  "dur": 7.925166666666667,
+  "speed": 1.35,
+  "k": 1.109271671134945,
+  "text_tgt": "Os terráqueos matam plantas para comer, animais para comer mais, terráqueos rivais para ficar com a comida e os parceiros de reprodução deles, e micróbios para não serem mortos por eles."
+ },
+ {
+  "id": 49,
+  "start": 278.06,
+  "limit": 283.06,
+  "new_start": 295.0676666666667,
+  "dur": 5.258541666666667,
+  "speed": 1.35,
+  "k": 1.1217083333333333,
+  "text_tgt": "Os terráqueos acharam até um uso para as partes não comestíveis das plantas e animais que matam: eles as enrolam no corpo."
+ },
+ {
+  "id": 50,
+  "start": 283.06,
+  "limit": 284.6,
+  "new_start": 300.67620833333336,
+  "dur": 1.2590416666666666,
+  "speed": 1.247,
+  "k": 1.0448322510822372,
+  "text_tgt": "Isso se chama \"roupa\"."
+ },
+ {
+  "id": 51,
+  "start": 284.6,
+  "limit": 290.1,
+  "new_start": 302.28525,
+  "dur": 5.184833333333334,
+  "speed": 1.109,
+  "k": 1.0063333333333333,
+  "text_tgt": "Ter roupas sofisticadas atrai mais parceiros de reprodução em potencial, o que pode levar a mais mortes."
+ },
+ {
+  "id": 52,
+  "start": 290.1,
+  "limit": 295.68,
+  "new_start": 307.82008333333334,
+  "dur": 5.263625,
+  "speed": 1.1,
+  "k": 1.0060259856630853,
+  "text_tgt": "Para evitar que os terráqueos se matem até sobrar o último, eles desenvolveram uma coisa chamada sociedade."
+ },
+ {
+  "id": 53,
+  "start": 295.68,
+  "limit": 300.98,
+  "new_start": 313.43370833333336,
+  "dur": 5.03725,
+  "speed": 1.342,
+  "k": 1.016462264150941,
+  "text_tgt": "Os terráqueos costumam achar que a sociedade é um grande grupo de humanos, mas na verdade ela é mais uma entidade abstrata."
+ },
+ {
+  "id": 54,
+  "start": 300.98,
+  "limit": 306.0,
+  "new_start": 318.82095833333335,
+  "dur": 4.735166666666666,
+  "speed": 1.231,
+  "k": 1.0129814077025268,
+  "text_tgt": "A sociedade não existe de verdade, mas isso não a impede de ter uma opinião forte sobre praticamente tudo."
+ },
+ {
+  "id": 55,
+  "start": 306.0,
+  "limit": 312.12,
+  "new_start": 323.90612500000003,
+  "dur": 5.855291666666667,
+  "speed": 1.32,
+  "k": 1.0139365468409578,
+  "text_tgt": "Ela diz aos terráqueos o que fazer, o que não fazer, o que comer, que ferramentas usar, com quem se reproduzir e que roupa vestir."
+ },
+ {
+  "id": 56,
+  "start": 312.12,
+  "limit": 317.6,
+  "new_start": 330.1114166666667,
+  "dur": 5.2195833333333335,
+  "speed": 1.339,
+  "k": 1.01634732360097,
+  "text_tgt": "No fundo, a sociedade impõe aos terráqueos o interesse do grupo, mais ou menos como o código genético impõe o próprio interesse."
+ },
+ {
+  "id": 57,
+  "start": 317.6,
+  "limit": 321.5,
+  "new_start": 335.68100000000004,
+  "dur": 3.7629166666666665,
+  "speed": 1.35,
+  "k": 1.0545940170940231,
+  "text_tgt": "Os terráqueos não inventaram a sociedade de fato: ela se desenvolveu junto com a Humanidade."
+ },
+ {
+  "id": 58,
+  "start": 321.5,
+  "limit": 323.72,
+  "new_start": 339.7939166666667,
+  "dur": 2.2740833333333335,
+  "speed": 1.35,
+  "k": 1.1820195195195051,
+  "text_tgt": "A sociedade vem meio que embutida no cérebro deles."
+ },
+ {
+  "id": 59,
+  "start": 323.72,
+  "limit": 328.3,
+  "new_start": 342.418,
+  "dur": 4.30275,
+  "speed": 1.255,
+  "k": 1.015884279475986,
+  "text_tgt": "Veja: no centro da mente humana fica o Ego, a parte que observa o mundo e decide o que fazer."
+ },
+ {
+  "id": 60,
+  "start": 328.3,
+  "limit": 329.62,
+  "new_start": 347.07075000000003,
+  "dur": 1.05775,
+  "speed": 1.333,
+  "k": 1.0664772727272782,
+  "text_tgt": "Mas o Ego não está sozinho."
+ },
+ {
+  "id": 61,
+  "start": 329.62,
+  "limit": 336.24,
+  "new_start": 348.47850000000005,
+  "dur": 6.605916666666666,
+  "speed": 1.35,
+  "k": 1.0507426988922448,
+  "text_tgt": "Ele se apoia numa parte escura e estranha que podemos chamar de Fera, que defende o interesse do código genético: comer, se reproduzir e não morrer."
+ },
+ {
+  "id": 62,
+  "start": 336.24,
+  "limit": 340.68,
+  "new_start": 355.4344166666667,
+  "dur": 4.176,
+  "speed": 1.324,
+  "k": 1.01936936936937,
+  "text_tgt": "Do outro lado, temos o que podemos chamar de Implicante, uma espécie de advogado da sociedade."
+ },
+ {
+  "id": 63,
+  "start": 340.68,
+  "limit": 344.94,
+  "new_start": 359.96041666666673,
+  "dur": 4.406625,
+  "speed": 1.35,
+  "k": 1.1165786384976548,
+  "text_tgt": "Enquanto a Fera diz ao Ego o que ele gostaria de fazer, o Implicante vive dizendo o que ele deveria fazer."
+ },
+ {
+  "id": 64,
+  "start": 344.94,
+  "limit": 347.94,
+  "new_start": 364.7170416666667,
+  "dur": 2.694,
+  "speed": 1.147,
+  "k": 1.0146666666666666,
+  "text_tgt": "O Ego é, por assim dizer, escravo de dois senhores."
+ },
+ {
+  "id": 65,
+  "start": 347.94,
+  "limit": 355.12,
+  "new_start": 367.7610416666667,
+  "dur": 6.919083333333333,
+  "speed": 1.347,
+  "k": 1.0124071494893212,
+  "text_tgt": "Enquanto a Fera tenta controlá-lo com coisas como prazer, medo, desejo e dor, o Implicante o manipula com coisas como remorso e a sensação de sucesso."
+ },
+ {
+  "id": 66,
+  "start": 355.12,
+  "limit": 360.22,
+  "new_start": 375.03012500000006,
+  "dur": 4.830541666666667,
+  "speed": 1.304,
+  "k": 1.0157924836601262,
+  "text_tgt": "Como a primeira representa as necessidades do código, e o segundo os interesses do grupo, os dois vivem discordando."
+ },
+ {
+  "id": 67,
+  "start": 360.22,
+  "limit": 367.84,
+  "new_start": 380.2106666666667,
+  "dur": 7.333333333333333,
+  "speed": 1.23,
+  "k": 1.0083114610673733,
+  "text_tgt": "O Ego passa a maior parte do tempo navegando entre as exigências e as proibições dos dois lados, um processo chamado, de forma bem incorreta, de \"livre-arbítrio\"."
+ },
+ {
+  "id": 68,
+  "start": 367.84,
+  "limit": 374.24,
+  "new_start": 387.89400000000006,
+  "dur": 6.080916666666667,
+  "speed": 1.1,
+  "k": 1.0048307291666614,
+  "text_tgt": "Dica científica: ao fazer experimentos com terráqueos, não tente separar as três partes do cérebro com cirurgia."
+ },
+ {
+  "id": 69,
+  "start": 374.24,
+  "limit": 377.06,
+  "new_start": 394.32491666666675,
+  "dur": 2.6074166666666665,
+  "speed": 1.35,
+  "k": 1.0487293144208063,
+  "text_tgt": "Isso não é possível, porque elas estão todas emaranhadas."
+ },
+ {
+  "id": 70,
+  "start": 377.06,
+  "limit": 380.66,
+  "new_start": 397.28233333333344,
+  "dur": 4.671125,
+  "speed": 1.35,
+  "k": 1.3947569444444354,
+  "text_tgt": "Em vez disso, experimente estimular partes diferentes do cérebro com choques elétricos e veja o que acontece."
+ },
+ {
+  "id": 71,
+  "start": 380.66,
+  "limit": 384.28,
+  "new_start": 402.3034583333334,
+  "dur": 3.3190416666666667,
+  "speed": 1.166,
+  "k": 1.013547421731138,
+  "text_tgt": "É um jeito interessante e divertido de aprender sobre as funções do cérebro."
+ },
+ {
+  "id": 72,
+  "start": 384.28,
+  "limit": 388.52,
+  "new_start": 405.9725000000001,
+  "dur": 3.944,
+  "speed": 1.179,
+  "k": 1.0127358490566014,
+  "text_tgt": "E também é um ótimo projeto de feira de ciências para jovens cientistas."
+ },
+ {
+  "id": 73,
+  "start": 388.52,
+  "limit": 391.86,
+  "new_start": 410.26650000000006,
+  "dur": 3.061541666666667,
+  "speed": 1.251,
+  "k": 1.021419660678633,
+  "text_tgt": "O engraçado é que nem a Fera nem o Implicante parecem viver no presente."
+ },
+ {
+  "id": 74,
+  "start": 391.86,
+  "limit": 402.56,
+  "new_start": 413.67804166666673,
+  "dur": 10.540708333333333,
+  "speed": 1.35,
+  "k": 1.0178232087227423,
+  "text_tgt": "A Fera ainda vive num passado distante, onde a vida era dura, as regras eram simples, matar era uma necessidade, reproduzir não seguia regra nenhuma, comer envolvia muita correria atrás de animais, e não morrer envolvia muita correria de predadores."
+ },
+ {
+  "id": 75,
+  "start": 402.56,
+  "limit": 409.84,
+  "new_start": 424.5687500000001,
+  "dur": 6.988333333333333,
+  "speed": 1.202,
+  "k": 1.0080128205128243,
+  "text_tgt": "Já o Implicante às vezes vive num futuro idealizado, onde a vida é fácil, ninguém mata mais ninguém, todo mundo é gentil e perfeito e tudo vai ser melhor."
+ },
+ {
+  "id": 76,
+  "start": 409.84,
+  "limit": 420.14,
+  "new_start": 431.9070833333334,
+  "dur": 10.227416666666667,
+  "speed": 1.35,
+  "k": 1.0269336569579277,
+  "text_tgt": "Outras vezes, porém, o Implicante vive num passado igualmente idealizado, não tão distante, onde as regras eram rígidas, os modos eram outros, as roupas cobriam mais pele, reproduzir era quase proibido e tudo era melhor."
+ },
+ {
+  "id": 77,
+  "start": 420.14,
+  "limit": 424.84,
+  "new_start": 442.4845000000001,
+  "dur": 4.933291666666666,
+  "speed": 1.35,
+  "k": 1.1241046099290806,
+  "text_tgt": "Então o Ego, que precisa lidar com o presente, às vezes tem dificuldade em conciliar os desejos dos seus dois senhores."
+ },
+ {
+  "id": 78,
+  "start": 424.84,
+  "limit": 427.7,
+  "new_start": 447.76779166666677,
+  "dur": 2.541,
+  "speed": 1.098,
+  "k": 1.010839160839156,
+  "text_tgt": "Este foi o primeiro episódio de Terráqueos 101."
+ },
+ {
+  "id": 79,
+  "start": 427.7,
+  "limit": 437.94,
+  "new_start": 450.6587916666668,
+  "dur": 10.0585,
+  "speed": 1.35,
+  "k": 1.016455078124999,
+  "text_tgt": "Nos próximos episódios, vou falar mais sobre evolução e sociedade, mas também sobre coisas esquisitas como nações, mitos, sonhos, sexo, magia, rituais, beleza, dinheiro, jogos e muito mais."
+ },
+ {
+  "id": 80,
+  "start": 437.94,
+  "limit": 445.6,
+  "new_start": 461.0672916666668,
+  "dur": 7.9185,
+  "speed": 1.35,
+  "k": 1.0794386422976465,
+  "text_tgt": "Da próxima vez, você vai aprender sobre evolução, genética, e por que o código genético dos terráqueos contém a frase \"Lulas são burras\" num antigo dialeto sagitariano."
+ },
+ {
+  "id": 81,
+  "start": 445.6,
+  "limit": 447.83,
+  "new_start": 469.3357916666668,
+  "dur": 1.16,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Obrigado por assistir!"
+ }
+]

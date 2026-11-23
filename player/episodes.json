@@ -1,0 +1,18 @@
+[
+  {"id": "ep01", "n": "1", "title": "Humanidade: uma introdução para alienígenas"},
+  {"id": "ep02", "n": "2", "title": "Origens: uma breve história da vida na Terra"},
+  {"id": "ep03", "n": "3", "title": "Sexo: por que os terráqueos fazem isso?"},
+  {"id": "ep04", "n": "4", "title": "Ética: o que é o bem e o mal?"},
+  {"id": "ep05", "n": "5", "title": "Imaginação: o que são jogos, sonhos e histórias?"},
+  {"id": "ep06", "n": "6", "title": "Estética: o que é a beleza?"},
+  {"id": "ep07", "n": "7", "title": "Mecânica social: gratidão e carma, as moedas secretas da sociedade"},
+  {"id": "ep08", "n": "8", "title": "Humor: por que os terráqueos riem?"},
+  {"id": "ep09", "n": "9", "title": "Comida: por que os terráqueos comem?"},
+  {"id": "ep10", "n": "10", "title": "Linguagem: um recife de metáforas mortas"},
+  {"id": "ep11", "n": "11", "title": "Rituais: as engrenagens da sociedade"},
+  {"id": "ep12", "n": "12", "title": "Visão: como o mundo entra no cérebro"},
+  {"id": "ep13", "n": "13", "title": "Matemática: medindo x preguiça²"},
+  {"id": "x1-saucer-physics", "n": "Extra", "title": "Física básica de discos voadores"},
+  {"id": "x2-no-edge-1", "n": "Extra", "title": "Sem borda: a forma do universo (parte 1, modelos planos)"},
+  {"id": "x3-no-edge-2", "n": "Extra", "title": "Sem borda 2: a forma do universo (espaço curvo)"}
+]

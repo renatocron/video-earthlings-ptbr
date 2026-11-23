@@ -1,0 +1,1169 @@
+1
+00:00:00,160 --> 00:00:04,910
+Greetings, aliens and earthlings! This is
+part 2 of our mini-series about the shape
+
+2
+00:00:04,910 --> 00:00:06,240
+of the universe.
+
+3
+00:00:06,240 --> 00:00:09,830
+If you didn't watch part 1, I suggest you
+watch it first.
+
+4
+00:00:09,830 --> 00:00:12,030
+Today we will speak about curvature of space.
+
+5
+00:00:43,040 --> 00:00:47,670
+To be clear, we will talk about curvature
+of space, not about curvature of spacetime,
+
+6
+00:00:47,670 --> 00:00:50,340
+as examined by general relativity.
+
+7
+00:00:50,340 --> 00:00:51,430
+What is curvature?
+
+8
+00:00:51,430 --> 00:00:55,370
+For a surface, curvature means that the surface
+cannot be flattened without stretching or
+
+9
+00:00:55,370 --> 00:00:56,460
+squeezing it.
+
+10
+00:00:56,460 --> 00:01:00,920
+A bend piece of paper can be flattened, but
+try flattening a sphere cap, or a saddle surface:
+
+11
+00:01:00,920 --> 00:01:02,539
+It won't work.
+
+12
+00:01:02,539 --> 00:01:03,769
+That's because of the curvature.
+
+13
+00:01:03,769 --> 00:01:07,940
+A sphere is said to have positive curvature,
+aka spherical curvature.
+
+14
+00:01:07,940 --> 00:01:11,720
+A saddle surface has negative curvature, aka
+hyperbolic curvature.
+
+15
+00:01:11,720 --> 00:01:15,050
+A surface can be differently curved at different
+locations.
+
+16
+00:01:15,050 --> 00:01:19,900
+A banana for example is positively curved
+on one side, and negatively on the other side.
+
+17
+00:01:19,900 --> 00:01:24,830
+Now, the difference is easily visible "from
+the outside", but how to explain it to flatsnails
+
+18
+00:01:24,830 --> 00:01:26,350
+inside the surface?
+
+19
+00:01:26,350 --> 00:01:29,440
+Well, you could try to explain it with triangles.
+
+20
+00:01:29,440 --> 00:01:35,560
+On a flat plane, the angles of a triangle
+sum up to 180°, no matter it's size.
+
+21
+00:01:35,560 --> 00:01:39,690
+Why is this so? Well, imagine a flatsnail
+following the border.
+
+22
+00:01:39,690 --> 00:01:44,220
+Be patient, it's a snail.
+
+23
+00:01:44,220 --> 00:01:46,390
+This might take a while.
+
+24
+00:01:46,390 --> 00:01:49,350
+You know what? Forget about the flatsnail.
+
+25
+00:01:49,350 --> 00:01:54,860
+Let's take a shark! On a lightcycle! With
+a fricking laser attached to his head! Now,
+
+26
+00:01:54,860 --> 00:01:55,920
+that's better.
+
+27
+00:01:55,920 --> 00:02:01,650
+Each time the shark takes a corner, the laser
+goes "woosh".
+
+28
+00:02:01,650 --> 00:02:06,040
+And afterwards, he has made a full turn - so,
+the sums of the "wooshs" sum up to a full
+
+29
+00:02:06,040 --> 00:02:07,260
+turn.
+
+30
+00:02:07,260 --> 00:02:11,200
+But each "woosh" sums up with one angle to
+180°.
+
+31
+00:02:11,200 --> 00:02:15,120
+From this you can easily calculate that the
+sum of the angles is 180°.
+
+32
+00:02:15,120 --> 00:02:18,390
+Now, let's look what happens on a sphere.
+
+33
+00:02:18,390 --> 00:02:25,030
+This triangle, for example, has three 90°
+angles. 270° in total.
+
+34
+00:02:25,030 --> 00:02:27,410
+Where do the additional 90° come from?
+
+35
+00:02:27,410 --> 00:02:28,820
+The answer: Curvature.
+
+36
+00:02:28,820 --> 00:02:33,200
+The sphere has positive curvature, which somehow
+inflates the angles.
+
+37
+00:02:33,200 --> 00:02:37,770
+Small triangles behave almost as on a plane,
+but the bigger they are, the more the angles
+
+38
+00:02:37,770 --> 00:02:38,470
+grow.
+
+39
+00:02:38,470 --> 00:02:42,330
+Think of curvature as overpressure: It gives
+the triangles a cussion form and makes the
+
+40
+00:02:42,330 --> 00:02:43,900
+angles less pointy.
+
+41
+00:02:43,900 --> 00:02:48,960
+But what about a negatively curved surface
+- a saddle surface? Here, the opposite happens:
+
+42
+00:02:48,960 --> 00:02:51,800
+The angles are inferior to what you might
+expect.
+
+43
+00:02:51,800 --> 00:02:55,340
+Think of negative curvature as underpressure
+which gives the triangles an evacuated shape
+
+44
+00:02:55,340 --> 00:02:57,220
+and makes corners pointier.
+
+45
+00:02:57,220 --> 00:03:02,290
+By the way, the same happens to arbitrary
+polygons: Negative curvature sucks them out,
+
+46
+00:03:02,290 --> 00:03:03,650
+positive pumps them up.
+
+47
+00:03:03,650 --> 00:03:07,400
+But where does this strange behaviour come
+from? You might get an idea when you try to
+
+48
+00:03:07,400 --> 00:03:10,840
+put a round patch of fabric onto a positively
+curved surface.
+
+49
+00:03:10,840 --> 00:03:14,310
+You'll notice that near the border, there
+is too much fabric - you have to hide fabric
+
+50
+00:03:14,310 --> 00:03:16,750
+triangles by folding and sewing.
+
+51
+00:03:16,750 --> 00:03:19,460
+Tailors call the hidden triangles "darts".
+
+52
+00:03:19,460 --> 00:03:23,600
+So, what happens here is that in the case
+of positive curvature, the border of disks
+
+53
+00:03:23,600 --> 00:03:25,670
+is shorter than you might expect.
+
+54
+00:03:25,670 --> 00:03:29,990
+In other words, the outskirts of any region
+are smaller than you might expect.
+
+55
+00:03:29,990 --> 00:03:33,069
+There is surface that has been "sewn away",
+so to say.
+
+56
+00:03:33,069 --> 00:03:37,130
+In consequence, when you connect three or
+more points with shortest lines, the lines
+
+57
+00:03:37,130 --> 00:03:40,930
+have the tendency to bulge outwards, in order
+to benefit from the shorter distances in the
+
+58
+00:03:40,930 --> 00:03:42,400
+outskirts.
+
+59
+00:03:42,400 --> 00:03:46,140
+It's like intercontinental flights on Earth:
+The flight paths have the tendency to bulge
+
+60
+00:03:46,140 --> 00:03:51,660
+towards the poles, because near a pole, the
+distance between lines of longitude is shorter.
+
+61
+00:03:51,660 --> 00:03:55,770
+That's the reason why polygons have a cussion
+form on positively curved surfaces.
+
+62
+00:03:55,770 --> 00:03:59,810
+Another thing that happens on a positively
+curved surface is that parallels converge.
+
+63
+00:03:59,810 --> 00:04:03,910
+The reason is, so to speak, the fabric between
+the parallels is "sewn away".
+
+64
+00:04:03,910 --> 00:04:08,459
+Now, what about negatively curved surfaces?
+Let's try to put a round patch of fabric onto
+
+65
+00:04:08,459 --> 00:04:10,030
+a saddle surface.
+
+66
+00:04:10,030 --> 00:04:14,950
+We notice that it doesn't work, unless we
+tear the border apart, or insert fabric triangles
+
+67
+00:04:14,950 --> 00:04:16,510
+to adapt to the shape.
+
+68
+00:04:16,510 --> 00:04:21,180
+So, in this case, we have the inverse effect:
+Far from the center we have more surface than
+
+69
+00:04:21,180 --> 00:04:22,690
+you might expect.
+
+70
+00:04:22,690 --> 00:04:27,180
+In consequence, shortest connections between
+corners avoid the outskirts and take a shortcut
+
+71
+00:04:27,180 --> 00:04:29,520
+through the center where distances are smaller.
+
+72
+00:04:29,520 --> 00:04:33,460
+That's why the edges bulge inwards, and the
+corners are pointier than on a plane.
+
+73
+00:04:33,460 --> 00:04:37,650
+For example, if earth were a hyperboloid,
+you would see flight paths bending towards
+
+74
+00:04:37,650 --> 00:04:40,510
+the equator, because there distances are shorter.
+
+75
+00:04:40,510 --> 00:04:45,740
+What happens to parallel lines on a negatively
+curved surface? Well, they diverge.
+
+76
+00:04:45,740 --> 00:04:49,860
+That happens, so to speak, because of the
+additional fabric inserted between them.
+
+77
+00:04:49,860 --> 00:04:54,380
+Now, can we do the same in three-dimensional
+space? Of course we can.
+
+78
+00:04:54,380 --> 00:04:57,669
+The three-dimensional equivalent to a round
+patch is a spherical ball.
+
+79
+00:04:57,669 --> 00:05:01,889
+Now, in flat space, a ball behaves exactly
+how it should.
+
+80
+00:05:01,889 --> 00:05:05,510
+But in a positively curved universe, the surface
+of a big ball is smaller.
+
+81
+00:05:05,510 --> 00:05:10,320
+In other words, outer space is smaller than
+you think - as if someone had stolen whole
+
+82
+00:05:10,320 --> 00:05:15,010
+wedges of space and bridged the rest with
+portals, hoping nobody would notice.
+
+83
+00:05:15,010 --> 00:05:19,360
+In a negatively curved universe, the surface
+of a ball is bigger, there is more outer space
+
+84
+00:05:19,360 --> 00:05:20,889
+than you might think.
+
+85
+00:05:20,889 --> 00:05:23,610
+As if someone had inserted additional space.
+
+86
+00:05:23,610 --> 00:05:27,800
+The three-dimensional analogon to polygons
+are polyhedra - and they react to curvature
+
+87
+00:05:27,800 --> 00:05:29,150
+in the same way.
+
+88
+00:05:29,150 --> 00:05:33,210
+When you take a polyhedron and put it into
+positively curved space, the edges and faces
+
+89
+00:05:33,210 --> 00:05:36,350
+bulge outwards to benefit from the shrunken
+outer space.
+
+90
+00:05:36,350 --> 00:05:39,270
+In negatively curved space, the opposite happens.
+
+91
+00:05:39,270 --> 00:05:44,530
+Here, outer space is spacier than you think,
+so the edges and faces bulge inwards to awoid
+
+92
+00:05:44,530 --> 00:05:46,710
+those long outer-space distances.
+
+93
+00:05:46,710 --> 00:05:50,910
+You may think of positive curvature as overpressure
+which blows up polygons to a cussion form
+
+94
+00:05:50,910 --> 00:05:53,560
+and makes corners more obtuse.
+
+95
+00:05:53,560 --> 00:05:56,770
+Negative curvature is like underpressure which
+gives the polygon an evacuated shape with
+
+96
+00:05:56,770 --> 00:05:58,130
+pointy corners.
+
+97
+00:05:58,130 --> 00:06:02,790
+But is our universe flat or curved? To find
+that out, we would have to measure really,
+
+98
+00:06:02,790 --> 00:06:06,419
+really big triangles or polyhedra, and that's
+not easy.
+
+99
+00:06:06,419 --> 00:06:08,720
+We will come to this point next episode.
+
+100
+00:06:08,720 --> 00:06:13,520
+Our goal today is to understand what curvature
+is, and to see some examples.
+
+101
+00:06:13,520 --> 00:06:15,770
+The universe could even have mixed curvature.
+
+102
+00:06:15,770 --> 00:06:20,690
+Remember the banana? It's curvature is positive
+on one side, negative on the other one.
+
+103
+00:06:20,690 --> 00:06:23,310
+Couldn't the universe be the same - some kind
+of hyperbanana?
+
+104
+00:06:23,310 --> 00:06:25,460
+Well, yes and no.
+
+105
+00:06:25,460 --> 00:06:29,600
+It could be, but that would violate something
+called the "cosmological principle".
+
+106
+00:06:29,600 --> 00:06:33,919
+That's the assumption that on a large scale,
+the universe looks everywhere the same.
+
+107
+00:06:33,919 --> 00:06:38,960
+It's not a patchwork of different zones with
+different properties, shapes and laws of physics.
+
+108
+00:06:38,960 --> 00:06:43,760
+This excludes "mixed curvature", just as it
+excludes zones with different physical constants,
+
+109
+00:06:43,760 --> 00:06:45,710
+and just as it excludes an edge.
+
+110
+00:06:45,710 --> 00:06:49,449
+This assumption is a consequence of what earthlings
+call "Ockham's Razor", the principle that
+
+111
+00:06:49,449 --> 00:06:54,750
+simple hypotheses are better than complicated
+ones, if both are equally supported by evidence.
+
+112
+00:06:54,750 --> 00:06:58,570
+Think of Ockham's Razor as a proven search
+order for hypotheses : It's useful to check
+
+113
+00:06:58,570 --> 00:07:00,860
+the simplest hypotheses first.
+
+114
+00:07:00,860 --> 00:07:05,400
+For example, when I see a crop circle, I could
+hypothesize a conspiracy of local farm boys
+
+115
+00:07:05,400 --> 00:07:10,639
+who spent a whole night in a field, trampling
+crops down with primitive earthling tools.
+
+116
+00:07:10,639 --> 00:07:14,259
+But a much simpler hypothesis would be a fellow
+alien with a cropwriter who wanted to contact
+
+117
+00:07:14,259 --> 00:07:15,520
+a ship in orbit.
+
+118
+00:07:15,520 --> 00:07:17,620
+Hitchhikers do this all the time.
+
+119
+00:07:17,620 --> 00:07:21,800
+So, there is no need for a conspiracy theory
+if there is a simpler explanation.
+
+120
+00:07:21,800 --> 00:07:27,610
+So, from now on, let's assume that the universe
+is either flat, or entirely positively curved,
+
+121
+00:07:27,610 --> 00:07:29,330
+or entirely negatively curved.
+
+122
+00:07:29,330 --> 00:07:31,460
+So, no hyperbanana.
+
+123
+00:07:31,460 --> 00:07:34,380
+The simplest positively curved model is the
+hypersphere.
+
+124
+00:07:34,380 --> 00:07:38,470
+Before we can understand the hypersphere,
+let's try to explain to Flatsnails how you
+
+125
+00:07:38,470 --> 00:07:40,370
+can construct a sphere.
+
+126
+00:07:40,370 --> 00:07:41,680
+How would you do that?
+
+127
+00:07:41,680 --> 00:07:45,259
+Maybe we could start with two squares, one
+per hemisphere.
+
+128
+00:07:45,259 --> 00:07:49,169
+We pump them up with curvature until the 90°
+angles are smoothed out.
+
+129
+00:07:49,169 --> 00:07:53,289
+Now, each part has a smooth, straight border
+without corners.
+
+130
+00:07:53,289 --> 00:07:56,850
+We might call this a zero-gon, but the usual
+term is "equator".
+
+131
+00:07:56,850 --> 00:08:00,360
+Then we glue the two together along the equator,
+with portals.
+
+132
+00:08:00,360 --> 00:08:03,550
+That's probably where one of the Flatsnails
+would ask why we need the curvature.
+
+133
+00:08:03,550 --> 00:08:08,610
+Can't we simply take two squares, portalize
+them together, and it's done? Wouldn't that
+
+134
+00:08:08,610 --> 00:08:09,240
+be much easier?
+
+135
+00:08:09,240 --> 00:08:12,210
+Easier maybe, but there is a problem.
+
+136
+00:08:12,210 --> 00:08:17,400
+See, dear flatsnails, each corner point is
+only adjacent to two square corners.
+
+137
+00:08:17,400 --> 00:08:20,810
+But you can't glue too 90° corners together
+in a smooth manner.
+
+138
+00:08:20,810 --> 00:08:26,320
+So, you have to use curvature to pump the
+angles up to 180° to make a smooth gluing.
+
+139
+00:08:26,320 --> 00:08:30,310
+The two "pumped up" squares would be somewhat
+like a disk and somewhat like a square: They
+
+140
+00:08:30,310 --> 00:08:34,139
+would have no corners, like a disk, and have
+straight edges, like a square .
+
+141
+00:08:34,139 --> 00:08:37,990
+"Straight" means straight for creatures inside
+the surface.
+
+142
+00:08:37,990 --> 00:08:41,309
+That would probably blow the mind of some
+flatsnails.
+
+143
+00:08:41,309 --> 00:08:45,290
+But for you, it would be easy because you
+could secretly think of hemispheres.
+
+144
+00:08:45,290 --> 00:08:50,619
+But now, we can do the same thing in three-dimensional
+space: We take two cubes, pump them up with
+
+145
+00:08:50,619 --> 00:08:55,819
+positive curvature to flatten out the corners
+and edges, and glue them together with portals.
+
+146
+00:08:55,819 --> 00:09:00,139
+Those pumped up cubes would be somewhat like
+cubes and somewhat like spheres: Edges and
+
+147
+00:09:00,139 --> 00:09:03,050
+corners smoothed out, but flat sides.
+
+148
+00:09:03,050 --> 00:09:05,149
+The result is called a hypersphere.
+
+149
+00:09:05,149 --> 00:09:09,369
+In the last episode we have seen that when
+we take one cube and glue opposing faces together,
+
+150
+00:09:09,369 --> 00:09:11,019
+we get a hypertorus.
+
+151
+00:09:11,019 --> 00:09:15,990
+Why do we need positive curvature for the
+hypersphere, but not for the hypertorus? Well,
+
+152
+00:09:15,990 --> 00:09:17,319
+because of the corners.
+
+153
+00:09:17,319 --> 00:09:23,249
+Look, in the hypertorus, this corner is identical
+with this one, and this one, and - actually,
+
+154
+00:09:23,249 --> 00:09:25,179
+all corners are one and the same.
+
+155
+00:09:25,179 --> 00:09:29,899
+So, around this corner, we have eight parts
+of the space matching perfectly together - no
+
+156
+00:09:29,899 --> 00:09:31,569
+need for curvature.
+
+157
+00:09:31,569 --> 00:09:36,240
+On the other hand, let's look what happens
+when we glue two cubes together to a hypersphere,
+
+158
+00:09:36,240 --> 00:09:37,769
+but forget the curvature.
+
+159
+00:09:37,769 --> 00:09:41,470
+This corner is identical with this one, and...
+that's it.
+
+160
+00:09:41,470 --> 00:09:46,639
+So, the vicinity of this corner are two parts
+of the two cubes - that doesn't match together.
+
+161
+00:09:46,639 --> 00:09:51,009
+We have to blow up the cubes such that the
+corners get smoothed out - then the gluing
+
+162
+00:09:51,009 --> 00:09:51,959
+works.
+
+163
+00:09:51,959 --> 00:09:57,259
+As mentioned before, the surfaces of the hemispheres
+are flat - they only look curved in our 3D
+
+164
+00:09:57,259 --> 00:10:01,170
+representation, because we can't display the
+curvature of the space inside.
+
+165
+00:10:01,170 --> 00:10:03,670
+That's why we can glue the two balls together.
+
+166
+00:10:03,670 --> 00:10:07,639
+That gluing surface is, so to say, the equator
+of the hypersphere.
+
+167
+00:10:07,639 --> 00:10:11,160
+Let's make a journey through a hypersphere
+universe at super-light speed.
+
+168
+00:10:11,160 --> 00:10:15,399
+Actually, there is only one thing capable
+of travelling faster than light without warping
+
+169
+00:10:15,399 --> 00:10:16,860
+space: A rumor.
+
+170
+00:10:16,860 --> 00:10:22,139
+So, let's invent a rumor - say, the rumor
+that Youtube celebrity C.G.P. Grey is actually
+
+171
+00:10:22,139 --> 00:10:23,989
+a superintelligent stick figure.
+
+172
+00:10:23,989 --> 00:10:27,350
+The rumor bubble expands from earth at super-light
+speed.
+
+173
+00:10:27,350 --> 00:10:32,089
+First, the bubble surface grows like you would
+expect, but after a while, it grows slower
+
+174
+00:10:32,089 --> 00:10:34,600
+and becomes less and less convex.
+
+175
+00:10:34,600 --> 00:10:39,259
+Eventually, the surface flips and becomes
+concave - we have crossed the cosmic equator.
+
+176
+00:10:39,259 --> 00:10:41,730
+The bubble is flipped inside out and shrinks
+again.
+
+177
+00:10:41,730 --> 00:10:46,439
+Eventually, it becomes smaller and smaller
+until it vanishes in one point - the anti-podes
+
+178
+00:10:46,439 --> 00:10:47,899
+of our starting point.
+
+179
+00:10:47,899 --> 00:10:51,970
+So, we have constructed our first positively
+curved space: The hypersphere.
+
+180
+00:10:51,970 --> 00:10:56,110
+But this is far from being the only curved
+model.
+
+181
+00:10:56,110 --> 00:10:59,949
+In the last episode, I mentionned that when
+you take a square and add two pairs of flipped
+
+182
+00:10:59,949 --> 00:11:04,220
+portals such that opposing points are glued
+together, you get something called projective
+
+183
+00:11:04,220 --> 00:11:05,300
+plane.
+
+184
+00:11:05,300 --> 00:11:08,610
+What I didn't mention was that like for the
+sphere, you need curvature to have smooth
+
+185
+00:11:08,610 --> 00:11:10,259
+gluing at the corners.
+
+186
+00:11:10,259 --> 00:11:14,319
+The projective plane is a strange and interesting
+place where parallels intersect in infinity
+
+187
+00:11:14,319 --> 00:11:17,170
+and all conic sections are basically the same.
+
+188
+00:11:17,170 --> 00:11:21,410
+Also, it's non-orientable because it contains
+a moebius strip.
+
+189
+00:11:21,410 --> 00:11:23,899
+Maybe I'll make a video about this one day.
+
+190
+00:11:23,899 --> 00:11:25,749
+But not anytime soon.
+
+191
+00:11:25,749 --> 00:11:28,379
+You can do the same thing in three dimensions.
+
+192
+00:11:28,379 --> 00:11:32,920
+You take one cube, pump it up with positive
+curvature like you did for the hypersphere,
+
+193
+00:11:32,920 --> 00:11:36,350
+and then add portals to glue every point to
+its antipodal point.
+
+194
+00:11:36,350 --> 00:11:39,499
+The result is what topologists call "projective
+space".
+
+195
+00:11:39,499 --> 00:11:42,739
+Unlike it's two-dimensional counterpart, it's
+orientable.
+
+196
+00:11:42,739 --> 00:11:45,720
+Now, you don't need to start with a cube.
+
+197
+00:11:45,720 --> 00:11:52,720
+Take, fro example, a dodekahedron and glue
+opposing faces together.
+
+198
+00:11:53,110 --> 00:11:57,360
+Opposing pentagons are oriented differently,
+so you have to rotate them in some way - let's
+
+199
+00:11:57,360 --> 00:12:00,259
+say, a 180° turn.
+
+200
+00:12:00,259 --> 00:12:05,089
+What space is this? Well, when we pump the
+result a little up, we get again the hyper-hemisphere
+
+201
+00:12:05,089 --> 00:12:07,029
+with opposite points glued together.
+
+202
+00:12:07,029 --> 00:12:11,230
+So, this is just another way of constructing
+the projective space.
+
+203
+00:12:11,230 --> 00:12:16,929
+But what if we do only a 36° turn for each
+pair? We get a far more interesting space.
+
+204
+00:12:16,929 --> 00:12:20,420
+Now, each corner corresponds to 3 other corners.
+
+205
+00:12:20,420 --> 00:12:24,189
+When we look what happens around one corner,
+we will notice that the puzzle almost matches
+
+206
+00:12:24,189 --> 00:12:26,809
+together, the corners are only a bit to pointy.
+
+207
+00:12:26,809 --> 00:12:31,489
+So, we have to add just a little bit of positive
+curvature, to close the gaps.
+
+208
+00:12:31,489 --> 00:12:35,699
+This positively curved space is called the
+Poincaré dodekahedral space.
+
+209
+00:12:35,699 --> 00:12:40,569
+It has been proposed in 2003 as possible shape
+of the universe by an earthling called Jean-Pierre
+
+210
+00:12:40,569 --> 00:12:41,610
+Luminet.
+
+211
+00:12:41,610 --> 00:12:44,470
+We will come back to this in Episode 3.
+
+212
+00:12:44,470 --> 00:12:49,499
+What happens when we turn the portals not
+by a 1/10 turn, but by a 3/10 turn? Well,
+
+213
+00:12:49,499 --> 00:12:55,610
+that changes quite a bit: Now, all corners
+come together to a single point! In consequence,
+
+214
+00:12:55,610 --> 00:12:58,290
+the environment of this point becomes quite
+crowdy, we must
+
+215
+00:12:58,290 --> 00:13:01,449
+drastically reduce the corner angles to make
+place for everybody.
+
+216
+00:13:01,449 --> 00:13:06,170
+In other words, we need a lot of negative
+curvature to make the corners match.
+
+217
+00:13:06,170 --> 00:13:10,709
+This is called the Seifert-Weber space, and
+it's an example for a negatively curved finite
+
+218
+00:13:10,709 --> 00:13:11,290
+model.
+
+219
+00:13:11,290 --> 00:13:14,720
+Another example for a negatively curved model
+would be the Picard horn.
+
+220
+00:13:14,720 --> 00:13:18,670
+It's difficult to explain without refering
+to higher mathematics, so I'll only sketch
+
+221
+00:13:18,670 --> 00:13:22,970
+the construction of its two-dimensional analogon:
+That would be a horn, where opposing points
+
+222
+00:13:22,970 --> 00:13:25,410
+of the edge are glued together - when you
+leave here, you
+
+223
+00:13:25,410 --> 00:13:25,749
+enter here.
+
+224
+00:13:25,749 --> 00:13:31,350
+The pointy end of the horn is infinitely long,
+but so narrow that the volume is finite.
+
+225
+00:13:31,350 --> 00:13:35,369
+In this video, we have seen three positively
+curved and two negatively curved models for
+
+226
+00:13:35,369 --> 00:13:37,389
+a finite universe without edge.
+
+227
+00:13:37,389 --> 00:13:41,439
+Of course, I never said that the universe
+is necessarily finite, I only said it's a
+
+228
+00:13:41,439 --> 00:13:44,199
+possibility - it could very well be infinite.
+
+229
+00:13:44,199 --> 00:13:47,660
+There are many other models, finite ones and
+infinite ones.
+
+230
+00:13:47,660 --> 00:13:49,649
+But I think we had enough for today.
+
+231
+00:13:49,649 --> 00:13:53,359
+The objective of this episode wasn't to provide
+an exhaustive list of models, but to give
+
+232
+00:13:53,359 --> 00:13:56,629
+you an idea of what "curved space" actually
+means.
+
+233
+00:13:56,629 --> 00:14:01,189
+In the third and last episode, we will speak
+about the expansion of the universe, and discuss
+
+234
+00:14:01,189 --> 00:14:05,139
+hypotheses and evidence concerning the actual
+shape of the universe.
+
+235
+00:14:05,139 --> 00:14:08,720
+One personal note: I am more of a mathematician
+than of a physicist.
+
+236
+00:14:08,720 --> 00:14:12,239
+So, I can't promise I won't make any errors
+in physics.
+
+237
+00:14:12,239 --> 00:14:18,399
+To give an example, last time I told you that
+an Alice universe would turn matter into antimatter
+
+238
+00:14:18,399 --> 00:14:22,079
+- but as one viewer noted, things might not
+be as simple as that.
+
+239
+00:14:22,079 --> 00:14:26,410
+By the way, this comment wasn't on YouTube,
+but on the site Universe Today which posted
+
+240
+00:14:26,410 --> 00:14:28,540
+an article on the first episode.
+
+241
+00:14:28,540 --> 00:14:33,089
+This article brought me a lot of views, thanks
+for that! If you like astronomy, you will
+
+242
+00:14:33,089 --> 00:14:35,790
+probably like this site - give it a try!
+
+243
+00:14:35,790 --> 00:14:39,989
+As for my next videos: When I asked last time
+whether you would prefer me to alternate with
+
+244
+00:14:39,989 --> 00:14:44,720
+"Earthlings 101" or finish this series first,
+about two thirds of you voted for finishing
+
+245
+00:14:44,720 --> 00:14:47,679
+this series, and one third for alternating.
+
+246
+00:14:47,679 --> 00:14:49,989
+That's why you are watching this video today.
+
+247
+00:14:49,989 --> 00:14:54,279
+But that's also why I've decided to chose
+a hybrid solution: After this video, I will
+
+248
+00:14:54,279 --> 00:14:59,019
+programm the next episode of Earthlings 101,
+and afterwards finish this series.
+
+249
+00:14:59,019 --> 00:15:03,769
+This way I don't scare off viewers who don't
+care at all about cosmotopology.
+
+250
+00:15:03,769 --> 00:15:04,829
+That's all for today.
+
+251
+00:15:04,829 --> 00:15:09,689
+Like, subscribe, tell your mum, and as always:
+Don't forget to be alien!
+

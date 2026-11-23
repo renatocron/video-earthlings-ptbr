@@ -1,0 +1,1632 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.0,
+  "new_start": 0.0,
+  "dur": 1.7755416666666666,
+  "speed": 1.35,
+  "k": 1.0627708333333332,
+  "text_tgt": "Saudações, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 2.0,
+  "limit": 10.44,
+  "new_start": 2.1255416666666664,
+  "dur": 8.111333333333333,
+  "speed": 1.06,
+  "k": 1.0025276461295418,
+  "text_tgt": "Hoje vou explicar algo que intriga muitos visitantes alienígenas: situações engraçadas, piadas e risadas. Numa palavra: humor."
+ },
+ {
+  "id": 3,
+  "start": 42.6,
+  "limit": 50.12,
+  "new_start": 42.746875,
+  "dur": 6.699958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Meus vídeos costumam misturar literatura terráquea, fontes alienígenas e conclusões das minhas próprias observações."
+ },
+ {
+  "id": 4,
+  "start": 50.12,
+  "limit": 53.72,
+  "new_start": 50.266875,
+  "dur": 3.7851666666666666,
+  "speed": 1.35,
+  "k": 1.148657407407407,
+  "text_tgt": "Mas o humor é um assunto traiçoeiro, que intriga cientistas alienígenas e terráqueos."
+ },
+ {
+  "id": 5,
+  "start": 53.72,
+  "limit": 62.32,
+  "new_start": 54.40204166666666,
+  "dur": 8.290916666666666,
+  "speed": 1.124,
+  "k": 1.0047577519379842,
+  "text_tgt": "Por isso, este episódio se baseia num livro terráqueo lançado há um ciclo solar: Inside Jokes, usando o humor para fazer engenharia reversa da mente."
+ },
+ {
+  "id": 6,
+  "start": 62.32,
+  "limit": 66.2,
+  "new_start": 63.04295833333333,
+  "dur": 3.11,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele traz a teoria mais convincente sobre humor que já vi."
+ },
+ {
+  "id": 7,
+  "start": 66.2,
+  "limit": 68.7,
+  "new_start": 66.92295833333333,
+  "dur": 1.97,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O link está na descrição abaixo."
+ },
+ {
+  "id": 8,
+  "start": 68.7,
+  "limit": 78.08,
+  "new_start": 69.42295833333333,
+  "dur": 8.2,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos a uma situação engraçada típica: um terráqueo atravessa um rio, um corpo de ácido hidroxílico, pisando em pedras, e uma das pedras é um animal."
+ },
+ {
+  "id": 9,
+  "start": 78.08,
+  "limit": 83.94,
+  "new_start": 78.80295833333332,
+  "dur": 5.544791666666667,
+  "speed": 1.116,
+  "k": 1.0059371444823664,
+  "text_tgt": "Esse erro provoca uma reação peculiar: o terráqueo solta ruídos rítmicos estranhos, chamados risada."
+ },
+ {
+  "id": 10,
+  "start": 83.94,
+  "limit": 86.48,
+  "new_start": 84.69774999999998,
+  "dur": 1.88,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O fenômeno todo se chama humor."
+ },
+ {
+  "id": 11,
+  "start": 86.48,
+  "limit": 94.12,
+  "new_start": 87.23774999999999,
+  "dur": 6.638958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os primeiros alienígenas na Terra acharam que rir era uma falta de ar artificial, criada pelo cérebro para punir erros."
+ },
+ {
+  "id": 12,
+  "start": 94.12,
+  "limit": 99.72,
+  "new_start": 94.87774999999999,
+  "dur": 4.547958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas isso não pode estar certo, porque os terráqueos adoram rir. O que é muito estranho."
+ },
+ {
+  "id": 13,
+  "start": 99.72,
+  "limit": 103.62,
+  "new_start": 100.47774999999999,
+  "dur": 3.5813333333333333,
+  "speed": 1.094,
+  "k": 1.0080341880341865,
+  "text_tgt": "Enfim, o humor parece vir de erros baseados em suposições falsas."
+ },
+ {
+  "id": 14,
+  "start": 103.62,
+  "limit": 110.22,
+  "new_start": 104.40908333333331,
+  "dur": 5.1589583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para entender o que acontece, primeiro precisamos entender o papel das suposições na mente terráquea."
+ },
+ {
+  "id": 15,
+  "start": 110.22,
+  "limit": 113.82,
+  "new_start": 111.00908333333331,
+  "dur": 3.3114166666666667,
+  "speed": 1.217,
+  "k": 1.0170601851851868,
+  "text_tgt": "Os terráqueos costumam ser comparados aos drones arrecadadores do fisco."
+ },
+ {
+  "id": 16,
+  "start": 113.82,
+  "limit": 119.18,
+  "new_start": 114.67049999999998,
+  "dur": 4.688,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como os drones, eles criam na mente um modelo do ambiente, para tomar decisões."
+ },
+ {
+  "id": 17,
+  "start": 119.18,
+  "limit": 121.28,
+  "new_start": 120.03049999999999,
+  "dur": 1.8027083333333334,
+  "speed": 1.176,
+  "k": 1.0250992063492093,
+  "text_tgt": "Esse modelo se chama espaço mental."
+ },
+ {
+  "id": 18,
+  "start": 121.28,
+  "limit": 125.74,
+  "new_start": 122.18320833333333,
+  "dur": 4.186166666666667,
+  "speed": 1.273,
+  "k": 1.0170777279521688,
+  "text_tgt": "Ao contrário dos drones, um terráqueo consegue lidar com vários espaços mentais ao mesmo tempo."
+ },
+ {
+  "id": 19,
+  "start": 125.74,
+  "limit": 134.42,
+  "new_start": 126.71937499999999,
+  "dur": 7.589,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo: um para o presente, um para a noite passada, um para o futuro próximo e um para o videogame que ele está jogando."
+ },
+ {
+  "id": 20,
+  "start": 134.42,
+  "limit": 142.88,
+  "new_start": 135.39937499999996,
+  "dur": 8.118333333333334,
+  "speed": 1.031,
+  "k": 1.0009850275807715,
+  "text_tgt": "Mas os drones fazem varreduras completas e contínuas do ambiente, enquanto os sentidos rudimentares dos terráqueos dão dados bem incompletos."
+ },
+ {
+  "id": 21,
+  "start": 142.88,
+  "limit": 147.32,
+  "new_start": 143.8677083333333,
+  "dur": 4.10475,
+  "speed": 1.04,
+  "k": 1.0033220720720726,
+  "text_tgt": "Por isso, os terráqueos preenchem as lacunas com palpites bem informados."
+ },
+ {
+  "id": 22,
+  "start": 147.32,
+  "limit": 149.64,
+  "new_start": 148.3224583333333,
+  "dur": 1.9743333333333333,
+  "speed": 1.013,
+  "k": 1.001867816091957,
+  "text_tgt": "Ou seja: suposições."
+ },
+ {
+  "id": 23,
+  "start": 149.64,
+  "limit": 151.5,
+  "new_start": 150.64679166666662,
+  "dur": 1.5875416666666666,
+  "speed": 1.285,
+  "k": 1.0416890681003508,
+  "text_tgt": "O segundo problema é o tempo."
+ },
+ {
+  "id": 24,
+  "start": 151.5,
+  "limit": 159.54,
+  "new_start": 152.5843333333333,
+  "dur": 5.56,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Num avião ou num bar, os terráqueos muitas vezes precisam decidir em pouco tempo, com dados incompletos."
+ },
+ {
+  "id": 25,
+  "start": 159.54,
+  "limit": 165.72,
+  "new_start": 160.62433333333328,
+  "dur": 5.848958333333333,
+  "speed": 1.053,
+  "k": 1.0030676914778844,
+  "text_tgt": "Então as suposições são inevitáveis, mas, infelizmente, uma suposição falsa pode ser fatal."
+ },
+ {
+  "id": 26,
+  "start": 165.72,
+  "limit": 168.12,
+  "new_start": 166.82329166666662,
+  "dur": 1.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É aí que entra o humor."
+ },
+ {
+  "id": 27,
+  "start": 168.12,
+  "limit": 170.92,
+  "new_start": 169.22329166666663,
+  "dur": 2.2,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos tentar definir o que é humor."
+ },
+ {
+  "id": 28,
+  "start": 170.92,
+  "limit": 175.92,
+  "new_start": 172.0232916666666,
+  "dur": 4.71025,
+  "speed": 1.208,
+  "k": 1.01205,
+  "text_tgt": "O humor parece surgir quando se descobre uma suposição falsa, como a de que a coisa no rio era uma pedra."
+ },
+ {
+  "id": 29,
+  "start": 175.92,
+  "limit": 178.52,
+  "new_start": 177.0835416666666,
+  "dur": 2.2765,
+  "speed": 1.085,
+  "k": 1.010192307692299,
+  "text_tgt": "Mas nem toda suposição falsa é engraçada."
+ },
+ {
+  "id": 30,
+  "start": 178.52,
+  "limit": 187.0,
+  "new_start": 179.7100416666666,
+  "dur": 6.309,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se o terráqueo só está sentado na margem, vê algo que talvez seja uma pedra e não decide em que acreditar, não tem graça."
+ },
+ {
+  "id": 31,
+  "start": 187.0,
+  "limit": 192.26,
+  "new_start": 188.1900416666666,
+  "dur": 4.978125,
+  "speed": 1.239,
+  "k": 1.0129515209125493,
+  "text_tgt": "Ele precisa se comprometer com a suposição falsa, tomá-la como verdade, não como mera possibilidade."
+ },
+ {
+  "id": 32,
+  "start": 192.26,
+  "limit": 200.36,
+  "new_start": 193.5181666666666,
+  "dur": 7.824666666666666,
+  "speed": 1.283,
+  "k": 1.0092181069958819,
+  "text_tgt": "Segundo: se ele se compromete com uma suposição falsa que traz consequências fatais, como perder as pernas, também não tem graça. Pelo menos não para ele, agora."
+ },
+ {
+  "id": 33,
+  "start": 200.36,
+  "limit": 205.14,
+  "new_start": 201.69283333333325,
+  "dur": 4.4905,
+  "speed": 1.209,
+  "k": 1.012656903765696,
+  "text_tgt": "De modo geral, não tem graça se a descoberta do erro vem carregada de emoções negativas."
+ },
+ {
+  "id": 34,
+  "start": 205.14,
+  "limit": 211.34,
+  "new_start": 206.53333333333325,
+  "dur": 5.882833333333333,
+  "speed": 1.11,
+  "k": 1.0052956989247284,
+  "text_tgt": "Então o humor só acontece quando o terráqueo se compromete com uma suposição que se revela falsa, mas inofensiva."
+ },
+ {
+  "id": 35,
+  "start": 211.34,
+  "limit": 218.96,
+  "new_start": 212.76616666666658,
+  "dur": 7.294666666666667,
+  "speed": 1.069,
+  "k": 1.003237095363079,
+  "text_tgt": "Terceiro: se o terráqueo se pergunta se a coisa no rio é um animal e decide que é pedra, descobrir que era animal também não tem graça."
+ },
+ {
+  "id": 36,
+  "start": 218.96,
+  "limit": 222.26,
+  "new_start": 220.41083333333324,
+  "dur": 2.99025,
+  "speed": 1.127,
+  "k": 1.012196969696975,
+  "text_tgt": "A suposição precisa ter entrado no espaço mental às escondidas."
+ },
+ {
+  "id": 37,
+  "start": 222.26,
+  "limit": 226.04,
+  "new_start": 223.75108333333324,
+  "dur": 3.12,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vou explicar de um jeito bem terráqueo: com uma metáfora."
+ },
+ {
+  "id": 38,
+  "start": 226.04,
+  "limit": 228.8,
+  "new_start": 227.53108333333324,
+  "dur": 2.4259583333333334,
+  "speed": 1.047,
+  "k": 1.005782004830911,
+  "text_tgt": "Digamos que esta é a mente terráquea."
+ },
+ {
+  "id": 39,
+  "start": 228.8,
+  "limit": 235.22,
+  "new_start": 230.30704166666658,
+  "dur": 6.016416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Muitas suposições entram pela porta da frente e são examinadas antes que a mente as aceite ou recuse."
+ },
+ {
+  "id": 40,
+  "start": 235.22,
+  "limit": 240.5,
+  "new_start": 236.72704166666657,
+  "dur": 4.930416666666667,
+  "speed": 1.006,
+  "k": 1.000078914141414,
+  "text_tgt": "Mas algumas entram pela porta dos fundos e se instalam sem ninguém pensar nelas."
+ },
+ {
+  "id": 41,
+  "start": 240.5,
+  "limit": 245.34,
+  "new_start": 242.00745833333323,
+  "dur": 4.5564583333333335,
+  "speed": 1.24,
+  "k": 1.0137310606060599,
+  "text_tgt": "Essas suposições sorrateiras são perigosas se a mente confiar nelas, pois podem fazer muito estrago."
+ },
+ {
+  "id": 42,
+  "start": 245.34,
+  "limit": 247.84,
+  "new_start": 246.91391666666658,
+  "dur": 2.1582083333333335,
+  "speed": 1.024,
+  "k": 1.0032833333333335,
+  "text_tgt": "Agora podemos definir o que é humor."
+ },
+ {
+  "id": 43,
+  "start": 247.84,
+  "limit": 252.9,
+  "new_start": 249.4221249999999,
+  "dur": 4.799416666666667,
+  "speed": 1.346,
+  "k": 1.0176712779973645,
+  "text_tgt": "O humor está em descobrir essas suposições falsas sorrateiras, da porta dos fundos, antes que façam estrago."
+ },
+ {
+  "id": 44,
+  "start": 252.9,
+  "limit": 257.64,
+  "new_start": 254.57154166666658,
+  "dur": 4.442583333333333,
+  "speed": 1.184,
+  "k": 1.011093530239104,
+  "text_tgt": "Então o humor acontece quando: A, uma suposição entra às escondidas no espaço mental."
+ },
+ {
+  "id": 45,
+  "start": 257.64,
+  "limit": 259.74,
+  "new_start": 259.3641249999999,
+  "dur": 2.1629583333333335,
+  "speed": 1.35,
+  "k": 1.1966468253968126,
+  "text_tgt": "B, a mente a toma como verdade."
+ },
+ {
+  "id": 46,
+  "start": 259.74,
+  "limit": 262.28,
+  "new_start": 261.87708333333325,
+  "dur": 2.2252083333333332,
+  "speed": 1.11,
+  "k": 1.013861548556445,
+  "text_tgt": "C, a suposição se revela falsa."
+ },
+ {
+  "id": 47,
+  "start": 262.28,
+  "limit": 266.7,
+  "new_start": 264.45229166666655,
+  "dur": 4.132583333333334,
+  "speed": 1.222,
+  "k": 1.0141591251885334,
+  "text_tgt": "D, o erro é descoberto sem causar dano nem emoções negativas fortes."
+ },
+ {
+  "id": 48,
+  "start": 266.7,
+  "limit": 274.74,
+  "new_start": 268.93487499999986,
+  "dur": 7.697625,
+  "speed": 1.012,
+  "k": 1.0009483830845747,
+  "text_tgt": "Para ser exato, o livro em que este episódio se baseia não fala em suposições, mas em crenças ativas, o que é um pouco mais preciso."
+ },
+ {
+  "id": 49,
+  "start": 274.74,
+  "limit": 279.62,
+  "new_start": 276.98249999999985,
+  "dur": 4.279958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas, como sempre, tive que simplificar para o vídeo ficar acessível a todos."
+ },
+ {
+  "id": 50,
+  "start": 279.62,
+  "limit": 283.46,
+  "new_start": 281.86249999999984,
+  "dur": 3.5429166666666667,
+  "speed": 1.177,
+  "k": 1.013780381944451,
+  "text_tgt": "Há outras duas espécies na galáxia com um senso de humor parecido."
+ },
+ {
+  "id": 51,
+  "start": 283.46,
+  "limit": 286.0,
+  "new_start": 285.7554166666665,
+  "dur": 2.12,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A diferença é que elas odeiam isso."
+ },
+ {
+  "id": 52,
+  "start": 286.0,
+  "limit": 290.56,
+  "new_start": 288.29541666666654,
+  "dur": 4.220666666666666,
+  "speed": 1.033,
+  "k": 1.002339181286549,
+  "text_tgt": "As duas vivem no sistema Aroniano e tiveram o mesmo bioadministrador."
+ },
+ {
+  "id": 53,
+  "start": 290.56,
+  "limit": 297.04,
+  "new_start": 292.8660833333332,
+  "dur": 5.599,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pelo jeito, ele achou uma boa ideia fazer a mente delas puni-las por descobrir suposições falsas."
+ },
+ {
+  "id": 54,
+  "start": 297.04,
+  "limit": 300.1,
+  "new_start": 299.34608333333324,
+  "dur": 1.69,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O resultado foi um desastre."
+ },
+ {
+  "id": 55,
+  "start": 300.1,
+  "limit": 310.92,
+  "new_start": 302.40608333333324,
+  "dur": 9.89,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma das espécies, os Cunctadores, ficou obcecada em conferir tudo duas, três vezes antes da menor decisão, mesmo quando, por exemplo, fugia de uma horda de inimigos furiosos."
+ },
+ {
+  "id": 56,
+  "start": 310.92,
+  "limit": 317.44,
+  "new_start": 313.22608333333324,
+  "dur": 5.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Assim evitavam alguns erros, mas ficaram lentíssimos e incapazes de decidir sob pressão."
+ },
+ {
+  "id": 57,
+  "start": 317.44,
+  "limit": 320.86,
+  "new_start": 319.7460833333332,
+  "dur": 3.082125,
+  "speed": 1.035,
+  "k": 1.0035453216374222,
+  "text_tgt": "O mundo deles acabou virando um planeta de burocratas."
+ },
+ {
+  "id": 58,
+  "start": 320.86,
+  "limit": 326.14,
+  "new_start": 323.1782083333332,
+  "dur": 4.779958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A segunda espécie, os Schildarianos, virou mestre em não reconhecer erros."
+ },
+ {
+  "id": 59,
+  "start": 326.14,
+  "limit": 331.96,
+  "new_start": 328.4582083333332,
+  "dur": 5.498625,
+  "speed": 1.093,
+  "k": 1.004918384879726,
+  "text_tgt": "A prefeitura da capital planetária, por exemplo, não tem janelas, porque os construtores esqueceram delas."
+ },
+ {
+  "id": 60,
+  "start": 331.96,
+  "limit": 334.46,
+  "new_start": 334.3068333333332,
+  "dur": 2.0099583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas todo mundo finge que está tudo bem."
+ },
+ {
+  "id": 61,
+  "start": 334.46,
+  "limit": 340.16,
+  "new_start": 336.8068333333332,
+  "dur": 5.373375,
+  "speed": 1.066,
+  "k": 1.0041008771929745,
+  "text_tgt": "As cidades do planeta são cheias desses erros de arquitetura, o que as torna um destino turístico popular."
+ },
+ {
+  "id": 62,
+  "start": 340.16,
+  "limit": 348.74,
+  "new_start": 342.5302083333332,
+  "dur": 7.47,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O humor terráqueo funciona bem melhor: em vez de punir suposições falsas, ele recompensa quem as desarma antes que façam estrago."
+ },
+ {
+  "id": 63,
+  "start": 348.74,
+  "limit": 354.64,
+  "new_start": 351.11020833333316,
+  "dur": 5.587458333333333,
+  "speed": 1.115,
+  "k": 1.0063488700565009,
+  "text_tgt": "O objetivo deve ser evitar esses erros no futuro sem desestimular o terráqueo de fazer suposições."
+ },
+ {
+  "id": 64,
+  "start": 354.64,
+  "limit": 356.92,
+  "new_start": 357.0476666666665,
+  "dur": 1.93,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas e os erros dos outros?"
+ },
+ {
+  "id": 65,
+  "start": 356.92,
+  "limit": 364.58,
+  "new_start": 359.3276666666665,
+  "dur": 7.33425,
+  "speed": 1.077,
+  "k": 1.0031657963446516,
+  "text_tgt": "Ver outra pessoa cair numa suposição falsa sorrateira é igualmente engraçado, ainda mais se quem observa percebe o erro antes dela."
+ },
+ {
+  "id": 66,
+  "start": 364.58,
+  "limit": 369.36,
+  "new_start": 367.01191666666654,
+  "dur": 3.79,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tem graça até se o erro machuca, desde que o observador não ligue."
+ },
+ {
+  "id": 67,
+  "start": 369.36,
+  "limit": 375.44,
+  "new_start": 371.79191666666657,
+  "dur": 5.8094166666666665,
+  "speed": 1.296,
+  "k": 1.0130619517543886,
+  "text_tgt": "Mas a morte raramente tem graça, exceto a de personagens fictícios ou de gente com quem o observador não se importa nem um pouco."
+ },
+ {
+  "id": 68,
+  "start": 375.44,
+  "limit": 381.02,
+  "new_start": 377.95133333333325,
+  "dur": 4.519958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso porque os terráqueos acham a morte trágica, mesmo quando alguém morre de velhice."
+ },
+ {
+  "id": 69,
+  "start": 381.02,
+  "limit": 387.24,
+  "new_start": 383.53133333333324,
+  "dur": 5.91425,
+  "speed": 1.143,
+  "k": 1.0071141479099635,
+  "text_tgt": "O que é estranho, já que os terráqueos e quase todas as criaturas da Terra são biologicamente programados para morrer um dia."
+ },
+ {
+  "id": 70,
+  "start": 387.24,
+  "limit": 389.57,
+  "new_start": 389.79558333333324,
+  "dur": 1.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Exceto os micróbios."
+ },
+ {
+  "id": 71,
+  "start": 392.2,
+  "limit": 400.04,
+  "new_start": 394.7555833333332,
+  "dur": 7.539583333333334,
+  "speed": 1.175,
+  "k": 1.0063244047619007,
+  "text_tgt": "Agora entendemos por que os terráqueos gostam de humor: ele recompensa quem desarma suposições falsas sorrateiras, da porta dos fundos, antes que façam estrago."
+ },
+ {
+  "id": 72,
+  "start": 400.04,
+  "limit": 404.54,
+  "new_start": 402.64516666666657,
+  "dur": 3.7653333333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas isso não explica os ruídos estranhos que os terráqueos fazem diante do humor."
+ },
+ {
+  "id": 73,
+  "start": 404.54,
+  "limit": 406.36,
+  "new_start": 407.14516666666657,
+  "dur": 1.5193333333333334,
+  "speed": 1.165,
+  "k": 1.027106227106231,
+  "text_tgt": "Esses ruídos se chamam risada."
+ },
+ {
+  "id": 74,
+  "start": 406.36,
+  "limit": 411.5,
+  "new_start": 409.0144999999999,
+  "dur": 4.831583333333334,
+  "speed": 1.134,
+  "k": 1.0080901426718574,
+  "text_tgt": "Para entender isso, vamos ver outras duas coisas que fazem rir: brincar e fazer cócegas."
+ },
+ {
+  "id": 75,
+  "start": 411.5,
+  "limit": 419.36,
+  "new_start": 414.1960833333332,
+  "dur": 6.12,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No episódio 5, vimos que os terráqueos, sobretudo os filhotes, simulam situações de perigo para treinar."
+ },
+ {
+  "id": 76,
+  "start": 419.36,
+  "limit": 421.12,
+  "new_start": 422.0560833333332,
+  "dur": 1.35,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama brincar."
+ },
+ {
+  "id": 77,
+  "start": 421.12,
+  "limit": 428.48,
+  "new_start": 423.8160833333332,
+  "dur": 7.015791666666667,
+  "speed": 1.012,
+  "k": 1.0007869112318821,
+  "text_tgt": "Mas quem está por perto pode confundir a brincadeira com perigo real, ainda mais se os jogadores gritam ou pedem socorro."
+ },
+ {
+  "id": 78,
+  "start": 428.48,
+  "limit": 432.46,
+  "new_start": 431.1818749999999,
+  "dur": 3.6525833333333333,
+  "speed": 1.065,
+  "k": 1.0056742043551186,
+  "text_tgt": "Por isso a natureza terráquea criou um sinal de alarme falso: a risada."
+ },
+ {
+  "id": 79,
+  "start": 432.46,
+  "limit": 440.06,
+  "new_start": 435.1844583333332,
+  "dur": 7.270083333333333,
+  "speed": 1.07,
+  "k": 1.002642543859646,
+  "text_tgt": "Quando um terráqueo ouve gritos de alerta misturados com risadas, entende que o alerta não é sério e que o perigo só existe no mundo da brincadeira."
+ },
+ {
+  "id": 80,
+  "start": 440.06,
+  "limit": 445.56,
+  "new_start": 442.8045416666666,
+  "dur": 4.119958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Provavelmente, esse sinal de que não há perigo é a função original da risada."
+ },
+ {
+  "id": 81,
+  "start": 445.56,
+  "limit": 449.18,
+  "new_start": 448.3045416666666,
+  "dur": 2.9,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para entender as cócegas, precisamos de um contexto."
+ },
+ {
+  "id": 82,
+  "start": 449.18,
+  "limit": 452.1,
+  "new_start": 451.9245416666666,
+  "dur": 2.6083333333333334,
+  "speed": 1.126,
+  "k": 1.0131278538812731,
+  "text_tgt": "Tem a ver com duas sensações: dor e coceira."
+ },
+ {
+  "id": 83,
+  "start": 452.1,
+  "limit": 454.96,
+  "new_start": 454.8828749999999,
+  "dur": 2.770375,
+  "speed": 1.35,
+  "k": 1.0910402097902263,
+  "text_tgt": "A dor é uma sensação de alerta bem desagradável após uma lesão."
+ },
+ {
+  "id": 84,
+  "start": 454.96,
+  "limit": 458.48,
+  "new_start": 458.0032499999999,
+  "dur": 3.1932916666666666,
+  "speed": 1.071,
+  "k": 1.0066169507575646,
+  "text_tgt": "Dor forte costuma provocar gritos e pedidos de socorro."
+ },
+ {
+  "id": 85,
+  "start": 458.48,
+  "limit": 464.72,
+  "new_start": 461.5465416666666,
+  "dur": 5.930833333333333,
+  "speed": 1.128,
+  "k": 1.006543803418802,
+  "text_tgt": "A coceira é outra sensação de alerta, que indica um parasita na pele, e provoca o ato de coçar para removê-lo."
+ },
+ {
+  "id": 86,
+  "start": 464.72,
+  "limit": 469.14,
+  "new_start": 467.8273749999999,
+  "dur": 4.094916666666666,
+  "speed": 1.074,
+  "k": 1.0056372549019699,
+  "text_tgt": "A coceira é menos desagradável que a dor, a não ser quando dura muito tempo."
+ },
+ {
+  "id": 87,
+  "start": 469.14,
+  "limit": 471.66,
+  "new_start": 472.27229166666655,
+  "dur": 1.47,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas o que isso tem a ver com rir?"
+ },
+ {
+  "id": 88,
+  "start": 471.66,
+  "limit": 477.5,
+  "new_start": 474.7922916666666,
+  "dur": 5.55475,
+  "speed": 1.224,
+  "k": 1.0110873287671276,
+  "text_tgt": "Bem, o combate sério entre terráqueos, e também o combate ritualizado, costuma ter o objetivo de causar dor."
+ },
+ {
+  "id": 89,
+  "start": 477.5,
+  "limit": 485.02,
+  "new_start": 480.69704166666656,
+  "dur": 7.199625,
+  "speed": 1.082,
+  "k": 1.0039394946808535,
+  "text_tgt": "Mas o combate de brincadeira, sobretudo entre filhotes, busca a coceira e não a dor, tocando áreas sensíveis com os dedos."
+ },
+ {
+  "id": 90,
+  "start": 485.02,
+  "limit": 491.16,
+  "new_start": 488.24666666666656,
+  "dur": 5.831833333333333,
+  "speed": 1.13,
+  "k": 1.0068132464712198,
+  "text_tgt": "Isso se chama cócegas, e a reação comum é gritar e rir ao mesmo tempo, para não alarmar quem está por perto."
+ },
+ {
+  "id": 91,
+  "start": 491.16,
+  "limit": 495.54,
+  "new_start": 494.4284999999999,
+  "dur": 3.8889583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "De novo, a risada serve de sinal de que não há problema sério."
+ },
+ {
+  "id": 92,
+  "start": 495.54,
+  "limit": 501.64,
+  "new_start": 498.80849999999987,
+  "dur": 5.753708333333333,
+  "speed": 1.015,
+  "k": 1.0006079234972733,
+  "text_tgt": "Então, no início, rir é um sinal de comunicação. Mais exatamente, um sinal de alarme falso."
+ },
+ {
+  "id": 93,
+  "start": 501.64,
+  "limit": 509.74,
+  "new_start": 504.9122083333332,
+  "dur": 7.776083333333333,
+  "speed": 1.085,
+  "k": 1.0032201646090508,
+  "text_tgt": "Uma surpresa, como o animal no rio, costuma provocar um grito antes que o terráqueo perceba que não há perigo real, então ele ri para cancelar o alarme."
+ },
+ {
+  "id": 94,
+  "start": 509.74,
+  "limit": 513.31,
+  "new_start": 513.0382916666665,
+  "dur": 3.2474583333333333,
+  "speed": 1.087,
+  "k": 1.0076914098973102,
+  "text_tgt": "Talvez seja essa a origem da risada como reação ao humor."
+ },
+ {
+  "id": 95,
+  "start": 515.16,
+  "limit": 516.56,
+  "new_start": 518.4857499999998,
+  "dur": 1.1147083333333334,
+  "speed": 1.229,
+  "k": 1.046220238095255,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 96,
+  "start": 516.56,
+  "limit": 524.14,
+  "new_start": 519.9504583333331,
+  "dur": 7.23,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se quiser examinar a risada, pode ser difícil obtê-la com humor, já que suas cobaias provavelmente ficarão apavoradas com a situação."
+ },
+ {
+  "id": 97,
+  "start": 524.14,
+  "limit": 527.36,
+  "new_start": 527.5304583333332,
+  "dur": 2.9035,
+  "speed": 1.109,
+  "k": 1.010403726708066,
+  "text_tgt": "Experimente outros métodos, como cócegas ou maconha."
+ },
+ {
+  "id": 98,
+  "start": 527.36,
+  "limit": 535.06,
+  "new_start": 530.7839583333332,
+  "dur": 6.789,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas o jeito mais simples de fazer um terráqueo rir é fazê-lo inalar óxido nitroso, conhecido na Terra como gás do riso."
+ },
+ {
+  "id": 99,
+  "start": 535.06,
+  "limit": 542.98,
+  "new_start": 538.4839583333331,
+  "dur": 7.577083333333333,
+  "speed": 1.004,
+  "k": 1.000894360269351,
+  "text_tgt": "O sinal de alarme do grito é contagioso: terráqueos gritando podem fazer outros gritarem, mesmo sem saber o que está acontecendo."
+ },
+ {
+  "id": 100,
+  "start": 542.98,
+  "limit": 547.84,
+  "new_start": 546.4110416666665,
+  "dur": 4.553333333333334,
+  "speed": 1.144,
+  "k": 1.0089163237311358,
+  "text_tgt": "Isso se chama pânico, um mecanismo para alertar um grupo depressa em caso de perigo iminente."
+ },
+ {
+  "id": 101,
+  "start": 547.84,
+  "limit": 554.12,
+  "new_start": 551.3143749999998,
+  "dur": 5.983791666666667,
+  "speed": 1.173,
+  "k": 1.0085655520169894,
+  "text_tgt": "Ora, se o sinal de alarme falso da risada serve para cancelar o alarme do grito, ele precisa se espalhar do mesmo jeito."
+ },
+ {
+  "id": 102,
+  "start": 554.12,
+  "limit": 560.08,
+  "new_start": 557.6481666666665,
+  "dur": 2.81,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Deve ser por isso que a risada também é contagiosa."
+ },
+ {
+  "id": 103,
+  "start": 560.08,
+  "limit": 561.56,
+  "new_start": 563.6081666666665,
+  "dur": 1.179,
+  "speed": 1.162,
+  "k": 1.0331081081081748,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 104,
+  "start": 561.56,
+  "limit": 564.66,
+  "new_start": 565.1371666666665,
+  "dur": 2.7979166666666666,
+  "speed": 1.158,
+  "k": 1.0154569892473044,
+  "text_tgt": "Ao invadir a Terra, o pânico pode ser uma arma poderosa."
+ },
+ {
+  "id": 105,
+  "start": 564.66,
+  "limit": 569.44,
+  "new_start": 568.2850833333332,
+  "dur": 4.485625,
+  "speed": 1.186,
+  "k": 1.0116370292886845,
+  "text_tgt": "Um jeito eficaz de criar pânico é aterrorizar os terráqueos com poderosas máquinas de guerra."
+ },
+ {
+  "id": 106,
+  "start": 569.44,
+  "limit": 575.16,
+  "new_start": 573.1207083333333,
+  "dur": 5.431375,
+  "speed": 1.217,
+  "k": 1.0107298951049104,
+  "text_tgt": "Mas se você ouvir os terráqueos rindo quando elas chegam, talvez suas máquinas não sejam tão assustadoras quanto você pensava."
+ },
+ {
+  "id": 107,
+  "start": 575.16,
+  "limit": 578.85,
+  "new_start": 578.9020833333333,
+  "dur": 3.3645,
+  "speed": 1.07,
+  "k": 1.006639566395649,
+  "text_tgt": "Um motivo pode ser que você subestimou o tamanho dos terráqueos."
+ },
+ {
+  "id": 108,
+  "start": 582.52,
+  "limit": 586.38,
+  "new_start": 586.2865833333333,
+  "dur": 3.5572916666666665,
+  "speed": 1.161,
+  "k": 1.0122517271157132,
+  "text_tgt": "Como já disse, situações engraçadas são recompensadas com prazer."
+ },
+ {
+  "id": 109,
+  "start": 586.38,
+  "limit": 591.1,
+  "new_start": 590.1938749999999,
+  "dur": 4.45925,
+  "speed": 1.35,
+  "k": 1.0189088983050787,
+  "text_tgt": "Mas os terráqueos não seriam terráqueos se não tivessem achado jeitos de criar esse prazer artificialmente."
+ },
+ {
+  "id": 110,
+  "start": 591.1,
+  "limit": 594.88,
+  "new_start": 595.003125,
+  "dur": 3.3,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Na forma mais simples, o humor artificial se chama piada."
+ },
+ {
+  "id": 111,
+  "start": 594.88,
+  "limit": 598.32,
+  "new_start": 598.7831249999999,
+  "dur": 3.1678333333333333,
+  "speed": 1.281,
+  "k": 1.022625968992232,
+  "text_tgt": "Uma piada costuma ser uma história, pergunta ou comentário engraçado."
+ },
+ {
+  "id": 112,
+  "start": 598.32,
+  "limit": 601.76,
+  "new_start": 602.3009583333333,
+  "dur": 3.12275,
+  "speed": 1.108,
+  "k": 1.0095203488372266,
+  "text_tgt": "A maioria das piadas tem um bobo caindo numa suposição falsa."
+ },
+ {
+  "id": 113,
+  "start": 601.76,
+  "limit": 604.04,
+  "new_start": 605.7737083333333,
+  "dur": 1.77,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Às vezes o bobo está na piada."
+ },
+ {
+  "id": 114,
+  "start": 604.04,
+  "limit": 606.18,
+  "new_start": 608.0537083333332,
+  "dur": 1.8545833333333333,
+  "speed": 1.224,
+  "k": 1.0301791277258632,
+  "text_tgt": "Às vezes quem conta finge ser o bobo."
+ },
+ {
+  "id": 115,
+  "start": 606.18,
+  "limit": 611.7,
+  "new_start": 610.2582916666665,
+  "dur": 5.197958333333333,
+  "speed": 1.081,
+  "k": 1.0050649154589197,
+  "text_tgt": "Mas as piadas mais sofisticadas fazem de bobo quem ouve, levando-o a uma suposição falsa."
+ },
+ {
+  "id": 116,
+  "start": 611.7,
+  "limit": 616.84,
+  "new_start": 615.8062499999999,
+  "dur": 4.802291666666667,
+  "speed": 1.037,
+  "k": 1.0023913748378757,
+  "text_tgt": "Um exemplo com o bobo dentro da piada: como se leva um Polari num Mini Disco Q3?"
+ },
+ {
+  "id": 117,
+  "start": 616.84,
+  "limit": 619.66,
+  "new_start": 620.9585416666665,
+  "dur": 2.531,
+  "speed": 1.209,
+  "k": 1.021631205673782,
+  "text_tgt": "Diga que 16 da espécie dele já estão lá dentro."
+ },
+ {
+  "id": 118,
+  "start": 619.66,
+  "limit": 622.02,
+  "new_start": 623.8395416666665,
+  "dur": 1.686,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aqui, o bobo é o Polari."
+ },
+ {
+  "id": 119,
+  "start": 622.02,
+  "limit": 627.92,
+  "new_start": 626.1995416666665,
+  "dur": 5.566541666666667,
+  "speed": 1.052,
+  "k": 1.002803672316388,
+  "text_tgt": "Claro, a piada não tem graça se você não sabe da obsessão da cultura Polari pelo número 17."
+ },
+ {
+  "id": 120,
+  "start": 627.92,
+  "limit": 636.18,
+  "new_start": 632.1160833333332,
+  "dur": 7.789,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E mesmo que eu explique, não vai ficar mais engraçada: explicar uma piada é como dissecar um terráqueo. Pouca gente gosta, e o terráqueo morre."
+ },
+ {
+  "id": 121,
+  "start": 636.18,
+  "limit": 640.22,
+  "new_start": 640.3760833333332,
+  "dur": 3.7590416666666666,
+  "speed": 1.245,
+  "k": 1.0170895214521256,
+  "text_tgt": "Outros exemplos: como se leva quatro lulas num Mini Disco Q3?"
+ },
+ {
+  "id": 122,
+  "start": 640.22,
+  "limit": 643.34,
+  "new_start": 644.4851249999999,
+  "dur": 2.820291666666667,
+  "speed": 1.163,
+  "k": 1.0161191239316225,
+  "text_tgt": "Uma no banco do piloto e três nos bancos de passageiro."
+ },
+ {
+  "id": 123,
+  "start": 643.34,
+  "limit": 649.34,
+  "new_start": 647.6554166666666,
+  "dur": 5.670083333333333,
+  "speed": 1.067,
+  "k": 1.0033472222222222,
+  "text_tgt": "Aqui, o bobo é quem conta, que finge não ver que o problema é o tamanho das lulas, não o número de bancos."
+ },
+ {
+  "id": 124,
+  "start": 649.34,
+  "limit": 653.08,
+  "new_start": 653.6754999999999,
+  "dur": 3.445666666666667,
+  "speed": 1.187,
+  "k": 1.0148841354723683,
+  "text_tgt": "Como se leva três advogados de Andrômeda num Mini Disco Q3?"
+ },
+ {
+  "id": 125,
+  "start": 653.08,
+  "limit": 655.9,
+  "new_start": 657.4711666666666,
+  "dur": 2.318,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não dá, as lulas ainda estão lá dentro."
+ },
+ {
+  "id": 126,
+  "start": 655.9,
+  "limit": 664.68,
+  "new_start": 660.2911666666665,
+  "dur": 7.88,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aqui, o bobo é quem ouve, porque foi levado a supor que as duas piadas não têm ligação, ou seja, que não dividem o mesmo espaço mental."
+ },
+ {
+  "id": 127,
+  "start": 664.68,
+  "limit": 667.68,
+  "new_start": 669.0711666666665,
+  "dur": 2.67475,
+  "speed": 1.073,
+  "k": 1.00825,
+  "text_tgt": "Como se leva a Polaris num Mini Disco Q3?"
+ },
+ {
+  "id": 128,
+  "start": 667.68,
+  "limit": 671.44,
+  "new_start": 672.0959166666665,
+  "dur": 3.417708333333333,
+  "speed": 1.027,
+  "k": 1.0020500886524544,
+  "text_tgt": "Linha expressa hiperespacial 37, saída Polaris."
+ },
+ {
+  "id": 129,
+  "start": 671.44,
+  "limit": 674.4,
+  "new_start": 675.8636249999998,
+  "dur": 2.7259166666666665,
+  "speed": 1.35,
+  "k": 1.0391610360360632,
+  "text_tgt": "De novo, o bobo é quem ouve, que entendeu mal a pergunta."
+ },
+ {
+  "id": 130,
+  "start": 674.4,
+  "limit": 682.64,
+  "new_start": 678.9395416666665,
+  "dur": 7.649,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso é um trocadilho, uma piada com o som das palavras: aqui, entre levar uma Polari e levar alguém até a estrela Polaris."
+ },
+ {
+  "id": 131,
+  "start": 682.64,
+  "limit": 689.36,
+  "new_start": 687.1795416666665,
+  "dur": 6.4042916666666665,
+  "speed": 1.118,
+  "k": 1.0051029265872975,
+  "text_tgt": "Agora mais exemplos para meus espectadores terráqueos, que não sabem nada de cultura Polari nem de linhas expressas hiperespaciais."
+ },
+ {
+  "id": 132,
+  "start": 689.36,
+  "limit": 691.94,
+  "new_start": 693.9338333333332,
+  "dur": 2.277833333333333,
+  "speed": 1.159,
+  "k": 1.0185400516795704,
+  "text_tgt": "Como saber se tem uma lula na sua geladeira?"
+ },
+ {
+  "id": 133,
+  "start": 691.94,
+  "limit": 693.88,
+  "new_start": 696.5616666666665,
+  "dur": 1.6679583333333334,
+  "speed": 1.289,
+  "k": 1.0401847079038118,
+  "text_tgt": "Pelas marcas de tentáculo na manteiga."
+ },
+ {
+  "id": 134,
+  "start": 693.88,
+  "limit": 696.16,
+  "new_start": 698.5796249999999,
+  "dur": 2.0815,
+  "speed": 1.35,
+  "k": 1.0664473684210656,
+  "text_tgt": "Como saber se tem duas lulas na geladeira?"
+ },
+ {
+  "id": 135,
+  "start": 696.16,
+  "limit": 699.1,
+  "new_start": 701.0111249999999,
+  "dur": 2.6070416666666665,
+  "speed": 1.051,
+  "k": 1.0057964852607524,
+  "text_tgt": "Dá para ouvir as risadinhas quando a luz apaga."
+ },
+ {
+  "id": 136,
+  "start": 699.1,
+  "limit": 701.68,
+  "new_start": 703.9681666666665,
+  "dur": 2.2504583333333334,
+  "speed": 1.062,
+  "k": 1.007929586563336,
+  "text_tgt": "Como saber se tem três lulas na geladeira?"
+ },
+ {
+  "id": 137,
+  "start": 701.68,
+  "limit": 703.6,
+  "new_start": 706.5686249999999,
+  "dur": 1.39,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A porta não fecha direito."
+ },
+ {
+  "id": 138,
+  "start": 703.6,
+  "limit": 706.54,
+  "new_start": 708.488625,
+  "dur": 2.595875,
+  "speed": 1.017,
+  "k": 1.001998299319748,
+  "text_tgt": "Como saber se tem quatro lulas na geladeira?"
+ },
+ {
+  "id": 139,
+  "start": 706.54,
+  "limit": 709.72,
+  "new_start": 711.4345,
+  "dur": 2.8476666666666666,
+  "speed": 1.057,
+  "k": 1.0055555555555353,
+  "text_tgt": "Tem um Mini Disco Q3 vazio estacionado lá fora."
+ },
+ {
+  "id": 140,
+  "start": 709.72,
+  "limit": 712.28,
+  "new_start": 714.6321666666666,
+  "dur": 2.2594583333333333,
+  "speed": 1.164,
+  "k": 1.019319661458355,
+  "text_tgt": "Outra forma de humor artificial é a comédia."
+ },
+ {
+  "id": 141,
+  "start": 712.28,
+  "limit": 716.32,
+  "new_start": 717.241625,
+  "dur": 3.7540416666666667,
+  "speed": 1.228,
+  "k": 1.0158518976897495,
+  "text_tgt": "Comédias são histórias completas, cheias de piadas e situações engraçadas."
+ },
+ {
+  "id": 142,
+  "start": 716.32,
+  "limit": 721.6,
+  "new_start": 721.3456666666667,
+  "dur": 4.967666666666666,
+  "speed": 1.113,
+  "k": 1.0071338383838435,
+  "text_tgt": "Como todas as histórias, existem como romances, peças de teatro, filmes, etcétera."
+ },
+ {
+  "id": 143,
+  "start": 721.6,
+  "limit": 726.94,
+  "new_start": 726.6633333333334,
+  "dur": 4.999958333333334,
+  "speed": 1.03,
+  "k": 1.0018648564294572,
+  "text_tgt": "Os cientistas alienígenas discutem até hoje se o filme Prometheus é na verdade uma comédia."
+ },
+ {
+  "id": 144,
+  "start": 726.94,
+  "limit": 732.58,
+  "new_start": 732.0132916666668,
+  "dur": 5.304375,
+  "speed": 1.048,
+  "k": 1.0025487588652506,
+  "text_tgt": "Por um lado, segue a fórmula clássica da comédia: uns idiotas vão a algum lugar e fazem besteira."
+ },
+ {
+  "id": 145,
+  "start": 732.58,
+  "limit": 736.3,
+  "new_start": 737.6676666666667,
+  "dur": 3.4135,
+  "speed": 1.139,
+  "k": 1.0116935483871203,
+  "text_tgt": "Mas, por outro lado, os terráqueos não riem quando veem o filme."
+ },
+ {
+  "id": 146,
+  "start": 736.3,
+  "limit": 740.76,
+  "new_start": 741.4311666666667,
+  "dur": 4.134041666666667,
+  "speed": 1.074,
+  "k": 1.0053905082212173,
+  "text_tgt": "Minha hipótese é que Prometheus é um vídeo de segurança para futuros astronautas."
+ },
+ {
+  "id": 147,
+  "start": 740.76,
+  "limit": 746.22,
+  "new_start": 745.9152083333335,
+  "dur": 5.136291666666667,
+  "speed": 1.086,
+  "k": 1.0048153235653168,
+  "text_tgt": "O objetivo é alertar sobre erros idiotas numa missão espacial: não contrate imbecis!"
+ },
+ {
+  "id": 148,
+  "start": 746.22,
+  "limit": 748.5,
+  "new_start": 751.4015000000002,
+  "dur": 2.0092916666666665,
+  "speed": 1.289,
+  "k": 1.0347770467836381,
+  "text_tgt": "Não faça carinho em bicho alienígena esquisito!"
+ },
+ {
+  "id": 149,
+  "start": 748.5,
+  "limit": 750.78,
+  "new_start": 753.7607916666668,
+  "dur": 1.9351666666666667,
+  "speed": 1.018,
+  "k": 1.002266081871357,
+  "text_tgt": "Não leve gosma alienígena a bordo!"
+ },
+ {
+  "id": 150,
+  "start": 750.78,
+  "limit": 754.16,
+  "new_start": 756.0459583333335,
+  "dur": 3.060125,
+  "speed": 1.098,
+  "k": 1.0089127218934926,
+  "text_tgt": "Não teste gosma alienígena nos colegas astronautas!"
+ },
+ {
+  "id": 151,
+  "start": 754.16,
+  "limit": 760.26,
+  "new_start": 759.4560833333335,
+  "dur": 5.780958333333333,
+  "speed": 1.094,
+  "k": 1.005075136612018,
+  "text_tgt": "E, pelo amor da Galáxia: não acorde da sesta um alienígena gigante que quer matar todos os terráqueos!"
+ },
+ {
+  "id": 152,
+  "start": 760.26,
+  "limit": 762.3,
+  "new_start": 765.5870416666668,
+  "dur": 1.3,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 153,
+  "start": 762.3,
+  "limit": 764.84,
+  "new_start": 767.6270416666667,
+  "dur": 2.2464583333333334,
+  "speed": 1.193,
+  "k": 1.0222276902886829,
+  "text_tgt": "Em geral, os terráqueos têm medo quando veem você."
+ },
+ {
+  "id": 154,
+  "start": 764.84,
+  "limit": 770.2,
+  "new_start": 770.2235000000001,
+  "dur": 5.081458333333333,
+  "speed": 1.265,
+  "k": 1.0133317786069624,
+  "text_tgt": "Mas, se você visitar a América do Norte nesta época do ano, é bem capaz que os terráqueos riam de você."
+ },
+ {
+  "id": 155,
+  "start": 770.2,
+  "limit": 776.12,
+  "new_start": 775.6549583333334,
+  "dur": 6.044458333333333,
+  "speed": 1.35,
+  "k": 1.0801449887387462,
+  "text_tgt": "O motivo é um jogo ritual anual em que os filhotes terráqueos se fantasiam de criaturas da noite e os adultos fingem ter medo deles."
+ },
+ {
+  "id": 156,
+  "start": 776.12,
+  "limit": 782.18,
+  "new_start": 782.0494166666667,
+  "dur": 5.098958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os filhotes acham graça, mesmo que o erro só aconteça no mundo de faz de conta do jogo."
+ },
+ {
+  "id": 157,
+  "start": 782.18,
+  "limit": 785.82,
+  "new_start": 788.1094166666667,
+  "dur": 3.3681666666666668,
+  "speed": 1.282,
+  "k": 1.021474358974331,
+  "text_tgt": "Enfim, os terráqueos devem achar que você é um filhote terráqueo fantasiado."
+ },
+ {
+  "id": 158,
+  "start": 785.82,
+  "limit": 789.84,
+  "new_start": 791.8275833333333,
+  "dur": 3.6780416666666667,
+  "speed": 1.025,
+  "k": 1.0020004145937027,
+  "text_tgt": "Você pode até fazer novos amigos e ganhar glicose de graça."
+ },
+ {
+  "id": 159,
+  "start": 789.84,
+  "limit": 793.06,
+  "new_start": 795.855625,
+  "dur": 2.910041666666667,
+  "speed": 1.134,
+  "k": 1.0124353002070665,
+  "text_tgt": "Os terráqueos costumam ver o humor como um prazer gratuito."
+ },
+ {
+  "id": 160,
+  "start": 793.06,
+  "limit": 801.52,
+  "new_start": 799.1156666666667,
+  "dur": 8.185833333333333,
+  "speed": 1.286,
+  "k": 1.0089637509850231,
+  "text_tgt": "Mas, do ponto de vista evolutivo, ele tem uma função bem específica: treinar para desarmar essas suposições falsas da porta dos fundos antes que façam estrago."
+ },
+ {
+  "id": 161,
+  "start": 801.52,
+  "limit": 809.32,
+  "new_start": 807.6515,
+  "dur": 5.059958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, mais uma vez, tudo se resume ao nosso velho amigo, o imperativo genético."
+ },
+ {
+  "id": 162,
+  "start": 809.32,
+  "limit": 818.42,
+  "new_start": 815.4515000000001,
+  "dur": 8.659,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No próximo episódio, vamos falar da comida terráquea: o que eles comem e bebem, como preparam, e por que adoram comida estragada, como queijo e vinho."
+ },
+ {
+  "id": 163,
+  "start": 818.42,
+  "limit": 821.41,
+  "new_start": 824.5515,
+  "dur": 2.7135,
+  "speed": 1.267,
+  "k": 1.0245819397993279,
+  "text_tgt": "Obrigado por assistir, e não se esqueça de ser alienígena!"
+ }
+]

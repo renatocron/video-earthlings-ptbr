@@ -1,0 +1,1022 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 1.72,
+  "new_start": 0.0,
+  "dur": 1.43325,
+  "speed": 1.221,
+  "k": 1.0367732558139533,
+  "text_tgt": "Olá, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 1.72,
+  "limit": 4.7,
+  "new_start": 1.7832499999999996,
+  "dur": 2.6904166666666667,
+  "speed": 1.208,
+  "k": 1.0202740492170022,
+  "text_tgt": "Bem-vindos ao quinto episódio de Terráqueos 101."
+ },
+ {
+  "id": 3,
+  "start": 4.7,
+  "limit": 8.18,
+  "new_start": 4.823666666666666,
+  "dur": 2.6,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Hoje vamos falar de jogos, histórias e sonhos."
+ },
+ {
+  "id": 4,
+  "start": 42.66,
+  "limit": 48.48,
+  "new_start": 42.78366666666666,
+  "dur": 5.52275,
+  "speed": 1.186,
+  "k": 1.0090635738831615,
+  "text_tgt": "Como vimos no primeiro episódio, os terráqueos não têm as ferramentas e os instintos que os animais têm para sobreviver."
+ },
+ {
+  "id": 5,
+  "start": 48.48,
+  "limit": 53.02,
+  "new_start": 48.65641666666666,
+  "dur": 4.267916666666666,
+  "speed": 1.284,
+  "k": 1.0171622613803215,
+  "text_tgt": "Em vez disso, a natureza lhes deu um cérebro e a capacidade de aprender e criar ferramentas."
+ },
+ {
+  "id": 6,
+  "start": 53.02,
+  "limit": 58.04,
+  "new_start": 53.274333333333324,
+  "dur": 4.695583333333333,
+  "speed": 1.084,
+  "k": 1.0050962815405053,
+  "text_tgt": "Só que aprender a sobreviver é meio problemático, porque não dá para aprender pela experiência."
+ },
+ {
+  "id": 7,
+  "start": 58.04,
+  "limit": 63.66,
+  "new_start": 58.31991666666666,
+  "dur": 5.297541666666667,
+  "speed": 1.089,
+  "k": 1.0049006524317916,
+  "text_tgt": "Assim que você experimenta como não sobreviver, pode até ficar mais esperto, mas também acaba morto."
+ },
+ {
+  "id": 8,
+  "start": 63.66,
+  "limit": 67.52,
+  "new_start": 63.967458333333326,
+  "dur": 3.31,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A solução que a evolução encontrou se chama imaginação."
+ },
+ {
+  "id": 9,
+  "start": 67.52,
+  "limit": 73.56,
+  "new_start": 67.82745833333333,
+  "dur": 5.771625,
+  "speed": 1.296,
+  "k": 1.013514072847681,
+  "text_tgt": "Basicamente, os terráqueos criam na cabeça um modelo simplificado da realidade e o usam para prever o resultado de cada ação."
+ },
+ {
+  "id": 10,
+  "start": 73.56,
+  "limit": 78.28,
+  "new_start": 73.94908333333332,
+  "dur": 4.3925,
+  "speed": 1.07,
+  "k": 1.0047669491525426,
+  "text_tgt": "É uma espécie de simulador de realidade, muito flexível, poderoso e rápido."
+ },
+ {
+  "id": 11,
+  "start": 78.28,
+  "limit": 80.88,
+  "new_start": 78.69158333333331,
+  "dur": 2.08,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas às vezes não é rápido o bastante."
+ },
+ {
+  "id": 12,
+  "start": 80.88,
+  "limit": 88.1,
+  "new_start": 81.2915833333333,
+  "dur": 6.099,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Em perigo imediato, por exemplo, não há tempo para imaginar: o terráqueo tem que decidir na hora ou morrer."
+ },
+ {
+  "id": 13,
+  "start": 88.1,
+  "limit": 94.56,
+  "new_start": 88.5115833333333,
+  "dur": 6.122416666666667,
+  "speed": 1.029,
+  "k": 1.0019220846233219,
+  "text_tgt": "Então, seria ótimo estar preparado para todo tipo de situação perigosa com algum tipo de treinamento."
+ },
+ {
+  "id": 14,
+  "start": 94.56,
+  "limit": 102.26,
+  "new_start": 94.98399999999998,
+  "dur": 6.988958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E os terráqueos desenvolveram três mecanismos que talvez sirvam exatamente para isso: sonhos, jogos e histórias."
+ },
+ {
+  "id": 15,
+  "start": 102.26,
+  "limit": 105.14,
+  "new_start": 102.68399999999998,
+  "dur": 2.616875,
+  "speed": 1.326,
+  "k": 1.0301649305555571,
+  "text_tgt": "Os sonhos costumam acontecer à noite, durante o sono."
+ },
+ {
+  "id": 16,
+  "start": 105.14,
+  "limit": 107.4,
+  "new_start": 105.65087499999998,
+  "dur": 1.88,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os terráqueos dormem toda noite."
+ },
+ {
+  "id": 17,
+  "start": 107.4,
+  "limit": 112.34,
+  "new_start": 107.91087499999999,
+  "dur": 4.67125,
+  "speed": 1.308,
+  "k": 1.0164473684210529,
+  "text_tgt": "Dormir é pôr o corpo em repouso e desligar os movimentos voluntários e o sistema sensorial."
+ },
+ {
+  "id": 18,
+  "start": 112.34,
+  "limit": 117.1,
+  "new_start": 112.93212499999998,
+  "dur": 4.457,
+  "speed": 1.151,
+  "k": 1.0098739495798337,
+  "text_tgt": "Ninguém sabe para que serve o sono, mas é certo que o cérebro usa parte desse tempo para sonhar."
+ },
+ {
+  "id": 19,
+  "start": 117.1,
+  "limit": 122.5,
+  "new_start": 117.73912499999999,
+  "dur": 5.11075,
+  "speed": 1.219,
+  "k": 1.0112499999999989,
+  "text_tgt": "Os sonhos lembram aqueles implantes de propaganda usados na União das Repúblicas Comunistas Galácticas."
+ },
+ {
+  "id": 20,
+  "start": 122.5,
+  "limit": 129.12,
+  "new_start": 123.19987499999999,
+  "dur": 6.306875,
+  "speed": 1.108,
+  "k": 1.0055702416918422,
+  "text_tgt": "O implante de propaganda se ativa durante o torpor ou a hibernação e cria alucinações de propaganda interativas."
+ },
+ {
+  "id": 21,
+  "start": 129.12,
+  "limit": 135.56,
+  "new_start": 129.85674999999998,
+  "dur": 6.154916666666667,
+  "speed": 1.22,
+  "k": 1.0100802277432714,
+  "text_tgt": "Para isso, ele intercepta a entrada sensorial e a saída motora, e o cérebro acredita que a alucinação está mesmo acontecendo."
+ },
+ {
+  "id": 22,
+  "start": 135.56,
+  "limit": 139.2,
+  "new_start": 136.36166666666665,
+  "dur": 3.338208333333333,
+  "speed": 1.162,
+  "k": 1.0132440476190514,
+  "text_tgt": "Os sonhos são mais ou menos isso, só que sem o implante de propaganda."
+ },
+ {
+  "id": 23,
+  "start": 139.2,
+  "limit": 147.92,
+  "new_start": 140.049875,
+  "dur": 8.403458333333333,
+  "speed": 1.103,
+  "k": 1.0038369648318044,
+  "text_tgt": "São simulações meio caóticas de perigo físico, conflitos sociais e outras situações críticas, criadas pela Fera e jogadas no Ego durante o sono."
+ },
+ {
+  "id": 24,
+  "start": 147.92,
+  "limit": 151.02,
+  "new_start": 148.8033333333333,
+  "dur": 3.0740416666666666,
+  "speed": 1.35,
+  "k": 1.104529569892465,
+  "text_tgt": "Os sonhos costumam ser séries aleatórias de situações ameaçadoras."
+ },
+ {
+  "id": 25,
+  "start": 151.02,
+  "limit": 168.66,
+  "new_start": 152.22737499999997,
+  "dur": 17.289625,
+  "speed": 1.022,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, o sonhador corre por um corredor porque está atrasado para o trabalho, perseguido por um predador, aí cai num alçapão e se vê despreparado numa prova final da escola, durante um ataque zumbi, e quem aplica a prova é a mãe dele, e tudo acontece num navio afundando, e então ele percebe que está pelado."
+ },
+ {
+  "id": 26,
+  "start": 168.66,
+  "limit": 174.64,
+  "new_start": 169.86737499999995,
+  "dur": 5.099958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "São todas situações de perigo físico ou social, misturadas ao acaso pela Fera."
+ },
+ {
+  "id": 27,
+  "start": 174.64,
+  "limit": 184.62,
+  "new_start": 175.84737499999994,
+  "dur": 9.16,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Podem ser preocupações atuais, como chegar atrasado, medos do passado, como a mãe ou a prova final, ou medos da pré-história, como ser caçado por um predador."
+ },
+ {
+  "id": 28,
+  "start": 184.62,
+  "limit": 189.48,
+  "new_start": 185.82737499999996,
+  "dur": 4.539583333333334,
+  "speed": 1.086,
+  "k": 1.0060871056241458,
+  "text_tgt": "Os problemas que aparecem nos sonhos dizem muito sobre os medos inconscientes do sonhador."
+ },
+ {
+  "id": 29,
+  "start": 189.48,
+  "limit": 200.4,
+  "new_start": 190.7169583333333,
+  "dur": 10.607416666666667,
+  "speed": 1.103,
+  "k": 1.0034264346764332,
+  "text_tgt": "Médicos de cérebro humanos são treinados para interrogar os pacientes sobre seus sonhos, analisar os medos por trás deles e concluir, invariavelmente, que o paciente quer matar o pai e fazer sexo com a mãe."
+ },
+ {
+  "id": 30,
+  "start": 200.4,
+  "limit": 203.16,
+  "new_start": 201.67437499999997,
+  "dur": 1.57,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama psiquiatria."
+ },
+ {
+  "id": 31,
+  "start": 203.16,
+  "limit": 209.52,
+  "new_start": 204.43437499999996,
+  "dur": 6.035041666666666,
+  "speed": 1.085,
+  "k": 1.003937368972744,
+  "text_tgt": "Dica científica: quando abduzir humanos para fazer experimentos, você não precisa de uma cara máquina de apagar memória."
+ },
+ {
+  "id": 32,
+  "start": 209.52,
+  "limit": 213.4,
+  "new_start": 210.81941666666663,
+  "dur": 3.5669166666666667,
+  "speed": 1.113,
+  "k": 1.0095146048109978,
+  "text_tgt": "Basta abduzi-los durante o sono e devolvê-los à cama quando terminar."
+ },
+ {
+  "id": 33,
+  "start": 213.4,
+  "limit": 219.12,
+  "new_start": 214.7363333333333,
+  "dur": 5.405708333333333,
+  "speed": 1.119,
+  "k": 1.0062427156177156,
+  "text_tgt": "Mesmo que se lembrem dos experimentos, eles provavelmente vão achar que foi só um pesadelo, e esquecer."
+ },
+ {
+  "id": 34,
+  "start": 219.12,
+  "limit": 222.52,
+  "new_start": 220.49204166666664,
+  "dur": 3.0999166666666667,
+  "speed": 1.171,
+  "k": 1.014681372549018,
+  "text_tgt": "O segundo mecanismo de treino para sobreviver se chama jogo."
+ },
+ {
+  "id": 35,
+  "start": 222.52,
+  "limit": 224.3,
+  "new_start": 223.9419583333333,
+  "dur": 1.502375,
+  "speed": 1.258,
+  "k": 1.0406601123595498,
+  "text_tgt": "Participar de um jogo se chama jogar."
+ },
+ {
+  "id": 36,
+  "start": 224.3,
+  "limit": 227.72,
+  "new_start": 225.7943333333333,
+  "dur": 3.1429583333333335,
+  "speed": 1.266,
+  "k": 1.0213328460039024,
+  "text_tgt": "Como os sonhos, os jogos são simulações interativas de perigo."
+ },
+ {
+  "id": 37,
+  "start": 227.72,
+  "limit": 235.18,
+  "new_start": 229.28729166666662,
+  "dur": 7.145833333333333,
+  "speed": 1.111,
+  "k": 1.0048033958891855,
+  "text_tgt": "Mas, ao contrário dos sonhos, os jogos acontecem com os terráqueos acordados, podem ser compartilhados, e eles sabem que não há perigo real."
+ },
+ {
+  "id": 38,
+  "start": 235.18,
+  "limit": 243.2,
+  "new_start": 236.78312499999996,
+  "dur": 7.691583333333333,
+  "speed": 1.057,
+  "k": 1.0026911886949317,
+  "text_tgt": "Os jogos costumam seguir regras mais ou menos rígidas, que definem o campo, o equipamento, as ações permitidas e as condições para vencer."
+ },
+ {
+  "id": 39,
+  "start": 243.2,
+  "limit": 248.96,
+  "new_start": 244.8247083333333,
+  "dur": 4.539,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os jogos também são cheios de símbolos e rituais, assunto de um episódio futuro."
+ },
+ {
+  "id": 40,
+  "start": 248.96,
+  "limit": 256.38,
+  "new_start": 250.5847083333333,
+  "dur": 7.078,
+  "speed": 1.013,
+  "k": 1.0010781671159046,
+  "text_tgt": "Há muitos tipos de jogos, mas todos são feitos de quatro ingredientes básicos: desafio, sorte, faz de conta e vertigem."
+ },
+ {
+  "id": 41,
+  "start": 256.38,
+  "limit": 261.84,
+  "new_start": 258.0127083333333,
+  "dur": 5.134875,
+  "speed": 1.075,
+  "k": 1.0045558608058645,
+  "text_tgt": "Desafio quer dizer que os jogadores competem entre si, ou contra o próprio jogo, para fazer mais pontos."
+ },
+ {
+  "id": 42,
+  "start": 261.84,
+  "limit": 267.52,
+  "new_start": 263.4975833333333,
+  "dur": 5.404541666666667,
+  "speed": 1.273,
+  "k": 1.0131235328638486,
+  "text_tgt": "Em geral, isso significa correr, pular, pensar ou sei lá o quê melhor que os outros jogadores, ou que o próprio jogo."
+ },
+ {
+  "id": 43,
+  "start": 267.52,
+  "limit": 271.8,
+  "new_start": 269.252125,
+  "dur": 3.957333333333333,
+  "speed": 1.079,
+  "k": 1.006386292834884,
+  "text_tgt": "É a versão em jogo do princípio evolutivo da \"sobrevivência do mais apto\"."
+ },
+ {
+  "id": 44,
+  "start": 271.8,
+  "limit": 275.16,
+  "new_start": 273.55945833333334,
+  "dur": 3.0265833333333334,
+  "speed": 1.054,
+  "k": 1.0049355158730118,
+  "text_tgt": "Sorte quer dizer que muitos jogos têm algum elemento aleatório."
+ },
+ {
+  "id": 45,
+  "start": 275.16,
+  "limit": 280.36,
+  "new_start": 276.93604166666665,
+  "dur": 4.873,
+  "speed": 1.063,
+  "k": 1.004423076923079,
+  "text_tgt": "Na maioria dos casos, o resultado não é totalmente aleatório, pois a sorte se combina com o desafio."
+ },
+ {
+  "id": 46,
+  "start": 280.36,
+  "limit": 284.2,
+  "new_start": 282.15904166666667,
+  "dur": 3.5377083333333332,
+  "speed": 1.153,
+  "k": 1.0124240451388955,
+  "text_tgt": "Esses jogos são, no fundo, treinos para lidar com eventos aleatórios."
+ },
+ {
+  "id": 47,
+  "start": 284.2,
+  "limit": 286.28,
+  "new_start": 286.04675,
+  "dur": 1.8053333333333332,
+  "speed": 1.274,
+  "k": 1.0362179487179566,
+  "text_tgt": "O terceiro ingrediente é o faz de conta."
+ },
+ {
+  "id": 48,
+  "start": 286.28,
+  "limit": 291.64,
+  "new_start": 288.2020833333333,
+  "dur": 4.939958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os jogadores fingem ser outra pessoa, e o equipamento do jogo representa coisas da vida real."
+ },
+ {
+  "id": 49,
+  "start": 291.64,
+  "limit": 296.22,
+  "new_start": 293.5620833333333,
+  "dur": 4.284833333333333,
+  "speed": 1.183,
+  "k": 1.0119723435225527,
+  "text_tgt": "Assim dá para simular todo tipo de situação sem precisar de equipamento realista."
+ },
+ {
+  "id": 50,
+  "start": 296.22,
+  "limit": 308.1,
+  "new_start": 298.19691666666665,
+  "dur": 11.546333333333333,
+  "speed": 1.047,
+  "k": 1.0013748597081933,
+  "text_tgt": "A imaginação terráquea transforma caixas de papelão em castelos e navios, um vaso de planta em arma de destruição em massa, gravetos e vassouras em espadas e lanças, e uma sala de estar em palco de batalhas épicas."
+ },
+ {
+  "id": 51,
+  "start": 308.1,
+  "limit": 312.12,
+  "new_start": 310.09325,
+  "dur": 3.7186666666666666,
+  "speed": 1.159,
+  "k": 1.0121061359867374,
+  "text_tgt": "O quarto elemento dos jogos, um tanto surpreendente, é a vertigem."
+ },
+ {
+  "id": 52,
+  "start": 312.12,
+  "limit": 316.8,
+  "new_start": 314.1619166666667,
+  "dur": 4.40125,
+  "speed": 1.256,
+  "k": 1.0152243589743575,
+  "text_tgt": "Ou seja, perturbar a estabilidade da percepção para criar uma espécie de pânico voluptuoso."
+ },
+ {
+  "id": 53,
+  "start": 316.8,
+  "limit": 323.06,
+  "new_start": 318.9131666666667,
+  "dur": 5.929125,
+  "speed": 1.059,
+  "k": 1.0030551118210878,
+  "text_tgt": "A perturbação pode vir da altura, da emoção da velocidade, de girar, do terror ou de outras coisas."
+ },
+ {
+  "id": 54,
+  "start": 323.06,
+  "limit": 328.4,
+  "new_start": 325.19229166666673,
+  "dur": 4.97,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O objetivo evolutivo talvez seja treinar o terráqueo a manter a cabeça fria sob estresse."
+ },
+ {
+  "id": 55,
+  "start": 328.4,
+  "limit": 336.34,
+  "new_start": 330.5322916666667,
+  "dur": 7.6626666666666665,
+  "speed": 1.254,
+  "k": 1.0091519731318221,
+  "text_tgt": "Em sentido amplo, a vertigem inclui outras formas de tontura, como a emoção das apostas altas, a sede de sangue, a embriaguez ou até a excitação sexual."
+ },
+ {
+  "id": 56,
+  "start": 336.34,
+  "limit": 341.88,
+  "new_start": 338.5449583333334,
+  "dur": 5.193583333333334,
+  "speed": 1.007,
+  "k": 1.0006468110709952,
+  "text_tgt": "Nem todo jogo tem os quatro ingredientes: desafio, sorte, faz de conta e vertigem."
+ },
+ {
+  "id": 57,
+  "start": 341.88,
+  "limit": 345.78,
+  "new_start": 344.08854166666674,
+  "dur": 2.2,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas todo jogo tem pelo menos um deles."
+ },
+ {
+  "id": 58,
+  "start": 345.78,
+  "limit": 349.6,
+  "new_start": 347.9885416666667,
+  "dur": 3.551083333333333,
+  "speed": 1.301,
+  "k": 1.021226003490388,
+  "text_tgt": "Um tipo popular de jogo são os jogos físicos, também chamados de esportes."
+ },
+ {
+  "id": 59,
+  "start": 349.6,
+  "limit": 356.22,
+  "new_start": 351.8896250000001,
+  "dur": 5.82,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Eles envolvem, por exemplo, correr, perseguir objetos em equipe, arremessar coisas e lutar."
+ },
+ {
+  "id": 60,
+  "start": 356.22,
+  "limit": 362.12,
+  "new_start": 358.5096250000001,
+  "dur": 5.555541666666667,
+  "speed": 1.008,
+  "k": 1.0009392655367269,
+  "text_tgt": "A maioria dos esportes é um treino bem óbvio para combate corpo a corpo, caça e fuga de predadores."
+ },
+ {
+  "id": 61,
+  "start": 362.12,
+  "limit": 372.44,
+  "new_start": 364.4151666666668,
+  "dur": 10.008041666666667,
+  "speed": 1.121,
+  "k": 1.0036862080103366,
+  "text_tgt": "O engraçado é que essas habilidades estão meio ultrapassadas, já que os terráqueos modernos compram carne no açougue, lutam com armas de fogo e trancaram todo tipo de criatura perigosa em zoológicos."
+ },
+ {
+  "id": 62,
+  "start": 372.44,
+  "limit": 374.69,
+  "new_start": 374.77320833333346,
+  "dur": 1.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Menos os micróbios."
+ },
+ {
+  "id": 63,
+  "start": 377.46,
+  "limit": 379.5,
+  "new_start": 379.79320833333344,
+  "dur": 1.3,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 64,
+  "start": 379.5,
+  "limit": 383.64,
+  "new_start": 381.83320833333346,
+  "dur": 3.8432916666666666,
+  "speed": 1.181,
+  "k": 1.0128723832528213,
+  "text_tgt": "Se quiser observar a variedade de jogos, visite um parque de diversões."
+ },
+ {
+  "id": 65,
+  "start": 383.64,
+  "limit": 392.28,
+  "new_start": 386.0265000000001,
+  "dur": 5.699,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Lá tem de tudo: desafio e sorte, faz de conta e máquinas enormes dedicadas só à vertigem."
+ },
+ {
+  "id": 66,
+  "start": 392.28,
+  "limit": 403.0,
+  "new_start": 394.6665000000001,
+  "dur": 10.394875,
+  "speed": 1.089,
+  "k": 1.0023204291044752,
+  "text_tgt": "Para o observador alienígena, os jogos parecem desagradáveis, como treinos forçados de escravos mercenários: treino de combate, exercícios táticos, centrífuga e assim por diante."
+ },
+ {
+  "id": 67,
+  "start": 403.0,
+  "limit": 409.0,
+  "new_start": 405.4113750000001,
+  "dur": 5.6885,
+  "speed": 1.13,
+  "k": 1.0064166666666667,
+  "text_tgt": "A diferença é que os terráqueos gostam mesmo de jogar, porque o cérebro deles é programado para curtir jogos."
+ },
+ {
+  "id": 68,
+  "start": 409.0,
+  "limit": 411.48,
+  "new_start": 411.4498750000001,
+  "dur": 2.28075,
+  "speed": 1.35,
+  "k": 1.0607862903225729,
+  "text_tgt": "Agora, o terceiro mecanismo: as histórias."
+ },
+ {
+  "id": 69,
+  "start": 411.48,
+  "limit": 416.16,
+  "new_start": 414.08062500000005,
+  "dur": 4.372625,
+  "speed": 1.153,
+  "k": 1.0091079059829045,
+  "text_tgt": "Resumindo, histórias são relatos inventados sobre pessoas em situações perigosas."
+ },
+ {
+  "id": 70,
+  "start": 416.16,
+  "limit": 422.92,
+  "new_start": 418.80325000000005,
+  "dur": 6.435375,
+  "speed": 1.075,
+  "k": 1.0037536982248534,
+  "text_tgt": "Ao contrário de sonhos e jogos, histórias não são interativas, mas fazem o público pensar: \"O que eu faria nessa situação?\""
+ },
+ {
+  "id": 71,
+  "start": 422.92,
+  "limit": 431.16,
+  "new_start": 425.58862500000004,
+  "dur": 7.933166666666667,
+  "speed": 1.137,
+  "k": 1.0052386731391574,
+  "text_tgt": "As histórias são transmitidas de vários jeitos: contadas, encenadas, cantadas, escritas, desenhadas ou filmadas, só para citar algumas."
+ },
+ {
+  "id": 72,
+  "start": 431.16,
+  "limit": 434.32,
+  "new_start": 433.8717916666667,
+  "dur": 2.844291666666667,
+  "speed": 1.111,
+  "k": 1.0108517932489554,
+  "text_tgt": "Muitas histórias passam de geração em geração."
+ },
+ {
+  "id": 73,
+  "start": 434.32,
+  "limit": 441.3,
+  "new_start": 437.0660833333334,
+  "dur": 5.71,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Algumas histórias famosas têm milhares de anos e passaram por várias mídias e muitas línguas."
+ },
+ {
+  "id": 74,
+  "start": 441.3,
+  "limit": 443.74,
+  "new_start": 444.0460833333334,
+  "dur": 2.1234166666666665,
+  "speed": 1.102,
+  "k": 1.0136953551912578,
+  "text_tgt": "Muitas histórias têm uma estrutura em comum."
+ },
+ {
+  "id": 75,
+  "start": 443.74,
+  "limit": 447.44,
+  "new_start": 446.51950000000005,
+  "dur": 3.4204583333333334,
+  "speed": 1.251,
+  "k": 1.0190427927927959,
+  "text_tgt": "Os terráqueos chamam essa estrutura de \"a jornada do herói\", ou \"o monomito\"."
+ },
+ {
+  "id": 76,
+  "start": 447.44,
+  "limit": 456.06,
+  "new_start": 450.2899583333334,
+  "dur": 8.301958333333333,
+  "speed": 1.096,
+  "k": 1.0037074632637273,
+  "text_tgt": "Funciona assim: um terráqueo, chamado \"herói\", leva sua vida comum, até que é chamado à aventura, muitas vezes por um inimigo poderoso que ameaça seu mundo."
+ },
+ {
+  "id": 77,
+  "start": 456.06,
+  "limit": 460.38,
+  "new_start": 458.9419166666667,
+  "dur": 3.98475,
+  "speed": 1.049,
+  "k": 1.0034143518518535,
+  "text_tgt": "Primeiro ele recusa o chamado, mas, com um pouco de incentivo, aceita."
+ },
+ {
+  "id": 78,
+  "start": 460.38,
+  "limit": 469.44,
+  "new_start": 463.2766666666667,
+  "dur": 8.721166666666667,
+  "speed": 1.04,
+  "k": 1.001232523914643,
+  "text_tgt": "Ele conhece um mentor que lhe dá conselhos e artefatos úteis, e então entra num mundo desconhecido, enfrenta inimigos, passa por provas e encontra aliados."
+ },
+ {
+  "id": 79,
+  "start": 469.44,
+  "limit": 475.16,
+  "new_start": 472.34783333333337,
+  "dur": 5.39025,
+  "speed": 1.061,
+  "k": 1.0035402097902049,
+  "text_tgt": "Por fim, ele invade o covil do inimigo, chega ao coração do covil, enfrenta o inimigo e o derrota."
+ },
+ {
+  "id": 80,
+  "start": 475.16,
+  "limit": 480.06,
+  "new_start": 478.0880833333334,
+  "dur": 4.593166666666667,
+  "speed": 1.143,
+  "k": 1.0088095238095285,
+  "text_tgt": "Então pega o tesouro do inimigo e volta para o seu mundo, muitas vezes perseguido por inimigos."
+ },
+ {
+  "id": 81,
+  "start": 480.06,
+  "limit": 489.08,
+  "new_start": 483.03125000000006,
+  "dur": 8.704666666666666,
+  "speed": 1.097,
+  "k": 1.0038433111603864,
+  "text_tgt": "No fim da jornada, ele vive um último momento de perigo, morte e renascimento, e enfim volta para casa, mais rico que antes e senhor dos dois mundos."
+ },
+ {
+  "id": 82,
+  "start": 489.08,
+  "limit": 492.58,
+  "new_start": 492.0859166666667,
+  "dur": 3.03,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas nem todas as histórias seguem essa estrutura à risca."
+ },
+ {
+  "id": 83,
+  "start": 492.58,
+  "limit": 497.56,
+  "new_start": 495.5859166666667,
+  "dur": 4.677,
+  "speed": 1.161,
+  "k": 1.0094377510040122,
+  "text_tgt": "Existem, por exemplo, histórias chamadas tragédias, em que o herói acaba fracassando."
+ },
+ {
+  "id": 84,
+  "start": 497.56,
+  "limit": 501.16,
+  "new_start": 500.6129166666667,
+  "dur": 3.2990416666666667,
+  "speed": 1.167,
+  "k": 1.0136226851851788,
+  "text_tgt": "Mas há um ponto que todas as histórias têm em comum: o conflito."
+ },
+ {
+  "id": 85,
+  "start": 501.16,
+  "limit": 507.36,
+  "new_start": 504.2619583333334,
+  "dur": 4.418958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, é provável que se preparar para conflitos seja a razão de ser das histórias."
+ },
+ {
+  "id": 86,
+  "start": 507.36,
+  "limit": 508.58,
+  "new_start": 510.46195833333337,
+  "dur": 1.0148333333333333,
+  "speed": 1.35,
+  "k": 1.1187158469945626,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 87,
+  "start": 508.58,
+  "limit": 515.04,
+  "new_start": 511.8267916666667,
+  "dur": 6.118666666666667,
+  "speed": 1.028,
+  "k": 1.001341589267289,
+  "text_tgt": "Se você planeja atacar a Terra com um dinossauro gigante de bioengenharia, fique longe de uma ilha chamada Japão."
+ },
+ {
+  "id": 88,
+  "start": 515.04,
+  "limit": 522.24,
+  "new_start": 518.2954583333334,
+  "dur": 6.908083333333333,
+  "speed": 1.197,
+  "k": 1.008067129629623,
+  "text_tgt": "As histórias japonesas preparam os japoneses para exatamente esse tipo de ataque há meio século, então eles sabem se defender de um monstro desses."
+ },
+ {
+  "id": 89,
+  "start": 522.24,
+  "limit": 526.14,
+  "new_start": 525.5535416666667,
+  "dur": 3.6057083333333333,
+  "speed": 1.187,
+  "k": 1.014284188034194,
+  "text_tgt": "Melhor atacar os Estados Unidos, que só estão preparados para ataques zumbis."
+ },
+ {
+  "id": 90,
+  "start": 526.14,
+  "limit": 536.54,
+  "new_start": 529.50925,
+  "dur": 10.075041666666667,
+  "speed": 1.066,
+  "k": 1.0024078525641047,
+  "text_tgt": "Além de serem instruções para situações perigosas, as histórias têm outro aspecto, mais profundo: a maioria traz mitos e arquétipos, ideias antigas ancoradas fundo na mente humana."
+ },
+ {
+  "id": 91,
+  "start": 536.54,
+  "limit": 539.12,
+  "new_start": 539.9342916666666,
+  "dur": 2.2514166666666666,
+  "speed": 1.066,
+  "k": 1.0083010335917153,
+  "text_tgt": "Vamos falar de mitos em outro episódio."
+ },
+ {
+  "id": 92,
+  "start": 539.12,
+  "limit": 546.16,
+  "new_start": 542.5357083333332,
+  "dur": 6.718875,
+  "speed": 1.085,
+  "k": 1.0041015625000052,
+  "text_tgt": "Os filhotes de terráqueo, também chamados de crianças, passam a maior parte do tempo dormindo, brincando e ouvindo histórias."
+ },
+ {
+  "id": 93,
+  "start": 546.16,
+  "limit": 550.36,
+  "new_start": 549.6045833333333,
+  "dur": 3.9265833333333333,
+  "speed": 1.281,
+  "k": 1.018234126984116,
+  "text_tgt": "A infância é a fase da vida em que os terráqueos ainda estão aprendendo a se virar no mundo."
+ },
+ {
+  "id": 94,
+  "start": 550.36,
+  "limit": 555.44,
+  "new_start": 553.8811666666666,
+  "dur": 4.804375,
+  "speed": 1.278,
+  "k": 1.0146407480314878,
+  "text_tgt": "É mais uma pista de que o propósito dos sonhos, histórias e jogos talvez seja mesmo: aprender."
+ },
+ {
+  "id": 95,
+  "start": 555.44,
+  "limit": 559.8,
+  "new_start": 559.0355416666665,
+  "dur": 4.0953333333333335,
+  "speed": 1.321,
+  "k": 1.0195718654434485,
+  "text_tgt": "Os antropólogos têm muitas teorias sobre a origem e o propósito dos jogos, sonhos e histórias."
+ },
+ {
+  "id": 96,
+  "start": 559.8,
+  "limit": 564.38,
+  "new_start": 563.4808749999999,
+  "dur": 4.237916666666667,
+  "speed": 1.017,
+  "k": 1.0017285298398746,
+  "text_tgt": "Mas o fato é que os três mecanismos giram em torno de situações perigosas."
+ },
+ {
+  "id": 97,
+  "start": 564.38,
+  "limit": 574.0,
+  "new_start": 568.0687916666665,
+  "dur": 8.819,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, quando um terráqueo encontra uma situação perigosa, é provável que já a tenha vivido num sonho, num jogo ou numa história, e saiba o que fazer."
+ },
+ {
+  "id": 98,
+  "start": 574.0,
+  "limit": 581.08,
+  "new_start": 577.6887916666665,
+  "dur": 6.35,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então não é tão absurdo supor que jogos, sonhos e histórias surgiram os três para o mesmo fim: aprender a sobreviver."
+ },
+ {
+  "id": 99,
+  "start": 581.08,
+  "limit": 586.54,
+  "new_start": 584.7687916666665,
+  "dur": 5.1335,
+  "speed": 1.071,
+  "k": 1.0043040293040435,
+  "text_tgt": "Então, mais uma vez, tudo se resume à força mais poderosa da Terra: o imperativo genético."
+ },
+ {
+  "id": 100,
+  "start": 586.54,
+  "limit": 592.56,
+  "new_start": 590.2522916666666,
+  "dur": 5.707375,
+  "speed": 1.114,
+  "k": 1.0062084717608002,
+  "text_tgt": "Como regra geral, sempre que os terráqueos gostam de algo, pode apostar que o imperativo genético está por trás."
+ },
+ {
+  "id": 101,
+  "start": 592.56,
+  "limit": 598.64,
+  "new_start": 596.3096666666665,
+  "dur": 5.781916666666667,
+  "speed": 1.183,
+  "k": 1.0085389254385897,
+  "text_tgt": "No próximo episódio vamos falar de estética: o que é beleza, o que é arte, e por que os humanos são tão loucos por isso."
+ },
+ {
+  "id": 102,
+  "start": 598.64,
+  "limit": 604.1,
+  "new_start": 602.4415833333333,
+  "dur": 5.128958333333333,
+  "speed": 1.062,
+  "k": 1.0034722222222154,
+  "text_tgt": "Obrigado por assistir, e, como dizem em Betelgeuse: não se esqueça de ser alienígena!"
+ }
+]

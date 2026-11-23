@@ -1,0 +1,1044 @@
+1
+00:00:00,079 --> 00:00:02,576
+Bem-vindo ao segundo
+episódio de Terráqueos 101.
+
+2
+00:00:02,904 --> 00:00:05,456
+Hoje você vai aprender sobre
+a origem da vida na Terra.
+
+3
+00:00:05,787 --> 00:00:09,181
+A maioria dos terráqueos acha que a vida
+deles surgiu nos oceanos da Terra jovem.
+
+4
+00:00:09,497 --> 00:00:13,724
+Mas, na verdade, ela veio do espaço,
+num míssil perdido da Guerra das Lulas.
+
+5
+00:00:48,455 --> 00:00:53,181
+O míssil que caiu nos oceanos da Terra jovem
+não levava carga explosiva, nuclear nem
+
+6
+00:00:53,201 --> 00:00:54,317
+de colapso quântico.
+
+7
+00:00:54,622 --> 00:00:58,905
+A carga era de dois milhões de exemplares
+de uma nanoarma simples, à base de carbono
+
+8
+00:00:58,925 --> 00:01:02,526
+e autorreplicante, uma variante
+primitiva da temida gosma cinza.
+
+9
+00:01:02,856 --> 00:01:07,490
+Aliás, os terráqueos chamariam isso de arma
+biológica, ou forma de vida artificial,
+
+10
+00:01:07,604 --> 00:01:09,706
+mas só porque a vida na
+Terra veio dessa arma.
+
+11
+00:01:10,033 --> 00:01:13,096
+Você deve lembrar da Guerra das Lulas
+das primeiras aulas de história.
+
+12
+00:01:13,429 --> 00:01:16,826
+Foi uma guerra impiedosa entre o então
+Domínio de Andrômeda e o antigo Reino das
+
+13
+00:01:16,846 --> 00:01:20,070
+Lulas, travada com todos os meios
+autorizados pela burocracia central.
+
+14
+00:01:20,393 --> 00:01:24,305
+O Domínio acabou esmagando as Lulas,
+mas o pedido de vitória foi negado pela
+
+15
+00:01:24,325 --> 00:01:28,177
+burocracia, porque faltou explicar um
+dos três milhões de mísseis planetários
+
+16
+00:01:28,197 --> 00:01:31,229
+disparados na guerra: justamente
+o que veio parar na Terra.
+
+17
+00:01:32,043 --> 00:01:34,105
+A arma biológica era à base de carbono.
+
+18
+00:01:34,393 --> 00:01:38,367
+Quase todo nanolaboratório usa carbono para
+criar formas de vida artificiais, porque
+
+19
+00:01:38,387 --> 00:01:40,630
+o átomo de carbono é o
+bloco de montar ideal.
+
+20
+00:01:40,991 --> 00:01:44,992
+Veja: as ligações que um átomo faz dependem
+dos elétrons e das vagas livres na sua
+
+21
+00:01:45,012 --> 00:01:45,831
+camada externa.
+
+22
+00:01:46,139 --> 00:01:50,349
+Uma ligação covalente é um acordo de troca
+de elétrons entre dois átomos: eu ponho
+
+23
+00:01:50,369 --> 00:01:52,760
+um elétron na sua vaga,
+você põe um na minha.
+
+24
+00:01:53,126 --> 00:01:58,267
+Então, o flúor faz uma ligação, o oxigênio
+faz duas, o nitrogênio faz três, o
+
+25
+00:01:58,286 --> 00:01:59,548
+carbono faz quatro.
+
+26
+00:01:59,877 --> 00:02:04,346
+O boro tem cinco vagas mas só três elétrons
+para dividir, então faz três ligações, o
+
+27
+00:02:04,366 --> 00:02:06,200
+berílio faz duas, e o lítio, uma.
+
+28
+00:02:06,494 --> 00:02:10,803
+Por isso o carbono é o melhor amigo do
+nanotécnico: com nada menos que 4 conexões
+
+29
+00:02:10,823 --> 00:02:15,624
+por átomo, dá para montar de tudo:
+cadeias, redes, anéis, o que você quiser.
+
+30
+00:02:15,909 --> 00:02:19,982
+Com uns outros átomos, como oxigênio ou
+nitrogênio, aqui e ali, e as vagas livres
+
+31
+00:02:20,002 --> 00:02:23,768
+tapadas com átomos de hidrogênio, montar
+nanomáquinas é tão fácil quanto brincar de
+
+32
+00:02:23,788 --> 00:02:25,655
+blocos de montar para alienígenas mirins.
+
+33
+00:02:26,015 --> 00:02:31,062
+Então, voltando à nossa nanoarma, recém-solta
+nos oceanos mornos da Terra jovem.
+
+34
+00:02:31,473 --> 00:02:35,680
+Essas armas funcionam como religiões
+virais: uma religião viral é basicamente um
+
+35
+00:02:35,700 --> 00:02:39,772
+conjunto de instruções para os fiéis
+espalharem a religião, o que pode ou não
+
+36
+00:02:39,792 --> 00:02:41,316
+envolver matar os infiéis.
+
+37
+00:02:41,691 --> 00:02:45,330
+Nanoarmas autorreplicantes funcionam
+do mesmo jeito, só que sem os fiéis.
+
+38
+00:02:45,707 --> 00:02:50,217
+As instruções costumam vir com umas
+nanomáquinas moleculares chamadas enzimas, que
+
+39
+00:02:50,237 --> 00:02:53,764
+fazem a replicação em si, e um
+invólucro para manter tudo junto.
+
+40
+00:02:54,136 --> 00:02:58,145
+Neste caso, as instruções estavam escritas
+numa molécula chamada DNA, uma variante
+
+41
+00:02:58,165 --> 00:03:02,528
+primitiva do XNA, a molécula registrada
+dos nanolaboratórios arctarianos, o que não
+
+42
+00:03:02,548 --> 00:03:06,965
+surpreende, já que as fábricas de armas
+arctarianas abasteciam os dois lados na
+
+43
+00:03:06,985 --> 00:03:07,810
+Guerra das Lulas.
+
+44
+00:03:08,167 --> 00:03:11,659
+O DNA dessas antigas armas biológicas
+costumava trazer instruções de
+
+45
+00:03:11,679 --> 00:03:17,055
+autorreplicação, mais uma mensagem, muitas
+vezes um insulto, tipo "Toma essa, cabeça
+
+46
+00:03:17,075 --> 00:03:21,780
+de tentáculo!", ou "Morte aos comedores
+de peixe!", ou, neste caso, "Lulas são
+
+47
+00:03:21,800 --> 00:03:22,325
+burras".
+
+48
+00:03:22,659 --> 00:03:27,169
+Então, esses saquinhos de DNA e
+enzimas começaram a se autorreplicar.
+
+49
+00:03:27,816 --> 00:03:31,373
+Só que replicar não adianta muito
+sem uma fonte de biomassa nova.
+
+50
+00:03:31,713 --> 00:03:35,685
+A criatura foi feita para se replicar
+num planeta de lulas, rico em carbono
+
+51
+00:03:35,705 --> 00:03:38,371
+elementar, então biomassa
+não seria problema.
+
+52
+00:03:39,433 --> 00:03:42,169
+Mas aqui na Terra, carbono
+elementar era raro.
+
+53
+00:03:42,586 --> 00:03:46,195
+Foi aí que a criatura começou a
+evoluir: o começo da vida na Terra.
+
+54
+00:03:46,520 --> 00:03:50,128
+Vamos deixar bem claro: a vida na Terra é
+totalmente diferente da vida em qualquer
+
+55
+00:03:50,148 --> 00:03:50,773
+outro lugar.
+
+56
+00:03:51,094 --> 00:03:55,012
+Na Galáxia inteira, a evolução da vida é
+regulada pela todo-poderosa e onipresente
+
+57
+00:03:55,032 --> 00:03:56,086
+Burocracia Galáctica.
+
+58
+00:03:56,361 --> 00:03:59,930
+Quando um planeta é aprovado para
+desenvolver vida, ele fica a cargo de um
+
+59
+00:03:59,950 --> 00:04:04,494
+bioadministrador credenciado, vindo de
+uma civilização avançada de classe 14 ou
+
+60
+00:04:04,514 --> 00:04:05,101
+superior.
+
+61
+00:04:05,410 --> 00:04:09,928
+O administrador supervisiona a evolução,
+decide a criação de espécies, aprova
+
+62
+00:04:09,948 --> 00:04:14,519
+mutações, acompanha o desenvolvimento da
+civilização e, mais importante, cumpre
+
+63
+00:04:14,539 --> 00:04:18,516
+todas as etapas exigidas pelo Departamento
+Galáctico de Evolução Planetária, ou
+
+64
+00:04:18,536 --> 00:04:20,414
+seja, muita papelada.
+
+65
+00:04:20,768 --> 00:04:25,182
+O objetivo oficial disso tudo é criar vida
+consciente e levá-la até o ponto em que
+
+66
+00:04:25,202 --> 00:04:27,849
+ela invente o dinheiro,
+para poder pagar impostos.
+
+67
+00:04:28,503 --> 00:04:33,095
+Mas o objetivo real de todo bioadministrador
+é fazer as formas de vida do planeta
+
+68
+00:04:33,115 --> 00:04:37,433
+inventarem a escrita, porque daí elas
+cuidam da própria papelada e ele pode ir
+
+69
+00:04:37,453 --> 00:04:37,968
+embora.
+
+70
+00:04:38,365 --> 00:04:42,604
+Mas, como vimos no último episódio, a
+Terra está fora do alcance da Burocracia
+
+71
+00:04:42,624 --> 00:04:43,257
+Galáctica.
+
+72
+00:04:43,592 --> 00:04:48,210
+Por isso, a vida na Terra segue uma evolução
+selvagem e sem nenhuma regulação, uma
+
+73
+00:04:48,230 --> 00:04:51,230
+explosão de vida limitada
+só pelos recursos naturais.
+
+74
+00:04:51,573 --> 00:04:55,217
+Resumindo: o sonho erótico de qualquer
+bioanarquista e o pesadelo de qualquer
+
+75
+00:04:55,237 --> 00:04:56,175
+bioadministrador.
+
+76
+00:04:56,497 --> 00:05:00,890
+Aliás, é por isso que o Domínio nunca
+admitiu oficialmente que perdeu o míssil na
+
+77
+00:05:00,910 --> 00:05:01,361
+Terra.
+
+78
+00:05:02,730 --> 00:05:07,531
+A evolução descontrolada se baseia em três
+mecanismos: replicação, mutação e seleção
+
+79
+00:05:07,551 --> 00:05:08,054
+natural.
+
+80
+00:05:08,373 --> 00:05:12,259
+A forma mais simples de replicação
+é duplicar o código e o indivíduo.
+
+81
+00:05:12,628 --> 00:05:17,129
+Existe outra forma de replicação, a
+reprodução sexual, que veremos depois.
+
+82
+00:05:17,538 --> 00:05:19,195
+A mutação é muito mal compreendida.
+
+83
+00:05:19,522 --> 00:05:23,023
+Não é ganhar um tentáculo na cabeça
+depois de pegar radiação demais.
+
+84
+00:05:24,721 --> 00:05:28,845
+Isso pode valer para os Metamutantes
+Tangerianos, mas não é assim na Terra.
+
+85
+00:05:29,181 --> 00:05:33,721
+Na Terra, mutação é uma variação, geralmente
+pequena, nos filhotes, por causa de um
+
+86
+00:05:33,741 --> 00:05:38,282
+código genético danificado: uma cor de
+pele diferente, ou pernas mais fortes.
+
+87
+00:05:38,722 --> 00:05:43,196
+Já a seleção natural quer dizer que a natureza
+favorece os indivíduos bons em comer,
+
+88
+00:05:43,280 --> 00:05:44,984
+se reproduzir e não morrer.
+
+89
+00:05:45,327 --> 00:05:48,321
+Os humanos costumam resumir isso
+como "sobrevivência do mais apto".
+
+90
+00:05:48,641 --> 00:05:52,804
+Pode até ser, desde que sobreviver e ser
+apto sirvam ao objetivo final: espalhar o
+
+91
+00:05:52,824 --> 00:05:53,318
+código.
+
+92
+00:05:53,659 --> 00:05:57,979
+O código não liga para o bem-estar do
+indivíduo, desde que seja espalhado.
+
+93
+00:05:58,434 --> 00:06:02,129
+Se isso significa ser devorado pelos
+filhos, a evolução não vê problema.
+
+94
+00:06:02,458 --> 00:06:05,717
+Um exemplo simples de seleção natural
+seria um animal fugindo de um predador.
+
+95
+00:06:06,055 --> 00:06:09,295
+Se por acaso nasceu nele uma quinta perna
+que o deixa mais rápido que o predador,
+
+96
+00:06:09,354 --> 00:06:09,786
+ótimo.
+
+97
+00:06:10,110 --> 00:06:14,416
+Mas, na verdade, basta, e é bem mais
+provável, correr só um pouquinho mais rápido
+
+98
+00:06:14,436 --> 00:06:14,979
+que o irmão.
+
+99
+00:06:15,315 --> 00:06:19,923
+Assim, até variações pequenas podem fazer
+a diferença entre morrer e sobreviver.
+
+100
+00:06:20,215 --> 00:06:24,597
+Com o tempo, essas variações se acumulam
+e a espécie fica cada vez mais rápida.
+
+101
+00:06:24,936 --> 00:06:26,696
+Mas voltando ao nosso organismo.
+
+102
+00:06:27,076 --> 00:06:31,484
+Ele precisava de carbono para se multiplicar,
+mas o carbono só existia como gás
+
+103
+00:06:31,504 --> 00:06:32,956
+carbônico na atmosfera.
+
+104
+00:06:33,377 --> 00:06:37,899
+Fora isso, havia um nitrogênio bem inútil
+e toneladas de ácido hidroxílico, sabe,
+
+105
+00:06:38,025 --> 00:06:40,722
+aquele líquido nojento que
+cobre dois terços do planeta.
+
+106
+00:06:41,062 --> 00:06:45,021
+Então a evolução entrou em ação e nossos
+organismos criaram um método para
+
+107
+00:06:45,041 --> 00:06:47,061
+transformar gás carbônico em biomassa.
+
+108
+00:06:47,395 --> 00:06:51,018
+Na forma evoluída, esse
+processo se chama fotossíntese.
+
+109
+00:06:51,579 --> 00:06:54,933
+A fotossíntese consiste basicamente em
+usar a luz do sol para transformar gás
+
+110
+00:06:54,953 --> 00:06:58,581
+carbônico e ácido hidroxílico em
+oxigênio e num composto chamado açúcar.
+
+111
+00:06:58,923 --> 00:07:03,190
+O oxigênio é uma substância tóxica que
+precisava ser liberada na atmosfera, mas o
+
+112
+00:07:03,210 --> 00:07:07,431
+açúcar é bem útil: vem em vários tipos e
+serve para guardar energia a curto prazo e
+
+113
+00:07:07,451 --> 00:07:08,351
+para obter biomassa.
+
+114
+00:07:08,632 --> 00:07:12,985
+Também dá para montar cadeias com ele e
+obter amido, para guardar energia a longo
+
+115
+00:07:13,005 --> 00:07:15,985
+prazo, ou celulose, para
+reforço estrutural.
+
+116
+00:07:16,286 --> 00:07:19,594
+As plantas da Terra ainda usam a
+fotossíntese para produzir sua biomassa.
+
+117
+00:07:19,946 --> 00:07:25,011
+Vale notar que só um quinze avos do açúcar
+da fotossíntese vem do ácido hidroxílico,
+
+118
+00:07:25,031 --> 00:07:28,925
+na verdade, só os átomos de
+hidrogênio que tapam as vagas livres.
+
+119
+00:07:29,486 --> 00:07:31,123
+O resto vem do gás carbônico.
+
+120
+00:07:31,521 --> 00:07:36,645
+Então, quando visitar a Terra e encontrar
+florestas gigantes, lembre que 93% da
+
+121
+00:07:36,665 --> 00:07:38,908
+matéria seca delas é feita de "ar".
+
+122
+00:07:39,283 --> 00:07:43,384
+Agora que nosso organismo sabia criar
+biomassa literalmente do ar, ele se
+
+123
+00:07:43,404 --> 00:07:45,418
+multiplicou e tomou o planeta inteiro.
+
+124
+00:07:45,733 --> 00:07:50,447
+No caminho, se dividiu em várias espécies,
+e algumas criaram melhorias, como um
+
+125
+00:07:50,467 --> 00:07:55,512
+núcleo celular, tentáculos minúsculos para
+se mover, ou a reprodução sexual, que é
+
+126
+00:07:55,532 --> 00:07:59,565
+basicamente misturar os códigos de
+dois indivíduos para criar um novo.
+
+127
+00:08:00,384 --> 00:08:03,443
+Vamos ver mais sobre reprodução
+sexual no próximo episódio.
+
+128
+00:08:03,705 --> 00:08:06,317
+Tudo parecia bem para nossos
+organismos comedores de luz.
+
+129
+00:08:06,720 --> 00:08:09,015
+Mas, depois de um tempo,
+surgiu um problema.
+
+130
+00:08:09,350 --> 00:08:12,582
+Lembra do oxigênio, aquele
+subproduto tóxico da fotossíntese?
+
+131
+00:08:12,914 --> 00:08:17,245
+Essa coisa tinha se acumulado na atmosfera
+e chegado a uma concentração perigosa.
+
+132
+00:08:17,526 --> 00:08:21,004
+Podia ter sido o fim da vida na Terra,
+mas, por sorte, um organismo sofreu uma
+
+133
+00:08:21,024 --> 00:08:25,095
+mutação e achou um jeito de transformar
+oxigênio e açúcar de volta em gás carbônico,
+
+134
+00:08:25,151 --> 00:08:26,559
+ácido hidroxílico e energia.
+
+135
+00:08:26,883 --> 00:08:30,745
+Isso se chama respiração, e é
+basicamente a fotossíntese ao contrário.
+
+136
+00:08:31,097 --> 00:08:35,807
+Agora havia dois tipos de criatura: os
+comedores de luz, as plantas, que criam
+
+137
+00:08:35,827 --> 00:08:41,057
+açúcar e oxigênio, e os respiradores de
+oxigênio, os animais, que transformam açúcar
+
+138
+00:08:41,077 --> 00:08:43,071
+e oxigênio de volta em gás carbônico.
+
+139
+00:08:43,661 --> 00:08:45,464
+Mas como os animais conseguiam o açúcar?
+
+140
+00:08:45,863 --> 00:08:47,453
+Ora, devorando plantas!
+
+141
+00:08:47,875 --> 00:08:51,434
+Logo esses animais se multiplicaram e
+baixaram o nível de oxigênio na atmosfera.
+
+142
+00:08:51,800 --> 00:08:56,022
+Desde então, plantas e animais dividem o
+planeta, e cada grupo produz o gás de que o
+
+143
+00:08:56,042 --> 00:08:56,784
+outro precisa.
+
+144
+00:08:57,112 --> 00:08:58,653
+Mas a evolução não parou por aí.
+
+145
+00:08:58,992 --> 00:09:03,460
+Com o tempo, ela criou criaturas cada vez
+melhores em comer, se reproduzir e não
+
+146
+00:09:03,480 --> 00:09:03,958
+morrer.
+
+147
+00:09:04,272 --> 00:09:08,387
+As células comedoras de luz viraram plantas
+multicelulares, conquistaram os oceanos
+
+148
+00:09:08,474 --> 00:09:09,552
+e depois a terra firme.
+
+149
+00:09:09,892 --> 00:09:14,161
+Os respiradores de oxigênio evoluíram para
+animais multicelulares e ganharam coisas
+
+150
+00:09:14,181 --> 00:09:17,706
+como simetria, sistema nervoso e
+uma queda por ficar andando por aí.
+
+151
+00:09:18,082 --> 00:09:22,056
+Um ramo evoluiu para criaturinhas
+com exoesqueleto, chamadas insetos.
+
+152
+00:09:22,468 --> 00:09:26,482
+Outros ganharam endoesqueleto, olhos e
+boca, acabaram rastejando para a terra firme
+
+153
+00:09:26,502 --> 00:09:27,387
+e criaram pernas.
+
+154
+00:09:27,764 --> 00:09:31,736
+A maioria das espécies dessa época já está
+extinta, exceto, claro, os micróbios.
+
+155
+00:09:34,881 --> 00:09:35,847
+Dica estratégica!
+
+156
+00:09:36,177 --> 00:09:39,686
+Se quiser exterminar todos os humanos
+e animais da Terra para preparar a
+
+157
+00:09:39,706 --> 00:09:42,067
+colonização, não esqueça dos insetos!
+
+158
+00:09:42,487 --> 00:09:46,200
+Eles estão em todo lugar, são difíceis
+de matar e conseguem ser muito, muito
+
+159
+00:09:46,220 --> 00:09:46,913
+irritantes.
+
+160
+00:09:47,298 --> 00:09:51,516
+A diferença mais óbvia entre plantas e
+animais é que os animais se mexem, e as
+
+161
+00:09:51,536 --> 00:09:52,877
+plantas ficam num lugar só.
+
+162
+00:09:53,236 --> 00:09:53,754
+Por quê?
+
+163
+00:09:55,234 --> 00:09:59,018
+Bem, os animais precisam procurar plantas
+comestíveis ou correr atrás de outros
+
+164
+00:09:59,038 --> 00:10:03,146
+animais, já as plantas se alimentam de ar,
+ácido hidroxílico e luz do sol, recursos
+
+165
+00:10:03,166 --> 00:10:04,364
+que existem em todo lugar.
+
+166
+00:10:04,743 --> 00:10:07,966
+Só que espalhar o DNA não é fácil
+quando não dá para se mexer.
+
+167
+00:10:08,282 --> 00:10:12,053
+Então as plantas acharam um jeito de fazer
+os animais carregarem o DNA delas por aí.
+
+168
+00:10:12,441 --> 00:10:15,489
+Lembra do açúcar, o principal
+produto da fotossíntese?
+
+169
+00:10:15,836 --> 00:10:19,346
+Os animais adoram isso, porque é
+fácil de processar e rico em energia.
+
+170
+00:10:19,682 --> 00:10:23,756
+Normalmente, as plantas não guardam muito
+açúcar, porque não querem ser comidas.
+
+171
+00:10:24,103 --> 00:10:28,159
+Mas aí elas criaram órgãos sexuais expostos
+e cheios de açúcar, as flores, para
+
+172
+00:10:28,179 --> 00:10:31,988
+subornar os insetos a levar o DNA delas a
+outras plantas para a reprodução sexual.
+
+173
+00:10:32,279 --> 00:10:36,312
+Depois puseram as sementes em pacotinhos
+de açúcar deliciosos, as frutas, para
+
+174
+00:10:36,332 --> 00:10:38,703
+subornar animais maiores a
+levar as sementes por aí.
+
+175
+00:10:39,011 --> 00:10:42,437
+Frutas e flores são coloridas para
+chamar a atenção dos animais.
+
+176
+00:10:42,816 --> 00:10:46,416
+Na língua das plantas, cores vivas
+querem dizer "Aqui tem açúcar".
+
+177
+00:10:46,818 --> 00:10:51,521
+Já os animais não querem que partes do
+corpo sejam comidas, então, na língua dos
+
+178
+00:10:51,541 --> 00:10:56,633
+animais, cores vivas querem dizer "Sou
+venenoso", ou "Me pega se puder, eu tenho
+
+179
+00:10:56,653 --> 00:10:57,103
+asas!".
+
+180
+00:10:57,852 --> 00:11:03,009
+Todas essas plantas, insetos, comedores de
+frutas, predadores e micróbios formam um
+
+181
+00:11:03,029 --> 00:11:06,706
+sistema complexo e autorregulado,
+sem precisar de bioadministrador.
+
+182
+00:11:07,023 --> 00:11:09,033
+Os terráqueos chamam isso de ecossistema.
+
+183
+00:11:09,411 --> 00:11:10,401
+Dica científica.
+
+184
+00:11:10,744 --> 00:11:15,233
+Um experimento popular entre estudantes é
+abduzir um terráqueo, um animal comedor de
+
+185
+00:11:15,253 --> 00:11:19,581
+celulose e umas plantas, e pôr todos num
+tanque para criar um microecossistema.
+
+186
+00:11:19,929 --> 00:11:21,085
+Mas isso não funciona.
+
+187
+00:11:21,467 --> 00:11:25,370
+O resultado é bem melhor com umas plantas
+e animais do oceano num tanquinho cheio de
+
+188
+00:11:25,390 --> 00:11:26,397
+ácido hidroxílico.
+
+189
+00:11:26,737 --> 00:11:30,806
+A certa altura, a evolução levou a animais
+cada vez maiores, até o planeta ser
+
+190
+00:11:30,826 --> 00:11:33,615
+dominado por criaturas
+gigantes chamadas dinossauros.
+
+191
+00:11:33,982 --> 00:11:37,169
+Alguns deles evoluíram para pequenas
+criaturas voadoras chamadas aves.
+
+192
+00:11:37,570 --> 00:11:41,979
+Outras criaturas passaram a alimentar os
+filhotes com um líquido chamado leite.
+
+193
+00:11:42,324 --> 00:11:46,984
+Um ramo desses animais ganhou certa
+inteligência e jeito para manusear objetos, e
+
+194
+00:11:47,004 --> 00:11:48,537
+acabou virando os terráqueos.
+
+195
+00:11:49,044 --> 00:11:54,071
+Os primeiros terráqueos viviam quase como
+animais, colhendo frutas, caçando e se
+
+196
+00:11:54,091 --> 00:11:57,946
+protegendo de predadores, só que com
+ferramentas feitas por eles mesmos.
+
+197
+00:11:58,384 --> 00:12:01,622
+É aqui que a evolução natural
+termina e a civilização começa.
+
+198
+00:12:01,969 --> 00:12:03,168
+Dicas para turistas.
+
+199
+00:12:03,547 --> 00:12:07,517
+Se você viaja no tempo e visita a época
+dos dinossauros, por favor, não leve nenhum
+
+200
+00:12:07,537 --> 00:12:08,475
+dinossauro com você.
+
+201
+00:12:08,870 --> 00:12:13,312
+Se não fossem os incontáveis turistas do
+tempo levando animais como lembrancinha ou
+
+202
+00:12:13,332 --> 00:12:16,510
+bicho de estimação, os
+dinossauros não estariam extintos.
+
+203
+00:12:16,889 --> 00:12:20,476
+Existe um pequeno grupo de terráqueos que
+talvez não tenha surgido pela evolução.
+
+204
+00:12:20,823 --> 00:12:22,703
+Eles se chamam de criacionistas.
+
+205
+00:12:23,219 --> 00:12:27,668
+Segundo eles mesmos, foram criados por um
+bioengenheiro extraterrestre há alguns
+
+206
+00:12:27,688 --> 00:12:29,142
+milhares de ciclos solares.
+
+207
+00:12:29,508 --> 00:12:32,892
+A intervenção dele causou uma catástrofe
+ambiental, uma inundação de ácido
+
+208
+00:12:32,912 --> 00:12:35,569
+hidroxílico que matou todos
+os outros seres da região.
+
+209
+00:12:35,946 --> 00:12:41,151
+Os criacionistas, avisados pelo criador, se
+salvaram num navio, cruzaram um oceano e
+
+210
+00:12:41,171 --> 00:12:45,155
+se instalaram num lugar chamado América,
+onde esperam o criador vir buscá-los.
+
+211
+00:12:45,547 --> 00:12:49,617
+Mas a história toda parece improvável e
+não bate com os registros burocráticos.
+
+212
+00:12:49,973 --> 00:12:53,443
+Por isso, a maioria dos cientistas
+alienígenas concorda que ela provavelmente foi
+
+213
+00:12:53,463 --> 00:12:54,635
+inventada pelos terráqueos.
+
+214
+00:12:55,053 --> 00:12:58,156
+Neste episódio, vimos a evolução
+que levou aos terráqueos.
+
+215
+00:12:58,517 --> 00:13:03,210
+Essa evolução foi movida por uma única
+força: um código antigo, programado para se
+
+216
+00:13:03,230 --> 00:13:07,904
+replicar ao infinito, solto num ambiente
+sem controle, perseguindo seu objetivo até
+
+217
+00:13:07,924 --> 00:13:11,895
+conquistar um planeta inteiro, criar vida
+inteligente e construir uma civilização
+
+218
+00:13:11,915 --> 00:13:16,489
+espacial, tudo isso para entregar uma
+mensagem simples: Lulas são burras.
+
+219
+00:13:18,050 --> 00:13:22,621
+No próximo episódio, vamos aprender mais
+sobre sexualidade: como funciona, como muda
+
+220
+00:13:22,641 --> 00:13:26,766
+as regras da evolução, e por que ela nem
+existiria se não fosse pelos parasitas.
+

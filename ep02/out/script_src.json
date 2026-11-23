@@ -1,0 +1,782 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 2.3,
+  "text_src": "Welcome to the second episode of Earthlings 101."
+ },
+ {
+  "id": 2,
+  "start": 2.78,
+  "end": 5.26,
+  "text_src": "Today you will learn about the origin of life on earth."
+ },
+ {
+  "id": 3,
+  "start": 5.62,
+  "end": 8.86,
+  "text_src": "Most earthlings think their life originated in the oceans of young earth."
+ },
+ {
+  "id": 4,
+  "start": 9.24,
+  "end": 13.36,
+  "text_src": "But actually, it came from space - on a stray missile from the Squid War."
+ },
+ {
+  "id": 5,
+  "start": 48.14,
+  "end": 54.28,
+  "text_src": "The missile that plunged into the oceans of young earth didn't contain any explosive, nuclear or quantum collapse charge."
+ },
+ {
+  "id": 6,
+  "start": 54.28,
+  "end": 62.0,
+  "text_src": "Its payload consisted of two million specimen of a simple, carbon-based, self-replicating nano weapon, a primitive variant of the dreaded grey goo."
+ },
+ {
+  "id": 7,
+  "start": 62.46,
+  "end": 69.44,
+  "text_src": "By the way, earthlings would call this a bio-weapon, or artificial life form, but only because life on earth has developed from this weapon."
+ },
+ {
+  "id": 8,
+  "start": 69.62,
+  "end": 72.46,
+  "text_src": "You may remember the Squid War from early history class."
+ },
+ {
+  "id": 9,
+  "start": 72.92,
+  "end": 79.34,
+  "text_src": "It was a merciless war between the then Andromeda Dominion and the old Squid Kingdom, fought with all means authorized by the central bureaucracy."
+ },
+ {
+  "id": 10,
+  "start": 79.34,
+  "end": 90.86,
+  "text_src": "The Dominion eventually crushed the Squids, but their victory application was rejected by the bureaucracy because they couldn't account for one of the three million planetary missiles fired in this war: The very missile that had found its way to earth."
+ },
+ {
+  "id": 11,
+  "start": 91.04,
+  "end": 92.72,
+  "text_src": "The bio-weapon was based on carbon."
+ },
+ {
+  "id": 12,
+  "start": 93.3,
+  "end": 99.28,
+  "text_src": "Most nanolabs use carbon to build artificial life forms, simply because carbon atoms are ideal building blocks."
+ },
+ {
+  "id": 13,
+  "start": 99.78,
+  "end": 104.88,
+  "text_src": "See, the bonds an atom can make is defined by the electrons and free slots in their outer electron shell."
+ },
+ {
+  "id": 14,
+  "start": 104.88,
+  "end": 111.3,
+  "text_src": "A covalent bond is an electron-sharing-deal between two atoms : I put an electron in your slot, you put an electron into mine."
+ },
+ {
+  "id": 15,
+  "start": 111.82,
+  "end": 117.68,
+  "text_src": "So, Fluorine can make one bond, oxygen can make two, nitrogen can make three, carbon can make four."
+ },
+ {
+  "id": 16,
+  "start": 118.58,
+  "end": 124.86,
+  "text_src": "Boron has five slots but only three electrons to share, so it can make three bonds, Beryllium can make two, and Lithium one."
+ },
+ {
+  "id": 17,
+  "start": 125.18,
+  "end": 134.42,
+  "text_src": "That's why carbon is the nanotechnicians' best friend: With no less than 4 connections per atom you can build a lot of things: chains, grids, rings, - you name it."
+ },
+ {
+  "id": 18,
+  "start": 134.56,
+  "end": 144.56,
+  "text_src": "With some other atoms like oxygen or nitrogen here and there, and the free slots plugged with tiny hydrogen atoms, building nano machines is as easy as playing with construction kits for young aliens."
+ },
+ {
+  "id": 19,
+  "start": 144.56,
+  "end": 149.66,
+  "text_src": "So, back to our nano weapon which has just been released in the warm oceans of young earth."
+ },
+ {
+  "id": 20,
+  "start": 150.04,
+  "end": 158.02,
+  "text_src": "Those weapons work like viral religions: A viral religion consists basically of a set of instructions to make the believers spread the religion, which may or may not involve killing non-believers."
+ },
+ {
+  "id": 21,
+  "start": 160.26,
+  "end": 162.88,
+  "text_src": "Self-replicating nano weapons work the same way - only without the believers."
+ },
+ {
+  "id": 22,
+  "start": 162.88,
+  "end": 170.92,
+  "text_src": "The instructions come usually with some molecular nanomachines called enzymes which perform the actual replication, and a wrapping to hold it all together."
+ },
+ {
+  "id": 23,
+  "start": 171.32,
+  "end": 185.3,
+  "text_src": "In this case, the instructions were written on a molecule called DNA, it's basically a primitive variant of XNA, the trademark molecule of the Arctarian nanolabs, which is not surprising as the Arctarian weapon factories supplied both sides during the Squid War."
+ },
+ {
+  "id": 24,
+  "start": 185.3,
+  "end": 199.22,
+  "text_src": "The DNA of these ancient bio-weapons contained usually instructions for self-replication, plus an actual message which was often an insult, like, \"Eat this, tentacle heads!\" or \"Fisheaters must die!\", or in this case, \"Squids are stupid\"."
+ },
+ {
+  "id": 25,
+  "start": 199.78,
+  "end": 203.24,
+  "text_src": "So, those little bags of DNA and enzymes started self-replicating."
+ },
+ {
+  "id": 26,
+  "start": 204.94,
+  "end": 208.84,
+  "text_src": "Unfortunately, replicating isn't of much use if you don't have a source for new bio-mass."
+ },
+ {
+  "id": 27,
+  "start": 208.84,
+  "end": 216.18,
+  "text_src": "The creature was designed to replicate on a squid planet which was rich in elementary carbon, so biomass wasn't supposed to be an issue."
+ },
+ {
+  "id": 28,
+  "start": 216.56,
+  "end": 219.36,
+  "text_src": "But here, on earth, elementary carbon was rare."
+ },
+ {
+  "id": 29,
+  "start": 219.72,
+  "end": 223.0,
+  "text_src": "That's where the creature started to evolve - the beginning of life on earth."
+ },
+ {
+  "id": 30,
+  "start": 223.62,
+  "end": 227.94,
+  "text_src": "Let me get this straight: life on earth is wholly different from life anywhere else."
+ },
+ {
+  "id": 31,
+  "start": 228.1,
+  "end": 233.28,
+  "text_src": "In the whole Galaxy, the evolution of life is regulated by the all-mighty and omnipresent Galactic Bureaucracy."
+ },
+ {
+  "id": 32,
+  "start": 233.28,
+  "end": 242.1,
+  "text_src": "When a planet is approved for developing life, it is put under the responsibility of an approved bio-administrator who comes from an advanced civilization of class 14 or higher."
+ },
+ {
+  "id": 33,
+  "start": 242.28,
+  "end": 257.58,
+  "text_src": "The administrator supervises evolution, decides on creation of new species, approves mutations, oversees the development of civilisation and, most important of all, does all the administrative steps required by the galactic bureau of planetary evolution, which means quite a lot of paperwork."
+ },
+ {
+  "id": 34,
+  "start": 257.58,
+  "end": 264.38,
+  "text_src": "The official goal of all this is to create sentient life and make it reach the point where it develops the concept of money so that it can pay taxes."
+ },
+ {
+  "id": 35,
+  "start": 265.34,
+  "end": 273.78,
+  "text_src": "But the real goal of every bio-administrator is to push the lifeforms on the planet to develop scripture, from which point on they can do their own paperwork and the administrator can leave the planet."
+ },
+ {
+  "id": 36,
+  "start": 275.14,
+  "end": 280.02,
+  "text_src": "However, as mentioned in the last episode, earth is out of reach of the galactic bureaucracy."
+ },
+ {
+  "id": 37,
+  "start": 280.38,
+  "end": 287.74,
+  "text_src": "In consequence, life on earth follows a completely unregulated, wild evolution, an explosion of life limited only by natural resources."
+ },
+ {
+  "id": 38,
+  "start": 288.34,
+  "end": 292.84,
+  "text_src": "In one word, any bio-anarchists wet dream, and any bio-administrator's nightmare."
+ },
+ {
+  "id": 39,
+  "start": 293.1,
+  "end": 298.6,
+  "text_src": "This is, by the way, the reason why the Dominion never officially admitted that they lost their missile on earth."
+ },
+ {
+  "id": 40,
+  "start": 299.36,
+  "end": 304.32,
+  "text_src": "Uncontrolled evolution is based on three mechanisms: replication, mutation and natural selection."
+ },
+ {
+  "id": 41,
+  "start": 304.96,
+  "end": 308.66,
+  "text_src": "The simplest form of replication is duplicating the code and the individual."
+ },
+ {
+  "id": 42,
+  "start": 309.14,
+  "end": 313.72,
+  "text_src": "There is another form of replication called sexual reproduction, which we will discuss later."
+ },
+ {
+  "id": 43,
+  "start": 314.08,
+  "end": 315.54,
+  "text_src": "Mutation is often misunderstood."
+ },
+ {
+  "id": 44,
+  "start": 315.98,
+  "end": 320.88,
+  "text_src": "It doesn't consist in having a tentacle growing out of one's head after receiving a bit too much radiation."
+ },
+ {
+  "id": 45,
+  "start": 321.18,
+  "end": 325.64,
+  "text_src": "That may be the case for Tangerian Metamutants, but it's not how it works on earth."
+ },
+ {
+  "id": 46,
+  "start": 325.64,
+  "end": 334.6,
+  "text_src": "On earth, mutation means a usually small variation in the offspring due to damaged genetic code - say, a different skin color, or stronger leg muscles."
+ },
+ {
+  "id": 47,
+  "start": 335.06,
+  "end": 341.3,
+  "text_src": "As for natural selection, it means that nature favours individuals which are good at feeding, reproducing and not dying."
+ },
+ {
+  "id": 48,
+  "start": 341.72,
+  "end": 344.58,
+  "text_src": "Humans usually paraphrase this as \"survival of the fittest\" ."
+ },
+ {
+  "id": 49,
+  "start": 345.0,
+  "end": 349.88,
+  "text_src": "This might be correct, as long as survival and fitness serve the ultimate purpose: Spreading the code."
+ },
+ {
+  "id": 50,
+  "start": 349.88,
+  "end": 354.22,
+  "text_src": "The code doesn't care about the well-being of the individual, as long as it is spread."
+ },
+ {
+  "id": 51,
+  "start": 354.64,
+  "end": 358.5,
+  "text_src": "If this means being eaten by your offspring, evolution is fine with it."
+ },
+ {
+  "id": 52,
+  "start": 358.64,
+  "end": 361.84,
+  "text_src": "A simple example of natural selection would be an animal running from a predator."
+ },
+ {
+  "id": 53,
+  "start": 362.12,
+  "end": 365.68,
+  "text_src": "If by chance it has grown a fifth leg allowing to outrun the predator - great."
+ },
+ {
+  "id": 54,
+  "start": 365.98,
+  "end": 371.14,
+  "text_src": "But actually, it is enough - and far more probable - to run just a little bit faster than one's sibling."
+ },
+ {
+  "id": 55,
+  "start": 371.14,
+  "end": 375.58,
+  "text_src": "This way, even small variations may make the difference between dying and surviving."
+ },
+ {
+  "id": 56,
+  "start": 376.06,
+  "end": 380.38,
+  "text_src": "With time, these variations will accumulate and the species will become faster and faster."
+ },
+ {
+  "id": 57,
+  "start": 380.72,
+  "end": 382.42,
+  "text_src": "But back to our little organism."
+ },
+ {
+  "id": 58,
+  "start": 382.84,
+  "end": 388.4,
+  "text_src": "It needed carbon to multiply, but carbon was only available in form of carbon dioxide in the atmosphere."
+ },
+ {
+  "id": 59,
+  "start": 389.14,
+  "end": 396.78,
+  "text_src": "Besides this, there were pretty useless nitrogen, and tons of hydric acid - you know, this disgusting liquid which covers two thirds of the planet."
+ },
+ {
+  "id": 60,
+  "start": 396.78,
+  "end": 402.68,
+  "text_src": "So, evolution kicked in and our organisms developed a method to transform carbon dioxide into bio-mass."
+ },
+ {
+  "id": 61,
+  "start": 403.1,
+  "end": 406.66,
+  "text_src": "In its evolved form, this process is called photosynthesis."
+ },
+ {
+  "id": 62,
+  "start": 407.3,
+  "end": 413.98,
+  "text_src": "Photosynthesis consists basically in using sunlight to transform carbon dioxide and hydric acid into oxygen and a chemical called sugar."
+ },
+ {
+  "id": 63,
+  "start": 414.38,
+  "end": 424.04,
+  "text_src": "Oxygen is a toxic substance which had to be released into the atmosphere, but sugar is pretty useful : It comes in different variants and can be used for short-term energy storage and to obtain bio-mass."
+ },
+ {
+  "id": 64,
+  "start": 424.04,
+  "end": 430.98,
+  "text_src": "You can also use it to build chains to obtain starch for long-term energy storage, or cellulose for structural reinforcement."
+ },
+ {
+  "id": 65,
+  "start": 431.68,
+  "end": 434.72,
+  "text_src": "Photosynthesis is still used by plants on earth to build their bio-mass."
+ },
+ {
+  "id": 66,
+  "start": 435.22,
+  "end": 444.46,
+  "text_src": "It's noteworthy that only one fifteenth of the sugar created by photosynthesis comes from the hydric acid - actually, only the tiny hydrogen atoms used to plug the free slots."
+ },
+ {
+  "id": 67,
+  "start": 444.76,
+  "end": 446.8,
+  "text_src": "The rest comes from carbon dioxide."
+ },
+ {
+  "id": 68,
+  "start": 446.8,
+  "end": 454.3,
+  "text_src": "So, when you visit earth and find gigantic forests made of plants, remember that 93% of their dry matter is made of \"air\"."
+ },
+ {
+  "id": 69,
+  "start": 454.56,
+  "end": 460.74,
+  "text_src": "Now that our little organism knew how to literally create bio-mass out of thin air, it multiplied and took over the whole planet."
+ },
+ {
+  "id": 70,
+  "start": 461.0,
+  "end": 475.28,
+  "text_src": "While doing so, it evolved into a variety of species, some of which developed a number of improvements, for example a cell core, tiny tentacles to move around, or sexual reproduction - basically mixing the codes of two individuals to create a new one."
+ },
+ {
+  "id": 71,
+  "start": 475.66,
+  "end": 478.68,
+  "text_src": "We will learn more about sexual reproduction in the next episode."
+ },
+ {
+  "id": 72,
+  "start": 478.96,
+  "end": 481.22,
+  "text_src": "Everything seemed fine for our little light-eating organisms."
+ },
+ {
+  "id": 73,
+  "start": 481.88,
+  "end": 484.04,
+  "text_src": "But after a while, a problem came up."
+ },
+ {
+  "id": 74,
+  "start": 484.44,
+  "end": 487.22,
+  "text_src": "Remember oxygen, this toxic by product of photosynthesis ?"
+ },
+ {
+  "id": 75,
+  "start": 487.92,
+  "end": 492.22,
+  "text_src": "This stuff had accumulated in the atmosphere and now reached a dangerous concentration."
+ },
+ {
+  "id": 76,
+  "start": 492.54,
+  "end": 501.56,
+  "text_src": "This could have been the end of life on earth - but luckily, one organism mutated and found a way of transforming oxygen and sugar back into carbon dioxide, hydric acid and energy."
+ },
+ {
+  "id": 77,
+  "start": 501.78,
+  "end": 505.58,
+  "text_src": "This is called respiration, and it's basically photosynthesis backwards."
+ },
+ {
+  "id": 78,
+  "start": 505.96,
+  "end": 517.9,
+  "text_src": "Now we had two kinds of creatures: Light eaters - also known as plants - who create sugar and oxygen, and oxygen breathers, also called animals, who transform sugar and oxygen back into carbon dioxide."
+ },
+ {
+  "id": 79,
+  "start": 518.56,
+  "end": 520.1,
+  "text_src": "But how did the animals get the sugar ?"
+ },
+ {
+  "id": 80,
+  "start": 520.46,
+  "end": 522.26,
+  "text_src": "Well, by devouring plants!"
+ },
+ {
+  "id": 81,
+  "start": 522.5,
+  "end": 525.64,
+  "text_src": "Soon those animals multiplied and lowered the oxygen level in the atmosphere."
+ },
+ {
+  "id": 82,
+  "start": 526.3,
+  "end": 531.32,
+  "text_src": "Since then, plants and animals share the planet, and each group produces the gas the other group needs."
+ },
+ {
+  "id": 83,
+  "start": 531.58,
+  "end": 533.1,
+  "text_src": "But evolution didn't stop there."
+ },
+ {
+  "id": 84,
+  "start": 533.42,
+  "end": 538.64,
+  "text_src": "With time, it grew creatures which were better and better at feeding, reproducing and not dying."
+ },
+ {
+  "id": 85,
+  "start": 538.64,
+  "end": 543.72,
+  "text_src": "The light-eating cells became multicellular plants, conquered the oceans and then the land ."
+ },
+ {
+  "id": 86,
+  "start": 544.18,
+  "end": 551.76,
+  "text_src": "The oxygen-breathers evolved into multicellular animals, and developed traits like symmetry, a neural system and an inclination for moving around."
+ },
+ {
+  "id": 87,
+  "start": 552.3,
+  "end": 555.9,
+  "text_src": "One branch evolved into small creatures with an exoskeleton called insects."
+ },
+ {
+  "id": 88,
+  "start": 556.64,
+  "end": 561.44,
+  "text_src": "Others developed an endoskeleton, eyes and a mouth and eventually crawled onto land and grew legs."
+ },
+ {
+  "id": 89,
+  "start": 561.92,
+  "end": 565.94,
+  "text_src": "Most species of this time are extinct by now - except for, the microbes."
+ },
+ {
+  "id": 90,
+  "start": 568.9,
+  "end": 569.82,
+  "text_src": "Strategic advice!"
+ },
+ {
+  "id": 91,
+  "start": 570.16,
+  "end": 576.08,
+  "text_src": "If you want to extinguish all humans and animals on earth to prepare it for colonization, don't forget the insects!"
+ },
+ {
+  "id": 92,
+  "start": 576.48,
+  "end": 580.62,
+  "text_src": "They are everywhere, they are hard to kill, and they can be really, really annoying."
+ },
+ {
+  "id": 93,
+  "start": 581.22,
+  "end": 587.16,
+  "text_src": "The most obvious difference between plants and animals is that animals move around, whereas plants stay at one place."
+ },
+ {
+  "id": 94,
+  "start": 587.16,
+  "end": 588.74,
+  "text_src": "Why is this so?"
+ },
+ {
+  "id": 95,
+  "start": 589.12,
+  "end": 598.0,
+  "text_src": "Well, animals have to seek edible plants, or run after other animals, whereas plants feed on air, hydric acid and sunlight, resources which are available everywhere."
+ },
+ {
+  "id": 96,
+  "start": 598.52,
+  "end": 601.68,
+  "text_src": "However, spreading one's DNA isn't easy when you can't move."
+ },
+ {
+  "id": 97,
+  "start": 602.08,
+  "end": 606.16,
+  "text_src": "So, plants eventually found a way to get animals to carry their DNA around."
+ },
+ {
+  "id": 98,
+  "start": 606.16,
+  "end": 609.18,
+  "text_src": "Remember sugar, the main product of photosynthesis?"
+ },
+ {
+  "id": 99,
+  "start": 609.56,
+  "end": 613.04,
+  "text_src": "Animals love that stuff, as it's easy to process and rich in energy."
+ },
+ {
+  "id": 100,
+  "start": 613.44,
+  "end": 617.6,
+  "text_src": "Normally, plants don't store large amounts of sugar because they don't want to get eaten."
+ },
+ {
+  "id": 101,
+  "start": 617.82,
+  "end": 625.9,
+  "text_src": "But now, they developed exposed sugar-filled sexual organs called flowers to bribe insects into carrying their DNA to other plants for sexual reproduction."
+ },
+ {
+  "id": 102,
+  "start": 625.9,
+  "end": 631.72,
+  "text_src": "Then they put their seed into delicious sugar packages called fruits to bribe bigger animals into carrying their seed around."
+ },
+ {
+  "id": 103,
+  "start": 632.62,
+  "end": 635.92,
+  "text_src": "Both fruits and flowers are colored to attract the attention of animals."
+ },
+ {
+  "id": 104,
+  "start": 636.38,
+  "end": 639.8,
+  "text_src": "In the language of plants, bright colors mean \"Here is sugar\"."
+ },
+ {
+  "id": 105,
+  "start": 640.26,
+  "end": 650.4,
+  "text_src": "Animals, on the other side, don't want parts of their body to be eaten, so in the language of animals, bright colors either mean \"I'm poisonous\", or, \"Catch me if you can, I have wings!\"."
+ },
+ {
+  "id": 106,
+  "start": 651.38,
+  "end": 659.2,
+  "text_src": "All those plants, insects, fruit-eaters, predators and microbes form a complex, self regulating system, without any need of a bio-administrator."
+ },
+ {
+  "id": 107,
+  "start": 660.46,
+  "end": 662.12,
+  "text_src": "Earthlings call this an ecosystem."
+ },
+ {
+  "id": 108,
+  "start": 662.78,
+  "end": 663.68,
+  "text_src": "Scientific advice."
+ },
+ {
+  "id": 109,
+  "start": 663.98,
+  "end": 671.92,
+  "text_src": "A popular experiment among students consists in abducting an earthling, a cellulose-eating animal and some plants and putting them into a tank in order to create a micro-ecosystem."
+ },
+ {
+  "id": 110,
+  "start": 673.18,
+  "end": 674.26,
+  "text_src": "But this doesn't work."
+ },
+ {
+  "id": 111,
+  "start": 674.66,
+  "end": 679.88,
+  "text_src": "You get much better results when you put some ocean plants and animals into a small tank filled with hydric acid."
+ },
+ {
+  "id": 112,
+  "start": 679.88,
+  "end": 686.46,
+  "text_src": "At some point, evolution led to bigger and bigger animals, until the planet was ruled by giant creatures called dinosaurs."
+ },
+ {
+  "id": 113,
+  "start": 687.08,
+  "end": 690.26,
+  "text_src": "Some of them evolved into small flying creatures called birds."
+ },
+ {
+  "id": 114,
+  "start": 690.52,
+  "end": 694.8,
+  "text_src": "Other creatures developed the ability of nourishing their offspring with a liquid called milk."
+ },
+ {
+  "id": 115,
+  "start": 695.28,
+  "end": 702.0,
+  "text_src": "One branch of these animals acquired some intelligence and dexterity in manipulating objects, and eventually evolved into earthlings."
+ },
+ {
+  "id": 116,
+  "start": 702.0,
+  "end": 711.0,
+  "text_src": "The first earthlings lived pretty much like animals, collecting fruits, hunting animals and protecting from predators - except that they developed their own tools to do so."
+ },
+ {
+  "id": 117,
+  "start": 711.36,
+  "end": 714.42,
+  "text_src": "This is where natural evolution ends and civilization begins."
+ },
+ {
+  "id": 118,
+  "start": 714.82,
+  "end": 716.02,
+  "text_src": "Tips for tourists."
+ },
+ {
+  "id": 119,
+  "start": 716.4,
+  "end": 721.64,
+  "text_src": "If you are a time-traveller and you visit the time of the dinosaurs, please don't take any dinosaurs with you."
+ },
+ {
+  "id": 120,
+  "start": 721.64,
+  "end": 727.78,
+  "text_src": "If it wasn't for countless time tourists taking animals away as souvenirs or pets, dinosaurs wouldn't be extinct."
+ },
+ {
+  "id": 121,
+  "start": 729.66,
+  "end": 733.18,
+  "text_src": "There is a small group of earthlings who might not have developed by evolution."
+ },
+ {
+  "id": 122,
+  "start": 733.52,
+  "end": 735.44,
+  "text_src": "They call themselves creationists."
+ },
+ {
+  "id": 123,
+  "start": 735.9,
+  "end": 742.22,
+  "text_src": "According to their own claims, they have been created by an extraterrestrial bio-engineer some thousands of solar cycles ago."
+ },
+ {
+  "id": 124,
+  "start": 742.22,
+  "end": 748.38,
+  "text_src": "His intervention triggered an environmental catastrophe, an inundation with hydric acid which killed all other life in the area."
+ },
+ {
+  "id": 125,
+  "start": 748.58,
+  "end": 757.76,
+  "text_src": "The creationists, warned by their creator, saved themselves onto a ship, crossed an ocean and settled in a place called America, where they are waiting for their creator to pick them up."
+ },
+ {
+  "id": 126,
+  "start": 758.18,
+  "end": 762.3,
+  "text_src": "However, the whole story seems unlikely and doesn't fit the bureaucratic records."
+ },
+ {
+  "id": 127,
+  "start": 762.6,
+  "end": 767.02,
+  "text_src": "So most alien scientists agree that this story has probably been made up by earthlings."
+ },
+ {
+  "id": 128,
+  "start": 767.5,
+  "end": 770.4,
+  "text_src": "In this episode, we have seen the evolution that led to earthlings."
+ },
+ {
+  "id": 129,
+  "start": 771.0,
+  "end": 789.74,
+  "text_src": "This evolution was driven by one single force : An ancient code, programmed to replicate itself at infinitum, unleashed in an uncontrolled environment, pursuing its goal to the point of conquering a whole planet, of creating intelligent life and of building a spacefaring civilization - and all this in order to deliver one simple message : Squids are stupid."
+ },
+ {
+  "id": 130,
+  "start": 790.54,
+  "end": 799.12,
+  "text_src": "In the next episode we will learn more about sexuality : How it works, how it alters the rules of evolution, and why it wouldn't even exist if it wasn't for : parasites."
+ }
+]

@@ -1,0 +1,1712 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.02,
+  "new_start": 0.0,
+  "dur": 1.7755416666666666,
+  "speed": 1.35,
+  "k": 1.0522483498349833,
+  "text_tgt": "Saudações, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 2.02,
+  "limit": 4.74,
+  "new_start": 2.1255416666666664,
+  "dur": 2.4419583333333335,
+  "speed": 1.278,
+  "k": 1.026455269607843,
+  "text_tgt": "Este é o décimo primeiro episódio do Terráqueos 101."
+ },
+ {
+  "id": 3,
+  "start": 4.74,
+  "limit": 10.58,
+  "new_start": 4.9174999999999995,
+  "dur": 5.149958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Hoje vamos ver algo tão central na vida dos terráqueos que eles mal percebem: os rituais."
+ },
+ {
+  "id": 4,
+  "start": 43.58,
+  "limit": 52.11,
+  "new_start": 43.7575,
+  "dur": 7.429,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ao observar grupos de terráqueos, às vezes você vê comportamentos que claramente servem para comer, se reproduzir e não morrer."
+ },
+ {
+  "id": 5,
+  "start": 52.11,
+  "limit": 60.38,
+  "new_start": 52.2875,
+  "dur": 7.935,
+  "speed": 1.046,
+  "k": 1.0018137847642077,
+  "text_tgt": "Mas muitas vezes você não faz ideia do que diabos está acontecendo: eles fazem coisas sem nenhum sentido prático e sons sem nenhuma informação útil."
+ },
+ {
+  "id": 6,
+  "start": 60.38,
+  "limit": 65.84,
+  "new_start": 60.572500000000005,
+  "dur": 3.8969583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando isso acontece, é bem provável que você esteja vendo um ritual."
+ },
+ {
+  "id": 7,
+  "start": 65.84,
+  "limit": 70.38,
+  "new_start": 66.0325,
+  "dur": 4.159958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, existem tantas definições de \"ritual\" quanto antropólogos."
+ },
+ {
+  "id": 8,
+  "start": 70.38,
+  "limit": 75.9,
+  "new_start": 70.57249999999999,
+  "dur": 5.069958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O que descrevo aqui é o que os antropólogos terráqueos chamam de \"rituais de interação\"."
+ },
+ {
+  "id": 9,
+  "start": 75.9,
+  "limit": 78.1,
+  "new_start": 76.0925,
+  "dur": 1.9265,
+  "speed": 1.289,
+  "k": 1.0347727272727325,
+  "text_tgt": "Rituais são parecidos com tarefas em comum."
+ },
+ {
+  "id": 10,
+  "start": 78.1,
+  "limit": 86.92,
+  "new_start": 78.369,
+  "dur": 7.6589583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando um grupo de terráqueos tem uma tarefa em comum, todos se concentram nela, entram no mesmo clima e coordenam as ações até terminar."
+ },
+ {
+  "id": 11,
+  "start": 86.92,
+  "limit": 90.88,
+  "new_start": 87.18900000000001,
+  "dur": 3.649125,
+  "speed": 1.123,
+  "k": 1.0098800505050523,
+  "text_tgt": "Como efeito colateral, ganham satisfação e mais espírito de grupo."
+ },
+ {
+  "id": 12,
+  "start": 90.88,
+  "limit": 96.24,
+  "new_start": 91.18812500000001,
+  "dur": 4.659041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pois bem, um ritual é a mesma coisa que uma tarefa em comum, só que sem a tarefa."
+ },
+ {
+  "id": 13,
+  "start": 96.24,
+  "limit": 100.14,
+  "new_start": 96.54812500000001,
+  "dur": 3.580875,
+  "speed": 1.1,
+  "k": 1.0079166666666652,
+  "text_tgt": "Para entender os rituais, primeiro precisamos entender as emoções."
+ },
+ {
+  "id": 14,
+  "start": 100.14,
+  "limit": 101.24,
+  "new_start": 100.47900000000001,
+  "dur": 0.8962916666666667,
+  "speed": 1.35,
+  "k": 1.13299242424243,
+  "text_tgt": "O que são emoções?"
+ },
+ {
+  "id": 15,
+  "start": 101.24,
+  "limit": 109.92,
+  "new_start": 101.72529166666668,
+  "dur": 8.396625,
+  "speed": 1.248,
+  "k": 1.0076756912442388,
+  "text_tgt": "Emoção é um estado mental positivo ou negativo ligado a uma coisa, criatura, ação, evento ou ideia, como um campo-feliz ou campo-infeliz virtual."
+ },
+ {
+  "id": 16,
+  "start": 109.92,
+  "limit": 114.4,
+  "new_start": 110.47191666666667,
+  "dur": 4.1982083333333335,
+  "speed": 1.241,
+  "k": 1.015225074404761,
+  "text_tgt": "As quatro emoções mais importantes são alegria, medo, tristeza e raiva."
+ },
+ {
+  "id": 17,
+  "start": 114.4,
+  "limit": 117.0,
+  "new_start": 115.02012500000001,
+  "dur": 2.2561666666666667,
+  "speed": 1.015,
+  "k": 1.0023717948717972,
+  "text_tgt": "Falo mais de emoções em outro episódio."
+ },
+ {
+  "id": 18,
+  "start": 117.0,
+  "limit": 125.54,
+  "new_start": 117.62629166666667,
+  "dur": 8.208291666666666,
+  "speed": 1.061,
+  "k": 1.0021418813427,
+  "text_tgt": "Por ora, o importante é saber que os terráqueos têm uma inteligência movida a emoções: vão em direção aos campos-felizes e fogem dos campos-infelizes."
+ },
+ {
+  "id": 19,
+  "start": 125.54,
+  "limit": 129.3,
+  "new_start": 126.18458333333334,
+  "dur": 3.49925,
+  "speed": 1.346,
+  "k": 1.0237367021276582,
+  "text_tgt": "Mas os terráqueos não conseguem compartilhar emoções e intenções por telepatia."
+ },
+ {
+  "id": 20,
+  "start": 129.3,
+  "limit": 136.52,
+  "new_start": 130.03383333333335,
+  "dur": 6.668958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então a pergunta é: se cada terráqueo é movido pelas próprias emoções, como eles conseguem realizar tarefas em comum?"
+ },
+ {
+  "id": 21,
+  "start": 136.52,
+  "limit": 142.64,
+  "new_start": 137.25383333333335,
+  "dur": 5.269958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como coordenam as ações e, mais importante: como coordenam as emoções por trás delas?"
+ },
+ {
+  "id": 22,
+  "start": 142.64,
+  "limit": 147.96,
+  "new_start": 143.37383333333332,
+  "dur": 4.709,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A resposta é talvez o mecanismo social mais importante da Terra: os rituais."
+ },
+ {
+  "id": 23,
+  "start": 147.96,
+  "limit": 152.48,
+  "new_start": 148.69383333333334,
+  "dur": 3.829,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Em geral, os terráqueos não percebem que fazem rituais todo dia."
+ },
+ {
+  "id": 24,
+  "start": 152.48,
+  "limit": 159.0,
+  "new_start": 153.21383333333333,
+  "dur": 6.20125,
+  "speed": 1.103,
+  "k": 1.0047929447852744,
+  "text_tgt": "A maioria associa a palavra \"ritual\" a um grupo de encapuzados fazendo uma cerimônia secreta numa sala mal iluminada."
+ },
+ {
+  "id": 25,
+  "start": 159.0,
+  "limit": 162.76,
+  "new_start": 159.76508333333334,
+  "dur": 3.4400833333333334,
+  "speed": 1.093,
+  "k": 1.0080008865248251,
+  "text_tgt": "Mas, na verdade, os rituais estão por toda parte no dia a dia."
+ },
+ {
+  "id": 26,
+  "start": 162.76,
+  "limit": 164.2,
+  "new_start": 163.55516666666668,
+  "dur": 1.1764583333333334,
+  "speed": 1.326,
+  "k": 1.0600405092592609,
+  "text_tgt": "Terráqueos se cumprimentando?"
+ },
+ {
+  "id": 27,
+  "start": 164.2,
+  "limit": 165.4,
+  "new_start": 165.081625,
+  "dur": 0.82,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um ritual."
+ },
+ {
+  "id": 28,
+  "start": 165.4,
+  "limit": 168.26,
+  "new_start": 166.28162500000002,
+  "dur": 2.541,
+  "speed": 1.098,
+  "k": 1.010839160839166,
+  "text_tgt": "Uma reunião social, um grupo de músicos?"
+ },
+ {
+  "id": 29,
+  "start": 168.26,
+  "limit": 169.2,
+  "new_start": 169.172625,
+  "dur": 0.658625,
+  "speed": 1.245,
+  "k": 1.0730053191489386,
+  "text_tgt": "Rituais."
+ },
+ {
+  "id": 30,
+  "start": 169.2,
+  "limit": 171.78,
+  "new_start": 170.18125,
+  "dur": 2.22,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Terráqueos comendo juntos ou jogando?"
+ },
+ {
+  "id": 31,
+  "start": 171.78,
+  "limit": 173.22,
+  "new_start": 172.76125000000002,
+  "dur": 1.0992083333333333,
+  "speed": 1.028,
+  "k": 1.0063946759259277,
+  "text_tgt": "Também rituais."
+ },
+ {
+  "id": 32,
+  "start": 173.22,
+  "limit": 174.62,
+  "new_start": 174.21045833333335,
+  "dur": 1.1217083333333333,
+  "speed": 1.257,
+  "k": 1.0512202380952338,
+  "text_tgt": "Um comício político?"
+ },
+ {
+  "id": 33,
+  "start": 174.62,
+  "limit": 175.6,
+  "new_start": 175.6821666666667,
+  "dur": 1.0740833333333333,
+  "speed": 1.35,
+  "k": 1.4531462585034165,
+  "text_tgt": "Um evento esportivo?"
+ },
+ {
+  "id": 34,
+  "start": 175.6,
+  "limit": 177.28,
+  "new_start": 177.10625000000002,
+  "dur": 0.96,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tudo ritual."
+ },
+ {
+  "id": 35,
+  "start": 177.28,
+  "limit": 180.84,
+  "new_start": 178.78625000000002,
+  "dur": 3.2579583333333333,
+  "speed": 1.163,
+  "k": 1.013471441947565,
+  "text_tgt": "Alguns rituais são religiosos, mas a maioria é bem profana."
+ },
+ {
+  "id": 36,
+  "start": 180.84,
+  "limit": 182.62,
+  "new_start": 182.39420833333335,
+  "dur": 1.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um papo entre amigos?"
+ },
+ {
+  "id": 37,
+  "start": 182.62,
+  "limit": 184.64,
+  "new_start": 184.17420833333335,
+  "dur": 1.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pombinhos fazendo amor?"
+ },
+ {
+  "id": 38,
+  "start": 184.64,
+  "limit": 186.34,
+  "new_start": 186.19420833333334,
+  "dur": 1.3725416666666668,
+  "speed": 1.071,
+  "k": 1.0132598039215586,
+  "text_tgt": "De novo, rituais."
+ },
+ {
+  "id": 39,
+  "start": 186.34,
+  "limit": 188.04,
+  "new_start": 187.91675,
+  "dur": 1.3675416666666667,
+  "speed": 1.053,
+  "k": 1.010318627450987,
+  "text_tgt": "Terráqueos num funeral?"
+ },
+ {
+  "id": 40,
+  "start": 188.04,
+  "limit": 189.08,
+  "new_start": 189.63429166666668,
+  "dur": 0.728875,
+  "speed": 1.125,
+  "k": 1.0373798076922873,
+  "text_tgt": "Um ritual."
+ },
+ {
+  "id": 41,
+  "start": 189.08,
+  "limit": 201.56,
+  "new_start": 190.7131666666667,
+  "dur": 10.8,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas até atividades sociais com um objetivo real são meio rituais: negociações, transações e todo tipo de trabalho em equipe, da rotina diária a projetos complexos e arriscados."
+ },
+ {
+  "id": 42,
+  "start": 201.56,
+  "limit": 205.08,
+  "new_start": 203.19316666666668,
+  "dur": 3.2445,
+  "speed": 1.276,
+  "k": 1.0211647727272697,
+  "text_tgt": "Na verdade, é difícil achar uma atividade social que não seja ritual!"
+ },
+ {
+  "id": 43,
+  "start": 205.08,
+  "limit": 207.74,
+  "new_start": 206.7876666666667,
+  "dur": 2.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas voltemos aos encapuzados na cripta."
+ },
+ {
+  "id": 44,
+  "start": 207.74,
+  "limit": 214.86,
+  "new_start": 209.4476666666667,
+  "dur": 6.48,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essa cena é boa para explicar o que acontece num ritual, não por ser frequente, mas porque os terráqueos a acham exemplar."
+ },
+ {
+  "id": 45,
+  "start": 214.86,
+  "limit": 217.9,
+  "new_start": 216.5676666666667,
+  "dur": 1.74,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, o que forma um ritual?"
+ },
+ {
+  "id": 46,
+  "start": 217.9,
+  "limit": 224.08,
+  "new_start": 219.6076666666667,
+  "dur": 4.788,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para um ritual, precisamos de terráqueos reunidos e separados do mundo exterior."
+ },
+ {
+  "id": 47,
+  "start": 224.08,
+  "limit": 231.08,
+  "new_start": 225.7876666666667,
+  "dur": 6.6626666666666665,
+  "speed": 1.045,
+  "k": 1.0018095238095237,
+  "text_tgt": "O ritual costuma seguir formalidades predefinidas, regras mais ou menos rígidas sobre que roupa usar, que objetos usar etc."
+ },
+ {
+  "id": 48,
+  "start": 231.08,
+  "limit": 235.92,
+  "new_start": 232.80033333333336,
+  "dur": 4.22,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os terráqueos se concentram na mesma coisa e fazem ações predefinidas."
+ },
+ {
+  "id": 49,
+  "start": 235.92,
+  "limit": 240.58,
+  "new_start": 237.64033333333333,
+  "dur": 4.311708333333334,
+  "speed": 1.004,
+  "k": 1.000366595135903,
+  "text_tgt": "Aquilo em que se concentram vira o centro do ritual, um \"objeto sagrado\"."
+ },
+ {
+  "id": 50,
+  "start": 240.58,
+  "limit": 245.94,
+  "new_start": 242.30204166666667,
+  "dur": 5.060125,
+  "speed": 1.164,
+  "k": 1.0093516791044803,
+  "text_tgt": "Pode ser um objeto mesmo, mas também uma pessoa, uma ideia ou qualquer outra coisa que possa ser uma \"coisa\"."
+ },
+ {
+  "id": 51,
+  "start": 245.94,
+  "limit": 253.1,
+  "new_start": 247.71216666666666,
+  "dur": 6.865541666666667,
+  "speed": 1.19,
+  "k": 1.007757216014898,
+  "text_tgt": "As ações do ritual costumam ser coordenadas e muitas vezes rítmicas, como procissões, cânticos, fórmulas ou movimentos do corpo."
+ },
+ {
+  "id": 52,
+  "start": 253.1,
+  "limit": 259.62,
+  "new_start": 254.92770833333333,
+  "dur": 5.339958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O que importa não são as ações em si, mas a coordenação, o foco comum no objeto sagrado."
+ },
+ {
+  "id": 53,
+  "start": 259.62,
+  "limit": 266.86,
+  "new_start": 261.44770833333337,
+  "dur": 6.55,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essa atividade ajuda a criar uma emoção compartilhada: devoção, alegria, dor, raiva, depende do ritual."
+ },
+ {
+  "id": 54,
+  "start": 266.86,
+  "limit": 274.2,
+  "new_start": 268.6877083333334,
+  "dur": 6.647958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando o ritual dá certo, várias coisas acontecem: primeiro, o sentimento de pertencer ao grupo se fortalece."
+ },
+ {
+  "id": 55,
+  "start": 274.2,
+  "limit": 277.84,
+  "new_start": 276.02770833333335,
+  "dur": 3.3610416666666665,
+  "speed": 1.249,
+  "k": 1.0195169413919452,
+  "text_tgt": "Em especial, o senso do que ajuda ou prejudica o grupo fica mais forte."
+ },
+ {
+  "id": 56,
+  "start": 277.84,
+  "limit": 283.06,
+  "new_start": 279.73875000000004,
+  "dur": 3.6590416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou seja, o grupo define seu senso de bem e mal, sua moral."
+ },
+ {
+  "id": 57,
+  "start": 283.06,
+  "limit": 289.8,
+  "new_start": 284.95875000000007,
+  "dur": 6.403083333333333,
+  "speed": 1.037,
+  "k": 1.0019411473788313,
+  "text_tgt": "Segundo, os participantes ganham \"energia emocional\", ou seja, o ritual cria seu próprio campo-feliz virtual."
+ },
+ {
+  "id": 58,
+  "start": 289.8,
+  "limit": 292.9,
+  "new_start": 291.7118333333334,
+  "dur": 2.80375,
+  "speed": 1.177,
+  "k": 1.0173387096774307,
+  "text_tgt": "Mas você pode perguntar: o que acontece quando o ritual acaba?"
+ },
+ {
+  "id": 59,
+  "start": 292.9,
+  "limit": 296.68,
+  "new_start": 294.8655833333334,
+  "dur": 3.4515416666666665,
+  "speed": 1.063,
+  "k": 1.0056988536155125,
+  "text_tgt": "O campo-feliz desaba, o espírito de grupo some, e aí?"
+ },
+ {
+  "id": 60,
+  "start": 296.68,
+  "limit": 301.74,
+  "new_start": 298.66712500000006,
+  "dur": 4.723708333333334,
+  "speed": 1.039,
+  "k": 1.0027091567852433,
+  "text_tgt": "Não seria ótimo ter uma lembrança do ritual, algo que os membros possam levar para casa?"
+ },
+ {
+  "id": 61,
+  "start": 301.74,
+  "limit": 303.96,
+  "new_start": 303.7408333333334,
+  "dur": 1.958,
+  "speed": 1.333,
+  "k": 1.0396396396396534,
+  "text_tgt": "É aí que entra o terceiro efeito: os símbolos."
+ },
+ {
+  "id": 62,
+  "start": 303.96,
+  "limit": 308.86,
+  "new_start": 306.0488333333334,
+  "dur": 4.609,
+  "speed": 1.202,
+  "k": 1.0120408163265235,
+  "text_tgt": "Um símbolo é uma espécie de capacitor portátil de felicidade, que conserva o campo-feliz do ritual."
+ },
+ {
+  "id": 63,
+  "start": 308.86,
+  "limit": 314.34,
+  "new_start": 311.0078333333334,
+  "dur": 5.193083333333333,
+  "speed": 1.217,
+  "k": 1.0115115571776225,
+  "text_tgt": "Pode ser um objeto, um sinal, uma ideia, uma pessoa, uma palavra ou qualquer outra coisa."
+ },
+ {
+  "id": 64,
+  "start": 314.34,
+  "limit": 318.12,
+  "new_start": 316.55091666666675,
+  "dur": 3.4629166666666666,
+  "speed": 1.106,
+  "k": 1.0087081128747717,
+  "text_tgt": "Muitas vezes, o símbolo é o próprio objeto sagrado do ritual."
+ },
+ {
+  "id": 65,
+  "start": 318.12,
+  "limit": 324.12,
+  "new_start": 320.36383333333345,
+  "dur": 5.686083333333333,
+  "speed": 1.115,
+  "k": 1.0060138888888888,
+  "text_tgt": "É como um suvenir, aquelas bugigangas que os terráqueos trazem de viagem como lembrança dos bons momentos."
+ },
+ {
+  "id": 66,
+  "start": 324.12,
+  "limit": 331.46,
+  "new_start": 326.3999166666668,
+  "dur": 6.869958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um símbolo não só traz felicidade, mas também lembra as emoções, o espírito e a moral do grupo, até o próximo ritual."
+ },
+ {
+  "id": 67,
+  "start": 331.46,
+  "limit": 334.12,
+  "new_start": 333.7399166666668,
+  "dur": 1.79,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Porque sempre tem um próximo ritual."
+ },
+ {
+  "id": 68,
+  "start": 334.12,
+  "limit": 338.36,
+  "new_start": 336.3999166666668,
+  "dur": 3.9422083333333333,
+  "speed": 1.177,
+  "k": 1.0123132861635198,
+  "text_tgt": "Rituais se repetem com mais ou menos frequência: são as cadeias de rituais."
+ },
+ {
+  "id": 69,
+  "start": 338.36,
+  "limit": 346.38,
+  "new_start": 340.69212500000015,
+  "dur": 7.668958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Cada grupo tem suas cadeias de rituais, onde reforça sua coesão, define seus valores morais e cria e carrega seus símbolos."
+ },
+ {
+  "id": 70,
+  "start": 346.38,
+  "limit": 358.42,
+  "new_start": 348.7121250000001,
+  "dur": 11.120041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Todo ritual tem os componentes que acabamos de ver: terráqueos reunidos, regras formais predefinidas, foco num objeto sagrado, emoções compartilhadas e ações coordenadas, muitas vezes rítmicas."
+ },
+ {
+  "id": 71,
+  "start": 358.42,
+  "limit": 370.52,
+  "new_start": 360.75212500000015,
+  "dur": 11.63,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como resultado, temos emoções positivas, como alegria ou consolo, um espírito de grupo reforçado, padrões morais do grupo e a carga dos capacitores de espírito de grupo: os símbolos."
+ },
+ {
+  "id": 72,
+  "start": 370.52,
+  "limit": 376.0,
+  "new_start": 372.8521250000001,
+  "dur": 5.651875,
+  "speed": 1.35,
+  "k": 1.095232664233573,
+  "text_tgt": "Terráqueos modernos costumam exibir \"seus\" símbolos em camisetas, roupas informais usadas na parte de cima do corpo."
+ },
+ {
+  "id": 73,
+  "start": 376.0,
+  "limit": 380.34,
+  "new_start": 378.8540000000001,
+  "dur": 4.14075,
+  "speed": 1.35,
+  "k": 1.0347350230414805,
+  "text_tgt": "\"Informal\" quer dizer que a roupa não é exigida pelo traje formal de outras cadeias de rituais."
+ },
+ {
+  "id": 74,
+  "start": 380.34,
+  "limit": 385.7,
+  "new_start": 383.3447500000001,
+  "dur": 4.529958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Regra prática: se dá para estampar numa camiseta, provavelmente é um símbolo."
+ },
+ {
+  "id": 75,
+  "start": 385.7,
+  "limit": 392.72,
+  "new_start": 388.7047500000001,
+  "dur": 6.364791666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, caso meus espectadores terráqueos queiram camisetas com símbolos do meu programa, criei uma loja online."
+ },
+ {
+  "id": 76,
+  "start": 392.72,
+  "limit": 395.02,
+  "new_start": 395.72475000000014,
+  "dur": 1.48,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O link está na descrição."
+ },
+ {
+  "id": 77,
+  "start": 395.02,
+  "limit": 397.1,
+  "new_start": 398.0247500000001,
+  "dur": 1.809,
+  "speed": 1.288,
+  "k": 1.0379807692307488,
+  "text_tgt": "Símbolos não precisam ser gráficos."
+ },
+ {
+  "id": 78,
+  "start": 397.1,
+  "limit": 409.46,
+  "new_start": 400.1837500000001,
+  "dur": 12.056,
+  "speed": 1.143,
+  "k": 1.0037216828478999,
+  "text_tgt": "Relacionamentos sexuais íntimos, por exemplo, são criados e mantidos por cadeias de rituais chamadas \"romance\", que geram todo tipo de símbolo: palavras, objetos, plantas, até sons, muitas vezes chamados de \"nossa música\"."
+ },
+ {
+  "id": 79,
+  "start": 409.46,
+  "limit": 414.46,
+  "new_start": 412.5897500000001,
+  "dur": 3.98,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Grandes grupos, como nações, também usam símbolos sonoros."
+ },
+ {
+  "id": 80,
+  "start": 414.46,
+  "limit": 417.14,
+  "new_start": 417.5897500000001,
+  "dur": 2.4145833333333333,
+  "speed": 1.317,
+  "k": 1.0315609452736292,
+  "text_tgt": "Símbolos musicais nacionais se chamam \"hinos\"."
+ },
+ {
+  "id": 81,
+  "start": 417.14,
+  "limit": 426.3,
+  "new_start": 420.35433333333344,
+  "dur": 8.49,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Outros símbolos nacionais incluem terráqueos famosos, comidas, bebidas, roupas, fatos históricos, palavras, cores, formas e criaturas."
+ },
+ {
+  "id": 82,
+  "start": 426.3,
+  "limit": 429.4,
+  "new_start": 429.51433333333347,
+  "dur": 2.7798333333333334,
+  "speed": 1.09,
+  "k": 1.0096236559139897,
+  "text_tgt": "Na verdade, quase tudo pode virar símbolo nacional."
+ },
+ {
+  "id": 83,
+  "start": 429.4,
+  "limit": 431.7,
+  "new_start": 432.6441666666668,
+  "dur": 1.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Menos os micróbios."
+ },
+ {
+  "id": 84,
+  "start": 434.82,
+  "limit": 436.16,
+  "new_start": 438.06416666666684,
+  "dur": 1.0560416666666668,
+  "speed": 1.231,
+  "k": 1.049284825870622,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 85,
+  "start": 436.16,
+  "limit": 439.7,
+  "new_start": 439.4702083333335,
+  "dur": 3.1,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um show é um tipo de ritual estranho, mas divertido."
+ },
+ {
+  "id": 86,
+  "start": 439.7,
+  "limit": 444.5,
+  "new_start": 443.0102083333335,
+  "dur": 4.473458333333333,
+  "speed": 1.073,
+  "k": 1.0048871527777754,
+  "text_tgt": "Se você fizer o mesmo que os outros espectadores, pode passar despercebido na multidão."
+ },
+ {
+  "id": 87,
+  "start": 444.5,
+  "limit": 448.1,
+  "new_start": 447.83366666666683,
+  "dur": 3.15,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas não imite os músicos, você pode se meter em encrenca."
+ },
+ {
+  "id": 88,
+  "start": 448.1,
+  "limit": 451.34,
+  "new_start": 451.43366666666685,
+  "dur": 2.8913333333333333,
+  "speed": 1.003,
+  "k": 1.0004115226337595,
+  "text_tgt": "Vejamos um ritual comum: um jogo de bola público."
+ },
+ {
+  "id": 89,
+  "start": 451.34,
+  "limit": 455.14,
+  "new_start": 454.6750000000002,
+  "dur": 3.4912083333333332,
+  "speed": 1.134,
+  "k": 1.010844298245611,
+  "text_tgt": "Em geral, os jogos acontecem em séries: cadeias de rituais."
+ },
+ {
+  "id": 90,
+  "start": 455.14,
+  "limit": 457.5,
+  "new_start": 458.5162083333335,
+  "dur": 2.0952916666666668,
+  "speed": 1.322,
+  "k": 1.036140536723158,
+  "text_tgt": "Aqui temos times de jogadores e torcedores reunidos."
+ },
+ {
+  "id": 91,
+  "start": 457.5,
+  "limit": 462.84,
+  "new_start": 460.96150000000017,
+  "dur": 5.0183333333333335,
+  "speed": 1.092,
+  "k": 1.005305867665423,
+  "text_tgt": "Os jogadores fazem um jogo muito ritualizado, com regras rígidas, que exige muita coordenação."
+ },
+ {
+  "id": 92,
+  "start": 462.84,
+  "limit": 470.6,
+  "new_start": 466.3298333333335,
+  "dur": 7.434708333333333,
+  "speed": 1.072,
+  "k": 1.003184063573877,
+  "text_tgt": "Mas os torcedores também fazem ações coordenadas e rítmicas, como cantos ou a ola, para expressar emoções compartilhadas."
+ },
+ {
+  "id": 93,
+  "start": 470.6,
+  "limit": 475.2,
+  "new_start": 474.11454166666687,
+  "dur": 4.326583333333334,
+  "speed": 1.28,
+  "k": 1.0166485507246452,
+  "text_tgt": "Para os jogadores, o objeto sagrado é a bola; para os torcedores, é mais o \"seu\" time."
+ },
+ {
+  "id": 94,
+  "start": 475.2,
+  "limit": 484.36,
+  "new_start": 478.7911250000002,
+  "dur": 8.8585,
+  "speed": 1.166,
+  "k": 1.0052947598253246,
+  "text_tgt": "Como resultado, temos um campo-feliz emocional, um espírito de grupo reforçado e, muitas vezes, uma moral compartilhada, por exemplo contra juízes vistos como injustos."
+ },
+ {
+  "id": 95,
+  "start": 484.36,
+  "limit": 493.88,
+  "new_start": 487.9996250000002,
+  "dur": 7.719,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E para manter essas conquistas depois do ritual, há os símbolos: escudos, cores do time e, às vezes, um troféu para o vencedor."
+ },
+ {
+  "id": 96,
+  "start": 493.88,
+  "limit": 495.22,
+  "new_start": 497.5196250000002,
+  "dur": 1.0669583333333332,
+  "speed": 1.284,
+  "k": 1.0574315920397757,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 97,
+  "start": 495.22,
+  "limit": 499.76,
+  "new_start": 498.93658333333354,
+  "dur": 4.234458333333333,
+  "speed": 1.143,
+  "k": 1.009792584434663,
+  "text_tgt": "A vantagem dos rituais ao ar livre é que dá para observá-los de grande altitude."
+ },
+ {
+  "id": 98,
+  "start": 499.76,
+  "limit": 507.88,
+  "new_start": 503.52104166666686,
+  "dur": 7.289,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se quiser saber o que acontece quando o ritual é perturbado, é só teletransportar uma vaca para o campo e observar a reação."
+ },
+ {
+  "id": 99,
+  "start": 507.88,
+  "limit": 510.66,
+  "new_start": 511.64104166666687,
+  "dur": 2.5039166666666666,
+  "speed": 1.27,
+  "k": 1.0265887290167757,
+  "text_tgt": "Talvez os rituais mais comuns sejam as conversas."
+ },
+ {
+  "id": 100,
+  "start": 510.66,
+  "limit": 515.7,
+  "new_start": 514.4949583333336,
+  "dur": 4.702458333333333,
+  "speed": 1.042,
+  "k": 1.0024718915343873,
+  "text_tgt": "Uma conversa costuma começar com um cumprimento, ritual que já vimos no episódio 7."
+ },
+ {
+  "id": 101,
+  "start": 515.7,
+  "limit": 520.34,
+  "new_start": 519.5474166666669,
+  "dur": 4.316625,
+  "speed": 1.077,
+  "k": 1.005738146551727,
+  "text_tgt": "Cumprimentos costumam envolver toques sincronizados, até coreografados."
+ },
+ {
+  "id": 102,
+  "start": 520.34,
+  "limit": 525.76,
+  "new_start": 524.2140416666668,
+  "dur": 4.746958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A conversa em si pode começar com a pergunta \"Como vai?\", para sincronizar emoções."
+ },
+ {
+  "id": 103,
+  "start": 525.76,
+  "limit": 536.64,
+  "new_start": 529.6340416666668,
+  "dur": 9.348083333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Depois vem uma troca de frases em turnos, que pode ou não trazer informação real: às vezes os terráqueos só falam do clima ou de coisas que todo mundo já sabe."
+ },
+ {
+  "id": 104,
+  "start": 536.64,
+  "limit": 538.62,
+  "new_start": 540.5140416666668,
+  "dur": 1.8222083333333334,
+  "speed": 1.35,
+  "k": 1.0970749158249058,
+  "text_tgt": "Os terráqueos chamam isso de \"conversa fiada\"."
+ },
+ {
+  "id": 105,
+  "start": 538.62,
+  "limit": 544.84,
+  "new_start": 542.6862500000001,
+  "dur": 5.8857083333333335,
+  "speed": 1.05,
+  "k": 1.0025254555198242,
+  "text_tgt": "O objetivo da conversa fiada não é trocar informação, mas emoções, e o próprio ato de falar em turnos."
+ },
+ {
+  "id": 106,
+  "start": 544.84,
+  "limit": 552.04,
+  "new_start": 548.9219583333335,
+  "dur": 6.898,
+  "speed": 1.167,
+  "k": 1.0066666666666761,
+  "text_tgt": "Na Grã-Bretanha e nos Estados Unidos, as pausas ou sobreposições entre turnos numa conversa amigável costumam durar menos de um décimo de segundo."
+ },
+ {
+  "id": 107,
+  "start": 552.04,
+  "limit": 557.4,
+  "new_start": 556.1699583333335,
+  "dur": 5.01,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pausas mais longas soam \"constrangedoras\"; sobreposições longas, \"grosseiras\"."
+ },
+ {
+  "id": 108,
+  "start": 557.4,
+  "limit": 561.54,
+  "new_start": 561.5299583333335,
+  "dur": 3.9555416666666665,
+  "speed": 1.35,
+  "k": 1.0399859098228696,
+  "text_tgt": "Às vezes, rituais de conversa levam a julgar estranhos como imorais ou esquisitos."
+ },
+ {
+  "id": 109,
+  "start": 561.54,
+  "limit": 563.88,
+  "new_start": 565.8355000000001,
+  "dur": 2.051083333333333,
+  "speed": 1.214,
+  "k": 1.0261039886039747,
+  "text_tgt": "Esse tipo de conversa se chama \"fofoca\"."
+ },
+ {
+  "id": 110,
+  "start": 563.88,
+  "limit": 567.2,
+  "new_start": 568.2365833333334,
+  "dur": 2.988625,
+  "speed": 1.054,
+  "k": 1.005609939759021,
+  "text_tgt": "É um exemplo de ritual que reforça o senso de moral."
+ },
+ {
+  "id": 111,
+  "start": 567.2,
+  "limit": 573.9,
+  "new_start": 571.5752083333334,
+  "dur": 6.367916666666667,
+  "speed": 1.06,
+  "k": 1.002674129353244,
+  "text_tgt": "Em grupos maiores, isso pode virar indignação pública contra outros grupos, levando a tumultos e massacres."
+ },
+ {
+  "id": 112,
+  "start": 573.9,
+  "limit": 585.62,
+  "new_start": 578.293125,
+  "dur": 11.399833333333333,
+  "speed": 1.093,
+  "k": 1.002545506257108,
+  "text_tgt": "Um exemplo recente desses rituais de ódio são os protestos na França de uma minoria conservadora contra uma lei que dá aos homossexuais o direito a algo chamado casamento, antes privilégio dos heterossexuais."
+ },
+ {
+  "id": 113,
+  "start": 585.62,
+  "limit": 589.44,
+  "new_start": 590.0429583333333,
+  "dur": 3.5035833333333333,
+  "speed": 1.104,
+  "k": 1.008791448516566,
+  "text_tgt": "Como regra geral, os terráqueos não gostam de dividir privilégios."
+ },
+ {
+  "id": 114,
+  "start": 589.44,
+  "limit": 592.3,
+  "new_start": 593.8965416666666,
+  "dur": 2.688875,
+  "speed": 1.35,
+  "k": 1.0625437062937435,
+  "text_tgt": "Casamento é um ato formal para oficializar um relacionamento sexual."
+ },
+ {
+  "id": 115,
+  "start": 592.3,
+  "limit": 595.02,
+  "new_start": 596.9354166666666,
+  "dur": 2.4295,
+  "speed": 1.206,
+  "k": 1.0218749999999899,
+  "text_tgt": "Mas por que essa formalidade é tão importante?"
+ },
+ {
+  "id": 116,
+  "start": 595.02,
+  "limit": 597.2,
+  "new_start": 599.7149166666666,
+  "dur": 1.8824583333333333,
+  "speed": 1.174,
+  "k": 1.0240634556574624,
+  "text_tgt": "A resposta é simples: é um ritual!"
+ },
+ {
+  "id": 117,
+  "start": 600.26,
+  "limit": 607.02,
+  "new_start": 605.0073749999998,
+  "dur": 6.047958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O ritual do casamento não só fortalece o laço do casal, mas também o admite no grupo dos cidadãos casados."
+ },
+ {
+  "id": 118,
+  "start": 607.02,
+  "limit": 611.0,
+  "new_start": 611.7673749999998,
+  "dur": 3.3,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E muitos membros desse grupo não querem homossexuais no clube."
+ },
+ {
+  "id": 119,
+  "start": 611.0,
+  "limit": 617.9,
+  "new_start": 615.7473749999998,
+  "dur": 6.5772916666666665,
+  "speed": 1.093,
+  "k": 1.003955314009665,
+  "text_tgt": "Um tipo importante de ritual são as punições, ações desagradáveis impostas a quem violou os padrões morais do grupo."
+ },
+ {
+  "id": 120,
+  "start": 617.9,
+  "limit": 623.78,
+  "new_start": 622.6746666666664,
+  "dur": 5.01,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pode ser multa, prisão, tortura, humilhação pública, exílio ou morte."
+ },
+ {
+  "id": 121,
+  "start": 623.78,
+  "limit": 629.88,
+  "new_start": 628.5546666666664,
+  "dur": 5.83075,
+  "speed": 1.3,
+  "k": 1.013237704918029,
+  "text_tgt": "O objetivo não é só desencorajar infratores, mas também restaurar, de forma ritual, a integridade abalada do grupo."
+ },
+ {
+  "id": 122,
+  "start": 629.88,
+  "limit": 631.74,
+  "new_start": 634.7354166666664,
+  "dur": 1.6666666666666667,
+  "speed": 1.35,
+  "k": 1.0842293906809957,
+  "text_tgt": "Os terráqueos chamam isso de \"justiça\"."
+ },
+ {
+  "id": 123,
+  "start": 631.74,
+  "limit": 643.04,
+  "new_start": 636.7520833333331,
+  "dur": 9.929,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Outro tipo importante são os ritos de passagem, que marcam a transição para uma nova fase da vida: nascer, virar adulto, se formar na escola, casar, morrer."
+ },
+ {
+  "id": 124,
+  "start": 643.04,
+  "limit": 649.18,
+  "new_start": 648.052083333333,
+  "dur": 5.67,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Entrar num grupo social também pode exigir um rito de passagem, chamado ritual de iniciação."
+ },
+ {
+  "id": 125,
+  "start": 649.18,
+  "limit": 657.16,
+  "new_start": 654.192083333333,
+  "dur": 7.627125,
+  "speed": 1.003,
+  "k": 1.0,
+  "text_tgt": "Ritos de passagem costumam incluir dor física, medo ou outro sofrimento, de simples pegadinhas a provações com risco de morte."
+ },
+ {
+  "id": 126,
+  "start": 657.16,
+  "limit": 666.32,
+  "new_start": 662.172083333333,
+  "dur": 8.841625,
+  "speed": 1.105,
+  "k": 1.0034525109170216,
+  "text_tgt": "Por isso as provas finais de escolas e universidades costumam ser tão estressantes, mesmo quando o candidato já provou sua capacidade escrevendo um artigo científico."
+ },
+ {
+  "id": 127,
+  "start": 666.32,
+  "limit": 671.38,
+  "new_start": 671.3637083333331,
+  "dur": 2.549,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Provas são ritos de passagem, têm que doer!"
+ },
+ {
+  "id": 128,
+  "start": 671.38,
+  "limit": 673.12,
+  "new_start": 676.423708333333,
+  "dur": 1.37,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 129,
+  "start": 673.12,
+  "limit": 677.58,
+  "new_start": 678.163708333333,
+  "dur": 4.117083333333333,
+  "speed": 1.025,
+  "k": 1.0015881913303355,
+  "text_tgt": "Conquistar a Terra não é difícil, dada a sua superioridade tecnológica."
+ },
+ {
+  "id": 130,
+  "start": 677.58,
+  "limit": 680.84,
+  "new_start": 682.6307916666664,
+  "dur": 2.79,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas governar o planeta depois é outra história."
+ },
+ {
+  "id": 131,
+  "start": 680.84,
+  "limit": 684.74,
+  "new_start": 685.8907916666664,
+  "dur": 3.6292916666666666,
+  "speed": 1.295,
+  "k": 1.0203311965812025,
+  "text_tgt": "Para se manter no poder, você vai precisar de rituais de massa e símbolos fortes."
+ },
+ {
+  "id": 132,
+  "start": 684.74,
+  "limit": 689.74,
+  "new_start": 689.870083333333,
+  "dur": 4.698791666666667,
+  "speed": 1.162,
+  "k": 1.0097583333333333,
+  "text_tgt": "Mas escolha bem seus símbolos: símbolos ofensivos ou engraçados podem arruinar sua autoridade."
+ },
+ {
+  "id": 133,
+  "start": 689.74,
+  "limit": 694.74,
+  "new_start": 694.9188749999997,
+  "dur": 4.704375,
+  "speed": 1.184,
+  "k": 1.010875,
+  "text_tgt": "Este episódio se baseia sobretudo no livro \"Interaction Ritual Chains\", de Randall Collins."
+ },
+ {
+  "id": 134,
+  "start": 694.74,
+  "limit": 698.64,
+  "new_start": 699.9732499999998,
+  "dur": 3.1,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Segundo o livro, rituais exigem presença física."
+ },
+ {
+  "id": 135,
+  "start": 698.64,
+  "limit": 700.76,
+  "new_start": 703.8732499999998,
+  "dur": 1.37,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas não tenho tanta certeza."
+ },
+ {
+  "id": 136,
+  "start": 700.76,
+  "limit": 710.52,
+  "new_start": 705.9932499999998,
+  "dur": 9.109,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Nos últimos anos, surgiram fortes comunidades online que criam sua própria identidade, símbolos e senso de moral, mesmo sem nunca se encontrar pessoalmente."
+ },
+ {
+  "id": 137,
+  "start": 710.52,
+  "limit": 716.36,
+  "new_start": 715.7532499999998,
+  "dur": 5.541333333333333,
+  "speed": 1.173,
+  "k": 1.008789954337894,
+  "text_tgt": "Isso pode indicar algum equivalente online aos rituais de interação, que mantém essas comunidades unidas."
+ },
+ {
+  "id": 138,
+  "start": 716.36,
+  "limit": 721.12,
+  "new_start": 721.6445833333331,
+  "dur": 3.9089583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, os terráqueos usam rituais em quase toda atividade social."
+ },
+ {
+  "id": 139,
+  "start": 721.12,
+  "limit": 722.22,
+  "new_start": 726.4045833333331,
+  "dur": 0.72,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas por quê?"
+ },
+ {
+  "id": 140,
+  "start": 722.22,
+  "limit": 724.22,
+  "new_start": 727.5045833333331,
+  "dur": 1.65,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para que servem os rituais?"
+ },
+ {
+  "id": 141,
+  "start": 724.22,
+  "limit": 727.64,
+  "new_start": 729.5045833333331,
+  "dur": 3.1202083333333333,
+  "speed": 1.173,
+  "k": 1.014680799220285,
+  "text_tgt": "Acho que os rituais são, na verdade, um substituto para a telepatia."
+ },
+ {
+  "id": 142,
+  "start": 727.64,
+  "limit": 745.14,
+  "new_start": 732.9747916666664,
+  "dur": 17.191708333333334,
+  "speed": 1.111,
+  "k": 1.0023833333333334,
+  "text_tgt": "Veja, como a maioria das civilizações sociais, os terráqueos percebem vários planos da realidade: o mundo físico, o plano das emoções e a realidade social, que inclui coisas como status social, relações, grupos, gratidão, carma etc., todos os mecanismos que formam a sociedade."
+ },
+ {
+  "id": 143,
+  "start": 745.14,
+  "limit": 748.22,
+  "new_start": 750.5164999999997,
+  "dur": 2.690541666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Na verdade, é nesse plano que a sociedade acontece."
+ },
+ {
+  "id": 144,
+  "start": 748.22,
+  "limit": 753.82,
+  "new_start": 753.5964999999998,
+  "dur": 5.274875,
+  "speed": 1.073,
+  "k": 1.00444196428571,
+  "text_tgt": "Há um quarto plano, a realidade jurídica, uma formalização de alguns aspectos da realidade social."
+ },
+ {
+  "id": 145,
+  "start": 753.82,
+  "limit": 756.46,
+  "new_start": 759.2213749999997,
+  "dur": 1.85,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Falo disso em outro episódio."
+ },
+ {
+  "id": 146,
+  "start": 756.46,
+  "limit": 760.04,
+  "new_start": 761.8613749999997,
+  "dur": 3.30725,
+  "speed": 1.279,
+  "k": 1.0215782122905235,
+  "text_tgt": "Normalmente, uma civilização administra esses planos por telepatia."
+ },
+ {
+  "id": 147,
+  "start": 760.04,
+  "limit": 772.18,
+  "new_start": 765.5186249999997,
+  "dur": 11.460041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os Yetlings de Arcturus 11, por exemplo, são movidos por algo como emoções, formam grupos e relações pessoais e têm uma moeda de troca virtual, parecida com a gratidão, mas compartilhada no grupo."
+ },
+ {
+  "id": 148,
+  "start": 772.18,
+  "limit": 777.12,
+  "new_start": 777.6586249999997,
+  "dur": 4.607916666666667,
+  "speed": 1.061,
+  "k": 1.0036268556005288,
+  "text_tgt": "Por serem movidos a emoções, os Yetlings precisam compartilhá-las por telepatia."
+ },
+ {
+  "id": 149,
+  "start": 777.12,
+  "limit": 780.82,
+  "new_start": 782.6165416666663,
+  "dur": 3.23,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Eles também usam telepatia para agir no plano social."
+ },
+ {
+  "id": 150,
+  "start": 780.82,
+  "limit": 782.62,
+  "new_start": 786.3165416666664,
+  "dur": 1.8815,
+  "speed": 1.35,
+  "k": 1.2397222222222535,
+  "text_tgt": "Mecanismos assim são comuns na galáxia."
+ },
+ {
+  "id": 151,
+  "start": 782.62,
+  "limit": 792.8,
+  "new_start": 788.5480416666663,
+  "dur": 9.831333333333333,
+  "speed": 1.008,
+  "k": 1.0001309757694876,
+  "text_tgt": "Alguns cientistas alienígenas até teorizam que não existe sociedade sem telepatia, porque só ela permite criar e sincronizar sem parar uma realidade social comum e dinâmica."
+ },
+ {
+  "id": 152,
+  "start": 792.8,
+  "limit": 799.04,
+  "new_start": 798.7293749999997,
+  "dur": 5.180458333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A consciência telepática comum seria, segundo eles, o meio onde a realidade social acontece."
+ },
+ {
+  "id": 153,
+  "start": 799.04,
+  "limit": 806.02,
+  "new_start": 804.9693749999997,
+  "dur": 6.489,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Parece bem convincente na teoria, mas aí existe esse exemplo grande, irritante e paradoxal: os terráqueos."
+ },
+ {
+  "id": 154,
+  "start": 806.02,
+  "limit": 811.44,
+  "new_start": 811.9493749999997,
+  "dur": 5.105375,
+  "speed": 1.12,
+  "k": 1.0065267527675141,
+  "text_tgt": "Seres muito sociais, que construíram uma sociedade complexa sem nenhuma telepatia: como isso é possível?"
+ },
+ {
+  "id": 155,
+  "start": 811.44,
+  "limit": 814.66,
+  "new_start": 817.4047499999997,
+  "dur": 2.23,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A resposta é simples: rituais."
+ },
+ {
+  "id": 156,
+  "start": 814.66,
+  "limit": 819.58,
+  "new_start": 820.6247499999996,
+  "dur": 4.610625,
+  "speed": 1.13,
+  "k": 1.0082571138211232,
+  "text_tgt": "Símbolos e rituais ligam a realidade aos outros planos de existência percebidos."
+ },
+ {
+  "id": 157,
+  "start": 819.58,
+  "limit": 823.48,
+  "new_start": 825.5853749999997,
+  "dur": 3.499,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando os terráqueos querem sincronizar emoções, usam rituais."
+ },
+ {
+  "id": 158,
+  "start": 823.48,
+  "limit": 830.0,
+  "new_start": 829.4853749999996,
+  "dur": 6.05,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando querem agir sobre grupos, status, gratidão, relações etc., fazem isso por rituais."
+ },
+ {
+  "id": 159,
+  "start": 830.0,
+  "limit": 832.84,
+  "new_start": 836.0053749999996,
+  "dur": 2.5247083333333333,
+  "speed": 1.113,
+  "k": 1.012221244131444,
+  "text_tgt": "Até ações no plano jurídico exigem rituais."
+ },
+ {
+  "id": 160,
+  "start": 832.84,
+  "limit": 836.3,
+  "new_start": 838.880083333333,
+  "dur": 3.1575416666666665,
+  "speed": 1.162,
+  "k": 1.0137403660886546,
+  "text_tgt": "A sociedade terráquea como a conhecemos não existiria sem rituais."
+ },
+ {
+  "id": 161,
+  "start": 836.3,
+  "limit": 842.42,
+  "new_start": 842.3876249999996,
+  "dur": 5.579,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Claro, os terráqueos não fazem rituais por serem importantes para a sociedade, fazem porque gostam."
+ },
+ {
+  "id": 162,
+  "start": 842.42,
+  "limit": 849.16,
+  "new_start": 848.5076249999996,
+  "dur": 6.419333333333333,
+  "speed": 1.092,
+  "k": 1.004352126607318,
+  "text_tgt": "E sempre que os terráqueos gostam de algo, pode apostar que é mais um plano do nosso velho amigo, o imperativo genético."
+ },
+ {
+  "id": 163,
+  "start": 849.16,
+  "limit": 850.88,
+  "new_start": 855.2769583333329,
+  "dur": 0.94,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Que surpresa."
+ },
+ {
+  "id": 164,
+  "start": 850.88,
+  "limit": 853.74,
+  "new_start": 856.9969583333329,
+  "dur": 2.558125,
+  "speed": 1.161,
+  "k": 1.0168269230769182,
+  "text_tgt": "Um aviso sobre minha conta AdSense encerrada."
+ },
+ {
+  "id": 165,
+  "start": 853.74,
+  "limit": 857.24,
+  "new_start": 859.905083333333,
+  "dur": 3.2394166666666666,
+  "speed": 1.349,
+  "k": 1.0255476190476192,
+  "text_tgt": "Antes de tudo, obrigado a todos pelas mensagens de apoio e pelas ideias."
+ },
+ {
+  "id": 166,
+  "start": 857.24,
+  "limit": 863.68,
+  "new_start": 863.4944999999997,
+  "dur": 4.879,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas decidi não buscar outras formas de monetizar meus vídeos, exceto a loja de camisetas."
+ },
+ {
+  "id": 167,
+  "start": 863.68,
+  "limit": 867.7,
+  "new_start": 869.9344999999996,
+  "dur": 3.6706666666666665,
+  "speed": 1.002,
+  "k": 1.0001658374792464,
+  "text_tgt": "Enfim, não vivo disso, é o que os terráqueos chamam de hobby."
+ },
+ {
+  "id": 168,
+  "start": 867.7,
+  "limit": 870.58,
+  "new_start": 873.9551666666663,
+  "dur": 2.7481666666666666,
+  "speed": 1.35,
+  "k": 1.0757523148148165,
+  "text_tgt": "Este foi o décimo primeiro episódio do Terráqueos 101."
+ },
+ {
+  "id": 169,
+  "start": 870.58,
+  "limit": 875.12,
+  "new_start": 877.053333333333,
+  "dur": 4.237708333333333,
+  "speed": 1.161,
+  "k": 1.0105084434654998,
+  "text_tgt": "No próximo episódio, vamos conhecer o sentido mais importante dos terráqueos: a visão."
+ },
+ {
+  "id": 170,
+  "start": 875.12,
+  "limit": 880.54,
+  "new_start": 881.6410416666663,
+  "dur": 5.140291666666666,
+  "speed": 1.247,
+  "k": 1.0129689421894295,
+  "text_tgt": "Também vamos ver por que os terráqueos chamam isto de \"amarelo\", embora seja na verdade um padrão de vermelho e verde."
+ },
+ {
+  "id": 171,
+  "start": 880.54,
+  "limit": 886.42,
+  "new_start": 887.1313333333329,
+  "dur": 5.572166666666667,
+  "speed": 1.143,
+  "k": 1.0071712018140597,
+  "text_tgt": "Obrigado por assistir! Clique em \"curtir\" se gostou do vídeo e, como sempre: não se esqueça de ser alienígena!"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 1.52,
+  "new_start": 0.0,
+  "dur": 1.5851666666666666,
+  "speed": 1.35,
+  "k": 1.2731359649122806,
+  "text_tgt": "Olá, colegas alienígenas."
+ },
+ {
+  "id": 2,
+  "start": 1.52,
+  "limit": 8.64,
+  "new_start": 1.9351666666666667,
+  "dur": 6.853208333333333,
+  "speed": 1.192,
+  "k": 1.0116865636704118,
+  "text_tgt": "Isto não é um episódio do Terráqueos 101, o curso intensivo para alienígenas, mas uma resposta a um vídeo terráqueo sobre um disco girando."
+ },
+ {
+  "id": 3,
+  "start": 8.64,
+  "limit": 12.96,
+  "new_start": 9.138375,
+  "dur": 4.04,
+  "speed": 1.25,
+  "k": 1.0162037037037035,
+  "text_tgt": "Como quase todos vocês viajam dentro de discos girando, talvez achem interessante."
+ },
+ {
+  "id": 4,
+  "start": 12.96,
+  "limit": 17.04,
+  "new_start": 13.528375,
+  "dur": 3.8013333333333335,
+  "speed": 1.218,
+  "k": 1.0174836601307193,
+  "text_tgt": "O vídeo terráqueo mostra um disco com um furo fora do centro, girando de pé no chão."
+ },
+ {
+  "id": 5,
+  "start": 17.04,
+  "limit": 21.56,
+  "new_start": 17.679708333333334,
+  "dur": 4.223375,
+  "speed": 1.146,
+  "k": 1.011808628318584,
+  "text_tgt": "O curioso é que o lado pesado do disco sobe, como se desafiasse a gravidade."
+ },
+ {
+  "id": 6,
+  "start": 21.56,
+  "limit": 23.14,
+  "new_start": 22.253083333333333,
+  "dur": 1.13,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por que isso acontece?"
+ },
+ {
+  "id": 7,
+  "start": 23.14,
+  "limit": 29.58,
+  "new_start": 23.833083333333335,
+  "dur": 6.142416666666667,
+  "speed": 1.011,
+  "k": 1.0081392339544517,
+  "text_tgt": "Antes de testar em casa: se você tem um daqueles painéis de pilotagem chiques sem atrito, lá não funciona."
+ },
+ {
+  "id": 8,
+  "start": 29.58,
+  "limit": 33.62,
+  "new_start": 30.3255,
+  "dur": 3.7096666666666667,
+  "speed": 1.054,
+  "k": 1.00486798679868,
+  "text_tgt": "Tente numa superfície áspera, porque o atrito é essencial no efeito."
+ },
+ {
+  "id": 9,
+  "start": 33.62,
+  "limit": 37.5,
+  "new_start": 34.38516666666667,
+  "dur": 4.074083333333333,
+  "speed": 1.35,
+  "k": 1.1402276632302397,
+  "text_tgt": "Na verdade, o efeito se baseia nas três regras básicas da física de discos voadores."
+ },
+ {
+  "id": 10,
+  "start": 37.5,
+  "limit": 41.62,
+  "new_start": 38.809250000000006,
+  "dur": 3.688,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para quem esqueceu as aulas de pilotagem, um lembrete rápido."
+ },
+ {
+  "id": 11,
+  "start": 41.62,
+  "limit": 46.18,
+  "new_start": 42.92925,
+  "dur": 4.265833333333333,
+  "speed": 1.151,
+  "k": 1.012244152046783,
+  "text_tgt": "A primeira regra diz que um disco voador sempre gira em torno do seu centro de massa."
+ },
+ {
+  "id": 12,
+  "start": 46.18,
+  "limit": 53.9,
+  "new_start": 47.54508333333334,
+  "dur": 7.4279166666666665,
+  "speed": 1.089,
+  "k": 1.007502158894646,
+  "text_tgt": "Então, se você abduzir um rebanho de vacas e guardar todas num lado do disco, o eixo de giro fica entre o centro geométrico e as vacas."
+ },
+ {
+  "id": 13,
+  "start": 53.9,
+  "limit": 56.98,
+  "new_start": 55.32300000000001,
+  "dur": 2.81625,
+  "speed": 1.328,
+  "k": 1.0280032467532474,
+  "text_tgt": "Por isso, sempre confira a distribuição da carga antes de decolar."
+ },
+ {
+  "id": 14,
+  "start": 56.98,
+  "limit": 63.08,
+  "new_start": 58.489250000000006,
+  "dur": 4.818,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A segunda regra diz que, quando o disco raspa de lado no chão, ele tende a tombar."
+ },
+ {
+  "id": 15,
+  "start": 63.08,
+  "limit": 65.12,
+  "new_start": 64.58925,
+  "dur": 1.7311666666666667,
+  "speed": 1.131,
+  "k": 1.0201797385620885,
+  "text_tgt": "Por isso, sempre pouse na vertical."
+ },
+ {
+  "id": 16,
+  "start": 65.12,
+  "limit": 72.3,
+  "new_start": 66.67041666666667,
+  "dur": 6.460041666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E, por fim, a terceira regra diz que, quando você inclina o disco girando para um lado, ele tende a rolar de lado."
+ },
+ {
+  "id": 17,
+  "start": 72.3,
+  "limit": 75.86,
+  "new_start": 73.85041666666666,
+  "dur": 3.318125,
+  "speed": 1.317,
+  "k": 1.0303721910112353,
+  "text_tgt": "Isso se chama precessão, e todo piloto de disco já sentiu isso na pele."
+ },
+ {
+  "id": 18,
+  "start": 75.86,
+  "limit": 79.06,
+  "new_start": 77.51854166666666,
+  "dur": 2.809,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por isso, pare de girar antes de manobrar ou pousar."
+ },
+ {
+  "id": 19,
+  "start": 79.06,
+  "limit": 83.88,
+  "new_start": 80.71854166666667,
+  "dur": 4.529,
+  "speed": 1.104,
+  "k": 1.0122406639004162,
+  "text_tgt": "Agora, imagine um piloto que tomou conhaque sagitariano demais e ficou descuidado."
+ },
+ {
+  "id": 20,
+  "start": 83.88,
+  "limit": 89.06,
+  "new_start": 85.59754166666667,
+  "dur": 4.901458333333333,
+  "speed": 1.218,
+  "k": 1.0137950450450437,
+  "text_tgt": "Ele pousa na Terra com um rebanho de vacas num lado do disco, e esquece de baixar o trem de pouso."
+ },
+ {
+  "id": 21,
+  "start": 89.06,
+  "limit": 90.84,
+  "new_start": 90.849,
+  "dur": 1.3300416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O que acontece no pouso?"
+ },
+ {
+  "id": 22,
+  "start": 90.84,
+  "limit": 94.74,
+  "new_start": 92.629,
+  "dur": 3.6182083333333335,
+  "speed": 1.066,
+  "k": 1.0174893162393186,
+  "text_tgt": "Bem, o ponto que toca o chão não vai ficar embaixo do centro de massa."
+ },
+ {
+  "id": 23,
+  "start": 94.74,
+  "limit": 97.8,
+  "new_start": 96.59720833333334,
+  "dur": 2.782,
+  "speed": 1.142,
+  "k": 1.0235294117647051,
+  "text_tgt": "Se o disco não estiver girando, ele simplesmente tomba."
+ },
+ {
+  "id": 24,
+  "start": 97.8,
+  "limit": 99.98,
+  "new_start": 99.72920833333335,
+  "dur": 1.901625,
+  "speed": 1.22,
+  "k": 1.0328555045871526,
+  "text_tgt": "Mas agora suponha que o disco está girando."
+ },
+ {
+  "id": 25,
+  "start": 99.98,
+  "limit": 103.94,
+  "new_start": 101.98083333333335,
+  "dur": 3.2100416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A primeira regra diz que ele gira em torno do centro de massa."
+ },
+ {
+  "id": 26,
+  "start": 103.94,
+  "limit": 108.64,
+  "new_start": 105.94083333333334,
+  "dur": 4.22,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou seja, ao pousar, o ponto de contato raspa no chão em círculo."
+ },
+ {
+  "id": 27,
+  "start": 108.64,
+  "limit": 120.44,
+  "new_start": 110.64083333333335,
+  "dur": 10.409041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A segunda regra diz que o atrito com o chão faz o disco tombar, e a terceira diz que esse tombo cria uma precessão, que faz o disco virar de lado em vez de tombar, e aqui o centro de massa sobe."
+ },
+ {
+  "id": 28,
+  "start": 120.44,
+  "limit": 124.7,
+  "new_start": 122.44083333333334,
+  "dur": 3.960875,
+  "speed": 1.073,
+  "k": 1.0119424882629096,
+  "text_tgt": "Então, as vacas sobem em vez de descer. Mas, voltando ao disco girando."
+ },
+ {
+  "id": 29,
+  "start": 124.7,
+  "limit": 126.12,
+  "new_start": 126.75170833333334,
+  "dur": 1.1659166666666667,
+  "speed": 1.338,
+  "k": 1.067546948356806,
+  "text_tgt": "É basicamente a mesma coisa."
+ },
+ {
+  "id": 30,
+  "start": 126.12,
+  "limit": 129.62,
+  "new_start": 128.267625,
+  "dur": 3.3325416666666667,
+  "speed": 1.35,
+  "k": 1.052154761904762,
+  "text_tgt": "Só que sem as vacas e o disco voador, o disco gira em torno do centro de massa."
+ },
+ {
+  "id": 31,
+  "start": 129.62,
+  "limit": 140.02,
+  "new_start": 131.9501666666667,
+  "dur": 10.088125,
+  "speed": 1.01,
+  "k": 1.0036658653846149,
+  "text_tgt": "Então, se não estiver perfeitamente simétrico, o ponto mais baixo raspa em círculo no chão, criando um torque de tombo, que é tudo o que a precessão queria para virar o lado pesado para cima."
+ },
+ {
+  "id": 32,
+  "start": 140.02,
+  "limit": 144.36,
+  "new_start": 142.3882916666667,
+  "dur": 4.039333333333333,
+  "speed": 1.067,
+  "k": 1.0113671274961589,
+  "text_tgt": "Isso continua até o centro de massa ficar acima do ponto de contato com o chão."
+ },
+ {
+  "id": 33,
+  "start": 144.36,
+  "limit": 148.96,
+  "new_start": 146.77762500000003,
+  "dur": 4.2999583333333335,
+  "speed": 1.13,
+  "k": 1.010860507246378,
+  "text_tgt": "Aliás, os humanos têm um brinquedo chamado pião invertido, que funciona igualzinho."
+ },
+ {
+  "id": 34,
+  "start": 148.96,
+  "limit": 156.7,
+  "new_start": 151.42758333333336,
+  "dur": 7.711291666666667,
+  "speed": 1.053,
+  "k": 1.041510551248926,
+  "text_tgt": "Resumindo: é por isso que, A, o disco vira com o lado pesado para cima, e B, pilotos de disco devem pegar leve no conhaque sagitariano."
+ },
+ {
+  "id": 35,
+  "start": 156.7,
+  "limit": 158.15,
+  "new_start": 159.48887500000004,
+  "dur": 1.1207916666666666,
+  "speed": 1.035,
+  "k": 1.014339080459758,
+  "text_tgt": "Obrigado por assistir!"
+ }
+]

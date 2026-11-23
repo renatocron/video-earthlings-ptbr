@@ -1,0 +1,2352 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.02,
+  "new_start": 0.0,
+  "dur": 1.7755416666666666,
+  "speed": 1.35,
+  "k": 1.0522483498349833,
+  "text_tgt": "Saudações, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 2.02,
+  "limit": 5.38,
+  "new_start": 2.1255416666666664,
+  "dur": 3.311125,
+  "speed": 1.35,
+  "k": 1.0896205357142859,
+  "text_tgt": "Vocês devem estar se perguntando por que não postei nenhum episódio faz tempo."
+ },
+ {
+  "id": 3,
+  "start": 5.38,
+  "limit": 7.74,
+  "new_start": 5.786666666666667,
+  "dur": 2.0570416666666667,
+  "speed": 1.157,
+  "k": 1.0199329096045198,
+  "text_tgt": "A resposta é simples: relatividade."
+ },
+ {
+  "id": 4,
+  "start": 7.74,
+  "limit": 11.3,
+  "new_start": 8.193708333333333,
+  "dur": 3.4740416666666665,
+  "speed": 1.35,
+  "k": 1.0741690074906365,
+  "text_tgt": "Fiz uma viagem a noventa e nove vírgula cinco por cento da velocidade da luz."
+ },
+ {
+  "id": 5,
+  "start": 11.3,
+  "limit": 15.82,
+  "new_start": 12.01775,
+  "dur": 4.232958333333333,
+  "speed": 1.219,
+  "k": 1.0139288348082596,
+  "text_tgt": "A viagem durou cerca de um ciclo lunar para mim, mas dez ciclos lunares para vocês."
+ },
+ {
+  "id": 6,
+  "start": 15.82,
+  "limit": 21.32,
+  "new_start": 16.600708333333333,
+  "dur": 5.215625,
+  "speed": 1.229,
+  "k": 1.0119318181818182,
+  "text_tgt": "Mas agora estou de volta, com um episódio sobre uma ciência terráquea estranha e peculiar: a matemática."
+ },
+ {
+  "id": 7,
+  "start": 54.46,
+  "limit": 61.78,
+  "new_start": 55.306333333333335,
+  "dur": 6.9976666666666665,
+  "speed": 1.087,
+  "k": 1.0037795992714025,
+  "text_tgt": "A sede de conhecimento dos terráqueos vem de vários fatores, como curiosidade, dúvida, guerra, exibicionismo e preguiça."
+ },
+ {
+  "id": 8,
+  "start": 61.78,
+  "limit": 65.66,
+  "new_start": 62.654,
+  "dur": 3.538,
+  "speed": 1.026,
+  "k": 1.0020618556701042,
+  "text_tgt": "Esta última, a preguiça, é o que deu origem à matemática."
+ },
+ {
+  "id": 9,
+  "start": 65.66,
+  "limit": 67.56,
+  "new_start": 66.542,
+  "dur": 1.5958333333333334,
+  "speed": 1.153,
+  "k": 1.0241228070175408,
+  "text_tgt": "Voltaremos a isso mais tarde."
+ },
+ {
+  "id": 10,
+  "start": 67.56,
+  "limit": 70.86,
+  "new_start": 68.48783333333334,
+  "dur": 3.0265833333333334,
+  "speed": 1.278,
+  "k": 1.0232070707070717,
+  "text_tgt": "Resumindo, a matemática poderia ser chamada de \"ciência da verdade\"."
+ },
+ {
+  "id": 11,
+  "start": 70.86,
+  "limit": 75.4,
+  "new_start": 71.86441666666667,
+  "dur": 4.264458333333334,
+  "speed": 1.278,
+  "k": 1.016400513950072,
+  "text_tgt": "Para entender essa ideia, precisamos entender o conceito terráqueo de verdadeiro e falso."
+ },
+ {
+  "id": 12,
+  "start": 75.4,
+  "limit": 77.9,
+  "new_start": 76.478875,
+  "dur": 2.2035416666666667,
+  "speed": 1.184,
+  "k": 1.0214166666666666,
+  "text_tgt": "Em outras palavras: a lógica terráquea."
+ },
+ {
+  "id": 13,
+  "start": 77.9,
+  "limit": 86.22,
+  "new_start": 79.03241666666666,
+  "dur": 8.0245,
+  "speed": 1.185,
+  "k": 1.0065504807692316,
+  "text_tgt": "Se você é alienígena, deve conhecer a lógica ternária difusa comum: as afirmações podem valer \"verdadeiro\", \"falso\", \"não sei\", ou qualquer coisa no meio."
+ },
+ {
+  "id": 14,
+  "start": 86.22,
+  "limit": 89.66,
+  "new_start": 87.40691666666666,
+  "dur": 3.126125,
+  "speed": 1.11,
+  "k": 1.0105014534883727,
+  "text_tgt": "Isso costuma ser representado como o \"triângulo da incerteza\"."
+ },
+ {
+  "id": 15,
+  "start": 89.66,
+  "limit": 93.7,
+  "new_start": 90.88304166666666,
+  "dur": 3.239,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para quem não conhece a lógica ternária, deixe-me explicar."
+ },
+ {
+  "id": 16,
+  "start": 93.7,
+  "limit": 101.0,
+  "new_start": 94.92304166666666,
+  "dur": 7.003333333333333,
+  "speed": 1.188,
+  "k": 1.0073059360730596,
+  "text_tgt": "Imagine uma loteria centauriana: você tem uma caixa com seis criaturas, tribbles e snorks, e tira uma delas, torcendo por um tribble."
+ },
+ {
+  "id": 17,
+  "start": 101.0,
+  "limit": 105.68,
+  "new_start": 102.276375,
+  "dur": 4.421375,
+  "speed": 1.348,
+  "k": 1.0195245726495712,
+  "text_tgt": "A afirmação \"vou tirar um tribble\" será verdadeira se você souber que todas as criaturas são tribbles."
+ },
+ {
+  "id": 18,
+  "start": 105.68,
+  "limit": 108.78,
+  "new_start": 107.04775000000001,
+  "dur": 2.780291666666667,
+  "speed": 1.097,
+  "k": 1.009771505376346,
+  "text_tgt": "Se só houver snorks, a afirmação será falsa."
+ },
+ {
+  "id": 19,
+  "start": 108.78,
+  "limit": 113.88,
+  "new_start": 110.17804166666667,
+  "dur": 4.820208333333333,
+  "speed": 1.257,
+  "k": 1.0137663398692822,
+  "text_tgt": "Com três tribbles e três snorks, a resposta fica no meio do caminho entre verdadeiro e falso."
+ },
+ {
+  "id": 20,
+  "start": 113.88,
+  "limit": 117.6,
+  "new_start": 115.34825000000001,
+  "dur": 3.3855,
+  "speed": 1.048,
+  "k": 1.004166666666667,
+  "text_tgt": "Se você não faz ideia do que tem na caixa, o valor é \"não sei\"."
+ },
+ {
+  "id": 21,
+  "start": 117.6,
+  "limit": 123.46,
+  "new_start": 119.08375000000001,
+  "dur": 5.5685416666666665,
+  "speed": 1.203,
+  "k": 1.0099900455062572,
+  "text_tgt": "Se você sabe que há um tribble e dois snorks, mas não sabe o resto, o valor fica em algum ponto dentro do triângulo."
+ },
+ {
+  "id": 22,
+  "start": 123.46,
+  "limit": 129.86,
+  "new_start": 125.00229166666668,
+  "dur": 6.07675,
+  "speed": 1.081,
+  "k": 1.0041796874999969,
+  "text_tgt": "Claro, esse valor depende do que você sabe: quando ganha informação, o valor se afasta do canto \"não sei\"."
+ },
+ {
+  "id": 23,
+  "start": 129.86,
+  "limit": 134.18,
+  "new_start": 131.42904166666668,
+  "dur": 2.83,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso é, resumindo, o \"triângulo da incerteza\"."
+ },
+ {
+  "id": 24,
+  "start": 134.18,
+  "limit": 139.34,
+  "new_start": 135.74904166666667,
+  "dur": 4.841333333333333,
+  "speed": 1.103,
+  "k": 1.0060723514211891,
+  "text_tgt": "Muitas raças alienígenas só conhecem os três cantos e não ligam para os valores intermediários."
+ },
+ {
+  "id": 25,
+  "start": 139.34,
+  "limit": 143.42,
+  "new_start": 140.94037500000002,
+  "dur": 3.7875833333333335,
+  "speed": 1.196,
+  "k": 1.0141135620915074,
+  "text_tgt": "A lógica política é o oposto: os cantos do triângulo são cortados."
+ },
+ {
+  "id": 26,
+  "start": 143.42,
+  "limit": 149.02,
+  "new_start": 145.07795833333336,
+  "dur": 5.287458333333333,
+  "speed": 1.127,
+  "k": 1.0066889880952339,
+  "text_tgt": "Um político alienígena nunca vai dizer claramente que algo é verdadeiro, ou falso, nem admitir que não sabe."
+ },
+ {
+  "id": 27,
+  "start": 149.02,
+  "limit": 154.64,
+  "new_start": 150.7154166666667,
+  "dur": 4.858,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, ele pode dizer que não sabia: esse valor lógico se chama \"negação plausível\"."
+ },
+ {
+  "id": 28,
+  "start": 154.64,
+  "limit": 157.34,
+  "new_start": 156.33541666666667,
+  "dur": 1.67,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas nem tudo cabe nesse esquema."
+ },
+ {
+  "id": 29,
+  "start": 157.34,
+  "limit": 175.42,
+  "new_start": 159.0354166666667,
+  "dur": 17.759416666666667,
+  "speed": 1.085,
+  "k": 1.0016270280235997,
+  "text_tgt": "A lógica administrativa usada pela Burocracia Galáctica Central, por exemplo, tem onze valores: aprovado, rejeitado, formulário errado, traga mais documentos, processo perdido, não é neste guichê, isso vai demorar, aguardando pagamento, não posso fazer nada, carimbo errado e guichê fechado, volte mais tarde."
+ },
+ {
+  "id": 30,
+  "start": 175.42,
+  "limit": 180.56,
+  "new_start": 177.14483333333337,
+  "dur": 4.850208333333334,
+  "speed": 1.202,
+  "k": 1.011713683527883,
+  "text_tgt": "A lógica administrativa é um dos motivos pelos quais ninguém sabe direito como a Burocracia funciona."
+ },
+ {
+  "id": 31,
+  "start": 180.56,
+  "limit": 185.98,
+  "new_start": 182.3450416666667,
+  "dur": 4.79,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já as lulas espaciais têm uma lógica unária, baseada num valor só: \"blup\"."
+ },
+ {
+  "id": 32,
+  "start": 185.98,
+  "limit": 190.3,
+  "new_start": 187.7650416666667,
+  "dur": 3.95,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A informação de verdade está nas nuances de como o \"blup\" é pronunciado."
+ },
+ {
+  "id": 33,
+  "start": 190.3,
+  "limit": 194.88,
+  "new_start": 192.0850416666667,
+  "dur": 4.306166666666667,
+  "speed": 1.277,
+  "k": 1.016630276564778,
+  "text_tgt": "É parecido com a palavra terráquea \"sinistro\", que pode querer dizer \"muito bom\" ou \"muito ruim\"."
+ },
+ {
+  "id": 34,
+  "start": 194.88,
+  "limit": 197.18,
+  "new_start": 196.7412083333334,
+  "dur": 1.9947916666666667,
+  "speed": 1.148,
+  "k": 1.0194746376811543,
+  "text_tgt": "Já a lógica terráquea é binária."
+ },
+ {
+  "id": 35,
+  "start": 197.18,
+  "limit": 204.18,
+  "new_start": 199.08600000000007,
+  "dur": 6.14,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O cérebro terráqueo é feito de células chamadas neurônios, que só têm dois estados: quieto e ativo."
+ },
+ {
+  "id": 36,
+  "start": 204.18,
+  "limit": 207.62,
+  "new_start": 206.08600000000007,
+  "dur": 3.85925,
+  "speed": 1.35,
+  "k": 1.2236191860465124,
+  "text_tgt": "Da mesma forma, a lógica terráquea se baseia em dois valores: falso e verdadeiro."
+ },
+ {
+  "id": 37,
+  "start": 207.62,
+  "limit": 209.16,
+  "new_start": 210.29525000000007,
+  "dur": 1.2489583333333334,
+  "speed": 1.201,
+  "k": 1.0382846320346375,
+  "text_tgt": "Não existe meio-termo."
+ },
+ {
+  "id": 38,
+  "start": 209.16,
+  "limit": 216.52,
+  "new_start": 211.8942083333334,
+  "dur": 7.07375,
+  "speed": 1.22,
+  "k": 1.0086616847826069,
+  "text_tgt": "Os terráqueos acreditam que toda afirmação vale \"verdadeiro\" ou \"falso\", e quando não se vê nenhum dos dois, é só porque o valor real está escondido."
+ },
+ {
+  "id": 39,
+  "start": 216.52,
+  "limit": 219.5,
+  "new_start": 219.31795833333342,
+  "dur": 2.770375,
+  "speed": 1.35,
+  "k": 1.0471057046979901,
+  "text_tgt": "Os terráqueos chamam esse valor oculto imaginário de \"verdade\"."
+ },
+ {
+  "id": 40,
+  "start": 219.5,
+  "limit": 225.76,
+  "new_start": 222.43833333333342,
+  "dur": 5.957875,
+  "speed": 1.163,
+  "k": 1.0076477635782761,
+  "text_tgt": "Aliás, esse pensamento binário é o motivo de os terráqueos terem tanta dificuldade para entender a física quântica."
+ },
+ {
+  "id": 41,
+  "start": 225.76,
+  "limit": 232.34,
+  "new_start": 228.7462083333334,
+  "dur": 6.271916666666667,
+  "speed": 1.14,
+  "k": 1.0063703140830782,
+  "text_tgt": "O cérebro deles não aceita a ideia de que, por exemplo, duas realidades diferentes podem coexistir enquanto ninguém as observa."
+ },
+ {
+  "id": 42,
+  "start": 232.34,
+  "limit": 237.1,
+  "new_start": 235.36812500000008,
+  "dur": 4.469291666666667,
+  "speed": 1.206,
+  "k": 1.012456232492999,
+  "text_tgt": "Se juntarmos a lógica binária com o conceito terráqueo de \"coisas\", temos a teoria dos conjuntos."
+ },
+ {
+  "id": 43,
+  "start": 237.1,
+  "limit": 242.32,
+  "new_start": 240.18741666666673,
+  "dur": 4.92875,
+  "speed": 1.193,
+  "k": 1.0112547892720307,
+  "text_tgt": "Um conjunto é uma coleção de elementos, entidades matemáticas que representam qualquer tipo de \"coisa\"."
+ },
+ {
+  "id": 44,
+  "start": 242.32,
+  "limit": 246.7,
+  "new_start": 245.46616666666674,
+  "dur": 4.116,
+  "speed": 1.319,
+  "k": 1.019634703196348,
+  "text_tgt": "Os elementos estão dentro ou fora de um conjunto: a lógica terráquea não conhece meio-termo."
+ },
+ {
+  "id": 45,
+  "start": 246.7,
+  "limit": 253.04,
+  "new_start": 249.93216666666675,
+  "dur": 6.050666666666666,
+  "speed": 1.203,
+  "k": 1.0095688748685587,
+  "text_tgt": "A lógica terráquea leva ao que os terráqueos chamam de \"conclusões\": regras para combinar afirmações e obter novas afirmações."
+ },
+ {
+  "id": 46,
+  "start": 253.04,
+  "limit": 257.4,
+  "new_start": 256.3328333333334,
+  "dur": 3.93,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "As conclusões são o tecido de que a matemática é feita. Voltaremos a isso."
+ },
+ {
+  "id": 47,
+  "start": 257.4,
+  "limit": 262.92,
+  "new_start": 260.6928333333334,
+  "dur": 5.186,
+  "speed": 1.043,
+  "k": 1.0028985507246306,
+  "text_tgt": "Mas as raízes da matemática estão num problema bem prático: contar, ou, de modo geral, medir."
+ },
+ {
+  "id": 48,
+  "start": 262.92,
+  "limit": 264.56,
+  "new_start": 266.2288333333334,
+  "dur": 0.85,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vou explicar."
+ },
+ {
+  "id": 49,
+  "start": 264.56,
+  "limit": 275.56,
+  "new_start": 267.8688333333334,
+  "dur": 10.41,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Toda civilização planetária jovem precisa achar um jeito de medir recursos: população, terra cultivável, comida, imóveis, matéria-prima, tempo: tudo isso precisa ser bem medido."
+ },
+ {
+  "id": 50,
+  "start": 275.56,
+  "limit": 281.74,
+  "new_start": 278.8688333333334,
+  "dur": 5.856375,
+  "speed": 1.072,
+  "k": 1.0042677993527496,
+  "text_tgt": "Além disso, construir exige medir antes coisas como comprimentos, áreas, volumes e ângulos."
+ },
+ {
+  "id": 51,
+  "start": 281.74,
+  "limit": 288.54,
+  "new_start": 285.07520833333336,
+  "dur": 6.453541666666666,
+  "speed": 1.001,
+  "k": 1.0005208333333315,
+  "text_tgt": "Quantidades pequenas dá para medir direto, mas a coisa complica quando elas são maiores ou difíceis de medir."
+ },
+ {
+  "id": 52,
+  "start": 288.54,
+  "limit": 294.54,
+  "new_start": 291.87875,
+  "dur": 5.52,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É aí que entra o cálculo: um atalho, um jeito de combinar quantidades disponíveis para obter outras."
+ },
+ {
+  "id": 53,
+  "start": 294.54,
+  "limit": 297.86,
+  "new_start": 297.87875,
+  "dur": 3.1318333333333332,
+  "speed": 1.35,
+  "k": 1.0487449799196809,
+  "text_tgt": "Em outras palavras, calcular é igual a medir vezes preguiça."
+ },
+ {
+  "id": 54,
+  "start": 297.86,
+  "limit": 300.6,
+  "new_start": 301.36058333333335,
+  "dur": 2.6815,
+  "speed": 1.35,
+  "k": 1.106386861313865,
+  "text_tgt": "Cada raça alienígena tem seus próprios métodos de cálculo."
+ },
+ {
+  "id": 55,
+  "start": 300.6,
+  "limit": 305.24,
+  "new_start": 304.39208333333335,
+  "dur": 4.199958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os aldebaranianos, por exemplo, usam uma curva para multiplicar valores."
+ },
+ {
+  "id": 56,
+  "start": 305.24,
+  "limit": 307.64,
+  "new_start": 309.03208333333333,
+  "dur": 2.053541666666667,
+  "speed": 1.008,
+  "k": 1.001475694444454,
+  "text_tgt": "É um método estranho, mas funciona."
+ },
+ {
+  "id": 57,
+  "start": 307.64,
+  "limit": 312.2,
+  "new_start": 311.435625,
+  "dur": 4.215166666666667,
+  "speed": 1.013,
+  "k": 1.001133040935672,
+  "text_tgt": "Agora, quanto maior a civilização, mais coisas há para calcular."
+ },
+ {
+  "id": 58,
+  "start": 312.2,
+  "limit": 321.88,
+  "new_start": 316.00079166666666,
+  "dur": 9.384291666666666,
+  "speed": 1.171,
+  "k": 1.0056086432506879,
+  "text_tgt": "Em geral, é nesse ponto que o bioadministrador do planeta dá à civilização acesso limitado à Grande Rede Galáctica, e assim aos supercérebros planetários, que fazem os cálculos da galáxia inteira."
+ },
+ {
+  "id": 59,
+  "start": 321.88,
+  "limit": 326.32,
+  "new_start": 325.7350833333333,
+  "dur": 4.176625,
+  "speed": 1.336,
+  "k": 1.0195101351351354,
+  "text_tgt": "O acesso aos supercérebros é totalmente grátis, pelo menos por umas centenas de ciclos solares."
+ },
+ {
+  "id": 60,
+  "start": 326.32,
+  "limit": 336.06,
+  "new_start": 330.26170833333333,
+  "dur": 9.435,
+  "speed": 1.154,
+  "k": 1.0046201232032845,
+  "text_tgt": "Mas, quando a civilização já depende totalmente de poder computacional externo, uma Estrela Fiscal se teleporta para a órbita e o planeta vira membro pagante da Burocracia Galáctica."
+ },
+ {
+  "id": 61,
+  "start": 336.06,
+  "limit": 338.5,
+  "new_start": 340.04670833333336,
+  "dur": 2.1283333333333334,
+  "speed": 1.122,
+  "k": 1.0157103825136622,
+  "text_tgt": "A essa altura, eles não têm muita escolha."
+ },
+ {
+  "id": 62,
+  "start": 338.5,
+  "limit": 353.36,
+  "new_start": 342.5250416666667,
+  "dur": 14.510375,
+  "speed": 1.011,
+  "k": 1.0000252355316275,
+  "text_tgt": "O \"monopólio da computação\" faz dos supercérebros planetários um dos poderes que comandam a Burocracia Galáctica Central, ao lado da Receita, do Departamento de Controle, do Aparato, da Inteligência Galáctica, da Força Espacial, do Comitê, do Banco Galáctico..."
+ },
+ {
+  "id": 63,
+  "start": 353.36,
+  "limit": 355.52,
+  "new_start": 357.3854166666667,
+  "dur": 1.33,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, é complicado."
+ },
+ {
+  "id": 64,
+  "start": 355.52,
+  "limit": 359.52,
+  "new_start": 359.54541666666665,
+  "dur": 3.669791666666667,
+  "speed": 1.06,
+  "k": 1.0049479166666666,
+  "text_tgt": "Na verdade, ninguém sabe direito quem mexe os pauzinhos na Galáxia."
+ },
+ {
+  "id": 65,
+  "start": 359.52,
+  "limit": 367.7,
+  "new_start": 363.5652083333333,
+  "dur": 7.835958333333333,
+  "speed": 1.012,
+  "k": 1.0007284026079861,
+  "text_tgt": "Mas a Humanidade não tinha bioadministrador nem acesso a supercérebros, então teve que criar seu próprio jeito de fazer contas: a matemática."
+ },
+ {
+  "id": 66,
+  "start": 367.7,
+  "limit": 373.9,
+  "new_start": 371.7511666666667,
+  "dur": 5.8693333333333335,
+  "speed": 1.056,
+  "k": 1.0031182795698943,
+  "text_tgt": "No fundo, a matemática é um jeito de evitar calcular, e calcular é um jeito de evitar medir e contar."
+ },
+ {
+  "id": 67,
+  "start": 373.9,
+  "limit": 379.24,
+  "new_start": 377.9705,
+  "dur": 4.9089583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por isso, podemos definir: \"matemática é igual a medir vezes preguiça ao quadrado\"."
+ },
+ {
+  "id": 68,
+  "start": 379.24,
+  "limit": 385.24,
+  "new_start": 383.31050000000005,
+  "dur": 5.356958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas: em geral, livros terráqueos são um suvenir interessante e exótico."
+ },
+ {
+  "id": 69,
+  "start": 385.24,
+  "limit": 392.2,
+  "new_start": 389.31050000000005,
+  "dur": 6.18,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas a matemática é contrabando pelas leis galácticas, porque ameaça o monopólio da computação dos supercérebros."
+ },
+ {
+  "id": 70,
+  "start": 392.2,
+  "limit": 398.04,
+  "new_start": 396.2705,
+  "dur": 5.516625,
+  "speed": 1.084,
+  "k": 1.0045590753424603,
+  "text_tgt": "Você não vai querer topar com uma patrulha do hiperespaço com um livro de matemática a bordo: pode dar muito problema."
+ },
+ {
+  "id": 71,
+  "start": 398.04,
+  "limit": 401.8,
+  "new_start": 402.137125,
+  "dur": 3.4572083333333334,
+  "speed": 1.157,
+  "k": 1.012555407801421,
+  "text_tgt": "O primeiro contato de alienígenas com a matemática foi há muitos milênios."
+ },
+ {
+  "id": 72,
+  "start": 401.8,
+  "limit": 413.72,
+  "new_start": 405.94433333333336,
+  "dur": 11.619541666666667,
+  "speed": 1.167,
+  "k": 1.004156180089484,
+  "text_tgt": "Há mais de quatro mil ciclos solares, uns contrabandistas de informação alienígenas pousaram numa região chamada Egito e ofereceram aos terráqueos métodos avançados de cálculo e o valor exato de Pi, em troca da receita da cerveja."
+ },
+ {
+  "id": 73,
+  "start": 413.72,
+  "limit": 425.32,
+  "new_start": 417.913875,
+  "dur": 11.279916666666667,
+  "speed": 1.086,
+  "k": 1.0025790229885088,
+  "text_tgt": "Os egípcios recusaram educadamente: seus métodos de cálculo bastavam para construir pirâmides enormes, sem falar da logística de pagar e abrigar milhares de trabalhadores e mover milhões de toneladas de carbonato de cálcio."
+ },
+ {
+  "id": 74,
+  "start": 425.32,
+  "limit": 432.56,
+  "new_start": 429.54379166666666,
+  "dur": 6.913,
+  "speed": 1.069,
+  "k": 1.0031767955801092,
+  "text_tgt": "Quanto ao Pi, eles já o tinham embutido nas medidas de algumas pirâmides, usando barris cilíndricos rolados e empilhados."
+ },
+ {
+  "id": 75,
+  "start": 432.56,
+  "limit": 438.78,
+  "new_start": 436.80679166666664,
+  "dur": 5.893125,
+  "speed": 1.067,
+  "k": 1.0037178456591687,
+  "text_tgt": "Para construir as pirâmides, os egípcios desenvolveram uma coisa chamada geometria: a teoria das formas."
+ },
+ {
+  "id": 76,
+  "start": 438.78,
+  "limit": 444.96,
+  "new_start": 443.04991666666666,
+  "dur": 5.229958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Resumindo, a geometria trata de linhas, ângulos e áreas, e de como evitar medi-los."
+ },
+ {
+  "id": 77,
+  "start": 444.96,
+  "limit": 450.22,
+  "new_start": 449.22991666666667,
+  "dur": 4.974708333333333,
+  "speed": 1.226,
+  "k": 1.0123019645120312,
+  "text_tgt": "Os contrabandistas de informação voltaram mil ciclos solares depois, desta vez na Babilônia."
+ },
+ {
+  "id": 78,
+  "start": 450.22,
+  "limit": 452.38,
+  "new_start": 454.554625,
+  "dur": 1.831,
+  "speed": 1.065,
+  "k": 1.009722222222237,
+  "text_tgt": "Mas os babilônios não se impressionaram."
+ },
+ {
+  "id": 79,
+  "start": 452.38,
+  "limit": 460.8,
+  "new_start": 456.73562499999997,
+  "dur": 8.103791666666666,
+  "speed": 1.108,
+  "k": 1.004013262074424,
+  "text_tgt": "Seus matemáticos conheciam o teorema de Pitágoras, resolviam equações do segundo grau e calculavam a raiz quadrada de dois com erro de um décimo de milésimo."
+ },
+ {
+  "id": 80,
+  "start": 460.8,
+  "limit": 465.1,
+  "new_start": 465.18941666666666,
+  "dur": 3.968625,
+  "speed": 1.053,
+  "k": 1.0043313953488346,
+  "text_tgt": "De modo geral, os babilônios dominavam a arte de manipular números."
+ },
+ {
+  "id": 81,
+  "start": 465.1,
+  "limit": 467.02,
+  "new_start": 469.50804166666666,
+  "dur": 2.0148333333333333,
+  "speed": 1.35,
+  "k": 1.231684027777804,
+  "text_tgt": "Os terráqueos chamam isso de aritmética."
+ },
+ {
+  "id": 82,
+  "start": 467.02,
+  "limit": 468.38,
+  "new_start": 471.87287499999996,
+  "dur": 1.0549166666666667,
+  "speed": 1.147,
+  "k": 1.0330269607843034,
+  "text_tgt": "O que são números?"
+ },
+ {
+  "id": 83,
+  "start": 468.38,
+  "limit": 470.6,
+  "new_start": 473.27779166666664,
+  "dur": 1.768,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, tem a ver com \"coisas\"."
+ },
+ {
+  "id": 84,
+  "start": 470.6,
+  "limit": 478.24,
+  "new_start": 475.49779166666667,
+  "dur": 7.584458333333333,
+  "speed": 1.35,
+  "k": 1.0385416666666685,
+  "text_tgt": "Para quantificar coisas, os terráqueos inventaram os números, uma série de \"coisas\" abstratas chamadas 1, 2, 3, 4, 5, 6, 7 e assim por diante."
+ },
+ {
+  "id": 85,
+  "start": 478.24,
+  "limit": 480.88,
+  "new_start": 483.43225,
+  "dur": 2.3710416666666667,
+  "speed": 1.316,
+  "k": 1.0306976010101063,
+  "text_tgt": "Pense nos números como uma série de adesivos imaginários."
+ },
+ {
+  "id": 86,
+  "start": 480.88,
+  "limit": 486.0,
+  "new_start": 486.1532916666667,
+  "dur": 4.728,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando os terráqueos querem quantificar coisas, colam os adesivos nelas, um por um."
+ },
+ {
+  "id": 87,
+  "start": 486.0,
+  "limit": 487.86,
+  "new_start": 491.2732916666667,
+  "dur": 1.7555416666666666,
+  "speed": 1.35,
+  "k": 1.1320116487455112,
+  "text_tgt": "Isso se chama \"contar\"."
+ },
+ {
+  "id": 88,
+  "start": 487.86,
+  "limit": 491.88,
+  "new_start": 493.3788333333334,
+  "dur": 3.693041666666667,
+  "speed": 1.075,
+  "k": 1.0057317578772849,
+  "text_tgt": "O último adesivo colado indica a quantidade de coisas, o seu \"número\"."
+ },
+ {
+  "id": 89,
+  "start": 491.88,
+  "limit": 493.54,
+  "new_start": 497.42187500000006,
+  "dur": 1.8666666666666667,
+  "speed": 1.35,
+  "k": 1.3353413654618274,
+  "text_tgt": "Os terráqueos são obcecados por números."
+ },
+ {
+  "id": 90,
+  "start": 493.54,
+  "limit": 500.8,
+  "new_start": 499.6385416666667,
+  "dur": 6.229041666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Eles contam e numeram tudo: casas, filhos, veículos, livros, até reis e deuses. Absolutamente tudo."
+ },
+ {
+  "id": 91,
+  "start": 500.8,
+  "limit": 503.14,
+  "new_start": 506.8985416666667,
+  "dur": 1.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Exceto os micróbios."
+ },
+ {
+  "id": 92,
+  "start": 505.94,
+  "limit": 508.42,
+  "new_start": 512.0385416666667,
+  "dur": 2.1665,
+  "speed": 1.117,
+  "k": 1.0147177419354765,
+  "text_tgt": "Há muitas formas de representar números."
+ },
+ {
+  "id": 93,
+  "start": 508.42,
+  "limit": 511.28,
+  "new_start": 514.5550416666666,
+  "dur": 2.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas a mais comum é o sistema decimal."
+ },
+ {
+  "id": 94,
+  "start": 511.28,
+  "limit": 517.78,
+  "new_start": 517.4150416666666,
+  "dur": 6.5985,
+  "speed": 1.35,
+  "k": 1.069,
+  "text_tgt": "Os números são escritos como séries de algarismos: nove deles correspondem aos números de 1 a 9, mais um algarismo \"vazio\" chamado zero."
+ },
+ {
+  "id": 95,
+  "start": 517.78,
+  "limit": 523.96,
+  "new_start": 524.3635416666666,
+  "dur": 5.896625,
+  "speed": 1.238,
+  "k": 1.010780744336559,
+  "text_tgt": "Os dez algarismos vêm do fato de os terráqueos terem dez dedos, os tentáculos ossudos na ponta dos membros superiores."
+ },
+ {
+  "id": 96,
+  "start": 523.96,
+  "limit": 530.32,
+  "new_start": 530.6101666666666,
+  "dur": 6.014875,
+  "speed": 1.009,
+  "k": 1.00076650943396,
+  "text_tgt": "Algumas civilizações antigas usavam base 12 ou base 60, que são mais práticas para divisões."
+ },
+ {
+  "id": 97,
+  "start": 530.32,
+  "limit": 535.06,
+  "new_start": 536.9750416666666,
+  "dur": 4.078,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ainda hoje há restos dos dois sistemas, em especial na medição do tempo."
+ },
+ {
+  "id": 98,
+  "start": 535.06,
+  "limit": 542.92,
+  "new_start": 541.7150416666665,
+  "dur": 7.5880833333333335,
+  "speed": 1.277,
+  "k": 1.0099342663273942,
+  "text_tgt": "Os computadores terráqueos usam base 2, porque se baseiam na lógica verdadeiro-falso, e não na lógica verdadeiro-falso-não sei da maioria dos computadores alienígenas."
+ },
+ {
+  "id": 99,
+  "start": 542.92,
+  "limit": 548.72,
+  "new_start": 549.6531249999998,
+  "dur": 5.029,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, as lulas têm um sistema parecido, mas de base 1, que só tem o algarismo zero."
+ },
+ {
+  "id": 100,
+  "start": 548.72,
+  "limit": 552.56,
+  "new_start": 555.4531249999999,
+  "dur": 3.933291666666667,
+  "speed": 1.35,
+  "k": 1.1154405381944683,
+  "text_tgt": "Qualquer número acima de zero não pode ser expresso nesse sistema e se chama \"alguns\"."
+ },
+ {
+  "id": 101,
+  "start": 552.56,
+  "limit": 558.72,
+  "new_start": 559.7364166666665,
+  "dur": 5.8605833333333335,
+  "speed": 1.162,
+  "k": 1.0082115800865667,
+  "text_tgt": "Os terráqueos acharam os números bem úteis, e quando os terráqueos acham algo útil, pode apostar que vão querer mais."
+ },
+ {
+  "id": 102,
+  "start": 558.72,
+  "limit": 563.88,
+  "new_start": 565.9469999999999,
+  "dur": 4.866416666666667,
+  "speed": 1.198,
+  "k": 1.0109334625323059,
+  "text_tgt": "Para começar, pegaram o algarismo 0 e fizeram dele um número, fechando o buraco abaixo do 1."
+ },
+ {
+  "id": 103,
+  "start": 563.88,
+  "limit": 566.98,
+  "new_start": 571.1634166666665,
+  "dur": 2.8310416666666667,
+  "speed": 1.296,
+  "k": 1.026142473118272,
+  "text_tgt": "Em geral, os matemáticos terráqueos não gostam de buracos."
+ },
+ {
+  "id": 104,
+  "start": 566.98,
+  "limit": 571.74,
+  "new_start": 574.3444583333333,
+  "dur": 4.409958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, quando você subtrai 5 de 2, cai num buraco \"abaixo de zero\"."
+ },
+ {
+  "id": 105,
+  "start": 571.74,
+  "limit": 574.68,
+  "new_start": 579.1044583333332,
+  "dur": 2.65525,
+  "speed": 1.227,
+  "k": 1.022193877551041,
+  "text_tgt": "Então, os terráqueos inventaram os números negativos."
+ },
+ {
+  "id": 106,
+  "start": 574.68,
+  "limit": 579.46,
+  "new_start": 582.1097083333333,
+  "dur": 4.457,
+  "speed": 1.081,
+  "k": 1.0056485355648352,
+  "text_tgt": "Da mesma forma, quando você divide 5 por 2, cai no buraco entre 2 e 3."
+ },
+ {
+  "id": 107,
+  "start": 579.46,
+  "limit": 583.0,
+  "new_start": 586.9167083333333,
+  "dur": 3.56225,
+  "speed": 1.35,
+  "k": 1.1051553672316499,
+  "text_tgt": "Então os terráqueos inventaram as frações, também chamadas de números racionais."
+ },
+ {
+  "id": 108,
+  "start": 583.0,
+  "limit": 586.32,
+  "new_start": 590.8289583333333,
+  "dur": 3.0105833333333334,
+  "speed": 1.136,
+  "k": 1.0122238955823142,
+  "text_tgt": "Esses números podem ser representados numa bela linha reta."
+ },
+ {
+  "id": 109,
+  "start": 586.32,
+  "limit": 593.74,
+  "new_start": 594.1895416666666,
+  "dur": 7.107208333333333,
+  "speed": 1.11,
+  "k": 1.0050146001797,
+  "text_tgt": "No antigo Egito e na Babilônia, a matemática era só um conjunto de regras práticas, uma caixa de ferramentas para arquitetos e contadores."
+ },
+ {
+  "id": 110,
+  "start": 593.74,
+  "limit": 595.9,
+  "new_start": 601.64675,
+  "dur": 1.8375,
+  "speed": 1.083,
+  "k": 1.0127314814814965,
+  "text_tgt": "Mas isso estava prestes a mudar."
+ },
+ {
+  "id": 111,
+  "start": 595.9,
+  "limit": 603.08,
+  "new_start": 603.83425,
+  "dur": 6.828,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Há uns 2300 ciclos solares, nossos contrabandistas de informação voltaram uma terceira vez, de novo ao Egito."
+ },
+ {
+  "id": 112,
+  "start": 603.08,
+  "limit": 609.42,
+  "new_start": 611.0142500000001,
+  "dur": 6.055416666666667,
+  "speed": 1.227,
+  "k": 1.0103180862250394,
+  "text_tgt": "Lá conheceram um matemático grego chamado Euclides, que tinha criado uma abordagem totalmente nova da matemática: os axiomas."
+ },
+ {
+  "id": 113,
+  "start": 609.42,
+  "limit": 614.7,
+  "new_start": 617.4196666666667,
+  "dur": 4.963,
+  "speed": 1.108,
+  "k": 1.0062499999999834,
+  "text_tgt": "Vendo que não tinham nada melhor a oferecer, nossos alienígenas foram embora para nunca mais voltar."
+ },
+ {
+  "id": 114,
+  "start": 614.7,
+  "limit": 616.8,
+  "new_start": 622.7326666666667,
+  "dur": 1.49,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas o que são axiomas?"
+ },
+ {
+  "id": 115,
+  "start": 616.8,
+  "limit": 620.6,
+  "new_start": 624.8326666666666,
+  "dur": 3.5629166666666667,
+  "speed": 1.35,
+  "k": 1.0297149122806832,
+  "text_tgt": "Bem, axiomas são suposições básicas sobre as quais se constrói uma teoria."
+ },
+ {
+  "id": 116,
+  "start": 620.6,
+  "limit": 625.54,
+  "new_start": 628.7455833333332,
+  "dur": 4.641416666666666,
+  "speed": 1.174,
+  "k": 1.0104082321187704,
+  "text_tgt": "Pegue, por exemplo, os números naturais 1, 2, 3, 4, 5 e assim por diante."
+ },
+ {
+  "id": 117,
+  "start": 625.54,
+  "limit": 629.12,
+  "new_start": 633.7369999999999,
+  "dur": 3.285458333333333,
+  "speed": 1.184,
+  "k": 1.015491154562372,
+  "text_tgt": "Esses números podem ser descritos pelos chamados axiomas de Peano."
+ },
+ {
+  "id": 118,
+  "start": 629.12,
+  "limit": 631.08,
+  "new_start": 637.3724583333332,
+  "dur": 1.649625,
+  "speed": 1.12,
+  "k": 1.020216836734675,
+  "text_tgt": "Existe um número chamado zero."
+ },
+ {
+  "id": 119,
+  "start": 631.08,
+  "limit": 633.3,
+  "new_start": 639.3720833333332,
+  "dur": 1.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Todo número tem um sucessor."
+ },
+ {
+  "id": 120,
+  "start": 633.3,
+  "limit": 634.68,
+  "new_start": 641.5920833333331,
+  "dur": 1.3629583333333333,
+  "speed": 1.35,
+  "k": 1.2412741545893762,
+  "text_tgt": "Zero não é sucessor de ninguém."
+ },
+ {
+  "id": 121,
+  "start": 634.68,
+  "limit": 636.92,
+  "new_start": 643.3050416666664,
+  "dur": 2.288875,
+  "speed": 1.35,
+  "k": 1.1780691964285668,
+  "text_tgt": "Dois números diferentes nunca têm o mesmo sucessor."
+ },
+ {
+  "id": 122,
+  "start": 636.92,
+  "limit": 643.02,
+  "new_start": 645.9439166666664,
+  "dur": 5.756666666666667,
+  "speed": 1.011,
+  "k": 1.0010928961748595,
+  "text_tgt": "Se uma propriedade vale para 0 e passa de cada número para o seu sucessor, então vale para todos os números."
+ },
+ {
+  "id": 123,
+  "start": 643.02,
+  "limit": 644.74,
+  "new_start": 652.0505833333331,
+  "dur": 1.31,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama \"indução\"."
+ },
+ {
+  "id": 124,
+  "start": 644.74,
+  "limit": 649.98,
+  "new_start": 653.7705833333331,
+  "dur": 4.936125,
+  "speed": 1.152,
+  "k": 1.0088024809160288,
+  "text_tgt": "Dado um conjunto de axiomas, dá para usar a lógica e construir um prédio inteiro de conclusões."
+ },
+ {
+  "id": 125,
+  "start": 649.98,
+  "limit": 652.64,
+  "new_start": 659.0567083333331,
+  "dur": 2.3539583333333334,
+  "speed": 1.147,
+  "k": 1.0165256892230699,
+  "text_tgt": "As conclusões interessantes se chamam \"teoremas\"."
+ },
+ {
+  "id": 126,
+  "start": 652.64,
+  "limit": 656.1,
+  "new_start": 661.7606666666665,
+  "dur": 3.1267916666666666,
+  "speed": 1.049,
+  "k": 1.004853082851627,
+  "text_tgt": "É basicamente assim que toda a matemática moderna é construída."
+ },
+ {
+  "id": 127,
+  "start": 656.1,
+  "limit": 659.5,
+  "new_start": 665.2374583333332,
+  "dur": 3.1235416666666667,
+  "speed": 1.271,
+  "k": 1.021629901960791,
+  "text_tgt": "Note que os matemáticos não acham que os axiomas se baseiam na \"verdade\"."
+ },
+ {
+  "id": 128,
+  "start": 659.5,
+  "limit": 662.22,
+  "new_start": 668.7109999999998,
+  "dur": 2.0499583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "São só suposições de partida."
+ },
+ {
+  "id": 129,
+  "start": 662.22,
+  "limit": 667.54,
+  "new_start": 671.4309999999998,
+  "dur": 4.995333333333333,
+  "speed": 1.083,
+  "k": 1.0047619047619167,
+  "text_tgt": "Os matemáticos gostam de brincar com os axiomas, tirar um, pôr outro, e ver o que acontece."
+ },
+ {
+  "id": 130,
+  "start": 667.54,
+  "limit": 673.2,
+  "new_start": 676.7763333333331,
+  "dur": 5.372875,
+  "speed": 1.215,
+  "k": 1.0111086572438015,
+  "text_tgt": "Note que a matemática nunca diz \"isso é verdade\", e sim \"dado isto e isto, você pode concluir aquilo\"."
+ },
+ {
+  "id": 131,
+  "start": 673.2,
+  "limit": 678.62,
+  "new_start": 682.4992083333332,
+  "dur": 5.154916666666667,
+  "speed": 1.323,
+  "k": 1.0156672816728243,
+  "text_tgt": "Em outras palavras, os teoremas matemáticos são sempre verdadeiros, porque são tautologias elaboradas."
+ },
+ {
+  "id": 132,
+  "start": 678.62,
+  "limit": 681.98,
+  "new_start": 688.0041249999998,
+  "dur": 3.089916666666667,
+  "speed": 1.301,
+  "k": 1.023784722222218,
+  "text_tgt": "Dá para definir a matemática como \"caça a tautologias interessantes\"."
+ },
+ {
+  "id": 133,
+  "start": 681.98,
+  "limit": 688.8,
+  "new_start": 691.4440416666665,
+  "dur": 5.739958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse é o lado teórico da matemática, mas ainda existe o prático: medir vezes preguiça ao quadrado."
+ },
+ {
+  "id": 134,
+  "start": 688.8,
+  "limit": 696.5,
+  "new_start": 698.2640416666665,
+  "dur": 7.37475,
+  "speed": 1.078,
+  "k": 1.0032142857142796,
+  "text_tgt": "Agora, segundo os matemáticos, fazer matemática não é tanto construir castelos no ar, e sim explorar um território desconhecido."
+ },
+ {
+  "id": 135,
+  "start": 696.5,
+  "limit": 700.36,
+  "new_start": 705.9887916666664,
+  "dur": 3.585541666666667,
+  "speed": 1.274,
+  "k": 1.019570379965454,
+  "text_tgt": "Você tem que construir as estradas e as pontes, mas a paisagem já está lá, esperando."
+ },
+ {
+  "id": 136,
+  "start": 700.36,
+  "limit": 704.54,
+  "new_start": 709.9243333333332,
+  "dur": 3.44,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, vamos explorar um pouco a paisagem da matemática?"
+ },
+ {
+  "id": 137,
+  "start": 704.54,
+  "limit": 709.44,
+  "new_start": 714.1043333333331,
+  "dur": 4.614125,
+  "speed": 1.231,
+  "k": 1.0130867346938586,
+  "text_tgt": "Bem no centro temos a lógica básica e as duas disciplinas, geometria e aritmética."
+ },
+ {
+  "id": 138,
+  "start": 709.44,
+  "limit": 715.66,
+  "new_start": 719.0684583333331,
+  "dur": 5.894291666666667,
+  "speed": 1.079,
+  "k": 1.0039054126473879,
+  "text_tgt": "Como já disse, a geometria trata de formas e medidas, e a aritmética trata de números e operações."
+ },
+ {
+  "id": 139,
+  "start": 715.66,
+  "limit": 719.3,
+  "new_start": 725.3127499999997,
+  "dur": 2.85,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Este é o ponto de partida para explorar a matemática."
+ },
+ {
+  "id": 140,
+  "start": 719.3,
+  "limit": 732.12,
+  "new_start": 728.9527499999997,
+  "dur": 12.483916666666667,
+  "speed": 1.054,
+  "k": 1.001085543421733,
+  "text_tgt": "Daqui, vamos descobrir várias regiões da matemática: teoria dos números e álgebra, que vêm da aritmética, topologia, que vem da geometria, e análise, que é a aritmética usada para medir a geometria."
+ },
+ {
+  "id": 141,
+  "start": 732.12,
+  "limit": 734.1,
+  "new_start": 741.7866666666664,
+  "dur": 1.691375,
+  "speed": 1.212,
+  "k": 1.0309974747474653,
+  "text_tgt": "Vamos começar pela topologia."
+ },
+ {
+  "id": 142,
+  "start": 734.1,
+  "limit": 737.56,
+  "new_start": 743.8280416666664,
+  "dur": 3.150916666666667,
+  "speed": 1.133,
+  "k": 1.0118256262042615,
+  "text_tgt": "A topologia é, por assim dizer, geometria menos medição."
+ },
+ {
+  "id": 143,
+  "start": 737.56,
+  "limit": 742.78,
+  "new_start": 747.328958333333,
+  "dur": 4.929416666666667,
+  "speed": 1.205,
+  "k": 1.0113825031928427,
+  "text_tgt": "É uma espécie de \"geometria de borracha\": estuda as propriedades das formas que não mudam quando você as deforma."
+ },
+ {
+  "id": 144,
+  "start": 742.78,
+  "limit": 746.86,
+  "new_start": 752.6083749999997,
+  "dur": 3.812375,
+  "speed": 1.322,
+  "k": 1.020189950980382,
+  "text_tgt": "Se você explorar as propriedades dos números naturais, chega à teoria dos números."
+ },
+ {
+  "id": 145,
+  "start": 746.86,
+  "limit": 752.88,
+  "new_start": 756.7707499999997,
+  "dur": 5.65,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os teóricos dos números adoram os números primos, números que não se decompõem em fatores menores."
+ },
+ {
+  "id": 146,
+  "start": 752.88,
+  "limit": 757.8,
+  "new_start": 762.7907499999997,
+  "dur": 4.60975,
+  "speed": 1.13,
+  "k": 1.0080792682926913,
+  "text_tgt": "Agora, a aritmética pode ser generalizada com um truquezinho que os matemáticos adoram."
+ },
+ {
+  "id": 147,
+  "start": 757.8,
+  "limit": 761.82,
+  "new_start": 767.7504999999996,
+  "dur": 3.7107083333333333,
+  "speed": 1.134,
+  "k": 1.0101264510779195,
+  "text_tgt": "Primeiro, você pega um exemplo, digamos, os números naturais."
+ },
+ {
+  "id": 148,
+  "start": 761.82,
+  "limit": 764.36,
+  "new_start": 771.811208333333,
+  "dur": 2.3615,
+  "speed": 1.35,
+  "k": 1.0675196850393853,
+  "text_tgt": "Segundo, você enuncia algumas regras básicas."
+ },
+ {
+  "id": 149,
+  "start": 764.36,
+  "limit": 768.76,
+  "new_start": 774.522708333333,
+  "dur": 4.111,
+  "speed": 1.216,
+  "k": 1.0138636363636415,
+  "text_tgt": "E terceiro, você esquece o exemplo e trata essas regras como axiomas."
+ },
+ {
+  "id": 150,
+  "start": 768.76,
+  "limit": 772.54,
+  "new_start": 778.983708333333,
+  "dur": 3.4789583333333334,
+  "speed": 1.167,
+  "k": 1.0129519400352807,
+  "text_tgt": "É exatamente assim que a aritmética se generaliza em álgebra."
+ },
+ {
+  "id": 151,
+  "start": 772.54,
+  "limit": 782.94,
+  "new_start": 782.8126666666664,
+  "dur": 9.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, \"somar\" não vale só para números, mas também para outras coisas, como setas, movimentos no espaço, permutações, rotações, ou até passos de dança."
+ },
+ {
+  "id": 152,
+  "start": 782.94,
+  "limit": 787.42,
+  "new_start": 793.2126666666665,
+  "dur": 4.216125,
+  "speed": 1.328,
+  "k": 1.0192243303571644,
+  "text_tgt": "Grosso modo: quando você generaliza as regras da adição, obtém semigrupos."
+ },
+ {
+  "id": 153,
+  "start": 787.42,
+  "limit": 790.12,
+  "new_start": 797.7787916666664,
+  "dur": 2.386416666666667,
+  "speed": 1.118,
+  "k": 1.0134876543209708,
+  "text_tgt": "Incluindo a subtração, obtém grupos."
+ },
+ {
+  "id": 154,
+  "start": 790.12,
+  "limit": 792.8,
+  "new_start": 800.515208333333,
+  "dur": 2.364625,
+  "speed": 1.108,
+  "k": 1.012919776119422,
+  "text_tgt": "Permitindo a multiplicação, obtém anéis."
+ },
+ {
+  "id": 155,
+  "start": 792.8,
+  "limit": 796.34,
+  "new_start": 803.229833333333,
+  "dur": 2.99,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E garantindo que dá para dividir, obtém corpos."
+ },
+ {
+  "id": 156,
+  "start": 796.34,
+  "limit": 798.82,
+  "new_start": 806.769833333333,
+  "dur": 2.14425,
+  "speed": 1.04,
+  "k": 1.005745967741928,
+  "text_tgt": "Tudo isso pertence ao domínio da álgebra."
+ },
+ {
+  "id": 157,
+  "start": 798.82,
+  "limit": 804.3,
+  "new_start": 809.264083333333,
+  "dur": 3.4190416666666668,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "De certo modo, a álgebra trata de manipular símbolos."
+ },
+ {
+  "id": 158,
+  "start": 804.3,
+  "limit": 805.52,
+  "new_start": 814.7440833333329,
+  "dur": 1.0148333333333333,
+  "speed": 1.35,
+  "k": 1.1187158469945104,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 159,
+  "start": 805.52,
+  "limit": 811.38,
+  "new_start": 816.1089166666662,
+  "dur": 5.546625,
+  "speed": 1.125,
+  "k": 1.0062499999999976,
+  "text_tgt": "Se você é xenobiólogo, deve conhecer os bloblings, criaturas tipo água-viva de vários formatos."
+ },
+ {
+  "id": 160,
+  "start": 811.38,
+  "limit": 817.04,
+  "new_start": 822.0055416666662,
+  "dur": 5.350208333333334,
+  "speed": 1.125,
+  "k": 1.0071039458186157,
+  "text_tgt": "A classificação dos bloblings é basicamente um problema de topologia, mas dá para resolver com teoria dos grupos."
+ },
+ {
+  "id": 161,
+  "start": 817.04,
+  "limit": 820.02,
+  "new_start": 827.7057499999995,
+  "dur": 2.643666666666667,
+  "speed": 1.044,
+  "k": 1.004586129753909,
+  "text_tgt": "Em outras palavras, somando e subtraindo."
+ },
+ {
+  "id": 162,
+  "start": 820.02,
+  "limit": 826.18,
+  "new_start": 830.6994166666661,
+  "dur": 5.886583333333333,
+  "speed": 1.279,
+  "k": 1.0124323593073645,
+  "text_tgt": "Veja, os bloblings curtem o que os terráqueos chamariam de bondage: eles gostam de enrolar elásticos fechados em volta do corpo."
+ },
+ {
+  "id": 163,
+  "start": 826.18,
+  "limit": 836.42,
+  "new_start": 836.9359999999995,
+  "dur": 9.639041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Há incontáveis jeitos de amarrar, mas dá para definir \"adição\" e \"subtração\" entre as voltas: esta volta mais aquela dá aquela outra, ou aquela menos duas vezes esta dá aquela."
+ },
+ {
+  "id": 164,
+  "start": 836.42,
+  "limit": 844.26,
+  "new_start": 847.1759999999995,
+  "dur": 7.494,
+  "speed": 1.01,
+  "k": 1.0005102040816285,
+  "text_tgt": "Para este blobling em particular, todas as amarrações saem de duas voltas combinadas: por dentro do buraco e em volta dele."
+ },
+ {
+  "id": 165,
+  "start": 844.26,
+  "limit": 846.56,
+  "new_start": 855.0199999999995,
+  "dur": 2.111125,
+  "speed": 1.35,
+  "k": 1.0700543478261082,
+  "text_tgt": "Os matemáticos diriam que é um grupo de posto dois."
+ },
+ {
+  "id": 166,
+  "start": 846.56,
+  "limit": 850.24,
+  "new_start": 857.4811249999996,
+  "dur": 3.4,
+  "speed": 1.25,
+  "k": 1.019021739130417,
+  "text_tgt": "Outros bloblings precisam de quatro voltas, ou seis, ou catorze."
+ },
+ {
+  "id": 167,
+  "start": 850.24,
+  "limit": 855.22,
+  "new_start": 861.2311249999996,
+  "dur": 4.239958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse número não muda quando deformamos o blobling, e os topólogos adoram isso."
+ },
+ {
+  "id": 168,
+  "start": 855.22,
+  "limit": 859.36,
+  "new_start": 866.2111249999996,
+  "dur": 3.107,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, esse número serve para classificar os bloblings."
+ },
+ {
+  "id": 169,
+  "start": 859.36,
+  "limit": 866.58,
+  "new_start": 870.3511249999996,
+  "dur": 6.87275,
+  "speed": 1.014,
+  "k": 1.000380886426589,
+  "text_tgt": "Se isso foi demais para você, não se preocupe: o importante é que dá para usar álgebra para resolver problemas de topologia."
+ },
+ {
+  "id": 170,
+  "start": 866.58,
+  "limit": 871.54,
+  "new_start": 877.5738749999996,
+  "dur": 4.439958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Essa área entre a topologia e a álgebra se chama topologia algébrica."
+ },
+ {
+  "id": 171,
+  "start": 871.54,
+  "limit": 880.72,
+  "new_start": 882.5338749999995,
+  "dur": 8.759,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A álgebra parece um pouco o que os terráqueos chamam de magia: você manipula uns símbolos, aplica umas fórmulas, e de repente fez algo que não tem nada a ver."
+ },
+ {
+  "id": 172,
+  "start": 880.72,
+  "limit": 885.24,
+  "new_start": 891.7138749999996,
+  "dur": 4.225208333333334,
+  "speed": 1.181,
+  "k": 1.0122142330383521,
+  "text_tgt": "Dá para dizer que qualquer álgebra suficientemente avançada é indistinguível da magia."
+ },
+ {
+  "id": 173,
+  "start": 885.24,
+  "limit": 888.66,
+  "new_start": 896.2890833333329,
+  "dur": 3.2510416666666666,
+  "speed": 1.35,
+  "k": 1.0529361598440672,
+  "text_tgt": "Isso vale mais ainda para outra disciplina: a teoria das categorias."
+ },
+ {
+  "id": 174,
+  "start": 888.66,
+  "limit": 891.76,
+  "new_start": 899.8901249999996,
+  "dur": 2.770958333333333,
+  "speed": 1.061,
+  "k": 1.0067607526881646,
+  "text_tgt": "Essa teoria trata de coisas ligadas por setas."
+ },
+ {
+  "id": 175,
+  "start": 891.76,
+  "limit": 894.74,
+  "new_start": 903.0110833333329,
+  "dur": 2.683333333333333,
+  "speed": 1.181,
+  "k": 1.017897091722589,
+  "text_tgt": "Parece bobagem, mas é surpreendentemente útil."
+ },
+ {
+  "id": 176,
+  "start": 894.74,
+  "limit": 899.06,
+  "new_start": 906.0444166666662,
+  "dur": 4.048333333333333,
+  "speed": 1.282,
+  "k": 1.0181327160493976,
+  "text_tgt": "Os matemáticos chamam o uso da teoria das categorias em outras áreas de \"bobagem abstrata\"."
+ },
+ {
+  "id": 177,
+  "start": 899.06,
+  "limit": 901.7,
+  "new_start": 910.4427499999995,
+  "dur": 1.91,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não é piada, chama assim mesmo."
+ },
+ {
+  "id": 178,
+  "start": 901.7,
+  "limit": 903.4,
+  "new_start": 913.0827499999996,
+  "dur": 1.390625,
+  "speed": 1.129,
+  "k": 1.0238970588235705,
+  "text_tgt": "\"Bobagem abstrata\"."
+ },
+ {
+  "id": 179,
+  "start": 903.4,
+  "limit": 912.92,
+  "new_start": 914.8233749999996,
+  "dur": 8.288,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já vimos duas grandes regiões da matemática: a topologia, que é geometria menos medição, e a álgebra, que é aritmética menos números."
+ },
+ {
+  "id": 180,
+  "start": 912.92,
+  "limit": 917.58,
+  "new_start": 924.3433749999996,
+  "dur": 4.344708333333333,
+  "speed": 1.114,
+  "k": 1.0074481402002684,
+  "text_tgt": "Uma terceira grande área pega os números da aritmética e os usa para medir a geometria."
+ },
+ {
+  "id": 181,
+  "start": 917.58,
+  "limit": 919.46,
+  "new_start": 929.0380833333329,
+  "dur": 1.51,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama análise."
+ },
+ {
+  "id": 182,
+  "start": 919.46,
+  "limit": 924.24,
+  "new_start": 930.9180833333329,
+  "dur": 4.460875,
+  "speed": 1.1,
+  "k": 1.006459205020926,
+  "text_tgt": "Para entender a análise, primeiro precisamos entender outra coisa: o infinito."
+ },
+ {
+  "id": 183,
+  "start": 924.24,
+  "limit": 925.6,
+  "new_start": 935.7289583333329,
+  "dur": 1.052625,
+  "speed": 1.14,
+  "k": 1.0313419117646956,
+  "text_tgt": "O que é o infinito?"
+ },
+ {
+  "id": 184,
+  "start": 925.6,
+  "limit": 930.72,
+  "new_start": 937.1315833333329,
+  "dur": 4.85275,
+  "speed": 1.304,
+  "k": 1.016162109374999,
+  "text_tgt": "Bem, é mais um tapa-buraco: quando você conta e conta sem parar, os números não chegam a lugar nenhum."
+ },
+ {
+  "id": 185,
+  "start": 930.72,
+  "limit": 935.2,
+  "new_start": 942.3343333333329,
+  "dur": 4.196916666666667,
+  "speed": 1.239,
+  "k": 1.0149367559523768,
+  "text_tgt": "Então os matemáticos inventaram um número \"depois\" de todos os naturais: o infinito."
+ },
+ {
+  "id": 186,
+  "start": 935.2,
+  "limit": 941.86,
+  "new_start": 946.8812499999996,
+  "dur": 6.313125,
+  "speed": 1.009,
+  "k": 1.000469219219224,
+  "text_tgt": "Com o conceito de infinito, dá para observar, por exemplo, sequências crescentes de números infinitamente longas."
+ },
+ {
+  "id": 187,
+  "start": 941.86,
+  "limit": 949.44,
+  "new_start": 953.5443749999996,
+  "dur": 7.239375,
+  "speed": 1.036,
+  "k": 1.0012368073878573,
+  "text_tgt": "Algumas tendem ao infinito, outras se aproximam de algum número racional, mas outras não se aproximam de nada, caem num buraco."
+ },
+ {
+  "id": 188,
+  "start": 949.44,
+  "limit": 951.6,
+  "new_start": 961.1337499999996,
+  "dur": 1.9481666666666666,
+  "speed": 1.35,
+  "k": 1.0639660493827316,
+  "text_tgt": "Só que os matemáticos não gostam de buracos."
+ },
+ {
+  "id": 189,
+  "start": 951.6,
+  "limit": 955.72,
+  "new_start": 963.4319166666663,
+  "dur": 3.8189583333333332,
+  "speed": 1.16,
+  "k": 1.0118830906148857,
+  "text_tgt": "Então definiram um novo tipo de número para tapar os buracos: os números reais."
+ },
+ {
+  "id": 190,
+  "start": 955.72,
+  "limit": 959.84,
+  "new_start": 967.6008749999996,
+  "dur": 3.8455416666666666,
+  "speed": 1.269,
+  "k": 1.0183353559870538,
+  "text_tgt": "Um número real é qualquer coisa de que uma sequência infinita de números possa se aproximar."
+ },
+ {
+  "id": 191,
+  "start": 959.84,
+  "limit": 967.0,
+  "new_start": 971.7964166666663,
+  "dur": 6.819833333333333,
+  "speed": 1.038,
+  "k": 1.0013733705772856,
+  "text_tgt": "Os números reais são ótimos para medir coisas: comprimentos, ângulos, áreas, tempo e assim por diante."
+ },
+ {
+  "id": 192,
+  "start": 967.0,
+  "limit": 971.54,
+  "new_start": 978.9662499999997,
+  "dur": 4.213041666666666,
+  "speed": 1.07,
+  "k": 1.0050752569750445,
+  "text_tgt": "A análise se interessa especialmente por \"funções\", medidas que mudam com o tempo."
+ },
+ {
+  "id": 193,
+  "start": 971.54,
+  "limit": 978.22,
+  "new_start": 983.5292916666664,
+  "dur": 6.355666666666667,
+  "speed": 1.074,
+  "k": 1.003842315369252,
+  "text_tgt": "Isso leva a duas coisas: valores acumulados, ou \"integrais\", e taxas de variação, ou \"derivadas\"."
+ },
+ {
+  "id": 194,
+  "start": 978.22,
+  "limit": 981.12,
+  "new_start": 990.234958333333,
+  "dur": 2.485333333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Acontece que uma é o inverso da outra."
+ },
+ {
+  "id": 195,
+  "start": 981.12,
+  "limit": 983.46,
+  "new_start": 993.134958333333,
+  "dur": 2.0620833333333333,
+  "speed": 1.256,
+  "k": 1.0308048433048294,
+  "text_tgt": "Esse é o Teorema Fundamental do Cálculo."
+ },
+ {
+  "id": 196,
+  "start": 983.46,
+  "limit": 989.1,
+  "new_start": 995.5470416666664,
+  "dur": 5.342416666666667,
+  "speed": 1.168,
+  "k": 1.0092937352245888,
+  "text_tgt": "A análise tem muitas aplicações práticas na engenharia e nas ciências naturais, principalmente na física."
+ },
+ {
+  "id": 197,
+  "start": 989.1,
+  "limit": 994.3,
+  "new_start": 1001.239458333333,
+  "dur": 3.1,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos falar das ciências terráqueas em outro episódio."
+ },
+ {
+  "id": 198,
+  "start": 994.3,
+  "limit": 1002.9,
+  "new_start": 1006.4394583333329,
+  "dur": 8.281541666666667,
+  "speed": 1.094,
+  "k": 1.003667635658912,
+  "text_tgt": "Dica estratégica: ao atacar um planeta, uma tática comum é cortar o defensor da Grande Rede Galáctica, para bloquear todos os cálculos balísticos."
+ },
+ {
+  "id": 199,
+  "start": 1002.9,
+  "limit": 1007.86,
+  "new_start": 1015.0709999999996,
+  "dur": 3.87,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas a artilharia terráquea não precisa da Rede, ela usa matemática."
+ },
+ {
+  "id": 200,
+  "start": 1007.86,
+  "limit": 1012.96,
+  "new_start": 1020.0309999999996,
+  "dur": 3.25,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então é melhor esperar fogo de artilharia muito bem mirado."
+ },
+ {
+  "id": 201,
+  "start": 1012.96,
+  "limit": 1016.5,
+  "new_start": 1025.1309999999996,
+  "dur": 3.295541666666667,
+  "speed": 1.35,
+  "k": 1.0298140301318375,
+  "text_tgt": "Com os números reais, os matemáticos taparam quase todos os buracos."
+ },
+ {
+  "id": 202,
+  "start": 1016.5,
+  "limit": 1021.86,
+  "new_start": 1028.7765416666664,
+  "dur": 5.017666666666667,
+  "speed": 1.016,
+  "k": 1.001430348258704,
+  "text_tgt": "Mas resta um: ainda não existe raiz quadrada de menos um, nem de nenhum número negativo."
+ },
+ {
+  "id": 203,
+  "start": 1021.86,
+  "limit": 1025.78,
+  "new_start": 1034.1442083333332,
+  "dur": 3.8140416666666668,
+  "speed": 1.35,
+  "k": 1.0622555272108956,
+  "text_tgt": "Então os matemáticos inventaram uma raiz quadrada de menos um e a chamaram de \"i\"."
+ },
+ {
+  "id": 204,
+  "start": 1025.78,
+  "limit": 1029.28,
+  "new_start": 1038.3082499999998,
+  "dur": 2.98,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Sem saber direito onde pôr, colocaram acima da linha."
+ },
+ {
+  "id": 205,
+  "start": 1029.28,
+  "limit": 1034.88,
+  "new_start": 1041.8082499999998,
+  "dur": 5.288875,
+  "speed": 1.125,
+  "k": 1.0069419642856896,
+  "text_tgt": "Esse novo número, e tudo o que dá para criar combinando números reais com i, são os números complexos."
+ },
+ {
+  "id": 206,
+  "start": 1034.88,
+  "limit": 1037.08,
+  "new_start": 1047.447125,
+  "dur": 1.9129583333333333,
+  "speed": 1.218,
+  "k": 1.0286174242425092,
+  "text_tgt": "De volta à nossa paisagem matemática."
+ },
+ {
+  "id": 207,
+  "start": 1037.08,
+  "limit": 1042.36,
+  "new_start": 1049.7100833333332,
+  "dur": 4.981958333333333,
+  "speed": 1.168,
+  "k": 1.0098405934343486,
+  "text_tgt": "Como entre a álgebra e a topologia, há áreas interdisciplinares entre a análise e as outras áreas."
+ },
+ {
+  "id": 208,
+  "start": 1042.36,
+  "limit": 1049.3,
+  "new_start": 1055.0420416666666,
+  "dur": 6.612833333333334,
+  "speed": 1.072,
+  "k": 1.0032901056676193,
+  "text_tgt": "Combinando análise com topologia, temos a geometria diferencial, a teoria das formas com noções de comprimento e ângulo."
+ },
+ {
+  "id": 209,
+  "start": 1049.3,
+  "limit": 1053.56,
+  "new_start": 1062.0048749999999,
+  "dur": 3.9282083333333335,
+  "speed": 1.059,
+  "k": 1.0042742566510194,
+  "text_tgt": "É muito útil, por exemplo, para especular sobre a forma do universo."
+ },
+ {
+  "id": 210,
+  "start": 1053.56,
+  "limit": 1060.08,
+  "new_start": 1066.2830833333333,
+  "dur": 6.1935,
+  "speed": 1.075,
+  "k": 1.0036042944785304,
+  "text_tgt": "Na fronteira entre análise e álgebra temos a geometria algébrica, a teoria das formas definidas por polinômios."
+ },
+ {
+  "id": 211,
+  "start": 1060.08,
+  "limit": 1065.16,
+  "new_start": 1072.8265833333332,
+  "dur": 4.508,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um exemplo seria esta superfície em forma de coração, definida por esta equação."
+ },
+ {
+  "id": 212,
+  "start": 1065.16,
+  "limit": 1070.34,
+  "new_start": 1077.9065833333334,
+  "dur": 4.921166666666666,
+  "speed": 1.345,
+  "k": 1.0175997425997747,
+  "text_tgt": "Espectadores terráqueos, fiquem à vontade para mandar a fórmula a parceiros de reprodução com queda para a matemática."
+ },
+ {
+  "id": 213,
+  "start": 1070.34,
+  "limit": 1073.08,
+  "new_start": 1083.17775,
+  "dur": 2.4582083333333333,
+  "speed": 1.244,
+  "k": 1.0248935523114322,
+  "text_tgt": "Pelo que sei, os terráqueos gostam de fazer essas coisas."
+ },
+ {
+  "id": 214,
+  "start": 1073.08,
+  "limit": 1074.28,
+  "new_start": 1085.9859583333334,
+  "dur": 0.8715833333333334,
+  "speed": 1.067,
+  "k": 1.0179861111110724,
+  "text_tgt": "Não sei por quê."
+ },
+ {
+  "id": 215,
+  "start": 1074.28,
+  "limit": 1076.76,
+  "new_start": 1087.2075416666667,
+  "dur": 1.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Deve ser um ritual."
+ },
+ {
+  "id": 216,
+  "start": 1076.76,
+  "limit": 1080.8,
+  "new_start": 1089.6875416666667,
+  "dur": 3.7674166666666666,
+  "speed": 1.29,
+  "k": 1.0191625412541345,
+  "text_tgt": "Há muitas outras disciplinas matemáticas, por exemplo, a teoria da probabilidade."
+ },
+ {
+  "id": 217,
+  "start": 1080.8,
+  "limit": 1086.52,
+  "new_start": 1093.8049583333334,
+  "dur": 5.39925,
+  "speed": 1.087,
+  "k": 1.0051136363636315,
+  "text_tgt": "No fundo, é uma extensão da lógica binária para toda a aresta verdadeiro-falso do triângulo da incerteza."
+ },
+ {
+  "id": 218,
+  "start": 1086.52,
+  "limit": 1090.4,
+  "new_start": 1099.5542083333335,
+  "dur": 3.9555416666666665,
+  "speed": 1.35,
+  "k": 1.109675687285192,
+  "text_tgt": "Os terráqueos acham que até as afirmações incertas ficam em algum ponto entre verdadeiro e falso."
+ },
+ {
+  "id": 219,
+  "start": 1090.4,
+  "limit": 1094.32,
+  "new_start": 1103.85975,
+  "dur": 3.15,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ainda falta uma dimensão inteira, mas já é um avanço."
+ },
+ {
+  "id": 220,
+  "start": 1094.32,
+  "limit": 1098.1,
+  "new_start": 1107.77975,
+  "dur": 3.487375,
+  "speed": 1.19,
+  "k": 1.0151785714285788,
+  "text_tgt": "Vou terminar com um teorema que não pertence a nenhuma das áreas citadas."
+ },
+ {
+  "id": 221,
+  "start": 1098.1,
+  "limit": 1101.14,
+  "new_start": 1111.617125,
+  "dur": 2.761375,
+  "speed": 1.253,
+  "k": 1.0234786184209883,
+  "text_tgt": "Ele fica mais lá no oceano da lógica e da metamatemática."
+ },
+ {
+  "id": 222,
+  "start": 1101.14,
+  "limit": 1103.3,
+  "new_start": 1114.7285,
+  "dur": 1.895375,
+  "speed": 1.319,
+  "k": 1.039525462963033,
+  "text_tgt": "Estou falando do primeiro teorema de Gödel."
+ },
+ {
+  "id": 223,
+  "start": 1103.3,
+  "limit": 1106.72,
+  "new_start": 1116.973875,
+  "dur": 3.1327083333333334,
+  "speed": 1.213,
+  "k": 1.0183357699804851,
+  "text_tgt": "Ele tem tudo a ver com a lógica \"verdadeiro ou falso\" dos terráqueos."
+ },
+ {
+  "id": 224,
+  "start": 1106.72,
+  "limit": 1112.04,
+  "new_start": 1120.4565833333331,
+  "dur": 5.027458333333334,
+  "speed": 1.201,
+  "k": 1.0108004385965033,
+  "text_tgt": "Veja, a maioria das afirmações matemáticas de uma teoria pode ser provada verdadeira, ou provada falsa."
+ },
+ {
+  "id": 225,
+  "start": 1112.04,
+  "limit": 1115.5,
+  "new_start": 1125.8340416666665,
+  "dur": 3.1898333333333335,
+  "speed": 1.301,
+  "k": 1.0230732177263862,
+  "text_tgt": "Mas Gödel construiu uma afirmação que diz \"eu não posso ser provada\"."
+ },
+ {
+  "id": 226,
+  "start": 1115.5,
+  "limit": 1120.86,
+  "new_start": 1129.3738749999998,
+  "dur": 5.079958333333333,
+  "speed": 1.25,
+  "k": 1.0130519278607153,
+  "text_tgt": "A afirmação não pode ser falsa, senão seria uma afirmação falsa e demonstrável, o que seria absurdo."
+ },
+ {
+  "id": 227,
+  "start": 1120.86,
+  "limit": 1124.14,
+  "new_start": 1134.8038333333332,
+  "dur": 2.9400416666666667,
+  "speed": 1.034,
+  "k": 1.0030614837397762,
+  "text_tgt": "Então, pela lógica terráquea, ela tem que ser verdadeira."
+ },
+ {
+  "id": 228,
+  "start": 1124.14,
+  "limit": 1127.06,
+  "new_start": 1138.0938749999998,
+  "dur": 2.649125,
+  "speed": 1.291,
+  "k": 1.0270976027397805,
+  "text_tgt": "Mas, se é verdadeira, então ela é mesmo indemonstrável."
+ },
+ {
+  "id": 229,
+  "start": 1127.06,
+  "limit": 1130.6,
+  "new_start": 1141.0929999999998,
+  "dur": 3.34075,
+  "speed": 1.35,
+  "k": 1.0425847457627226,
+  "text_tgt": "Então temos uma afirmação verdadeira que não dá para provar dentro da teoria."
+ },
+ {
+  "id": 230,
+  "start": 1130.6,
+  "limit": 1138.04,
+  "new_start": 1144.7837499999998,
+  "dur": 7.150375,
+  "speed": 1.197,
+  "k": 1.0081149193548313,
+  "text_tgt": "Em outras palavras, a matemática pode provar muita coisa, mas nunca vai conseguir provar ou refutar tudo: sempre vai haver perguntas em aberto."
+ },
+ {
+  "id": 231,
+  "start": 1138.04,
+  "limit": 1141.14,
+  "new_start": 1152.284125,
+  "dur": 2.822125,
+  "speed": 1.265,
+  "k": 1.0232661290322131,
+  "text_tgt": "Este foi o décimo terceiro episódio de Terráqueos 101."
+ },
+ {
+  "id": 232,
+  "start": 1141.14,
+  "limit": 1145.86,
+  "new_start": 1155.45625,
+  "dur": 4.448,
+  "speed": 1.288,
+  "k": 1.0165254237288566,
+  "text_tgt": "O próximo episódio vai tratar dos dois sistemas de pensamento dos terráqueos: intuição e razão."
+ },
+ {
+  "id": 233,
+  "start": 1145.86,
+  "limit": 1151.7,
+  "new_start": 1160.25425,
+  "dur": 5.519791666666666,
+  "speed": 1.087,
+  "k": 1.005101312785363,
+  "text_tgt": "Mas antes vou fazer o terceiro e último episódio da minha série \"Sem Borda\", sobre a forma do universo."
+ },
+ {
+  "id": 234,
+  "start": 1151.7,
+  "limit": 1153.72,
+  "new_start": 1166.1240416666667,
+  "dur": 1.66,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Inscreva-se para não perder."
+ },
+ {
+  "id": 235,
+  "start": 1153.72,
+  "limit": 1157.2,
+  "new_start": 1168.1440416666667,
+  "dur": 3.488875,
+  "speed": 1.35,
+  "k": 1.1031249999999944,
+  "text_tgt": "Obrigado por assistir e, como sempre: não se esqueça de ser alienígena."
+ }
+]

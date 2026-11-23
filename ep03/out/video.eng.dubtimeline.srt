@@ -1,0 +1,436 @@
+1
+00:00:00,000 --> 00:00:05,127
+Welcome to the third episode of Earthlings 101, the crash course for alien visitors.
+
+2
+00:00:05,475 --> 00:00:06,835
+Let's talk about sex!
+
+3
+00:00:43,135 --> 00:00:44,699
+So, what is sex?
+
+4
+00:00:44,942 --> 00:00:48,282
+Most species on earth are divided into male and female specimen.
+
+5
+00:00:48,765 --> 00:00:54,561
+Sexual reproduction is a process where a male and a female individual combine their genetic code to create a new individual.
+
+6
+00:00:54,942 --> 00:00:56,071
+How does this work?
+
+7
+00:00:56,326 --> 00:00:58,554
+Consider a couple of typical earth animals.
+
+8
+00:00:58,554 --> 00:01:04,494
+Most of their cells contain a double set of DNA: one from the male parent, and one from the female one.
+
+9
+00:01:04,834 --> 00:01:14,691
+To be able to reproduce, both male and female create cells containing only one randomly mixed set of DNA: Then the male injects his cells into the female, a process called copulation.
+
+10
+00:01:15,192 --> 00:01:26,692
+One male cell fusionates with the female one and creates a full fledged cell with the usual double set of DNA: This cell is the base for the new organism which starts now growing - either in an egg, or inside the body of the female.
+
+11
+00:01:29,932 --> 00:01:35,832
+Note that the DNA of the parents isn't mixed to one set of DNA until the new specimen creates its sex cells.
+
+12
+00:01:36,492 --> 00:01:40,935
+That's why on earth, different species can interbreed but the offspring won't be able to reproduce.
+
+13
+00:01:42,201 --> 00:01:43,276
+Scientific advice.
+
+14
+00:01:43,634 --> 00:01:49,140
+If you want to use human biology to build bio-computers, don't limit your research to the brain.
+
+15
+00:01:49,522 --> 00:01:54,795
+During copulation, a male human ejaculates about 300 million sperm cells within 5 seconds.
+
+16
+00:01:55,296 --> 00:02:00,773
+The DNA in each cell consists of 3 billion base pairs, each one storing 2 bits of information.
+
+17
+00:02:00,773 --> 00:02:09,233
+This means that a human ejaculation has a bandwidth of about 40000 terabytes/sec, which is twelve times more than the bitrate of Xelarian neuro-cables.
+
+18
+00:02:09,813 --> 00:02:13,455
+Female earthlings carry their children inside their body for nine moon cycles.
+
+19
+00:02:13,941 --> 00:02:20,450
+During this time, they can't make other children, while the males can run around, hunt, fight, and copulate with other women.
+
+20
+00:02:20,450 --> 00:02:25,610
+So the bottleneck for population growth in a tribe is the number of females, not the number of males.
+
+21
+00:02:26,270 --> 00:02:30,466
+That's why men are traditionally the hunters and fighters and protect women and children with their life.
+
+22
+00:02:31,346 --> 00:02:35,855
+Males are dispensable - even a single male can impregnate a whole tribe of females.
+
+23
+00:02:36,737 --> 00:02:39,477
+The question is: why do earthlings have sex?
+
+24
+00:02:39,817 --> 00:02:49,394
+The answer lies in the human mind, as I explained it in the first episode: the beast pushes the ego to have sex with a feeling called desire, and reward sex with another feeling called pleasure.
+
+25
+00:02:49,394 --> 00:02:54,834
+The niggler, on the other side, enforces rules of society through feelings like shame and guilt.
+
+26
+00:02:55,554 --> 00:02:58,768
+Most human behaviour comes from this power game between beast and niggler.
+
+27
+00:02:59,415 --> 00:03:06,265
+But in case of sexuality, the beast disposes of a trump card: Love, a strong feeling to emotionally attach the human to another earthling.
+
+28
+00:03:06,667 --> 00:03:11,050
+Love feels good, and right and noble, and is immune to both reason and remorse.
+
+29
+00:03:11,510 --> 00:03:15,495
+So, earthlings think that acting out of love is an excuse for pretty much anything.
+
+30
+00:03:15,495 --> 00:03:23,935
+In the last episode, we have seen that life on earth, from photosynthesis to human civilization, is all about one thing: Spreading the genetic code.
+
+31
+00:03:24,315 --> 00:03:26,303
+We might call this the "genetic imperative".
+
+32
+00:03:26,754 --> 00:03:29,288
+But why did the genetic imperative favour sex?
+
+33
+00:03:29,720 --> 00:03:35,469
+Wouldn’t it be more efficient if all specimen could bear children on their own, without complicated mating rituals and copulation?
+
+34
+00:03:35,873 --> 00:03:39,195
+The answer may lie in a somewhat special kind of creatures: parasites.
+
+35
+00:03:40,496 --> 00:03:47,636
+Actually, parasites exist only on earth, because it's the only planet where the anti-parasite regulations of the Central Bureaucracy don't apply.
+
+36
+00:03:47,916 --> 00:03:54,321
+Of course, those regulations don't hold for brain suckers, but that's only because brain suckers kinda run the bureaucracy.
+
+37
+00:03:54,701 --> 00:03:57,987
+Therefore they are legally not considered parasites but "authoritarian symbionts".
+
+38
+00:03:59,388 --> 00:04:07,905
+Parasites are usually small creatures - like insects, microbes or worms - which live on, or even inside bigger creatures, draining their resources.
+
+39
+00:04:08,426 --> 00:04:14,247
+The problem is that parasites grow and reproduce faster than their hosts, so they can adapt to any mutation of the host.
+
+40
+00:04:14,732 --> 00:04:20,012
+So, fighting parasites by mutating is useless, because the parasites can mutate much faster.
+
+41
+00:04:20,012 --> 00:04:24,172
+But sexually reproducing animals show huge differences with each generation.
+
+42
+00:04:24,572 --> 00:04:29,016
+So it's much harder for parasites to adapt to the ever-changing characteristics of their hosts.
+
+43
+00:04:29,557 --> 00:04:33,925
+So, in a world with gazillions of parasites, sexuality is a better strategy.
+
+44
+00:04:34,406 --> 00:04:37,206
+That's why sexuality is so popular on earth.
+
+45
+00:04:37,606 --> 00:04:39,353
+Almost all species do it...
+
+46
+00:04:39,654 --> 00:04:41,774
+Except for the microbes.
+
+47
+00:04:44,374 --> 00:04:45,732
+Tips for tourists.
+
+48
+00:04:45,732 --> 00:04:51,352
+If you want to observe human sexual behaviour, look for urban zones called red light districts.
+
+49
+00:04:51,832 --> 00:04:59,202
+You might not be able to observe an actual copulation, but you may see human mating-dances and watch educational films about sexual reproduction.
+
+50
+00:05:00,044 --> 00:05:04,544
+Now, the interesting thing about sex is that it alters completely the rules of evolution.
+
+51
+00:05:04,884 --> 00:05:06,144
+Why is this so?
+
+52
+00:05:06,424 --> 00:05:11,400
+Well, in natural selection, the most successful individuals are those who are able to survive.
+
+53
+00:05:11,400 --> 00:05:16,340
+So, when a mutation is successful, it's usually because it serves a certain purpose.
+
+54
+00:05:16,720 --> 00:05:22,590
+But sexual reproduction involves picking a mate, and evolution pushes the individuals to be picky about their mates.
+
+55
+00:05:22,953 --> 00:05:27,555
+In general, female animals are pickier because they have a limited reproduction capacity.
+
+56
+00:05:27,858 --> 00:05:29,658
+This is called sexual selection.
+
+57
+00:05:30,143 --> 00:05:36,335
+So, sexiness - the ability to attract possible mates - becomes an important factor for evolutionary success.
+
+58
+00:05:36,335 --> 00:05:43,595
+This situation creates some sort of "strange loop": one of the most important factors in sexiness is actually: sexiness.
+
+59
+00:05:44,395 --> 00:05:48,363
+Consider a group of animals where some males have a tiny tentacle growing out of their head.
+
+60
+00:05:48,729 --> 00:05:51,195
+Let's assume some females find this rather cute.
+
+61
+00:05:51,745 --> 00:05:54,745
+So, males with tentacles become slightly sexier.
+
+62
+00:05:55,145 --> 00:06:04,577
+The point is, sexy males are likely to have sexy offspring, and every female wants sexy offspring, because the sexier the offspring is, the more he will spread mummy's genetic code.
+
+63
+00:06:04,577 --> 00:06:11,037
+In consequence, even the females who were not interested in tentacles in the first place want now sexy tentaculous offspring.
+
+64
+00:06:11,457 --> 00:06:14,237
+So, tentacles become even more attractive.
+
+65
+00:06:14,557 --> 00:06:23,045
+So we have entered a strange loop where tentacles are sexy simply because tentacles are sexy, without any practical reason other than the fact that everybody wants sexy offspring.
+
+66
+00:06:23,467 --> 00:06:30,108
+From generation to generation, tentacles will grow bigger and bigger until they are so encumbering that they actually reduce the ability to survive.
+
+67
+00:06:30,108 --> 00:06:33,148
+This example is less exaggerated than it seems.
+
+68
+00:06:33,628 --> 00:06:39,765
+Some species develop giant encumbering antlers, or huge colored tail feathers, or elaborate mating songs.
+
+69
+00:06:42,488 --> 00:06:50,500
+Some scientists even think that human intelligence has developed as kind of "mental antlers", pushed forward by sexual selection rather than by the need for survival.
+
+70
+00:06:50,500 --> 00:06:53,440
+Now let's have a closer look at earthling sexuality.
+
+71
+00:06:53,760 --> 00:06:55,920
+When are earthlings considered to be attractive?
+
+72
+00:06:56,580 --> 00:07:05,581
+Males are attractive when they are strong, healthy, aggressive and intelligent, and have a high social rank, because all this means that they will be able to protect and feed their mate and offspring.
+
+73
+00:07:05,581 --> 00:07:13,981
+Also, a male who spreads his DNA pretty much anywhere is sexy, because in this case, chances are that his sons will spread mummy's DNA pretty much anywhere.
+
+74
+00:07:14,441 --> 00:07:27,621
+And finally, males should not be so old that they are likely to die within some years, because then they won't be able to protect and feed their offspring - except if they are old and rich, which means that they will leave a lot of money behind, and money can buy protection and food.
+
+75
+00:07:27,621 --> 00:07:30,609
+So, old men are only sexy if they are rich.
+
+76
+00:07:30,910 --> 00:07:36,890
+For females, the primary selection criterion is the ability to bear a lot of children before she runs out of egg cells.
+
+77
+00:07:37,410 --> 00:07:39,579
+So, health and youth are crucial.
+
+78
+00:07:39,951 --> 00:07:43,644
+Large hips are sexy because large hip bones make childbearing easier.
+
+79
+00:07:44,085 --> 00:07:49,385
+Also, a slim waist is sexy because it means that the large hips don't just come from an excess of body fat.
+
+80
+00:07:49,785 --> 00:07:54,468
+And finally, large breasts are sexy because, well, nobody really knows why.
+
+81
+00:07:54,468 --> 00:08:01,568
+They may just have evolved by the strange loop of sexual selection, without any particular reason, like antlers or colored tail feathers.
+
+82
+00:08:01,888 --> 00:08:06,128
+And finally, intelligence and social rank also add to the attractivity.
+
+83
+00:08:07,808 --> 00:08:09,172
+Strategic advice.
+
+84
+00:08:09,172 --> 00:08:17,331
+If you want to infiltrate human society with shape shifters to gather intelligence for an invasion, you may consider your operatives taking the shape of attractive females.
+
+85
+00:08:17,331 --> 00:08:25,853
+If you do so, pay attention to details: Even minor errors like the wrong number of eyes or the wrong skin color may freak out humans and compromise your agents.
+
+86
+00:08:27,214 --> 00:08:33,954
+Spreading the code and choosing partners with quality DNA are not the only goals: The humans must also feed and protect their offspring.
+
+87
+00:08:34,371 --> 00:08:40,293
+Humans usually unite those goals by choosing one long-term partner to raise the children with - and then cheating upon him.
+
+88
+00:08:40,293 --> 00:08:49,063
+For a male earthling, a proven strategy is to choose one female as long-term partner, and then copulate with lots of other females behind her back to spread the code.
+
+89
+00:08:49,645 --> 00:08:54,355
+Society tolerates this behaviour, more or less, and a man who does so is considered a winner.
+
+90
+00:08:55,277 --> 00:09:01,057
+Women, on the other hand, usually carry one child at a time, no matter how many sexual partners they have.
+
+91
+00:09:01,057 --> 00:09:04,539
+So they better be picky about the DNA of their children's fathers.
+
+92
+00:09:05,007 --> 00:09:08,537
+That's why society frowns upon women who have a lot of sexual partners.
+
+93
+00:09:08,950 --> 00:09:18,695
+A popular female strategy is to choose the best possible long-term partner, to feed and protect her offspring - and then cheat upon him with another male providing high-quality DNA for said offspring.
+
+94
+00:09:19,116 --> 00:09:24,897
+This is often one of the "winners" we mentioned before, or at least a younger, richer or otherwise more attractive male.
+
+95
+00:09:24,897 --> 00:09:30,297
+Of course, no male wants to raise the offspring of a rival, so the cheating has to be done in secret.
+
+96
+00:09:30,737 --> 00:09:37,257
+Again, this behaviour is often more or less tolerated by society, or even romantically idealized in fictional works.
+
+97
+00:09:37,577 --> 00:09:46,777
+Speaking of fictional works: vampires, the fictional predators mentioned in episode one, are considered highly attractive, because they are real experts in feeding and not dying.
+
+98
+00:09:47,257 --> 00:09:53,451
+There is even a popular fictional work about an underage girl having a relationship with a vampire who has more than six times her age.
+
+99
+00:09:53,451 --> 00:10:00,528
+A relationship between humans having this age difference would never be tolerated by society, but apparently it's ok if the male is a vampire.
+
+100
+00:10:00,849 --> 00:10:06,836
+It should be mentioned that many animal species have developed same sex copulation, also known as homosexuality.
+
+101
+00:10:07,098 --> 00:10:13,018
+This has nothing to do with reproduction, it serves social purposes, for example to resolve social conflicts.
+
+102
+00:10:13,418 --> 00:10:20,318
+So it is all natural that some humans also show homosexual behaviour - except for creationists who claim not to descend from animals.
+
+103
+00:10:22,598 --> 00:10:27,994
+When earthlings have raised children, one of their main concerns is often that the offspring keeps spreading the code.
+
+104
+00:10:28,257 --> 00:10:46,886
+They push their children to look for partners with high-quality DNA, they encourage them to reproduce, and even tolerant parents tend to freak out if ever a child reveals as homosexual, simply because homosexual offspring is a dead end for the DNA: By the way, the fear of having homosexual offspring is the main reason why many earthlings think homosexuality is wrong.
+
+105
+00:10:47,226 --> 00:11:00,269
+Human sexual behaviour, like human behaviour in general, is mostly determined by genetic programmation - either directly by human nature, or indirectly by society, which has evolved with human nature and is hard-wired into the human brain.
+
+106
+00:11:00,269 --> 00:11:08,149
+After all, everything comes down to the single most important driving force of human civilization, the genetic imperative: Spreading the code.
+
+107
+00:11:08,529 --> 00:11:14,645
+In the next episode we will talk about ethics: what is good, what is evil, and what has it all to do with eating fruits.
+
+108
+00:11:14,645 --> 00:11:19,791
+We will also discuss what happens when you throw Mighty Cthulhu and Great Xenu together in prison.
+
+109
+00:11:20,912 --> 00:11:22,047
+Thanks for watching.
+

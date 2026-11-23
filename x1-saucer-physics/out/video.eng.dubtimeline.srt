@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:01,528
+Hello, fellow aliens.
+
+2
+00:00:01,935 --> 00:00:08,875
+This is not an episode of Earthlings 101, the crash course for alien visitors, but a video response to an Earthling video about a spinning disk.
+
+3
+00:00:09,138 --> 00:00:13,224
+As most of you are used to voyage inside spinning disks, you might find this interesting.
+
+4
+00:00:13,528 --> 00:00:17,436
+The Earthling video shows a disk with an eccentric hole, spinning vertically on the ground.
+
+5
+00:00:17,680 --> 00:00:21,848
+The funny thing is that the heavy side of the disk turns upwards, seemingly defying gravity.
+
+6
+00:00:22,253 --> 00:00:23,213
+Why does this happen?
+
+7
+00:00:23,833 --> 00:00:29,842
+Now, before you try this for yourself, if you have one of those fancy frictionless piloting consoles, it won't work there.
+
+8
+00:00:30,326 --> 00:00:33,762
+Better try on a rough surface, as friction plays an important role in the effect.
+
+9
+00:00:34,385 --> 00:00:38,148
+Actually, this effect is based on the three basic rules of saucer physics.
+
+10
+00:00:38,809 --> 00:00:42,449
+For those of you who don't remember their saucer piloting lessons, here a quick reminder.
+
+11
+00:00:42,929 --> 00:00:47,160
+The first rule of saucer physics says that a saucer will always spin around its center of mass.
+
+12
+00:00:47,545 --> 00:00:54,860
+So, if you abduct a herd of cows, and store them all on one side of the saucer, the spinning axis will be somewhere between the geometrical center and the cows.
+
+13
+00:00:55,323 --> 00:00:58,181
+That's why you always check your cargo distribution before lifting off.
+
+14
+00:00:58,489 --> 00:01:04,249
+The second rule of saucer physics says that when the saucer scrapes horizontally over the ground, it will have the tendency to tip over.
+
+15
+00:01:04,589 --> 00:01:06,181
+That's why you always land vertically.
+
+16
+00:01:06,670 --> 00:01:13,430
+And finally, the third rule of saucer physics says that when you incline the spinning saucer into one direction, it will have the tendency to roll sidewards.
+
+17
+00:01:13,850 --> 00:01:17,189
+This is called precession, and every saucer pilot is painfully aware of it.
+
+18
+00:01:17,519 --> 00:01:19,959
+This is why you stop spinning before you maneuver or land.
+
+19
+00:01:20,719 --> 00:01:25,091
+Now, imagine a saucer pilot who had too much Sagittarian brandies, so he becomes careless.
+
+20
+00:01:25,598 --> 00:01:30,342
+He lands on Earth with a herd of cows on one side of the saucer, and he forgets to extend the landing gear.
+
+21
+00:01:30,849 --> 00:01:32,149
+What happens when he lands?
+
+22
+00:01:32,629 --> 00:01:36,129
+Well, the point where the saucer will touch the ground will not be below the center of mass.
+
+23
+00:01:36,597 --> 00:01:39,402
+If the saucer is not spinning, the saucer will just tip over.
+
+24
+00:01:39,729 --> 00:01:41,588
+But now suppose that the saucer is spinning.
+
+25
+00:01:41,981 --> 00:01:45,461
+The first rule of saucer physics says that it will spin around its center of mass.
+
+26
+00:01:45,941 --> 00:01:50,181
+That means, when it lands, the contact point with the ground will scrape over the ground in a circle.
+
+27
+00:01:50,641 --> 00:02:01,901
+Now, the second rule says that the friction on the ground will make the saucer tip, and the third rule says that this tipping moment will create a precession effect which makes the saucer turn sidewards instead of tipping, in this case such that the center of mass goes upwards.
+
+28
+00:02:02,441 --> 00:02:06,529
+So, the cows will move upwards, not downwards, but back to the spinning disc.
+
+29
+00:02:06,752 --> 00:02:08,075
+It's basically the same thing.
+
+30
+00:02:08,268 --> 00:02:11,656
+Only without the cows and the saucer, the disc rotates around its center of mass.
+
+31
+00:02:11,950 --> 00:02:22,067
+So, unless it's in a perfectly symmetrical position, the lowest point scrapes in a circle over the ground, which creates a tipping torque, which is just what the precession effect was waiting for, to turn the heavy side of the disc upwards.
+
+32
+00:02:22,388 --> 00:02:26,252
+This happens continuously until the center of mass is above the contact point with the ground.
+
+33
+00:02:26,778 --> 00:02:30,922
+By the way, humans have a toy called tippy top which basically works the same way.
+
+34
+00:02:31,428 --> 00:02:39,489
+That's, in a nutshell, the reason why A, the disc turns heavy side up, and B, why saucer pilots should go easy on sagittarian brandy.
+
+35
+00:02:39,489 --> 00:02:40,686
+Thanks for watching.
+

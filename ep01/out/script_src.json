@@ -1,0 +1,488 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 5.18,
+  "text_src": "Hello, my name is Zogg, and I wanna welcome you to Earthlings 101, the crash course for alien visitors of earth."
+ },
+ {
+  "id": 2,
+  "start": 39.46,
+  "end": 41.1,
+  "text_src": "So, what is this course anyway?"
+ },
+ {
+  "id": 3,
+  "start": 41.36,
+  "end": 45.1,
+  "text_src": "During the course, we will discuss everything an alien visitor needs to know about earthlings and their planet."
+ },
+ {
+  "id": 4,
+  "start": 45.42,
+  "end": 52.1,
+  "text_src": "No matter whether you are a space tourist, an alien scientist, or a galactic conqueror: If you are interested in the human species, this course is for you."
+ },
+ {
+  "id": 5,
+  "start": 52.1,
+  "end": 57.22,
+  "text_src": "The first episode is a general introduction into the human race, or, as they call themselves: Mankind."
+ },
+ {
+  "id": 6,
+  "start": 57.84,
+  "end": 61.84,
+  "text_src": "The earthlings live in a rather boring region of the galaxy and are not particularly beautiful, intelligent or tasty."
+ },
+ {
+  "id": 7,
+  "start": 62.08,
+  "end": 63.28,
+  "text_src": "So, why are they so interesting?"
+ },
+ {
+  "id": 8,
+  "start": 63.64,
+  "end": 72.0,
+  "text_src": "Well, the earthling planet happens to be inside a natural reservation inside a non-transit area inside the neutral zone between the Andromeda Empire and the Union of Galactic Communist Republics."
+ },
+ {
+  "id": 9,
+  "start": 72.34,
+  "end": 76.62,
+  "text_src": "Due to this position, their planet is actually out of reach of the almighty and omnipresent Galactic Bureaucracy."
+ },
+ {
+  "id": 10,
+  "start": 76.9,
+  "end": 81.6,
+  "text_src": "A planetary census alone would require more paperwork than the last galaxy-wide reform of the taxation of planetary rings."
+ },
+ {
+  "id": 11,
+  "start": 81.6,
+  "end": 92.14,
+  "text_src": "In consequence, life on earth has developed without any administrative supervision, wars and migrations don't need to be approved by the administration, whole species can emerge and perish without any paperwork, and all economical benefits stay on the planet."
+ },
+ {
+  "id": 12,
+  "start": 92.32,
+  "end": 93.92,
+  "text_src": "Earthlings don't even pay a tax on their moon!"
+ },
+ {
+  "id": 13,
+  "start": 94.82,
+  "end": 99.12,
+  "text_src": "The earthlings' home is a small rock called earth, orbiting an uninteresting yellow star called sun."
+ },
+ {
+  "id": 14,
+  "start": 99.58,
+  "end": 102.08,
+  "text_src": "Being a tax paradise, they can afford an enormous moon as well."
+ },
+ {
+  "id": 15,
+  "start": 102.46,
+  "end": 109.06,
+  "text_src": "The planet is mostly covered with hydric acid, also known as dihydrogen-monoxide, a slimy and disgusting chemical which is toxic to most galactic lifeforms."
+ },
+ {
+  "id": 16,
+  "start": 109.5,
+  "end": 116.98,
+  "text_src": "Life on earth is roughly divided into four kinds of creatures: First, there are plants, greenish fiber bundles which clamp to the ground and feed on sunlight."
+ },
+ {
+  "id": 17,
+  "start": 117.54,
+  "end": 122.88,
+  "text_src": "Secondly, there are animals, mobile bags filled with red slime, which feed on plants and sometimes on other animals."
+ },
+ {
+  "id": 18,
+  "start": 123.42,
+  "end": 128.38,
+  "text_src": "Thirdly, the earthlings, pink slime bags which feed on animals and plants and do a lot of weird stuff in the rest of their time."
+ },
+ {
+  "id": 19,
+  "start": 128.38,
+  "end": 130.68,
+  "text_src": "This weird stuff is what this course is all about."
+ },
+ {
+  "id": 20,
+  "start": 131.22,
+  "end": 135.48,
+  "text_src": "And fourthly, there are gazillions of tiny little creatures which feed on pretty much anything else."
+ },
+ {
+  "id": 21,
+  "start": 135.98,
+  "end": 139.08,
+  "text_src": "However, microbes are so tiny that earthlings can't see them with their primitive eyes."
+ },
+ {
+  "id": 22,
+  "start": 139.46,
+  "end": 144.06,
+  "text_src": "So the earthlings think that they are at the end of the food chain and consider themselves the dominant species of the planet."
+ },
+ {
+  "id": 23,
+  "start": 145.44,
+  "end": 151.82,
+  "text_src": "When you visit earth, you may hear accounts on other kinds of creatures, which feed on earthlings, seek moonlight, and avoid sunlight and hydric acid."
+ },
+ {
+  "id": 24,
+  "start": 152.3,
+  "end": 155.02,
+  "text_src": "However, these creatures are not real - the earthlings made them up."
+ },
+ {
+  "id": 25,
+  "start": 155.34,
+  "end": 158.44,
+  "text_src": "Making things up belongs to the weird stuff earthlings are used to do."
+ },
+ {
+  "id": 26,
+  "start": 158.72,
+  "end": 160.52,
+  "text_src": "We will explain this in forthcoming episodes."
+ },
+ {
+  "id": 27,
+  "start": 162.16,
+  "end": 165.72,
+  "text_src": "Strategic advice: As mentioned before, hydric acid is abundant on earth."
+ },
+ {
+  "id": 28,
+  "start": 166.02,
+  "end": 171.32,
+  "text_src": "So, if you are planning an invasion, make sure your vessels, battle suits and equipment are not soluble in hydric acid."
+ },
+ {
+  "id": 29,
+  "start": 171.72,
+  "end": 175.22,
+  "text_src": "There is nothing more embarrassing than your mighty invasion force melting away in a summer rain."
+ },
+ {
+  "id": 30,
+  "start": 177.22,
+  "end": 188.24,
+  "text_src": "Life on earth is all about three things: Feeding, reproducing and not dying - which is kind of redundant, as feeding is all about not dying, and reproducing and not dying are all about not letting the genetic code die."
+ },
+ {
+  "id": 31,
+  "start": 188.24,
+  "end": 193.62,
+  "text_src": "The genetic code is a quaternary code written on tiny molecules and stored inside the elementary building blocks of their bodies."
+ },
+ {
+  "id": 32,
+  "start": 194.0,
+  "end": 200.44,
+  "text_src": "It defines the creature's appearance, ability and behaviour, and the most successful codes are those who make their creatures protect and spread the code."
+ },
+ {
+  "id": 33,
+  "start": 200.84,
+  "end": 203.76,
+  "text_src": "In other words: Feeding, reproducing and not dying."
+ },
+ {
+  "id": 34,
+  "start": 205.74,
+  "end": 218.86,
+  "text_src": "With time, animals developed a whole lot of tricks in order to get better and better at feeding, reproducing and not dying: Natural weapons, size, useless but attractive antlers or feathers, speed, protective shells, camouflage, the ability to climb or even to fly."
+ },
+ {
+  "id": 35,
+  "start": 219.1,
+  "end": 222.7,
+  "text_src": "But when it came to creating the earthlings, nature got lazy and gave them none of this."
+ },
+ {
+  "id": 36,
+  "start": 223.16,
+  "end": 226.38,
+  "text_src": "Instead, she just gave them a brain and told them to figure everything out for themselves."
+ },
+ {
+  "id": 37,
+  "start": 226.82,
+  "end": 227.44,
+  "text_src": "Which they did."
+ },
+ {
+  "id": 38,
+  "start": 227.94,
+  "end": 229.34,
+  "text_src": "Remarkably well, by the way."
+ },
+ {
+  "id": 39,
+  "start": 229.34,
+  "end": 233.78,
+  "text_src": "The trick was to replace the missing natural attributes by self-made ones, which they called \"tools\"."
+ },
+ {
+  "id": 40,
+  "start": 234.88,
+  "end": 238.92,
+  "text_src": "With these tools, earthlings could adapt better to any given circumstances than any other species on the planet."
+ },
+ {
+  "id": 41,
+  "start": 239.22,
+  "end": 241.02,
+  "text_src": "Except for the microbes."
+ },
+ {
+  "id": 42,
+  "start": 244.02,
+  "end": 248.36,
+  "text_src": "Tips for tourists: A vacation on earth may be exciting, but it can also be very expensive."
+ },
+ {
+  "id": 43,
+  "start": 248.74,
+  "end": 252.34,
+  "text_src": "If you are low on budget and only want to spend the weekend, why not take a trip to the moon?"
+ },
+ {
+  "id": 44,
+  "start": 252.82,
+  "end": 256.74,
+  "text_src": "It's not overcrowded, you'll have a great view on earth, and you might even stumble upon some human artefacts."
+ },
+ {
+  "id": 45,
+  "start": 258.88,
+  "end": 262.36,
+  "text_src": "One of the best ways to keep eating, reproducing and not dying is actually killing."
+ },
+ {
+  "id": 46,
+  "start": 262.88,
+  "end": 264.26,
+  "text_src": "Earthlings are real experts on killing."
+ },
+ {
+  "id": 47,
+  "start": 264.52,
+  "end": 268.86,
+  "text_src": "Mankind is the only galactic civilization that invented the hydrogen bomb before the teleportation device."
+ },
+ {
+  "id": 48,
+  "start": 270.6,
+  "end": 277.04,
+  "text_src": "Earthlings kill plants for food, animals for more food, rival earthlings to get their food and reproduction partners, and microbes not to be killed by them."
+ },
+ {
+  "id": 49,
+  "start": 278.06,
+  "end": 282.58,
+  "text_src": "Earthlings have even found a use for the inedible parts of plants and animals they killed: They wrap them around their bodies."
+ },
+ {
+  "id": 50,
+  "start": 283.06,
+  "end": 284.1,
+  "text_src": "This is called \"clothing\"."
+ },
+ {
+  "id": 51,
+  "start": 284.6,
+  "end": 289.22,
+  "text_src": "Having sophisticated clothing is something that attracts more potential reproduction partners, which may then lead to more killing."
+ },
+ {
+  "id": 52,
+  "start": 290.1,
+  "end": 295.16,
+  "text_src": "To prevent earthlings from killing each other up to the last earthling standing, they have developed something called society."
+ },
+ {
+  "id": 53,
+  "start": 295.68,
+  "end": 300.44,
+  "text_src": "Earthlings usually think that society is a big group of humans, but actually it's more of an abstract entity."
+ },
+ {
+  "id": 54,
+  "start": 300.98,
+  "end": 305.6,
+  "text_src": "Society isn't something that actually exists, but that doesn't hinder it from having a strong opinion on pretty much anything."
+ },
+ {
+  "id": 55,
+  "start": 306.0,
+  "end": 311.6,
+  "text_src": "It tells earthlings what to do, what not to do, what to eat, what tools to use, whom to reproduce with and what cloth to wear."
+ },
+ {
+  "id": 56,
+  "start": 312.12,
+  "end": 316.68,
+  "text_src": "Society basically imposes on earthlings the interest of the group, pretty much like the genetic code imposes its own interest."
+ },
+ {
+  "id": 57,
+  "start": 317.6,
+  "end": 320.72,
+  "text_src": "The earthlings didn't actually invent society - it developed with mankind."
+ },
+ {
+  "id": 58,
+  "start": 321.5,
+  "end": 323.26,
+  "text_src": "Society is kind of hardwired into their brain."
+ },
+ {
+  "id": 59,
+  "start": 323.72,
+  "end": 328.0,
+  "text_src": "See, in the center of the human mind is the Ego, the part that observes the world and decides what to do."
+ },
+ {
+  "id": 60,
+  "start": 328.3,
+  "end": 329.24,
+  "text_src": "But the Ego isn't alone."
+ },
+ {
+  "id": 61,
+  "start": 329.62,
+  "end": 336.24,
+  "text_src": "It's based upon a dark and strange part we might call the Beast, which defends the interest of the genetic code: Feeding, reproducing and not dying."
+ },
+ {
+  "id": 62,
+  "start": 336.24,
+  "end": 340.2,
+  "text_src": "On the other hand we have what we might call the Niggler, which is kind of an advocate of society."
+ },
+ {
+  "id": 63,
+  "start": 340.68,
+  "end": 344.58,
+  "text_src": "Whereas the Beast tells the Ego what he would like to do, the Niggler keeps telling him what he should do."
+ },
+ {
+  "id": 64,
+  "start": 344.94,
+  "end": 347.68,
+  "text_src": "The Ego is, so to say, slave of two masters."
+ },
+ {
+  "id": 65,
+  "start": 347.94,
+  "end": 355.12,
+  "text_src": "Whereas the Beast tries to control him with things like pleasure, fear, desire and pain, the Niggler manipulates him with things like remorse and the feeling of success."
+ },
+ {
+  "id": 66,
+  "start": 355.12,
+  "end": 359.98,
+  "text_src": "As the former one represents the needs of the code, and the latter one the interests of the group, both often disagree."
+ },
+ {
+  "id": 67,
+  "start": 360.22,
+  "end": 366.76,
+  "text_src": "The Ego passes most of his time navigating between the demands and interdictions of both parties - a process called, rather incorrectly, \"free will\"."
+ },
+ {
+  "id": 68,
+  "start": 367.84,
+  "end": 373.94,
+  "text_src": "Scientific advice: When you experiment on earthlings, don't try to separate the three parts of the brain by surgery."
+ },
+ {
+  "id": 69,
+  "start": 374.24,
+  "end": 376.54,
+  "text_src": "That's not possible, as they are all tangled together."
+ },
+ {
+  "id": 70,
+  "start": 377.06,
+  "end": 380.66,
+  "text_src": "Instead, try stimulating different parts of the brain with electric shocks and see what happens."
+ },
+ {
+  "id": 71,
+  "start": 380.66,
+  "end": 383.94,
+  "text_src": "This is an interesting and entertaining way of learning about the functions of the brain."
+ },
+ {
+  "id": 72,
+  "start": 384.28,
+  "end": 386.86,
+  "text_src": "It's also a great science fair project for young scientists."
+ },
+ {
+  "id": 73,
+  "start": 388.52,
+  "end": 391.4,
+  "text_src": "The funny thing is that neither the Beast nor the Niggler seem to live in the present."
+ },
+ {
+  "id": 74,
+  "start": 391.86,
+  "end": 401.94,
+  "text_src": "The Beast still lives in a distant past where life was tough, rules were simple, killing was a necessity, reproducing didn't follow any rules, eating involved a lot of running after animals, and not dying involved a lot of running from predators."
+ },
+ {
+  "id": 75,
+  "start": 402.56,
+  "end": 409.84,
+  "text_src": "The Niggler, on the other hand, lives sometimes in an idealized future where life is easy, nobody kills anybody anymore, everybody is kind and perfect and everything will be better."
+ },
+ {
+  "id": 76,
+  "start": 409.84,
+  "end": 419.78,
+  "text_src": "Sometimes, however, the Niggler lives in an equally idealized, not-so-distant past, where rules were strict, manners were different, clothing covered more skin, reproducing was nearly prohibited and everything was better."
+ },
+ {
+  "id": 77,
+  "start": 420.14,
+  "end": 424.84,
+  "text_src": "So, the Ego, having to deal with the present, has sometimes a hard time reuniting the wishes of his two masters."
+ },
+ {
+  "id": 78,
+  "start": 424.84,
+  "end": 427.14,
+  "text_src": "This was the first episode of Earthlings 101."
+ },
+ {
+  "id": 79,
+  "start": 427.7,
+  "end": 437.94,
+  "text_src": "In forthcoming episodes, I will tell you more about evolution and society, but also about weird things like nations, myths, dreams, sex, magic, rituals, beauty, money, games and much more."
+ },
+ {
+  "id": 80,
+  "start": 437.94,
+  "end": 445.6,
+  "text_src": "Next time you will learn about evolution, genetics, and why the genetic code of earthlings contains the sentence \"Squids are stupid\" in an ancient Sagittarian dialect."
+ },
+ {
+  "id": 81,
+  "start": 445.6,
+  "end": 447.24,
+  "text_src": "Thank you for watching!"
+ }
+]

@@ -1,0 +1,600 @@
+1
+00:00:00,000 --> 00:00:01,689
+Greetings, fellow aliens!
+
+2
+00:00:02,148 --> 00:00:06,270
+Today we will talk about one of the earthlings' favourite things: Food.
+
+3
+00:00:39,350 --> 00:00:44,510
+Like many organisms, earthlings need various chemicals to sustain their metabolism.
+
+4
+00:00:44,990 --> 00:00:49,250
+These chemicals are taken in three ways: Breathing, drinking and eating.
+
+5
+00:00:50,070 --> 00:00:55,670
+Breathing means aspirating oxygen and exhaling carbon dioxide, which is heavier than oxygen.
+
+6
+00:00:55,670 --> 00:01:04,210
+So, earthlings constantly lose weight through breathing, approximately half a kilogram per day, which is of course replaced by eating and drinking.
+
+7
+00:01:05,450 --> 00:01:08,030
+Eating means taking aliments through the mouth.
+
+8
+00:01:08,410 --> 00:01:12,310
+The mouth has two purposes: Shredding the food, and analyzing it.
+
+9
+00:01:12,750 --> 00:01:16,944
+Drinking is basically the same, but with liquids - mainly hydric acid.
+
+10
+00:01:17,706 --> 00:01:24,126
+Besides hydric acid, there are three main components of food: Carbohydrates, fat and proteins.
+
+11
+00:01:26,126 --> 00:01:28,442
+Carbohydrates are the main energy source of the body.
+
+12
+00:01:28,883 --> 00:01:34,183
+Remember sugar, the energy-rich molecules produced by plants out of sunlight and thin air?
+
+13
+00:01:34,463 --> 00:01:37,923
+The simplest sugars are glucose, fructose and sucrose.
+
+14
+00:01:38,603 --> 00:01:46,783
+Glucose looks a bit like a Centauri donut with a little flag, fructose like a smaller donut with two little flags, and sucrose like the two of them glued together.
+
+15
+00:01:46,783 --> 00:01:50,303
+There are also non-circular variants of those molecules.
+
+16
+00:01:51,323 --> 00:01:56,223
+Now, carbohydrates are basically sugar, and everything you can assemble from sugar.
+
+17
+00:01:56,463 --> 00:02:06,063
+For example, when you create a glucose chain and put all the little flags in the same direction, you get starch, a good energy source - you find it, for example, in bread.
+
+18
+00:02:06,063 --> 00:02:13,123
+But when you alternate the orientation of the flags, you get cellulose, which is indigestible for earth creatures.
+
+19
+00:02:13,843 --> 00:02:15,743
+Except for the microbes.
+
+20
+00:02:18,583 --> 00:02:25,743
+Even cellulose-eating animals like cows can't digest it by themselves; they have it digested by microbes in their bowels.
+
+21
+00:02:26,483 --> 00:02:31,478
+A special kind of cellulose structure is wood - the stuff the stems of trees are made of.
+
+22
+00:02:31,819 --> 00:02:35,136
+It's basically cellulose fibers held together by a matrix of lignin.
+
+23
+00:02:35,804 --> 00:02:40,909
+Wood is not edible either, but it plays an important part in the development of earthling alimentation.
+
+24
+00:02:41,171 --> 00:02:42,871
+We will come back to this later.
+
+25
+00:02:43,371 --> 00:02:46,538
+The second component of earthling food are fats.
+
+26
+00:02:46,901 --> 00:02:47,887
+What is fat?
+
+27
+00:02:48,249 --> 00:02:55,109
+Well, fat molecules look a bit like fat little baby squids, with a body of glycerol and three tentacles of fatty acids.
+
+28
+00:02:55,109 --> 00:03:01,929
+Missing hydrogen atoms in the tentacles create kinks, in this case we speak of unsaturated fatty acids.
+
+29
+00:03:02,529 --> 00:03:08,710
+Anyway, creatures use fat principally to store energy, for example to survive the cold season when food is rare.
+
+30
+00:03:09,191 --> 00:03:13,327
+Predators, and earthlings in particular, love eating fat of other creatures.
+
+31
+00:03:13,854 --> 00:03:19,269
+In rich countries, people have nowadays so much to eat that they often accumulate too much fat.
+
+32
+00:03:19,269 --> 00:03:27,649
+They try to burn fat with physical exercises - when the body burns fat, it produces more carbon dioxide, thus loses more weight.
+
+33
+00:03:28,009 --> 00:03:36,489
+A less exhausting way of burning fat would probably be to simply turn the heating down - when it's cold, the earthling body consumes energy to maintain its temperature.
+
+34
+00:03:37,229 --> 00:03:39,609
+Strangely, this method is not very popular.
+
+35
+00:03:40,849 --> 00:03:43,874
+Now to the third component of food: proteins.
+
+36
+00:03:44,280 --> 00:03:51,684
+Those are complex molecular nanomachines which basically run the organism on the molecular level, from muscle power to transmitting messages.
+
+37
+00:03:52,207 --> 00:04:01,747
+An important kind of proteins are those little nanobots called enzymes which catalyse all kinds of chemical reactions, including complex tasks like copying the genetic code.
+
+38
+00:04:02,607 --> 00:04:06,642
+The blueprints for these protein-nanobots are all encoded in the DNA.
+
+39
+00:04:07,287 --> 00:04:12,232
+But how can a one-dimensional genetic code contain blueprints of three-dimensional nanomachines?
+
+40
+00:04:12,614 --> 00:04:17,757
+Well, all proteins are made of only twenty basic building blocks called amino acids.
+
+41
+00:04:18,197 --> 00:04:21,357
+Those building blocks can be plugged together to build long chains.
+
+42
+00:04:21,917 --> 00:04:31,117
+That's exactly how proteins are built: The DNA sequences are translated into amino acid chains, with three base pairs corresponding to one type of amino acid.
+
+43
+00:04:31,117 --> 00:04:38,077
+Once the chain is built, it naturally curls together to some wibbly wobbly curly whirly thing, the actual protein.
+
+44
+00:04:39,057 --> 00:04:52,677
+Now, some of these basic building blocks can't be synthesized by the earthling body, they need to be taken from plants and animals - either by eating protein packages they produce for their offspring, or by eating their body, especially muscle tissue.
+
+45
+00:04:52,997 --> 00:04:55,977
+Those building blocks are called essential amino acids.
+
+46
+00:04:58,337 --> 00:04:59,577
+Strategic advice.
+
+47
+00:05:00,817 --> 00:05:05,310
+Earthlings eat a lot of meat, and most of the meat comes from tamed animals like cows.
+
+48
+00:05:05,814 --> 00:05:09,714
+So you might have the idea of weakening earthlings with a massive abduction of cows.
+
+49
+00:05:11,674 --> 00:05:21,214
+However, this tactic might backfire on the long run: Many earthlings nutritionists and ecologists think that modern earthlings eat far too much meat, especially in rich countries.
+
+50
+00:05:24,114 --> 00:05:28,814
+So, when you abduct most of the cows, you might actually do mankind a favour.
+
+51
+00:05:30,154 --> 00:05:42,594
+Besides hydric acid, carbohydrates, fat and proteins, earthlings need other things in smaller quantities, for example iron, calcium, vitamins and sodium chloride, aka salt.
+
+52
+00:05:43,534 --> 00:05:49,734
+Salt is an ionic compound, held together not by an electron sharing deal, but an electron lending deal.
+
+53
+00:05:50,094 --> 00:05:55,117
+A sodium atom lends an electron to a chlorine atom, so they have both a complete outer shell.
+
+54
+00:05:55,117 --> 00:06:00,617
+This makes both atoms electrically charged, in other words ions, so they stick together.
+
+55
+00:06:00,917 --> 00:06:02,599
+This is called an ionic bond.
+
+56
+00:06:02,999 --> 00:06:05,539
+Salt is very important for the earthling metabolism.
+
+57
+00:06:06,319 --> 00:06:10,159
+Some food, on the other side, is dangerous for the body.
+
+58
+00:06:10,439 --> 00:06:17,899
+This holds particularly for food infested or altered by tiny food rivals or parasites like microbes, insects or fungi.
+
+59
+00:06:18,199 --> 00:06:20,239
+This kind of food is called rotten.
+
+60
+00:06:20,979 --> 00:06:27,179
+To distinguish good food from bad or rotten food, earthlings need a way to analyze food before eating it.
+
+61
+00:06:27,419 --> 00:06:29,507
+That's the purpose of smell and taste.
+
+62
+00:06:29,507 --> 00:06:36,547
+The nose and the mouth contain arrays of chemical sensors called chemo-receptors which are linked to the brain's reward system.
+
+63
+00:06:37,087 --> 00:06:43,647
+Basically, "good" food causes pleasure and the urge to swallow, "bad" food creates displeasure and the urge to spit it out.
+
+64
+00:06:44,507 --> 00:06:52,927
+The pleasure is also modified depending on the current needs of the body - after eating six animal bodies, the seventh one just doesn't taste so good anymore.
+
+65
+00:06:53,927 --> 00:07:00,607
+Also, finding food pleasurable can be learned - many earthlings have learned to appreciate rotten food like cheese or beer.
+
+66
+00:07:01,087 --> 00:07:02,667
+We will come back to this in a moment.
+
+67
+00:07:03,187 --> 00:07:06,447
+Food appreciation is also transmitted from generation to generation.
+
+68
+00:07:06,967 --> 00:07:08,577
+This is called food culture.
+
+69
+00:07:09,086 --> 00:07:14,966
+There are basically five kinds of taste: sweet, sour, salty, bitter and umami.
+
+70
+00:07:15,626 --> 00:07:21,846
+Sweet is the simplest one, a pleasing sensation which indicates the earthlings preferred energy source: sugar.
+
+71
+00:07:22,566 --> 00:07:27,679
+Sour indicates acids like citric acid or Vitamin C, which you find in many fruits.
+
+72
+00:07:28,545 --> 00:07:33,985
+Salty indicates primarily the presence of sodium ions, in particular from sodium chloride.
+
+73
+00:07:35,045 --> 00:07:40,146
+Bitter is a generally displeasing, alarming taste which may hint at rotten or poisonous food.
+
+74
+00:07:40,789 --> 00:07:45,069
+The last one, umami, indicates a compound called glutamate.
+
+75
+00:07:45,069 --> 00:07:48,489
+It can be found in many types of food and is generally perceived as savoury.
+
+76
+00:07:49,469 --> 00:07:54,509
+There might be a sixth taste, which indicates fat, but for now that's just a hypothesis.
+
+77
+00:07:55,229 --> 00:08:08,189
+Interestingly, some food acts not on the taste receptors but on the temperature receptors in the mouth: Mint oil, for example, is perceived as cool, whereas so-called "spicy" food triggers the heat receptors and may even be perceived as painful.
+
+78
+00:08:08,189 --> 00:08:16,169
+There is a common misconception about taste: Many earthlings believe that receptors for different tastes are located in different zones of the tongue.
+
+79
+00:08:16,589 --> 00:08:23,909
+This is easy to disprove, especially for earthlings - just put something sweet onto the back of your tongue, or something bitter onto the tip.
+
+80
+00:08:24,669 --> 00:08:29,789
+Nevertheless, many earthlings keep on believing this nonsense rather than trying it out for themselves.
+
+81
+00:08:30,429 --> 00:08:33,530
+Now, where do the earthlings get all the edible stuff?
+
+82
+00:08:33,854 --> 00:08:42,674
+At dawn of mankind, they got it essentially the same way as animals: By hunting animals and gathering fruits and seeds, and devouring the edible parts.
+
+83
+00:08:43,114 --> 00:08:47,736
+But at some point, they made an important discovery: Artificial external digestion.
+
+84
+00:08:48,258 --> 00:08:51,443
+This is similar to methods used by other races in the galaxy.
+
+85
+00:08:51,443 --> 00:08:58,763
+The Snuglings of Karaxi-2, for example, live under a thick cloud cover protecting them from the deadly radiation of their sun.
+
+86
+00:08:59,143 --> 00:09:04,623
+They feed on creatures called frooks, but some kinds of Frooks are hard to kill and difficult to digest.
+
+87
+00:09:04,943 --> 00:09:10,599
+So the Snuglings catapult the frooks above the cloud cover where they are roasted by the gamma rays of the sun.
+
+88
+00:09:10,860 --> 00:09:14,800
+When they fall down, they are easier to digest, and also, dead.
+
+89
+00:09:16,240 --> 00:09:23,220
+Some 400000 solar cycles ago, Earthlings discovered a similar method to make food digestible: Fire!
+
+90
+00:09:25,340 --> 00:09:28,203
+Remember wood, this hardened cellulose structure?
+
+91
+00:09:28,565 --> 00:09:33,045
+Dry wood combusts easily, and it's not hard to build a fire out of wood pieces.
+
+92
+00:09:33,805 --> 00:09:47,765
+Originally, earthlings used fire to keep warm and drive away predators, but some 250000 solar cycles ago they discovered that some food, in particular meat, changes its taste and consistency when exposed to fire for a while.
+
+93
+00:09:48,085 --> 00:09:49,485
+This is called roasting.
+
+94
+00:09:50,365 --> 00:09:52,465
+But why do earthlings do that?
+
+95
+00:09:52,825 --> 00:09:55,125
+Well, there are several reasons for roasting.
+
+96
+00:09:55,745 --> 00:09:58,965
+First, the heat kills most of the microbes in the food.
+
+97
+00:09:59,405 --> 00:10:07,140
+Secondly, the temperature breaks down molecules like starch and unfolds some proteins, which makes the food easier to chew and easier to digest.
+
+98
+00:10:07,661 --> 00:10:13,061
+Basically, roasting food is some kind of external pre-digestion, using the chemical energy in wood.
+
+99
+00:10:14,221 --> 00:10:18,183
+Now, when roasting food, it often gets a brown crispy crust.
+
+100
+00:10:18,605 --> 00:10:21,045
+What happens here is called "Maillard reaction".
+
+101
+00:10:21,505 --> 00:10:24,860
+Basically, it's a reaction between sugar and amino acids.
+
+102
+00:10:25,422 --> 00:10:27,261
+Earthlings love the taste of this crust.
+
+103
+00:10:27,772 --> 00:10:33,052
+By the way, many earthlings think that roasting meat "seals in the juices" - but that is nonsense.
+
+104
+00:10:33,832 --> 00:10:39,090
+Now, another way of heating food is boiling it - exposing it to boiling hydric acid.
+
+105
+00:10:39,090 --> 00:10:46,110
+Boiling differs from roasting in that the temperature doesn't exceed the boiling point of hydric acid, and there is no Maillard reaction.
+
+106
+00:10:46,570 --> 00:10:51,130
+Basically, it's just another variant of the same external pre-digestion process.
+
+107
+00:10:52,110 --> 00:10:57,055
+Boiling and roasting are part of what earthlings do with their food before they eat it: Cooking.
+
+108
+00:10:57,437 --> 00:11:02,407
+And earthlings wouldn't be earthlings if they hadn't developed cooking into an elaborate part of their culture.
+
+109
+00:11:02,834 --> 00:11:09,753
+Cooking also includes cutting and slicing food, mixing and combining different ingredients, and spicing the food.
+
+110
+00:11:09,753 --> 00:11:21,314
+Spicing means adding ingredients that alter the taste, mostly to increase the pleasure of eating: Yet another example of earthlings tricking out their brains' reward system to get biologically pointless pleasure.
+
+111
+00:11:22,173 --> 00:11:23,626
+Tips for tourists.
+
+112
+00:11:23,626 --> 00:11:28,037
+If you have a hydrocarbon-based metabolism, you might visit a restaurant.
+
+113
+00:11:28,538 --> 00:11:33,218
+Here you can observe earthlings' eating habits, and also taste some food for yourself.
+
+114
+00:11:33,738 --> 00:11:38,358
+However, beware of earthling drinks, they have often surprising effects.
+
+115
+00:11:39,298 --> 00:11:47,927
+Some 10000 solar cycles ago, a second discovery was made: Earthlings all over the planet started cultivating food and herding animals.
+
+116
+00:11:47,927 --> 00:11:55,987
+Basically, they started acting like small-scale bio administrators, rearing new species of plants and animals according to their needs.
+
+117
+00:11:56,547 --> 00:11:57,782
+This is called agriculture.
+
+118
+00:11:58,410 --> 00:12:03,048
+Nowadays it has grown to an industrial scale food production able to feed seven billion earthlings.
+
+119
+00:12:03,409 --> 00:12:04,789
+Well, almost.
+
+120
+00:12:05,609 --> 00:12:11,334
+One of the strangest aspects of food culture is the earthling habit of letting food rot in a controlled manner.
+
+121
+00:12:11,756 --> 00:12:14,877
+One example is alcoholic beverages like wine or beer.
+
+122
+00:12:14,877 --> 00:12:19,317
+Wine, for example, is rotten juice from fruits called grapes.
+
+123
+00:12:20,057 --> 00:12:24,837
+Alcoholic beverages have a particular effect on the brain - we will talk about this in another episode.
+
+124
+00:12:25,797 --> 00:12:33,997
+Another example for deliberately rotten food are products like yoghurt or cheese: Milk, altered by microbes, a process that can take months.
+
+125
+00:12:34,517 --> 00:12:38,312
+Cheese is sometimes even exposed to fungi which make it rot even more.
+
+126
+00:12:38,312 --> 00:12:45,112
+This process transforms the simple taste of milk into a more complex taste, sometimes even with hints of bitterness.
+
+127
+00:12:46,312 --> 00:12:57,132
+Generally, eating is a highly ritualized, social activity: Social groups eat together, friends bond by sharing a meal, and mating rituals often involve eating together in a public place.
+
+128
+00:12:57,992 --> 00:13:03,932
+But despite the sophisticated rituals, earthlings still keep some habits from their cave-dwelling ancestors.
+
+129
+00:13:04,832 --> 00:13:13,612
+I have observed several earthling families where the mother cooks, but calls the father to cut the roast - in prehistoric times, the job of the tribe chieftain.
+
+130
+00:13:14,072 --> 00:13:19,492
+Also, many men like to roast meat over open fire, just like mammoth hunters in the olden days.
+
+131
+00:13:21,212 --> 00:13:27,806
+Strangely, earthlings often separate "sweet" sugar snacks from larger "salty" meals which contain all kinds of nutrients.
+
+132
+00:13:28,290 --> 00:13:37,430
+The reason might be that both meals have different functions: The sugar snacks give a quick energy boost, which is often enhanced by stimulating drugs like coffee or cigarettes.
+
+133
+00:13:38,810 --> 00:13:44,670
+The salty meals, on the other hand, provide long-term supply with all kinds of nutrients.
+
+134
+00:13:45,430 --> 00:13:52,772
+Sometimes, the "salty" meal is followed by a sweet snack, possibly in order to provide the energy boost needed to digest said meal.
+
+135
+00:13:53,152 --> 00:13:54,372
+This is called a dessert.
+
+136
+00:13:56,632 --> 00:13:57,610
+Scientific advice.
+
+137
+00:13:58,129 --> 00:14:03,175
+A classic alien textbook explains that you can use food to condition earthling cubs.
+
+138
+00:14:03,397 --> 00:14:11,975
+Show them a series of images: When they hit a "like" button, they get some chocolate, when they hit a dislike button they get spinach, a vegetable many cubs hate.
+
+139
+00:14:11,975 --> 00:14:15,535
+As a result, they will start liking every single image.
+
+140
+00:14:17,815 --> 00:14:26,795
+However, this experiment has been done so many times that nowadays, countless former abductees feel the compulsive desire to hit "like" buttons all day long.
+
+141
+00:14:27,195 --> 00:14:36,538
+Moreover, many victims feel the compulsive urge to use the word, "like", as often as possible - like, in every sentence, like, all day long.
+
+142
+00:14:36,538 --> 00:14:45,502
+If I were like an earthling who could have like feelings, I would be like sad for these poor abductees, as they are like linguistically handicapped for like the rest of their life.
+
+143
+00:14:45,822 --> 00:14:53,686
+A word to my earthling viewers: Rest assured, if you feel the urge to click on "like" right now, it does not necessarily mean you have been conditioned.
+
+144
+00:14:53,686 --> 00:14:55,946
+Maybe you just like my videos.
+
+145
+00:14:56,426 --> 00:15:05,099
+A sure telltale sign that you have not been mentally manipulated would be the urge to click on "subscribe" and on "share" as well, as those buttons were not part of the experiment.
+
+146
+00:15:06,581 --> 00:15:09,331
+Please don't think I'm trying to manipulate you.
+
+147
+00:15:09,657 --> 00:15:11,217
+That's just not my style.
+
+148
+00:15:12,137 --> 00:15:14,529
+This was the ninth episode of Earthlings 101.
+
+149
+00:15:15,056 --> 00:15:24,176
+Next time we'll talk about language: How it works, how it developed, and why the causes of its apparent decline - are actually the very forces that build it.
+
+150
+00:15:24,796 --> 00:15:28,538
+Thanks for watching, and as always: Don't forget to be alien!
+

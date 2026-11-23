@@ -1,0 +1,638 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 2.3,
+  "text_src": "Welcome to the fourth episode of earthlings 101."
+ },
+ {
+  "id": 2,
+  "start": 2.86,
+  "end": 4.84,
+  "text_src": "Today we will learn what good and evil is."
+ },
+ {
+  "id": 3,
+  "start": 41.7,
+  "end": 44.98,
+  "text_src": "The concept of good and evil is fundamental to understanding human behaviour."
+ },
+ {
+  "id": 4,
+  "start": 45.8,
+  "end": 51.96,
+  "text_src": "As I explained in the first episode, the earthling mind is divided into three parts: the ego, the beast and the niggler."
+ },
+ {
+  "id": 5,
+  "start": 52.14,
+  "end": 56.64,
+  "text_src": "The beast tells the ego what he wants to do, and the niggler tells him what he should do."
+ },
+ {
+  "id": 6,
+  "start": 57.0,
+  "end": 61.62,
+  "text_src": "The Niggler is constantly commenting about the ego's actions, approving some and rejecting others."
+ },
+ {
+  "id": 7,
+  "start": 61.92,
+  "end": 67.5,
+  "text_src": "This process is called self-awareness, and the criteria the Niggler applies - that is actually good and evil."
+ },
+ {
+  "id": 8,
+  "start": 68.1,
+  "end": 79.2,
+  "text_src": "To enforce his judgement, the niggler punishes \"evil\" actions with feelings like shame and guilt, and awards \"good\" actions with satisfaction - just as the beast uses pleasure, pain, fear and desire to get what he wants."
+ },
+ {
+  "id": 9,
+  "start": 79.78,
+  "end": 84.2,
+  "text_src": "There is a myth, an ancient fictional story, about what happened when earthlings became self-aware."
+ },
+ {
+  "id": 10,
+  "start": 85.18,
+  "end": 92.04,
+  "text_src": "The first two earthlings, so the story, lived in a garden, a closed area with rich vegetation, guarded by some kind of bio-administrator."
+ },
+ {
+  "id": 11,
+  "start": 93.4,
+  "end": 96.6,
+  "text_src": "We will talk about this kind of creature in a forthcoming episode."
+ },
+ {
+  "id": 12,
+  "start": 97.1,
+  "end": 102.6,
+  "text_src": "According to the story, the earthlings' first act as self-aware beings was to eat a fruit against the will of the bio-administrator."
+ },
+ {
+  "id": 13,
+  "start": 103.64,
+  "end": 111.28,
+  "text_src": "Doing so made them realize that some acts are qualified as good, and some others as evil, in particular what they just had done: eating a forbidden fruit."
+ },
+ {
+  "id": 14,
+  "start": 111.52,
+  "end": 115.42,
+  "text_src": "They were filled with guilt and shame, and thrown out of the garden into a harsh wilderness."
+ },
+ {
+  "id": 15,
+  "start": 116.1,
+  "end": 119.78,
+  "text_src": "This story tells us aliens a lot about how earthlings experience their own self-awareness."
+ },
+ {
+  "id": 16,
+  "start": 120.54,
+  "end": 125.56,
+  "text_src": "It seems that self-awareness is extremely uncomfortable, like living in a hostile environment."
+ },
+ {
+  "id": 17,
+  "start": 125.98,
+  "end": 134.12,
+  "text_src": "Having a niggler in one's brain must be like having a brainsucker attached to one's head who is constantly babbling about what is or isn't conform to the rules of the galactic bureaucracy."
+ },
+ {
+  "id": 18,
+  "start": 134.46,
+  "end": 140.94,
+  "text_src": "And guilt is probably as painful as the brain acid released by a brainsucker when the host breaks one of the zillions of rules of the bureaucracy."
+ },
+ {
+  "id": 19,
+  "start": 140.94,
+  "end": 148.3,
+  "text_src": "Except that the niggler doesn't care about the bureaucracy - it has its own rules which have evolved through evolution and society : good and evil."
+ },
+ {
+  "id": 20,
+  "start": 148.5,
+  "end": 152.06,
+  "text_src": "But what is this good and evil thing anyway, and what is its purpose?"
+ },
+ {
+  "id": 21,
+  "start": 152.72,
+  "end": 156.06,
+  "text_src": "Good and evil exist to encourage cooperation between individuals."
+ },
+ {
+  "id": 22,
+  "start": 156.66,
+  "end": 161.76,
+  "text_src": "Basically, an action is \"good\" when it helps the group, and \"evil\" when it goes against the interests of the group."
+ },
+ {
+  "id": 23,
+  "start": 162.16,
+  "end": 167.66,
+  "text_src": "Without cooperation enforced by the nigglers in their brain, every earthling would only serve its own benefit."
+ },
+ {
+  "id": 24,
+  "start": 167.66,
+  "end": 174.76,
+  "text_src": "But, you might ask : if every member of the group maximizes his own benefit, wouldn't this sum up and maximize the benefit of the group?"
+ },
+ {
+  "id": 25,
+  "start": 175.54,
+  "end": 176.26,
+  "text_src": "Actually not."
+ },
+ {
+  "id": 26,
+  "start": 176.58,
+  "end": 182.76,
+  "text_src": "There are situations where egoistically maximizing one’s own benefit reduces the benefit of everybody, including of those being egoists."
+ },
+ {
+  "id": 27,
+  "start": 183.16,
+  "end": 185.98,
+  "text_src": "A textbook example is what earthlings call \"prisoners dilemma\"."
+ },
+ {
+  "id": 28,
+  "start": 187.24,
+  "end": 200.68,
+  "text_src": "Imagine that two galactic evildoers, Mighty Cthulhu and Lord Xenu, are arrested and thrown into prison by the galactic police for unauthorized messing with planet earth - say, some clever scheme involving volcanoes and bad dreams."
+ },
+ {
+  "id": 29,
+  "start": 201.2,
+  "end": 208.28,
+  "text_src": "Unfortunately there are no witnesses for their machinations, besides some disembodied thetans and mad cultists who don't legally count as witnesses."
+ },
+ {
+  "id": 30,
+  "start": 208.28,
+  "end": 214.4,
+  "text_src": "So, the authorities interrogate both villains separately, offering them reduction of prison time if they confess."
+ },
+ {
+  "id": 31,
+  "start": 215.12,
+  "end": 222.38,
+  "text_src": "Here is the deal: If none of them confesses, the authority can't prove anything and both get only 100 years for unauthorized entering a protected area."
+ },
+ {
+  "id": 32,
+  "start": 222.74,
+  "end": 225.6,
+  "text_src": "One triangle in the diagram corresponds to 100 years."
+ },
+ {
+  "id": 33,
+  "start": 226.02,
+  "end": 231.2,
+  "text_src": "If one of them confesses, he gets free, whereas the other one gets the maximum penalty of 800 years in prison."
+ },
+ {
+  "id": 34,
+  "start": 231.2,
+  "end": 234.6,
+  "text_src": "If both confess, both get a reduced penalty of 400 years."
+ },
+ {
+  "id": 35,
+  "start": 236.86,
+  "end": 242.36,
+  "text_src": "From Lord Xenu's point of view, the decision seems clear: Whatever Cthulhu does, Xenu is better off confessing."
+ },
+ {
+  "id": 36,
+  "start": 242.98,
+  "end": 247.24,
+  "text_src": "If Cthulhu keeps his tentaculous mouth shut, Xenu can avoid prison by betraying him."
+ },
+ {
+  "id": 37,
+  "start": 247.58,
+  "end": 251.38,
+  "text_src": "If Cthulhu betrays him, Xenu can reduce his prison time by talking as well."
+ },
+ {
+  "id": 38,
+  "start": 251.58,
+  "end": 256.24,
+  "text_src": "The same holds for Cthulhu: No matter what Xenu does, Cthulhu is better off betraying him."
+ },
+ {
+  "id": 39,
+  "start": 256.5,
+  "end": 259.6,
+  "text_src": "So, egoism might drive both villains to betraying each other."
+ },
+ {
+  "id": 40,
+  "start": 259.6,
+  "end": 265.82,
+  "text_src": "But the point is, when both act egoistically and talk, each one gets more prison time than when both cooperate and keep quiet."
+ },
+ {
+  "id": 41,
+  "start": 266.26,
+  "end": 270.6,
+  "text_src": "So, when both maximize their individual outcome, this actually reduces the outcome for everybody."
+ },
+ {
+  "id": 42,
+  "start": 271.08,
+  "end": 275.42,
+  "text_src": "But even if both realize this and cooperate, each one will still be tempted to betray the other one."
+ },
+ {
+  "id": 43,
+  "start": 276.72,
+  "end": 283.14,
+  "text_src": "Another example for this kind of situation would be a clan of earthlings where everyone has one goat, a domestic animal which provides milk."
+ },
+ {
+  "id": 44,
+  "start": 283.4,
+  "end": 288.0,
+  "text_src": "It won't take long for earthlings to figure out that one can get a second goat by stealing one during the night."
+ },
+ {
+  "id": 45,
+  "start": 288.0,
+  "end": 291.66,
+  "text_src": "So, goat thieves are better off than earthlings who sleep during the night."
+ },
+ {
+  "id": 46,
+  "start": 292.14,
+  "end": 299.42,
+  "text_src": "However, if everybody becomes a goat thief, everybody will end up with one goat, and the sneaky nocturnal goat exchange will be a complete waste of time and energy."
+ },
+ {
+  "id": 47,
+  "start": 299.68,
+  "end": 305.58,
+  "text_src": "So the clan will have a disadvantage against another clan who found a way to avoid stealing from each other every night and is well-rested in the morning."
+ },
+ {
+  "id": 48,
+  "start": 306.5,
+  "end": 309.24,
+  "text_src": "This kind of situation is the basic problem of human group behaviour."
+ },
+ {
+  "id": 49,
+  "start": 309.96,
+  "end": 313.86,
+  "text_src": "The solution evolution found was the development of the niggler and the concept of good and evil."
+ },
+ {
+  "id": 50,
+  "start": 314.16,
+  "end": 321.1,
+  "text_src": "If actions like stealing are evil, the niggler will punish theft with remorse, a feeling which causes more discomfort than the milk of the stolen goat causes pleasure."
+ },
+ {
+  "id": 51,
+  "start": 321.1,
+  "end": 324.56,
+  "text_src": "So, suddenly, stealing is far less appealing than it was before."
+ },
+ {
+  "id": 52,
+  "start": 325.84,
+  "end": 331.22,
+  "text_src": "Likewise, if another member of the group happens to have no goat, the niggler will push the individual to give some milk to the other one."
+ },
+ {
+  "id": 53,
+  "start": 331.58,
+  "end": 336.12,
+  "text_src": "This holds even more if the poor individual is a woman, as women are the bottleneck for population growth."
+ },
+ {
+  "id": 54,
+  "start": 336.64,
+  "end": 341.54,
+  "text_src": "Such selfless actions which help the group are considered good, and are rewarded by the niggler with positive feelings."
+ },
+ {
+  "id": 55,
+  "start": 341.54,
+  "end": 346.2,
+  "text_src": "Of course, earthlings had to define what actions are actually good and evil in the first place."
+ },
+ {
+  "id": 56,
+  "start": 346.58,
+  "end": 350.04,
+  "text_src": "So they developed sets of rules which are transmitted from generation to generation."
+ },
+ {
+  "id": 57,
+  "start": 350.48,
+  "end": 352.04,
+  "text_src": "These rules are called ethics."
+ },
+ {
+  "id": 58,
+  "start": 352.96,
+  "end": 354.08,
+  "text_src": "Tips for tourists."
+ },
+ {
+  "id": 59,
+  "start": 354.46,
+  "end": 358.44,
+  "text_src": "Before visiting earth, familiarize yourself with the basic rules of good and evil."
+ },
+ {
+  "id": 60,
+  "start": 358.98,
+  "end": 362.52,
+  "text_src": "Even a harmless act like abducting a cow is considered evil and can get you into trouble."
+ },
+ {
+  "id": 61,
+  "start": 362.98,
+  "end": 366.38,
+  "text_src": "You don't want to spend the rest of your life locked away in a secret government facility."
+ },
+ {
+  "id": 62,
+  "start": 367.86,
+  "end": 370.9,
+  "text_src": "As mentioned before, self awareness is extremely unpleasant."
+ },
+ {
+  "id": 63,
+  "start": 370.9,
+  "end": 374.56,
+  "text_src": "So, earthlings try to silence their self-awareness at any price."
+ },
+ {
+  "id": 64,
+  "start": 374.8,
+  "end": 389.1,
+  "text_src": "They stick to a daily routine without any ethical decisions, they intoxicate their brain with drugs, they fill it with useless information, they escape into fictional worlds, and they welcome every authority who tells them what good and evil is - even if the actions suggested by the authority are obviously harmful for the group."
+ },
+ {
+  "id": 65,
+  "start": 389.34,
+  "end": 398.2,
+  "text_src": "This leads to absurd and paradoxical situations like millions following a religious leader who forbids a contraceptive device which could actually slow down a dangerous pandemic and reduce overpopulation and famine."
+ },
+ {
+  "id": 66,
+  "start": 399.76,
+  "end": 400.6,
+  "text_src": "Scientific advice."
+ },
+ {
+  "id": 67,
+  "start": 401.0,
+  "end": 405.6,
+  "text_src": "An interesting field of research is experimental ethics: Abduct an earthling and put him into a moral dilemma."
+ },
+ {
+  "id": 68,
+  "start": 406.12,
+  "end": 409.7,
+  "text_src": "For example whether to give rather food to a starving man, or to a sexy woman."
+ },
+ {
+  "id": 69,
+  "start": 410.4,
+  "end": 412.3,
+  "text_src": "You might be surprised by the results."
+ },
+ {
+  "id": 70,
+  "start": 415.86,
+  "end": 423.16,
+  "text_src": "Actions considered evil typically include killing, seizing land, raping, stealing, and lying, as these are actions which are harmful for the group."
+ },
+ {
+  "id": 71,
+  "start": 423.48,
+  "end": 426.82,
+  "text_src": "Of course, this only holds when the actions target members of the group."
+ },
+ {
+  "id": 72,
+  "start": 426.82,
+  "end": 439.6,
+  "text_src": "If applied to members of a hostile group, earthlings apply other standards, and even use other words : In this case, killing is called war, raping and stealing are called spoils of war, seizing land is called conquest, and lying is called diplomacy."
+ },
+ {
+  "id": 73,
+  "start": 440.12,
+  "end": 443.72,
+  "text_src": "Those actions are not only allowed but considered good and honorful, as they help the group."
+ },
+ {
+  "id": 74,
+  "start": 444.14,
+  "end": 446.88,
+  "text_src": "Of course, the other group considers these actions as evil."
+ },
+ {
+  "id": 75,
+  "start": 447.24,
+  "end": 450.52,
+  "text_src": "This leads to the double standards earthlings apply in case of hostile groups."
+ },
+ {
+  "id": 76,
+  "start": 450.92,
+  "end": 454.62,
+  "text_src": "Consider two tribes, red and green, which are in conflict with each other."
+ },
+ {
+  "id": 77,
+  "start": 455.06,
+  "end": 458.72,
+  "text_src": "Assume that the green tribesmen destroy some buildings of the red tribe, killing people."
+ },
+ {
+  "id": 78,
+  "start": 459.02,
+  "end": 461.42,
+  "text_src": "This harms the red tribe and helps the green one."
+ },
+ {
+  "id": 79,
+  "start": 461.88,
+  "end": 471.32,
+  "text_src": "In consequence, the action is evil for the red guys but good for the green guys - not because of different ethical standards, but simply because \"evil\" means \"bad for my group\", and \"my group\" is not the same for everyone."
+ },
+ {
+  "id": 80,
+  "start": 471.8,
+  "end": 480.76,
+  "text_src": "Now, if the red guys retaliate, or even attack a part of the green tribe which had nothing to do with the attack, this is considered good by the red tribe and evil by the green tribe, for the same reasons."
+ },
+ {
+  "id": 81,
+  "start": 481.3,
+  "end": 484.64,
+  "text_src": "In consequence, each tribe will have the impression that the other tribe is evil."
+ },
+ {
+  "id": 82,
+  "start": 485.1,
+  "end": 494.42,
+  "text_src": "Now, if each side defines that killing good guys is evil, but killing evil guys is good, we will enter a strange loop where each tribe's definition of \"good guys\" and \"evil guys\" is actually based on itself."
+ },
+ {
+  "id": 83,
+  "start": 494.84,
+  "end": 499.76,
+  "text_src": "The good guys are good because they kill the evil guys, and the evil guys are evil because they kill the good guys."
+ },
+ {
+  "id": 84,
+  "start": 500.2,
+  "end": 506.92,
+  "text_src": "If both tribes have different ethical systems, things get even worse, as each tribe uses its own ethics to judge the ethics of the other tribe."
+ },
+ {
+  "id": 85,
+  "start": 507.3,
+  "end": 513.38,
+  "text_src": "Maybe the red tribe will say that the green tribe has a disrespect for freedom, and the green tribe will say that the red tribe has no sense of honor."
+ },
+ {
+  "id": 86,
+  "start": 513.78,
+  "end": 521.72,
+  "text_src": "It's like the discussion Andromeda yard versus Centauri meter: The Andros think that the Centauri meter is too long, and the Centauri claim that the Andromeda yard is too short."
+ },
+ {
+  "id": 87,
+  "start": 522.16,
+  "end": 527.76,
+  "text_src": "However, on earth, there is no central bureaucracy to enforce a common system of measurement that everybody dislikes equally."
+ },
+ {
+  "id": 88,
+  "start": 527.76,
+  "end": 533.8,
+  "text_src": "So basically, good and evil is a question of ethics inside the group, but a question of sides between hostile groups."
+ },
+ {
+  "id": 89,
+  "start": 534.32,
+  "end": 539.34,
+  "text_src": "That's the reason why an earthling is considered a criminal if he kills his neighbour, but a hero if he kills a thousand enemies."
+ },
+ {
+  "id": 90,
+  "start": 539.68,
+  "end": 543.36,
+  "text_src": "No other species of this planet has so ruthlessly depopulated whole continents."
+ },
+ {
+  "id": 91,
+  "start": 543.76,
+  "end": 545.66,
+  "text_src": "Except for the microbes."
+ },
+ {
+  "id": 92,
+  "start": 548.92,
+  "end": 556.52,
+  "text_src": "By the way, if you ask an earthling, who were the biggest evildoers in human history, odds are that he will name earthlings who killed a lot of people inside their own tribe or country."
+ },
+ {
+  "id": 93,
+  "start": 556.84,
+  "end": 558.6,
+  "text_src": "That's what earthlings call a mass murderer."
+ },
+ {
+  "id": 94,
+  "start": 559.16,
+  "end": 564.02,
+  "text_src": "Earthlings who killed a lot of people in other tribes or countries are worshipped as \"great men\", even centuries after their death."
+ },
+ {
+  "id": 95,
+  "start": 564.24,
+  "end": 568.44,
+  "text_src": "This isn't actually illogical - it's a consequence from the definition: \"Evil is what harms my group\"."
+ },
+ {
+  "id": 96,
+  "start": 569.58,
+  "end": 570.5,
+  "text_src": "Strategic advice."
+ },
+ {
+  "id": 97,
+  "start": 570.96,
+  "end": 575.14,
+  "text_src": "When you attack earth, don't count on earthlings' conflicts to play earthlings one against the other."
+ },
+ {
+  "id": 98,
+  "start": 575.46,
+  "end": 581.6,
+  "text_src": "You are not part of any earthling group, so earthlings will consider you as evil, and even sworn enemies might unite to fight against you."
+ },
+ {
+  "id": 99,
+  "start": 582.22,
+  "end": 585.42,
+  "text_src": "In reality, ethics are far more complex than I described them."
+ },
+ {
+  "id": 100,
+  "start": 585.86,
+  "end": 591.32,
+  "text_src": "Earthlings usually belong to a whole set of nested or overlapping groups, with group conflicts and varying ethical codes."
+ },
+ {
+  "id": 101,
+  "start": 591.32,
+  "end": 595.1,
+  "text_src": "The resulting ethical dynamics are what makes human ethics so complicated."
+ },
+ {
+  "id": 102,
+  "start": 595.7,
+  "end": 602.34,
+  "text_src": "However, even the most complex ethical systems come down to one basic principle: Good is what helps the group, evil is what harms the group."
+ },
+ {
+  "id": 103,
+  "start": 602.82,
+  "end": 608.1,
+  "text_src": "Those systems have evolved because ethics which support the group help to make the group survive, grow and spread the genetic code."
+ },
+ {
+  "id": 104,
+  "start": 608.6,
+  "end": 616.02,
+  "text_src": "So, like almost every aspect of human society, the principles of good and evil come down to our old friend, the genetic imperative : Spreading the code."
+ },
+ {
+  "id": 105,
+  "start": 616.02,
+  "end": 622.5,
+  "text_src": "In the next episode we will talk about games, dreams and fiction, and why they all serve the same purpose : learning to survive."
+ },
+ {
+  "id": 106,
+  "start": 622.5,
+  "end": 623.8,
+  "text_src": "Thanks for watching."
+ }
+]

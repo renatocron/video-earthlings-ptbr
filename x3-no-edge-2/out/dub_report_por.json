@@ -1,0 +1,1932 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.46,
+  "new_start": 0.0,
+  "dur": 2.310375,
+  "speed": 1.35,
+  "k": 1.0814532520325204,
+  "text_tgt": "Saudações, alienígenas e terráqueos!"
+ },
+ {
+  "id": 2,
+  "start": 2.46,
+  "limit": 5.9,
+  "new_start": 2.660375,
+  "dur": 3.1669583333333335,
+  "speed": 1.102,
+  "k": 1.0223716085271317,
+  "text_tgt": "Esta é a parte 2 da nossa minissérie sobre a forma do universo."
+ },
+ {
+  "id": 3,
+  "start": 5.9,
+  "limit": 9.4,
+  "new_start": 6.177333333333333,
+  "dur": 2.829,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se você não viu a parte 1, sugiro assistir antes."
+ },
+ {
+  "id": 4,
+  "start": 9.4,
+  "limit": 12.02,
+  "new_start": 9.677333333333333,
+  "dur": 2.2969583333333334,
+  "speed": 1.082,
+  "k": 1.0102894402035627,
+  "text_tgt": "Hoje vamos falar da curvatura do espaço."
+ },
+ {
+  "id": 5,
+  "start": 42.28,
+  "limit": 49.78,
+  "new_start": 42.58429166666667,
+  "dur": 6.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para deixar claro: vamos falar da curvatura do espaço, não do espaço-tempo, estudada pela relatividade geral."
+ },
+ {
+  "id": 6,
+  "start": 49.78,
+  "limit": 51.2,
+  "new_start": 50.08429166666667,
+  "dur": 1.111125,
+  "speed": 1.035,
+  "k": 1.0289612676056326,
+  "text_tgt": "O que é curvatura?"
+ },
+ {
+  "id": 7,
+  "start": 51.2,
+  "limit": 55.96,
+  "new_start": 51.545416666666675,
+  "dur": 4.515375,
+  "speed": 1.302,
+  "k": 1.022137605042017,
+  "text_tgt": "Numa superfície, curvatura significa que ela não pode ser achatada sem esticar ou espremer."
+ },
+ {
+  "id": 8,
+  "start": 55.96,
+  "limit": 62.16,
+  "new_start": 56.410791666666675,
+  "dur": 5.660041666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um papel dobrado pode ser achatado, mas tente achatar uma calota esférica ou uma sela: não dá."
+ },
+ {
+  "id": 9,
+  "start": 62.16,
+  "limit": 63.62,
+  "new_start": 62.61079166666667,
+  "dur": 1.2144583333333334,
+  "speed": 1.301,
+  "k": 1.0715468036529676,
+  "text_tgt": "Isso é por causa da curvatura."
+ },
+ {
+  "id": 10,
+  "start": 63.62,
+  "limit": 67.72,
+  "new_start": 64.17525,
+  "dur": 3.45,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Diz-se que a esfera tem curvatura positiva, ou esférica."
+ },
+ {
+  "id": 11,
+  "start": 67.72,
+  "limit": 71.7,
+  "new_start": 68.27525,
+  "dur": 3.180041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma sela tem curvatura negativa, ou hiperbólica."
+ },
+ {
+  "id": 12,
+  "start": 71.7,
+  "limit": 74.64,
+  "new_start": 72.25525,
+  "dur": 3.088875,
+  "speed": 1.35,
+  "k": 1.1696853741496607,
+  "text_tgt": "Uma superfície pode ter curvaturas diferentes em lugares diferentes."
+ },
+ {
+  "id": 13,
+  "start": 74.64,
+  "limit": 79.46,
+  "new_start": 75.694125,
+  "dur": 4.485125,
+  "speed": 1.01,
+  "k": 1.0031379668049807,
+  "text_tgt": "Uma banana, por exemplo, tem curvatura positiva de um lado e negativa do outro."
+ },
+ {
+  "id": 14,
+  "start": 79.46,
+  "limit": 86.14,
+  "new_start": 80.52925,
+  "dur": 5.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vista de fora, a diferença é óbvia, mas como explicar isso às lesmas planas que vivem na superfície?"
+ },
+ {
+  "id": 15,
+  "start": 86.14,
+  "limit": 89.1,
+  "new_start": 87.20925000000001,
+  "dur": 2.217,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, dá para tentar com triângulos."
+ },
+ {
+  "id": 16,
+  "start": 89.1,
+  "limit": 95.14,
+  "new_start": 90.16925,
+  "dur": 5.4500416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Num plano, os ângulos de um triângulo somam 180°, seja qual for o tamanho."
+ },
+ {
+  "id": 17,
+  "start": 95.14,
+  "limit": 96.66,
+  "new_start": 96.20925000000001,
+  "dur": 0.6299583333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por quê?"
+ },
+ {
+  "id": 18,
+  "start": 96.66,
+  "limit": 99.96,
+  "new_start": 97.72925000000001,
+  "dur": 2.46,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Imagine uma lesma plana seguindo a borda."
+ },
+ {
+  "id": 19,
+  "start": 99.96,
+  "limit": 103.7,
+  "new_start": 101.02925,
+  "dur": 1.73,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Paciência, é uma lesma."
+ },
+ {
+  "id": 20,
+  "start": 103.7,
+  "limit": 105.88,
+  "new_start": 104.76925000000001,
+  "dur": 0.86,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pode demorar."
+ },
+ {
+  "id": 21,
+  "start": 105.88,
+  "limit": 107.1,
+  "new_start": 106.94925,
+  "dur": 0.685,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quer saber?"
+ },
+ {
+  "id": 22,
+  "start": 107.1,
+  "limit": 108.86,
+  "new_start": 108.16925,
+  "dur": 0.9500416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esquece a lesma."
+ },
+ {
+  "id": 23,
+  "start": 108.86,
+  "limit": 110.16,
+  "new_start": 109.92925000000001,
+  "dur": 1.0612916666666667,
+  "speed": 1.338,
+  "k": 1.0856089743589767,
+  "text_tgt": "Vamos pegar um tubarão!"
+ },
+ {
+  "id": 24,
+  "start": 110.16,
+  "limit": 111.46,
+  "new_start": 111.34054166666668,
+  "dur": 0.9861666666666666,
+  "speed": 1.085,
+  "k": 1.0278205128205151,
+  "text_tgt": "Numa moto de luz!"
+ },
+ {
+  "id": 25,
+  "start": 111.46,
+  "limit": 113.88,
+  "new_start": 112.67670833333335,
+  "dur": 2.02,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Com um baita laser preso na cabeça!"
+ },
+ {
+  "id": 26,
+  "start": 113.88,
+  "limit": 115.48,
+  "new_start": 115.09670833333335,
+  "dur": 0.678,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Agora sim."
+ },
+ {
+  "id": 27,
+  "start": 115.48,
+  "limit": 118.98,
+  "new_start": 116.69670833333336,
+  "dur": 3.1900833333333334,
+  "speed": 1.131,
+  "k": 1.011452380952381,
+  "text_tgt": "Cada vez que o tubarão faz uma curva, o laser faz \"vush\"."
+ },
+ {
+  "id": 28,
+  "start": 121.12,
+  "limit": 126.72,
+  "new_start": 122.37679166666669,
+  "dur": 4.389,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No fim, ele deu uma volta completa, então os \"vushes\" somam uma volta inteira."
+ },
+ {
+  "id": 29,
+  "start": 126.72,
+  "limit": 130.72,
+  "new_start": 127.97679166666668,
+  "dur": 3.640041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas cada \"vush\" somado a um ângulo dá 180°."
+ },
+ {
+  "id": 30,
+  "start": 130.72,
+  "limit": 135.42,
+  "new_start": 131.97679166666668,
+  "dur": 4.019958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Daí é fácil calcular que a soma dos ângulos é 180°."
+ },
+ {
+  "id": 31,
+  "start": 135.42,
+  "limit": 137.94,
+  "new_start": 136.67679166666667,
+  "dur": 2.2262916666666666,
+  "speed": 1.087,
+  "k": 1.0223379629629588,
+  "text_tgt": "Agora, vejamos o que acontece numa esfera."
+ },
+ {
+  "id": 32,
+  "start": 137.94,
+  "limit": 144.38,
+  "new_start": 139.25308333333334,
+  "dur": 5.859958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Este triângulo, por exemplo, tem três ângulos de 90°. 270° no total."
+ },
+ {
+  "id": 33,
+  "start": 144.38,
+  "limit": 147.24,
+  "new_start": 145.69308333333333,
+  "dur": 2.509,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "De onde vêm os 90° a mais?"
+ },
+ {
+  "id": 34,
+  "start": 147.24,
+  "limit": 148.86,
+  "new_start": 148.55308333333335,
+  "dur": 1.3289166666666667,
+  "speed": 1.204,
+  "k": 1.0363683127571988,
+  "text_tgt": "Resposta: curvatura."
+ },
+ {
+  "id": 35,
+  "start": 148.86,
+  "limit": 152.82,
+  "new_start": 150.23200000000003,
+  "dur": 3.692125,
+  "speed": 1.189,
+  "k": 1.0207386363636415,
+  "text_tgt": "A esfera tem curvatura positiva, que de algum jeito infla os ângulos."
+ },
+ {
+  "id": 36,
+  "start": 152.82,
+  "limit": 158.1,
+  "new_start": 154.27412500000003,
+  "dur": 4.966625,
+  "speed": 1.109,
+  "k": 1.0069365530303027,
+  "text_tgt": "Triângulos pequenos se comportam quase como no plano, mas quanto maiores, mais os ângulos crescem."
+ },
+ {
+  "id": 37,
+  "start": 158.1,
+  "limit": 163.6,
+  "new_start": 159.59075,
+  "dur": 5.228166666666667,
+  "speed": 1.293,
+  "k": 1.0142121212121211,
+  "text_tgt": "Pense na curvatura como sobrepressão: ela dá aos triângulos forma de almofada e deixa os ângulos menos pontudos."
+ },
+ {
+  "id": 38,
+  "start": 163.6,
+  "limit": 167.08,
+  "new_start": 165.1689166666667,
+  "dur": 3.0000416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E numa superfície de curvatura negativa, uma sela?"
+ },
+ {
+  "id": 39,
+  "start": 167.08,
+  "limit": 170.98,
+  "new_start": 168.6489166666667,
+  "dur": 3.579875,
+  "speed": 1.064,
+  "k": 1.0076602564102624,
+  "text_tgt": "Aqui acontece o contrário: os ângulos são menores do que o esperado."
+ },
+ {
+  "id": 40,
+  "start": 170.98,
+  "limit": 177.02,
+  "new_start": 172.57879166666672,
+  "dur": 5.716875,
+  "speed": 1.088,
+  "k": 1.0044495033112548,
+  "text_tgt": "Pense na curvatura negativa como subpressão, que deixa os triângulos murchos e as pontas mais agudas."
+ },
+ {
+  "id": 41,
+  "start": 177.02,
+  "limit": 183.42,
+  "new_start": 178.64566666666673,
+  "dur": 5.85,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, o mesmo vale para qualquer polígono: a curvatura negativa murcha, a positiva infla."
+ },
+ {
+  "id": 42,
+  "start": 183.42,
+  "limit": 185.6,
+  "new_start": 185.0456666666667,
+  "dur": 1.8862916666666667,
+  "speed": 1.161,
+  "k": 1.025821865443422,
+  "text_tgt": "Mas de onde vem esse comportamento estranho?"
+ },
+ {
+  "id": 43,
+  "start": 185.6,
+  "limit": 190.62,
+  "new_start": 187.28195833333336,
+  "dur": 4.746666666666667,
+  "speed": 1.283,
+  "k": 1.0152722443559077,
+  "text_tgt": "Você pode ter uma ideia ao cobrir uma superfície de curvatura positiva com um retalho redondo de tecido."
+ },
+ {
+  "id": 44,
+  "start": 190.62,
+  "limit": 196.06,
+  "new_start": 192.37862500000003,
+  "dur": 5.109208333333333,
+  "speed": 1.053,
+  "k": 1.0035309436274513,
+  "text_tgt": "Perto da borda sobra tecido: é preciso esconder triângulos de pano dobrando e costurando."
+ },
+ {
+  "id": 45,
+  "start": 196.06,
+  "limit": 199.24,
+  "new_start": 197.83783333333335,
+  "dur": 2.8922916666666665,
+  "speed": 1.179,
+  "k": 1.0195885744234778,
+  "text_tgt": "Os alfaiates chamam esses triângulos escondidos de \"pences\"."
+ },
+ {
+  "id": 46,
+  "start": 199.24,
+  "limit": 205.24,
+  "new_start": 201.080125,
+  "dur": 5.199958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou seja, com curvatura positiva, a borda dos discos é mais curta do que o esperado."
+ },
+ {
+  "id": 47,
+  "start": 205.24,
+  "limit": 209.52,
+  "new_start": 207.080125,
+  "dur": 3.9937916666666666,
+  "speed": 1.124,
+  "k": 1.014904595015576,
+  "text_tgt": "Em outras palavras, a periferia de qualquer região é menor do que o esperado."
+ },
+ {
+  "id": 48,
+  "start": 209.52,
+  "limit": 212.64,
+  "new_start": 211.42391666666668,
+  "dur": 2.75,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tem superfície que sumiu na costura, por assim dizer."
+ },
+ {
+  "id": 49,
+  "start": 212.64,
+  "limit": 221.48,
+  "new_start": 214.54391666666666,
+  "dur": 8.521083333333333,
+  "speed": 1.09,
+  "k": 1.0035162141779785,
+  "text_tgt": "Por isso, ao ligar três ou mais pontos pelos caminhos mais curtos, as linhas tendem a se curvar para fora, aproveitando as distâncias menores na periferia."
+ },
+ {
+  "id": 50,
+  "start": 221.48,
+  "limit": 231.22,
+  "new_start": 223.415,
+  "dur": 8.320041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É como os voos intercontinentais na Terra: as rotas tendem a se curvar rumo aos polos, porque perto do polo os meridianos ficam mais próximos."
+ },
+ {
+  "id": 51,
+  "start": 231.22,
+  "limit": 235.42,
+  "new_start": 233.155,
+  "dur": 3.951875,
+  "speed": 1.288,
+  "k": 1.0242559523809551,
+  "text_tgt": "É por isso que os polígonos ficam com forma de almofada em superfícies de curvatura positiva."
+ },
+ {
+  "id": 52,
+  "start": 235.42,
+  "limit": 239.6,
+  "new_start": 237.456875,
+  "dur": 3.9385,
+  "speed": 1.236,
+  "k": 1.0259569377990414,
+  "text_tgt": "Outra coisa que acontece com curvatura positiva é que as paralelas convergem."
+ },
+ {
+  "id": 53,
+  "start": 239.6,
+  "limit": 243.64,
+  "new_start": 241.745375,
+  "dur": 3.7195416666666667,
+  "speed": 1.059,
+  "k": 1.007312293729375,
+  "text_tgt": "É que o tecido entre as paralelas, por assim dizer, sumiu na costura."
+ },
+ {
+  "id": 54,
+  "start": 243.64,
+  "limit": 245.84,
+  "new_start": 245.81491666666668,
+  "dur": 1.9442083333333333,
+  "speed": 1.255,
+  "k": 1.0428219696969616,
+  "text_tgt": "E as superfícies de curvatura negativa?"
+ },
+ {
+  "id": 55,
+  "start": 245.84,
+  "limit": 249.78,
+  "new_start": 248.109125,
+  "dur": 3.4200416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos tentar pôr um retalho redondo de tecido sobre uma sela."
+ },
+ {
+  "id": 56,
+  "start": 249.78,
+  "limit": 256.46,
+  "new_start": 252.049125,
+  "dur": 5.51,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não dá certo, a não ser que a gente rasgue a borda ou insira triângulos de pano para acompanhar a forma."
+ },
+ {
+  "id": 57,
+  "start": 256.46,
+  "limit": 262.44,
+  "new_start": 258.72912499999995,
+  "dur": 4.729958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aqui o efeito é o inverso: longe do centro, há mais superfície do que o esperado."
+ },
+ {
+  "id": 58,
+  "start": 262.44,
+  "limit": 268.78,
+  "new_start": 264.709125,
+  "dur": 6.077083333333333,
+  "speed": 1.219,
+  "k": 1.01373554153523,
+  "text_tgt": "Assim, as ligações mais curtas entre os cantos evitam a periferia e cortam caminho pelo centro, onde as distâncias são menores."
+ },
+ {
+  "id": 59,
+  "start": 268.78,
+  "limit": 273.16,
+  "new_start": 271.1362083333333,
+  "dur": 4.091541666666667,
+  "speed": 1.212,
+  "k": 1.014050608827994,
+  "text_tgt": "Por isso os lados se curvam para dentro e os cantos ficam mais pontudos do que no plano."
+ },
+ {
+  "id": 60,
+  "start": 273.16,
+  "limit": 280.04,
+  "new_start": 275.57775,
+  "dur": 6.588208333333333,
+  "speed": 1.02,
+  "k": 1.0084605135658922,
+  "text_tgt": "Se a Terra fosse um hiperboloide, as rotas aéreas se curvariam rumo ao equador, onde as distâncias são menores."
+ },
+ {
+  "id": 61,
+  "start": 280.04,
+  "limit": 283.56,
+  "new_start": 282.5159583333333,
+  "dur": 3.2156666666666665,
+  "speed": 1.048,
+  "k": 1.0129734848484901,
+  "text_tgt": "E as retas paralelas numa superfície de curvatura negativa?"
+ },
+ {
+  "id": 62,
+  "start": 283.56,
+  "limit": 285.42,
+  "new_start": 286.081625,
+  "dur": 1.396,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, elas divergem."
+ },
+ {
+  "id": 63,
+  "start": 285.42,
+  "limit": 289.24,
+  "new_start": 287.941625,
+  "dur": 3.5152083333333333,
+  "speed": 1.118,
+  "k": 1.0118346422338587,
+  "text_tgt": "É por causa do tecido extra inserido entre elas, por assim dizer."
+ },
+ {
+  "id": 64,
+  "start": 289.24,
+  "limit": 292.6,
+  "new_start": 291.8068333333333,
+  "dur": 2.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E dá para fazer o mesmo no espaço tridimensional?"
+ },
+ {
+  "id": 65,
+  "start": 292.6,
+  "limit": 294.0,
+  "new_start": 295.16683333333333,
+  "dur": 0.69,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Claro que dá."
+ },
+ {
+  "id": 66,
+  "start": 294.0,
+  "limit": 297.6,
+  "new_start": 296.5668333333333,
+  "dur": 3.283875,
+  "speed": 1.011,
+  "k": 1.0094097222222158,
+  "text_tgt": "O equivalente tridimensional do retalho redondo é uma bola."
+ },
+ {
+  "id": 67,
+  "start": 297.6,
+  "limit": 301.62,
+  "new_start": 300.2007083333333,
+  "dur": 3.5080416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No espaço plano, a bola se comporta exatamente como deveria."
+ },
+ {
+  "id": 68,
+  "start": 301.62,
+  "limit": 305.62,
+  "new_start": 304.2207083333333,
+  "dur": 3.74625,
+  "speed": 1.265,
+  "k": 1.0240624999999999,
+  "text_tgt": "Mas num universo de curvatura positiva, a superfície de uma bola grande é menor."
+ },
+ {
+  "id": 69,
+  "start": 305.62,
+  "limit": 314.12,
+  "new_start": 308.3169583333333,
+  "dur": 8.24425,
+  "speed": 1.265,
+  "k": 1.0110882352941175,
+  "text_tgt": "Ou seja, o espaço lá fora é menor do que você pensa, como se alguém tivesse roubado fatias inteiras de espaço e ligado o resto com portais, torcendo para ninguém notar."
+ },
+ {
+  "id": 70,
+  "start": 314.12,
+  "limit": 320.58,
+  "new_start": 316.91120833333326,
+  "dur": 6.136375,
+  "speed": 1.056,
+  "k": 1.0040828173374645,
+  "text_tgt": "Num universo de curvatura negativa, a superfície da bola é maior: há mais espaço lá fora do que você imagina."
+ },
+ {
+  "id": 71,
+  "start": 320.58,
+  "limit": 323.08,
+  "new_start": 323.3975833333333,
+  "dur": 2.201375,
+  "speed": 1.172,
+  "k": 1.02055,
+  "text_tgt": "Como se alguém tivesse inserido espaço extra."
+ },
+ {
+  "id": 72,
+  "start": 323.08,
+  "limit": 328.9,
+  "new_start": 325.9489583333333,
+  "dur": 5.512958333333334,
+  "speed": 1.041,
+  "k": 1.0073811569301272,
+  "text_tgt": "O análogo tridimensional dos polígonos são os poliedros, e eles reagem à curvatura do mesmo jeito."
+ },
+ {
+  "id": 73,
+  "start": 328.9,
+  "limit": 335.98,
+  "new_start": 331.8119166666666,
+  "dur": 6.764916666666666,
+  "speed": 1.119,
+  "k": 1.0049317325800318,
+  "text_tgt": "Ponha um poliedro num espaço de curvatura positiva, e as arestas e faces se curvam para fora, aproveitando o espaço encolhido lá fora."
+ },
+ {
+  "id": 74,
+  "start": 335.98,
+  "limit": 338.74,
+  "new_start": 338.92683333333326,
+  "dur": 2.497375,
+  "speed": 1.333,
+  "k": 1.0316576086956555,
+  "text_tgt": "No espaço de curvatura negativa, acontece o contrário."
+ },
+ {
+  "id": 75,
+  "start": 338.74,
+  "limit": 346.52,
+  "new_start": 341.77420833333326,
+  "dur": 7.028041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Lá o espaço exterior é mais espaçoso, então arestas e faces se curvam para dentro, evitando as longas distâncias lá fora."
+ },
+ {
+  "id": 76,
+  "start": 346.52,
+  "limit": 353.1,
+  "new_start": 349.55420833333324,
+  "dur": 6.269208333333333,
+  "speed": 1.118,
+  "k": 1.0059587132725367,
+  "text_tgt": "Pense na curvatura positiva como sobrepressão, que infla os polígonos em almofadas e deixa os cantos mais obtusos."
+ },
+ {
+  "id": 77,
+  "start": 353.1,
+  "limit": 357.88,
+  "new_start": 356.1734166666666,
+  "dur": 4.4995416666666666,
+  "speed": 1.211,
+  "k": 1.0145484658298523,
+  "text_tgt": "A curvatura negativa é como subpressão, que murcha o polígono e deixa os cantos pontudos."
+ },
+ {
+  "id": 78,
+  "start": 357.88,
+  "limit": 359.78,
+  "new_start": 361.02295833333324,
+  "dur": 1.6398333333333333,
+  "speed": 1.305,
+  "k": 1.0472807017543986,
+  "text_tgt": "Mas o nosso universo é plano ou curvo?"
+ },
+ {
+  "id": 79,
+  "start": 359.78,
+  "limit": 366.0,
+  "new_start": 363.01279166666654,
+  "dur": 5.883291666666667,
+  "speed": 1.045,
+  "k": 1.0021369239013889,
+  "text_tgt": "Para saber, teríamos de medir triângulos ou poliedros enormes de verdade, e isso não é fácil."
+ },
+ {
+  "id": 80,
+  "start": 366.0,
+  "limit": 368.4,
+  "new_start": 369.2460833333332,
+  "dur": 1.889,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos chegar lá no próximo episódio."
+ },
+ {
+  "id": 81,
+  "start": 368.4,
+  "limit": 373.06,
+  "new_start": 371.6460833333332,
+  "dur": 4.347375,
+  "speed": 1.088,
+  "k": 1.008020386266089,
+  "text_tgt": "Hoje o objetivo é entender o que é curvatura e ver alguns exemplos."
+ },
+ {
+  "id": 82,
+  "start": 373.06,
+  "limit": 375.54,
+  "new_start": 376.3434583333332,
+  "dur": 2.2176666666666667,
+  "speed": 1.222,
+  "k": 1.035349462365584,
+  "text_tgt": "O universo poderia até ter curvatura mista."
+ },
+ {
+  "id": 83,
+  "start": 375.54,
+  "limit": 376.76,
+  "new_start": 378.91112499999986,
+  "dur": 0.9917916666666666,
+  "speed": 1.22,
+  "k": 1.0998292349727041,
+  "text_tgt": "Lembra da banana?"
+ },
+ {
+  "id": 84,
+  "start": 376.76,
+  "limit": 380.4,
+  "new_start": 380.2529166666665,
+  "dur": 3.3513333333333333,
+  "speed": 1.11,
+  "k": 1.0168498168498206,
+  "text_tgt": "A curvatura dela é positiva de um lado e negativa do outro."
+ },
+ {
+  "id": 85,
+  "start": 380.4,
+  "limit": 383.58,
+  "new_start": 383.95424999999983,
+  "dur": 2.914,
+  "speed": 1.197,
+  "k": 1.0264150943396204,
+  "text_tgt": "O universo não poderia ser assim, uma espécie de hiperbanana?"
+ },
+ {
+  "id": 86,
+  "start": 383.58,
+  "limit": 384.8,
+  "new_start": 387.21824999999984,
+  "dur": 0.9865416666666667,
+  "speed": 1.189,
+  "k": 1.0955259562841286,
+  "text_tgt": "Bem, sim e não."
+ },
+ {
+  "id": 87,
+  "start": 384.8,
+  "limit": 389.2,
+  "new_start": 388.5547916666665,
+  "dur": 4.058791666666667,
+  "speed": 1.02,
+  "k": 1.0019981060606113,
+  "text_tgt": "Poderia, mas isso violaria o chamado \"princípio cosmológico\"."
+ },
+ {
+  "id": 88,
+  "start": 389.2,
+  "limit": 393.58,
+  "new_start": 392.9635833333332,
+  "dur": 4.074375,
+  "speed": 1.048,
+  "k": 1.0101312785388137,
+  "text_tgt": "É a hipótese de que, em grande escala, o universo é igual em todo lugar."
+ },
+ {
+  "id": 89,
+  "start": 393.58,
+  "limit": 398.72,
+  "new_start": 397.3879583333332,
+  "dur": 4.80075,
+  "speed": 1.004,
+  "k": 1.0020914396887075,
+  "text_tgt": "Não é uma colcha de retalhos com propriedades, formas e leis físicas diferentes."
+ },
+ {
+  "id": 90,
+  "start": 398.72,
+  "limit": 405.24,
+  "new_start": 402.5387083333332,
+  "dur": 6.242125,
+  "speed": 1.078,
+  "k": 1.0110621165644198,
+  "text_tgt": "Isso exclui curvatura mista, assim como exclui zonas com constantes físicas diferentes, e assim como exclui uma borda."
+ },
+ {
+  "id": 91,
+  "start": 405.24,
+  "limit": 414.04,
+  "new_start": 409.1308333333332,
+  "dur": 8.486333333333333,
+  "speed": 1.024,
+  "k": 1.0041287878787866,
+  "text_tgt": "Essa hipótese vem do que os terráqueos chamam de \"Navalha de Ockham\": entre hipóteses igualmente apoiadas pelas evidências, as simples são melhores que as complicadas."
+ },
+ {
+  "id": 92,
+  "start": 414.04,
+  "limit": 420.44,
+  "new_start": 417.96716666666657,
+  "dur": 6.008,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pense na Navalha de Ockham como uma ordem de busca comprovada: vale testar primeiro as hipóteses mais simples."
+ },
+ {
+  "id": 93,
+  "start": 420.44,
+  "limit": 430.18,
+  "new_start": 424.36716666666655,
+  "dur": 9.408,
+  "speed": 1.049,
+  "k": 1.001848049281313,
+  "text_tgt": "Por exemplo, quando vejo um círculo na plantação, posso supor uma conspiração de rapazes da roça que passaram a noite num campo, amassando o trigo com ferramentas terráqueas primitivas."
+ },
+ {
+  "id": 94,
+  "start": 430.18,
+  "limit": 435.52,
+  "new_start": 434.12516666666653,
+  "dur": 5.362208333333333,
+  "speed": 1.35,
+  "k": 1.0697019350811534,
+  "text_tgt": "Mas uma hipótese bem mais simples seria um colega alienígena com uma impressora de plantação querendo falar com uma nave em órbita."
+ },
+ {
+  "id": 95,
+  "start": 435.52,
+  "limit": 437.44,
+  "new_start": 439.83737499999984,
+  "dur": 1.659875,
+  "speed": 1.229,
+  "k": 1.0468098958333247,
+  "text_tgt": "Mochileiros fazem isso o tempo todo."
+ },
+ {
+  "id": 96,
+  "start": 437.44,
+  "limit": 441.2,
+  "new_start": 441.84724999999986,
+  "dur": 3.5985,
+  "speed": 1.35,
+  "k": 1.0501329787234068,
+  "text_tgt": "Então, não precisa de teoria da conspiração se há uma explicação mais simples."
+ },
+ {
+  "id": 97,
+  "start": 441.2,
+  "limit": 449.42,
+  "new_start": 445.7957499999999,
+  "dur": 7.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Daqui em diante, vamos supor que o universo seja plano, ou todo de curvatura positiva, ou todo de curvatura negativa."
+ },
+ {
+  "id": 98,
+  "start": 449.42,
+  "limit": 451.16,
+  "new_start": 454.0157499999999,
+  "dur": 1.4889583333333334,
+  "speed": 1.268,
+  "k": 1.0568726053639792,
+  "text_tgt": "Então, nada de hiperbanana."
+ },
+ {
+  "id": 99,
+  "start": 451.16,
+  "limit": 454.12,
+  "new_start": 455.85470833333324,
+  "dur": 2.703333333333333,
+  "speed": 1.328,
+  "k": 1.0315315315315385,
+  "text_tgt": "O modelo mais simples de curvatura positiva é a hiperesfera."
+ },
+ {
+  "id": 100,
+  "start": 454.12,
+  "limit": 459.84,
+  "new_start": 458.9080416666666,
+  "dur": 5.428166666666667,
+  "speed": 1.037,
+  "k": 1.010168997669003,
+  "text_tgt": "Antes de entender a hiperesfera, vamos explicar às lesmas planas como se constrói uma esfera."
+ },
+ {
+  "id": 101,
+  "start": 459.84,
+  "limit": 461.34,
+  "new_start": 464.68620833333324,
+  "dur": 1.01,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como fazer isso?"
+ },
+ {
+  "id": 102,
+  "start": 461.34,
+  "limit": 464.5,
+  "new_start": 466.18620833333324,
+  "dur": 2.8392916666666665,
+  "speed": 1.095,
+  "k": 1.0092695147679245,
+  "text_tgt": "Talvez começando com dois quadrados, um por hemisfério."
+ },
+ {
+  "id": 103,
+  "start": 464.5,
+  "limit": 469.16,
+  "new_start": 469.37549999999993,
+  "dur": 4.351541666666667,
+  "speed": 1.041,
+  "k": 1.0089145207439145,
+  "text_tgt": "Inflamos os dois com curvatura até os ângulos de 90° sumirem."
+ },
+ {
+  "id": 104,
+  "start": 469.16,
+  "limit": 473.02,
+  "new_start": 474.0770416666666,
+  "dur": 3.32,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Agora cada parte tem uma borda lisa e reta, sem cantos."
+ },
+ {
+  "id": 105,
+  "start": 473.02,
+  "limit": 476.6,
+  "new_start": 477.9370416666666,
+  "dur": 3.271916666666667,
+  "speed": 1.14,
+  "k": 1.0117085661079959,
+  "text_tgt": "Poderíamos chamar isso de zerógono, mas o nome comum é \"equador\"."
+ },
+ {
+  "id": 106,
+  "start": 476.6,
+  "limit": 480.04,
+  "new_start": 481.55895833333324,
+  "dur": 3.1231666666666666,
+  "speed": 1.015,
+  "k": 1.0096414728682177,
+  "text_tgt": "Depois colamos os dois pelo equador, com portais."
+ },
+ {
+  "id": 107,
+  "start": 480.04,
+  "limit": 483.64,
+  "new_start": 485.0321249999999,
+  "dur": 3.3092083333333333,
+  "speed": 1.106,
+  "k": 1.016446759259269,
+  "text_tgt": "É aí que alguma lesma plana perguntaria para que serve a curvatura."
+ },
+ {
+  "id": 108,
+  "start": 483.64,
+  "limit": 487.98,
+  "new_start": 488.6913333333332,
+  "dur": 3.8,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não dá para pegar dois quadrados, ligar com portais e pronto?"
+ },
+ {
+  "id": 109,
+  "start": 487.98,
+  "limit": 489.8,
+  "new_start": 493.03133333333324,
+  "dur": 1.3300416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não seria bem mais fácil?"
+ },
+ {
+  "id": 110,
+  "start": 489.8,
+  "limit": 491.7,
+  "new_start": 494.85133333333323,
+  "dur": 1.888875,
+  "speed": 1.35,
+  "k": 1.1783552631579088,
+  "text_tgt": "Mais fácil, talvez, mas tem um problema."
+ },
+ {
+  "id": 111,
+  "start": 491.7,
+  "limit": 497.06,
+  "new_start": 497.09020833333324,
+  "dur": 4.979,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vejam, caras lesmas planas, cada canto só encosta em dois cantos de quadrado."
+ },
+ {
+  "id": 112,
+  "start": 497.06,
+  "limit": 500.72,
+  "new_start": 502.45020833333325,
+  "dur": 3.345666666666667,
+  "speed": 1.082,
+  "k": 1.0097449908925251,
+  "text_tgt": "E não dá para colar dois cantos de 90° de forma lisa."
+ },
+ {
+  "id": 113,
+  "start": 500.72,
+  "limit": 505.96,
+  "new_start": 506.14587499999993,
+  "dur": 4.960625,
+  "speed": 1.143,
+  "k": 1.0134780534351238,
+  "text_tgt": "Então é preciso usar curvatura para inflar os ângulos até 180° e a colagem ficar lisa."
+ },
+ {
+  "id": 114,
+  "start": 505.96,
+  "limit": 514.7,
+  "new_start": 511.45649999999995,
+  "dur": 6.68,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os dois quadrados inflados seriam meio disco, meio quadrado: sem cantos, como um disco, e com lados retos, como um quadrado."
+ },
+ {
+  "id": 115,
+  "start": 514.7,
+  "limit": 517.64,
+  "new_start": 520.1965,
+  "dur": 2.6497083333333333,
+  "speed": 1.102,
+  "k": 1.0203089569161203,
+  "text_tgt": "\"Reto\" quer dizer reto para quem vive na superfície."
+ },
+ {
+  "id": 116,
+  "start": 517.64,
+  "limit": 520.26,
+  "new_start": 523.1962083333334,
+  "dur": 2.777791666666667,
+  "speed": 1.35,
+  "k": 1.1938136132315502,
+  "text_tgt": "Isso provavelmente explodiria a cabeça de algumas lesmas planas."
+ },
+ {
+  "id": 117,
+  "start": 520.82,
+  "limit": 524.82,
+  "new_start": 526.8840000000001,
+  "dur": 3.58,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas para você seria fácil, porque dá para pensar em hemisférios em segredo."
+ },
+ {
+  "id": 118,
+  "start": 524.82,
+  "limit": 535.04,
+  "new_start": 530.8840000000001,
+  "dur": 9.628,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Agora podemos fazer o mesmo no espaço tridimensional: pegamos dois cubos, inflamos com curvatura positiva para alisar cantos e arestas, e colamos com portais."
+ },
+ {
+  "id": 119,
+  "start": 535.04,
+  "limit": 542.64,
+  "new_start": 541.104,
+  "dur": 7.180041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esses cubos inflados seriam em parte cubos, em parte esferas: cantos e arestas arredondados, mas com faces planas."
+ },
+ {
+  "id": 120,
+  "start": 542.64,
+  "limit": 544.72,
+  "new_start": 548.7040000000001,
+  "dur": 1.8065,
+  "speed": 1.168,
+  "k": 1.0367788461538257,
+  "text_tgt": "O resultado se chama hiperesfera."
+ },
+ {
+  "id": 121,
+  "start": 544.72,
+  "limit": 550.32,
+  "new_start": 550.8605000000001,
+  "dur": 5.27725,
+  "speed": 1.082,
+  "k": 1.0048660714285673,
+  "text_tgt": "No episódio passado vimos que, ao pegar um cubo e colar as faces opostas, obtemos um hipertoro."
+ },
+ {
+  "id": 122,
+  "start": 550.32,
+  "limit": 555.14,
+  "new_start": 556.4877500000001,
+  "dur": 4.04,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por que a hiperesfera precisa de curvatura positiva e o hipertoro não?"
+ },
+ {
+  "id": 123,
+  "start": 555.14,
+  "limit": 557.2,
+  "new_start": 561.30775,
+  "dur": 1.27,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por causa dos cantos."
+ },
+ {
+  "id": 124,
+  "start": 557.2,
+  "limit": 564.68,
+  "new_start": 563.3677500000001,
+  "dur": 7.21225,
+  "speed": 1.112,
+  "k": 1.0109959893048257,
+  "text_tgt": "Vejam, no hipertoro este canto é idêntico a este, e a este, e a este... e, na verdade, todos os cantos são o mesmo canto."
+ },
+ {
+  "id": 125,
+  "start": 564.68,
+  "limit": 571.12,
+  "new_start": 570.9300000000001,
+  "dur": 6.134625,
+  "speed": 1.04,
+  "k": 1.0069293478260783,
+  "text_tgt": "Então, em volta deste canto, oito partes do espaço se encaixam perfeitamente, sem precisar de curvatura."
+ },
+ {
+  "id": 126,
+  "start": 571.12,
+  "limit": 577.36,
+  "new_start": 577.4146250000001,
+  "dur": 5.599,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por outro lado, vejamos o que acontece ao colar dois cubos numa hiperesfera, mas sem a curvatura."
+ },
+ {
+  "id": 127,
+  "start": 577.36,
+  "limit": 580.9,
+  "new_start": 583.6546250000001,
+  "dur": 2.239,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Este canto é idêntico a este, e... só."
+ },
+ {
+  "id": 128,
+  "start": 580.9,
+  "limit": 586.28,
+  "new_start": 587.1946250000001,
+  "dur": 5.067625,
+  "speed": 1.02,
+  "k": 1.0069934944237926,
+  "text_tgt": "Então a vizinhança deste canto são duas partes dos dois cubos, e isso não se encaixa."
+ },
+ {
+  "id": 129,
+  "start": 586.28,
+  "limit": 591.5,
+  "new_start": 592.6122500000001,
+  "dur": 4.828,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Temos de inflar os cubos até os cantos se alisarem, e aí a colagem funciona."
+ },
+ {
+  "id": 130,
+  "start": 591.5,
+  "limit": 600.78,
+  "new_start": 597.8322500000002,
+  "dur": 8.932875,
+  "speed": 1.013,
+  "k": 1.0003098060344855,
+  "text_tgt": "Como já disse, as faces dos hemisférios são planas: só parecem curvas na nossa representação 3D, porque não dá para mostrar a curvatura do espaço lá dentro."
+ },
+ {
+  "id": 131,
+  "start": 600.78,
+  "limit": 603.18,
+  "new_start": 607.1151250000001,
+  "dur": 2.055083333333333,
+  "speed": 1.017,
+  "k": 1.002118055555565,
+  "text_tgt": "Por isso podemos colar as duas bolas."
+ },
+ {
+  "id": 132,
+  "start": 603.18,
+  "limit": 606.96,
+  "new_start": 609.5202083333335,
+  "dur": 3.51525,
+  "speed": 1.209,
+  "k": 1.0225529100528867,
+  "text_tgt": "Essa superfície de colagem é, por assim dizer, o equador da hiperesfera."
+ },
+ {
+  "id": 133,
+  "start": 606.96,
+  "limit": 611.06,
+  "new_start": 613.3854583333334,
+  "dur": 3.5700416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos viajar por um universo hiperesférico mais rápido que a luz."
+ },
+ {
+  "id": 134,
+  "start": 611.06,
+  "limit": 616.78,
+  "new_start": 617.4854583333333,
+  "dur": 4.868,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Na verdade, só uma coisa viaja mais rápido que a luz sem dobrar o espaço: um boato."
+ },
+ {
+  "id": 135,
+  "start": 616.78,
+  "limit": 623.7,
+  "new_start": 623.2054583333334,
+  "dur": 6.645333333333333,
+  "speed": 1.249,
+  "k": 1.0108863198458466,
+  "text_tgt": "Vamos inventar um boato: digamos, que a celebridade do YouTube CGP Grey é, na verdade, um boneco de palitinho superinteligente."
+ },
+ {
+  "id": 136,
+  "start": 623.7,
+  "limit": 627.18,
+  "new_start": 630.2007916666666,
+  "dur": 3.2154583333333333,
+  "speed": 1.216,
+  "k": 1.0245569923371929,
+  "text_tgt": "A bolha do boato se expande a partir da Terra mais rápido que a luz."
+ },
+ {
+  "id": 137,
+  "start": 627.18,
+  "limit": 634.06,
+  "new_start": 633.76625,
+  "dur": 6.5785,
+  "speed": 1.134,
+  "k": 1.0070494186046517,
+  "text_tgt": "No começo, a superfície da bolha cresce como esperado, mas depois cresce mais devagar e fica cada vez menos convexa."
+ },
+ {
+  "id": 138,
+  "start": 634.06,
+  "limit": 638.82,
+  "new_start": 640.69475,
+  "dur": 4.328916666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Até que a superfície se inverte e fica côncava: cruzamos o equador cósmico."
+ },
+ {
+  "id": 139,
+  "start": 638.82,
+  "limit": 641.66,
+  "new_start": 645.4547500000001,
+  "dur": 2.07,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A bolha vira do avesso e volta a encolher."
+ },
+ {
+  "id": 140,
+  "start": 641.66,
+  "limit": 647.9,
+  "new_start": 648.29475,
+  "dur": 4.870041666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ela fica cada vez menor até sumir num ponto: o antípoda do nosso ponto de partida."
+ },
+ {
+  "id": 141,
+  "start": 647.9,
+  "limit": 652.46,
+  "new_start": 654.53475,
+  "dur": 4.274916666666667,
+  "speed": 1.193,
+  "k": 1.014236111111098,
+  "text_tgt": "Assim construímos nosso primeiro espaço de curvatura positiva: a hiperesfera."
+ },
+ {
+  "id": 142,
+  "start": 652.46,
+  "limit": 655.66,
+  "new_start": 659.1596666666667,
+  "dur": 2.59,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas está longe de ser o único modelo curvo."
+ },
+ {
+  "id": 143,
+  "start": 655.66,
+  "limit": 664.98,
+  "new_start": 662.3596666666666,
+  "dur": 8.990291666666666,
+  "speed": 1.031,
+  "k": 1.0021772174534995,
+  "text_tgt": "No episódio passado, contei que, ao pegar um quadrado e pôr dois pares de portais invertidos colando pontos opostos, obtemos o chamado plano projetivo."
+ },
+ {
+  "id": 144,
+  "start": 664.98,
+  "limit": 669.54,
+  "new_start": 671.6999583333333,
+  "dur": 4.318875,
+  "speed": 1.336,
+  "k": 1.0238760964912403,
+  "text_tgt": "O que não contei é que, como na esfera, é preciso curvatura para a colagem ficar lisa nos cantos."
+ },
+ {
+  "id": 145,
+  "start": 669.54,
+  "limit": 677.04,
+  "new_start": 676.3688333333332,
+  "dur": 7.211166666666666,
+  "speed": 1.108,
+  "k": 1.0081555555555555,
+  "text_tgt": "O plano projetivo é um lugar estranho e interessante, onde paralelas se cruzam no infinito e todas as cônicas são basicamente iguais."
+ },
+ {
+  "id": 146,
+  "start": 677.04,
+  "limit": 681.18,
+  "new_start": 683.9299999999998,
+  "dur": 3.8377083333333335,
+  "speed": 1.06,
+  "k": 1.0115237520128857,
+  "text_tgt": "Além disso, ele é não orientável, porque contém uma faixa de Möbius."
+ },
+ {
+  "id": 147,
+  "start": 681.18,
+  "limit": 683.52,
+  "new_start": 688.1177083333332,
+  "dur": 2.0439166666666666,
+  "speed": 1.184,
+  "k": 1.0230413105412965,
+  "text_tgt": "Talvez eu faça um vídeo sobre ele um dia."
+ },
+ {
+  "id": 148,
+  "start": 683.52,
+  "limit": 685.24,
+  "new_start": 690.5116249999999,
+  "dur": 1.0900416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas não tão cedo."
+ },
+ {
+  "id": 149,
+  "start": 685.24,
+  "limit": 688.1,
+  "new_start": 692.2316249999999,
+  "dur": 2.47,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dá para fazer o mesmo em três dimensões."
+ },
+ {
+  "id": 150,
+  "start": 688.1,
+  "limit": 695.66,
+  "new_start": 695.0916249999999,
+  "dur": 6.738,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pegue um cubo, infle com curvatura positiva como na hiperesfera, e ponha portais colando cada ponto ao seu antípoda."
+ },
+ {
+  "id": 151,
+  "start": 695.66,
+  "limit": 699.12,
+  "new_start": 702.6516249999999,
+  "dur": 3.1841666666666666,
+  "speed": 1.162,
+  "k": 1.0214354527938236,
+  "text_tgt": "O resultado é o que os topólogos chamam de \"espaço projetivo\"."
+ },
+ {
+  "id": 152,
+  "start": 699.12,
+  "limit": 703.04,
+  "new_start": 706.1857916666665,
+  "dur": 3.0080416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ao contrário do primo bidimensional, ele é orientável."
+ },
+ {
+  "id": 153,
+  "start": 703.04,
+  "limit": 705.62,
+  "new_start": 710.1057916666665,
+  "dur": 1.8690416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas não é preciso começar com um cubo."
+ },
+ {
+  "id": 154,
+  "start": 705.62,
+  "limit": 712.52,
+  "new_start": 712.6857916666665,
+  "dur": 4.007958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pegue, por exemplo, um dodecaedro e cole as faces opostas."
+ },
+ {
+  "id": 155,
+  "start": 712.52,
+  "limit": 719.9,
+  "new_start": 719.5857916666665,
+  "dur": 7.03425,
+  "speed": 1.022,
+  "k": 1.000575880758808,
+  "text_tgt": "Pentágonos opostos têm orientações diferentes, então é preciso girá-los de algum jeito, digamos, meia volta."
+ },
+ {
+  "id": 156,
+  "start": 719.9,
+  "limit": 721.06,
+  "new_start": 726.9700416666665,
+  "dur": 0.9555416666666666,
+  "speed": 1.35,
+  "k": 1.1254669540230193,
+  "text_tgt": "Que espaço é esse?"
+ },
+ {
+  "id": 157,
+  "start": 721.06,
+  "limit": 727.02,
+  "new_start": 728.2755833333331,
+  "dur": 5.670333333333334,
+  "speed": 1.095,
+  "k": 1.0101230425055867,
+  "text_tgt": "Inflando um pouco o resultado, obtemos de novo a hiper-semiesfera com pontos opostos colados."
+ },
+ {
+  "id": 158,
+  "start": 727.02,
+  "limit": 730.76,
+  "new_start": 734.2959166666665,
+  "dur": 3.422625,
+  "speed": 1.008,
+  "k": 1.0087232620320832,
+  "text_tgt": "Então é só outro jeito de construir o espaço projetivo."
+ },
+ {
+  "id": 159,
+  "start": 730.76,
+  "limit": 734.26,
+  "new_start": 738.0685416666664,
+  "dur": 2.9200416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas e se girarmos só 36° em cada par?"
+ },
+ {
+  "id": 160,
+  "start": 734.26,
+  "limit": 736.82,
+  "new_start": 741.5685416666664,
+  "dur": 2.28225,
+  "speed": 1.148,
+  "k": 1.0282226562499763,
+  "text_tgt": "Obtemos um espaço bem mais interessante."
+ },
+ {
+  "id": 161,
+  "start": 736.82,
+  "limit": 739.94,
+  "new_start": 744.2007916666664,
+  "dur": 2.80475,
+  "speed": 1.009,
+  "k": 1.011137820512819,
+  "text_tgt": "Agora cada canto corresponde a 3 outros cantos."
+ },
+ {
+  "id": 162,
+  "start": 739.94,
+  "limit": 746.26,
+  "new_start": 747.3555416666665,
+  "dur": 6.03725,
+  "speed": 1.128,
+  "k": 1.0106408227848203,
+  "text_tgt": "Olhando em volta de um canto, vemos que o quebra-cabeça quase se encaixa, os cantos só estão um pouco pontudos demais."
+ },
+ {
+  "id": 163,
+  "start": 746.26,
+  "limit": 750.98,
+  "new_start": 753.7427916666664,
+  "dur": 4.089958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então basta acrescentar um pouquinho de curvatura positiva para fechar as frestas."
+ },
+ {
+  "id": 164,
+  "start": 750.98,
+  "limit": 755.36,
+  "new_start": 758.4627916666665,
+  "dur": 4.085,
+  "speed": 1.153,
+  "k": 1.0125570776255717,
+  "text_tgt": "Esse espaço de curvatura positiva se chama espaço dodecaédrico de Poincaré."
+ },
+ {
+  "id": 165,
+  "start": 755.36,
+  "limit": 761.12,
+  "new_start": 762.8977916666664,
+  "dur": 5.476375,
+  "speed": 1.207,
+  "k": 1.0115234375000015,
+  "text_tgt": "Ele foi proposto em 2003 como possível forma do universo por um terráqueo chamado Jean-Pierre Luminet."
+ },
+ {
+  "id": 166,
+  "start": 761.12,
+  "limit": 763.98,
+  "new_start": 768.7241666666664,
+  "dur": 2.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Voltaremos a isso no episódio 3."
+ },
+ {
+  "id": 167,
+  "start": 763.98,
+  "limit": 769.16,
+  "new_start": 771.5841666666664,
+  "dur": 3.92,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E se girarmos os portais não um décimo de volta, mas três décimos?"
+ },
+ {
+  "id": 168,
+  "start": 769.16,
+  "limit": 774.02,
+  "new_start": 776.7641666666664,
+  "dur": 4.02,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aí muda bastante: agora todos os cantos se juntam num único ponto!"
+ },
+ {
+  "id": 169,
+  "start": 774.02,
+  "limit": 781.42,
+  "new_start": 781.6241666666664,
+  "dur": 6.918,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Com isso, a vizinhança desse ponto fica bem lotada, e temos de reduzir muito os ângulos dos cantos para caber todo mundo."
+ },
+ {
+  "id": 170,
+  "start": 781.42,
+  "limit": 785.26,
+  "new_start": 789.0241666666664,
+  "dur": 3.8066666666666666,
+  "speed": 1.35,
+  "k": 1.0824652777777688,
+  "text_tgt": "Ou seja, precisamos de muita curvatura negativa para os cantos se encaixarem."
+ },
+ {
+  "id": 171,
+  "start": 785.26,
+  "limit": 791.0,
+  "new_start": 793.180833333333,
+  "dur": 4.589958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse é o espaço de Seifert-Weber, um exemplo de modelo finito com curvatura negativa."
+ },
+ {
+  "id": 172,
+  "start": 791.0,
+  "limit": 794.42,
+  "new_start": 798.920833333333,
+  "dur": 3.1917916666666666,
+  "speed": 1.319,
+  "k": 1.0356115984405583,
+  "text_tgt": "Outro exemplo de modelo com curvatura negativa seria o chifre de Picard."
+ },
+ {
+  "id": 173,
+  "start": 794.42,
+  "limit": 806.1,
+  "new_start": 802.4626249999997,
+  "dur": 10.729041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "É difícil explicar sem matemática avançada, então só vou esboçar seu análogo bidimensional: um chifre com pontos opostos da borda colados, ou seja, sai por aqui, entra por aqui."
+ },
+ {
+  "id": 174,
+  "start": 806.1,
+  "limit": 810.5,
+  "new_start": 814.1426249999997,
+  "dur": 4.089166666666666,
+  "speed": 1.032,
+  "k": 1.0089015151515202,
+  "text_tgt": "A ponta do chifre é infinitamente longa, mas tão fina que o volume é finito."
+ },
+ {
+  "id": 175,
+  "start": 810.5,
+  "limit": 817.12,
+  "new_start": 818.5817916666664,
+  "dur": 6.32175,
+  "speed": 1.15,
+  "k": 1.0078172205438058,
+  "text_tgt": "Neste vídeo vimos três modelos de curvatura positiva e dois de curvatura negativa para um universo finito sem borda."
+ },
+ {
+  "id": 176,
+  "start": 817.12,
+  "limit": 823.76,
+  "new_start": 825.2535416666664,
+  "dur": 6.355291666666667,
+  "speed": 1.227,
+  "k": 1.0098330823293193,
+  "text_tgt": "Claro, nunca disse que o universo é necessariamente finito, só que é uma possibilidade: ele pode muito bem ser infinito."
+ },
+ {
+  "id": 177,
+  "start": 823.76,
+  "limit": 827.18,
+  "new_start": 831.958833333333,
+  "dur": 3.105916666666667,
+  "speed": 1.114,
+  "k": 1.010501949317751,
+  "text_tgt": "Há muitos outros modelos, finitos e infinitos."
+ },
+ {
+  "id": 178,
+  "start": 827.18,
+  "limit": 829.24,
+  "new_start": 835.4147499999997,
+  "dur": 1.5900416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas acho que já deu por hoje."
+ },
+ {
+  "id": 179,
+  "start": 829.24,
+  "limit": 835.76,
+  "new_start": 837.4747499999997,
+  "dur": 6.218208333333333,
+  "speed": 1.063,
+  "k": 1.007393916155422,
+  "text_tgt": "A ideia deste episódio não era listar todos os modelos, mas dar uma ideia do que \"espaço curvo\" quer dizer."
+ },
+ {
+  "id": 180,
+  "start": 835.76,
+  "limit": 844.8,
+  "new_start": 844.0429583333331,
+  "dur": 8.207041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No terceiro e último episódio, vamos falar da expansão do universo e discutir hipóteses e evidências sobre a forma real do universo."
+ },
+ {
+  "id": 181,
+  "start": 844.8,
+  "limit": 848.64,
+  "new_start": 853.0829583333331,
+  "dur": 3.1900416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma nota pessoal: sou mais matemático do que físico."
+ },
+ {
+  "id": 182,
+  "start": 848.64,
+  "limit": 852.04,
+  "new_start": 856.9229583333331,
+  "dur": 2.1700416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então não prometo não errar na física."
+ },
+ {
+  "id": 183,
+  "start": 852.04,
+  "limit": 857.15,
+  "new_start": 860.3229583333331,
+  "dur": 4.842833333333333,
+  "speed": 1.311,
+  "k": 1.0162100456620977,
+  "text_tgt": "Por exemplo, da última vez eu disse que um universo de Alice transformaria matéria em antimatéria."
+ },
+ {
+  "id": 184,
+  "start": 857.9,
+  "limit": 861.92,
+  "new_start": 866.2657916666664,
+  "dur": 3.7332083333333332,
+  "speed": 1.117,
+  "k": 1.0157234660033214,
+  "text_tgt": "Mas, como um espectador notou, talvez não seja tão simples."
+ },
+ {
+  "id": 185,
+  "start": 861.92,
+  "limit": 868.14,
+  "new_start": 870.3489999999997,
+  "dur": 5.937166666666666,
+  "speed": 1.194,
+  "k": 1.0107984994640897,
+  "text_tgt": "Aliás, esse comentário não foi no YouTube, e sim no site Universe Today, que publicou um artigo sobre o primeiro episódio."
+ },
+ {
+  "id": 186,
+  "start": 868.14,
+  "limit": 871.36,
+  "new_start": 876.6361666666663,
+  "dur": 2.926625,
+  "speed": 1.09,
+  "k": 1.0175854037266996,
+  "text_tgt": "Esse artigo me trouxe muitas visualizações, obrigado!"
+ },
+ {
+  "id": 187,
+  "start": 871.36,
+  "limit": 875.04,
+  "new_start": 879.9127916666663,
+  "dur": 3.4565,
+  "speed": 1.345,
+  "k": 1.034375000000014,
+  "text_tgt": "Se você gosta de astronomia, provavelmente vai gostar desse site: experimente!"
+ },
+ {
+  "id": 188,
+  "start": 875.04,
+  "limit": 887.28,
+  "new_start": 883.7192916666663,
+  "dur": 11.599,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Sobre os próximos vídeos: perguntei se vocês preferiam que eu alternasse com o \"Terráqueos 101\" ou terminasse esta série antes, e dois terços votaram por terminar a série, um terço por alternar."
+ },
+ {
+  "id": 189,
+  "start": 887.28,
+  "limit": 889.74,
+  "new_start": 895.9592916666663,
+  "dur": 2.0099583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por isso você está vendo este vídeo hoje."
+ },
+ {
+  "id": 190,
+  "start": 889.74,
+  "limit": 898.66,
+  "new_start": 898.4192916666664,
+  "dur": 8.52,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas por isso também escolhi uma solução híbrida: depois deste vídeo, vou fazer o próximo episódio do Terráqueos 101 e, depois, terminar esta série."
+ },
+ {
+  "id": 191,
+  "start": 898.66,
+  "limit": 903.32,
+  "new_start": 907.3392916666663,
+  "dur": 3.640041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Assim não espanto quem não liga nem um pouco para cosmotopologia."
+ },
+ {
+  "id": 192,
+  "start": 903.32,
+  "limit": 905.14,
+  "new_start": 911.9992916666664,
+  "dur": 0.84,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por hoje é só."
+ },
+ {
+  "id": 193,
+  "start": 905.14,
+  "limit": 909.9,
+  "new_start": 913.8192916666663,
+  "dur": 4.4794583333333335,
+  "speed": 1.243,
+  "k": 1.0145920868347358,
+  "text_tgt": "Curta, se inscreva, conte para sua mãe e, como sempre: não se esqueça de ser alienígena!"
+ }
+]

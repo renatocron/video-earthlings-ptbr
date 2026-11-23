@@ -1,0 +1,424 @@
+1
+00:00:00,000 --> 00:00:02,360
+Welcome to the fourth episode of earthlings 101.
+
+2
+00:00:02,934 --> 00:00:04,956
+Today we will learn what good and evil is.
+
+3
+00:00:41,826 --> 00:00:45,133
+The concept of good and evil is fundamental to understanding human behaviour.
+
+4
+00:00:45,960 --> 00:00:52,139
+As I explained in the first episode, the earthling mind is divided into three parts: the ego, the beast and the niggler.
+
+5
+00:00:52,319 --> 00:00:56,863
+The beast tells the ego what he wants to do, and the niggler tells him what he should do.
+
+6
+00:00:57,227 --> 00:01:01,907
+The Niggler is constantly commenting about the ego's actions, approving some and rejecting others.
+
+7
+00:01:02,211 --> 00:01:07,845
+This process is called self-awareness, and the criteria the Niggler applies - that is actually good and evil.
+
+8
+00:01:08,451 --> 00:01:19,551
+To enforce his judgement, the niggler punishes "evil" actions with feelings like shame and guilt, and awards "good" actions with satisfaction - just as the beast uses pleasure, pain, fear and desire to get what he wants.
+
+9
+00:01:20,131 --> 00:01:24,613
+There is a myth, an ancient fictional story, about what happened when earthlings became self-aware.
+
+10
+00:01:25,606 --> 00:01:32,487
+The first two earthlings, so the story, lived in a garden, a closed area with rich vegetation, guarded by some kind of bio-administrator.
+
+11
+00:01:33,851 --> 00:01:37,051
+We will talk about this kind of creature in a forthcoming episode.
+
+12
+00:01:37,551 --> 00:01:43,094
+According to the story, the earthlings' first act as self-aware beings was to eat a fruit against the will of the bio-administrator.
+
+13
+00:01:44,143 --> 00:01:51,832
+Doing so made them realize that some acts are qualified as good, and some others as evil, in particular what they just had done: eating a forbidden fruit.
+
+14
+00:01:52,074 --> 00:01:56,050
+They were filled with guilt and shame, and thrown out of the garden into a harsh wilderness.
+
+15
+00:01:56,743 --> 00:02:00,827
+This story tells us aliens a lot about how earthlings experience their own self-awareness.
+
+16
+00:02:01,670 --> 00:02:06,690
+It seems that self-awareness is extremely uncomfortable, like living in a hostile environment.
+
+17
+00:02:07,110 --> 00:02:15,297
+Having a niggler in one's brain must be like having a brainsucker attached to one's head who is constantly babbling about what is or isn't conform to the rules of the galactic bureaucracy.
+
+18
+00:02:15,639 --> 00:02:22,185
+And guilt is probably as painful as the brain acid released by a brainsucker when the host breaks one of the zillions of rules of the bureaucracy.
+
+19
+00:02:22,185 --> 00:02:29,571
+Except that the niggler doesn't care about the bureaucracy - it has its own rules which have evolved through evolution and society : good and evil.
+
+20
+00:02:29,772 --> 00:02:33,332
+But what is this good and evil thing anyway, and what is its purpose?
+
+21
+00:02:33,992 --> 00:02:37,367
+Good and evil exist to encourage cooperation between individuals.
+
+22
+00:02:37,973 --> 00:02:43,080
+Basically, an action is "good" when it helps the group, and "evil" when it goes against the interests of the group.
+
+23
+00:02:43,480 --> 00:02:49,015
+Without cooperation enforced by the nigglers in their brain, every earthling would only serve its own benefit.
+
+24
+00:02:49,015 --> 00:02:56,145
+But, you might ask : if every member of the group maximizes his own benefit, wouldn't this sum up and maximize the benefit of the group?
+
+25
+00:02:56,928 --> 00:02:57,698
+Actually not.
+
+26
+00:02:58,040 --> 00:03:04,265
+There are situations where egoistically maximizing one’s own benefit reduces the benefit of everybody, including of those being egoists.
+
+27
+00:03:04,668 --> 00:03:07,490
+A textbook example is what earthlings call "prisoners dilemma".
+
+28
+00:03:08,751 --> 00:03:22,191
+Imagine that two galactic evildoers, Mighty Cthulhu and Lord Xenu, are arrested and thrown into prison by the galactic police for unauthorized messing with planet earth - say, some clever scheme involving volcanoes and bad dreams.
+
+29
+00:03:22,711 --> 00:03:29,879
+Unfortunately there are no witnesses for their machinations, besides some disembodied thetans and mad cultists who don't legally count as witnesses.
+
+30
+00:03:29,879 --> 00:03:35,999
+So, the authorities interrogate both villains separately, offering them reduction of prison time if they confess.
+
+31
+00:03:36,719 --> 00:03:43,997
+Here is the deal: If none of them confesses, the authority can't prove anything and both get only 100 years for unauthorized entering a protected area.
+
+32
+00:03:44,358 --> 00:03:47,218
+One triangle in the diagram corresponds to 100 years.
+
+33
+00:03:47,638 --> 00:03:52,852
+If one of them confesses, he gets free, whereas the other one gets the maximum penalty of 800 years in prison.
+
+34
+00:03:52,852 --> 00:03:56,252
+If both confess, both get a reduced penalty of 400 years.
+
+35
+00:03:58,512 --> 00:04:04,050
+From Lord Xenu's point of view, the decision seems clear: Whatever Cthulhu does, Xenu is better off confessing.
+
+36
+00:04:04,674 --> 00:04:08,991
+If Cthulhu keeps his tentaculous mouth shut, Xenu can avoid prison by betraying him.
+
+37
+00:04:09,336 --> 00:04:13,136
+If Cthulhu betrays him, Xenu can reduce his prison time by talking as well.
+
+38
+00:04:13,336 --> 00:04:18,026
+The same holds for Cthulhu: No matter what Xenu does, Cthulhu is better off betraying him.
+
+39
+00:04:18,288 --> 00:04:21,472
+So, egoism might drive both villains to betraying each other.
+
+40
+00:04:21,472 --> 00:04:27,762
+But the point is, when both act egoistically and talk, each one gets more prison time than when both cooperate and keep quiet.
+
+41
+00:04:28,207 --> 00:04:32,587
+So, when both maximize their individual outcome, this actually reduces the outcome for everybody.
+
+42
+00:04:33,072 --> 00:04:37,436
+But even if both realize this and cooperate, each one will still be tempted to betray the other one.
+
+43
+00:04:38,743 --> 00:04:45,163
+Another example for this kind of situation would be a clan of earthlings where everyone has one goat, a domestic animal which provides milk.
+
+44
+00:04:45,423 --> 00:04:50,101
+It won't take long for earthlings to figure out that one can get a second goat by stealing one during the night.
+
+45
+00:04:50,101 --> 00:04:53,797
+So, goat thieves are better off than earthlings who sleep during the night.
+
+46
+00:04:54,282 --> 00:05:02,151
+However, if everybody becomes a goat thief, everybody will end up with one goat, and the sneaky nocturnal goat exchange will be a complete waste of time and energy.
+
+47
+00:05:02,432 --> 00:05:08,332
+So the clan will have a disadvantage against another clan who found a way to avoid stealing from each other every night and is well-rested in the morning.
+
+48
+00:05:09,252 --> 00:05:12,121
+This kind of situation is the basic problem of human group behaviour.
+
+49
+00:05:12,876 --> 00:05:16,827
+The solution evolution found was the development of the niggler and the concept of good and evil.
+
+50
+00:05:17,131 --> 00:05:24,105
+If actions like stealing are evil, the niggler will punish theft with remorse, a feeling which causes more discomfort than the milk of the stolen goat causes pleasure.
+
+51
+00:05:24,105 --> 00:05:27,565
+So, suddenly, stealing is far less appealing than it was before.
+
+52
+00:05:28,845 --> 00:05:34,292
+Likewise, if another member of the group happens to have no goat, the niggler will push the individual to give some milk to the other one.
+
+53
+00:05:34,656 --> 00:05:39,235
+This holds even more if the poor individual is a woman, as women are the bottleneck for population growth.
+
+54
+00:05:39,759 --> 00:05:45,271
+Such selfless actions which help the group are considered good, and are rewarded by the niggler with positive feelings.
+
+55
+00:05:45,271 --> 00:05:49,961
+Of course, earthlings had to define what actions are actually good and evil in the first place.
+
+56
+00:05:50,343 --> 00:05:53,831
+So they developed sets of rules which are transmitted from generation to generation.
+
+57
+00:05:54,274 --> 00:05:55,834
+These rules are called ethics.
+
+58
+00:05:56,754 --> 00:05:57,898
+Tips for tourists.
+
+59
+00:05:58,286 --> 00:06:02,266
+Before visiting earth, familiarize yourself with the basic rules of good and evil.
+
+60
+00:06:02,806 --> 00:06:06,878
+Even a harmless act like abducting a cow is considered evil and can get you into trouble.
+
+61
+00:06:07,408 --> 00:06:10,814
+You don't want to spend the rest of your life locked away in a secret government facility.
+
+62
+00:06:12,297 --> 00:06:15,427
+As mentioned before, self awareness is extremely unpleasant.
+
+63
+00:06:15,427 --> 00:06:19,121
+So, earthlings try to silence their self-awareness at any price.
+
+64
+00:06:19,364 --> 00:06:33,680
+They stick to a daily routine without any ethical decisions, they intoxicate their brain with drugs, they fill it with useless information, they escape into fictional worlds, and they welcome every authority who tells them what good and evil is - even if the actions suggested by the authority are obviously harmful for the group.
+
+65
+00:06:33,920 --> 00:06:42,860
+This leads to absurd and paradoxical situations like millions following a religious leader who forbids a contraceptive device which could actually slow down a dangerous pandemic and reduce overpopulation and famine.
+
+66
+00:06:44,423 --> 00:06:45,348
+Scientific advice.
+
+67
+00:06:45,788 --> 00:06:50,453
+An interesting field of research is experimental ethics: Abduct an earthling and put him into a moral dilemma.
+
+68
+00:06:50,980 --> 00:06:54,560
+For example whether to give rather food to a starving man, or to a sexy woman.
+
+69
+00:06:55,260 --> 00:06:57,185
+You might be surprised by the results.
+
+70
+00:07:00,751 --> 00:07:08,051
+Actions considered evil typically include killing, seizing land, raping, stealing, and lying, as these are actions which are harmful for the group.
+
+71
+00:07:08,371 --> 00:07:11,757
+Of course, this only holds when the actions target members of the group.
+
+72
+00:07:11,757 --> 00:07:24,556
+If applied to members of a hostile group, earthlings apply other standards, and even use other words : In this case, killing is called war, raping and stealing are called spoils of war, seizing land is called conquest, and lying is called diplomacy.
+
+73
+00:07:25,076 --> 00:07:29,243
+Those actions are not only allowed but considered good and honorful, as they help the group.
+
+74
+00:07:29,729 --> 00:07:32,484
+Of course, the other group considers these actions as evil.
+
+75
+00:07:32,845 --> 00:07:36,172
+This leads to the double standards earthlings apply in case of hostile groups.
+
+76
+00:07:36,577 --> 00:07:40,315
+Consider two tribes, red and green, which are in conflict with each other.
+
+77
+00:07:40,759 --> 00:07:44,473
+Assume that the green tribesmen destroy some buildings of the red tribe, killing people.
+
+78
+00:07:44,777 --> 00:07:47,212
+This harms the red tribe and helps the green one.
+
+79
+00:07:47,678 --> 00:07:57,165
+In consequence, the action is evil for the red guys but good for the green guys - not because of different ethical standards, but simply because "evil" means "bad for my group", and "my group" is not the same for everyone.
+
+80
+00:07:57,647 --> 00:08:06,629
+Now, if the red guys retaliate, or even attack a part of the green tribe which had nothing to do with the attack, this is considered good by the red tribe and evil by the green tribe, for the same reasons.
+
+81
+00:08:07,171 --> 00:08:10,511
+In consequence, each tribe will have the impression that the other tribe is evil.
+
+82
+00:08:10,971 --> 00:08:20,315
+Now, if each side defines that killing good guys is evil, but killing evil guys is good, we will enter a strange loop where each tribe's definition of "good guys" and "evil guys" is actually based on itself.
+
+83
+00:08:20,736 --> 00:08:25,656
+The good guys are good because they kill the evil guys, and the evil guys are evil because they kill the good guys.
+
+84
+00:08:26,096 --> 00:08:32,842
+If both tribes have different ethical systems, things get even worse, as each tribe uses its own ethics to judge the ethics of the other tribe.
+
+85
+00:08:33,223 --> 00:08:39,310
+Maybe the red tribe will say that the green tribe has a disrespect for freedom, and the green tribe will say that the red tribe has no sense of honor.
+
+86
+00:08:39,710 --> 00:08:47,721
+It's like the discussion Andromeda yard versus Centauri meter: The Andros think that the Centauri meter is too long, and the Centauri claim that the Andromeda yard is too short.
+
+87
+00:08:48,165 --> 00:08:53,818
+However, on earth, there is no central bureaucracy to enforce a common system of measurement that everybody dislikes equally.
+
+88
+00:08:53,818 --> 00:08:59,887
+So basically, good and evil is a question of ethics inside the group, but a question of sides between hostile groups.
+
+89
+00:09:00,409 --> 00:09:05,458
+That's the reason why an earthling is considered a criminal if he kills his neighbour, but a hero if he kills a thousand enemies.
+
+90
+00:09:05,800 --> 00:09:09,552
+No other species of this planet has so ruthlessly depopulated whole continents.
+
+91
+00:09:09,959 --> 00:09:11,859
+Except for the microbes.
+
+92
+00:09:15,119 --> 00:09:22,788
+By the way, if you ask an earthling, who were the biggest evildoers in human history, odds are that he will name earthlings who killed a lot of people inside their own tribe or country.
+
+93
+00:09:23,111 --> 00:09:24,902
+That's what earthlings call a mass murderer.
+
+94
+00:09:25,471 --> 00:09:31,191
+Earthlings who killed a lot of people in other tribes or countries are worshipped as "great men", even centuries after their death.
+
+95
+00:09:31,450 --> 00:09:35,727
+This isn't actually illogical - it's a consequence from the definition: "Evil is what harms my group".
+
+96
+00:09:36,870 --> 00:09:37,836
+Strategic advice.
+
+97
+00:09:38,320 --> 00:09:42,571
+When you attack earth, don't count on earthlings' conflicts to play earthlings one against the other.
+
+98
+00:09:42,897 --> 00:09:49,062
+You are not part of any earthling group, so earthlings will consider you as evil, and even sworn enemies might unite to fight against you.
+
+99
+00:09:49,684 --> 00:09:52,905
+In reality, ethics are far more complex than I described them.
+
+100
+00:09:53,348 --> 00:09:59,661
+Earthlings usually belong to a whole set of nested or overlapping groups, with group conflicts and varying ethical codes.
+
+101
+00:09:59,661 --> 00:10:03,493
+The resulting ethical dynamics are what makes human ethics so complicated.
+
+102
+00:10:04,101 --> 00:10:10,784
+However, even the most complex ethical systems come down to one basic principle: Good is what helps the group, evil is what harms the group.
+
+103
+00:10:11,267 --> 00:10:16,627
+Those systems have evolved because ethics which support the group help to make the group survive, grow and spread the genetic code.
+
+104
+00:10:17,134 --> 00:10:24,600
+So, like almost every aspect of human society, the principles of good and evil come down to our old friend, the genetic imperative : Spreading the code.
+
+105
+00:10:24,600 --> 00:10:31,150
+In the next episode we will talk about games, dreams and fiction, and why they all serve the same purpose : learning to survive.
+
+106
+00:10:31,150 --> 00:10:32,460
+Thanks for watching.
+

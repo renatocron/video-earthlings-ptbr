@@ -1,0 +1,171 @@
+Saudações, colegas alienígenas!
+Bem-vindos ao décimo segundo episódio de Terráqueos 101.
+Hoje vamos aprender sobre o sentido mais importante dos terráqueos: a visão.
+Visão é a capacidade de perceber a luz para criar uma imagem mental do ambiente.
+Mas o que é luz?
+Luz é radiação eletromagnética dentro de uma certa faixa.
+A atmosfera da Terra filtra quase toda a radiação do Sol, exceto três faixas: a janela de rádio, a de infravermelho e a óptica.
+A última vai de 300 a 1100 nanômetros: essa é a frequência da luz.
+Os terráqueos percebem luz entre 390 e 700 nanômetros: é a chamada luz visível.
+Eles percebem a luz com os olhos, um par de órgãos globulares na cabeça.
+Olhos são biocâmeras primitivas: a luz passa por uma lente, é focada numa camada fotossensível chamada retina, vira sinal elétrico, e então...
+Bem, aí a coisa fica interessante.
+Os sensores terráqueos costumam ser comparados aos dos drones coletores.
+Quando a Receita Galáctica faz uma fiscalização planetária, envia uma Estrela Fiscal que solta milhões de drones coletores na superfície.
+Cada drone coletor tem vários sensores de avaliação fiscal, incluindo uma sofisticada câmera de alta definição.
+À primeira vista, a câmera do drone funciona igual a um olho terráqueo: a luz passa por lentes e cai numa matriz de fotorreceptores espectroscópicos.
+A matriz de pixels vai para o computador central, onde é processada e vira um modelo 3D de voxels.
+Por fim, as rotinas fiscais calculam o valor monetário de cada entidade tributável.
+Pegue isso, tirando a parte fiscal, e você tem uma ótima explicação de como a visão terráquea não funciona.
+Porque, a partir do momento em que a luz atinge a retina, a visão terráquea é completamente diferente.
+O que os olhos mandam ao cérebro não são só pixels, mas também dados de contraste, contraste de cor e movimento.
+Ou seja, a primeira etapa do processamento acontece literalmente dentro dos olhos.
+Veja, a retina tem células sensíveis à luz, os bastonetes e os cones.
+Acima delas há uma fina camada de neurônios intermediários, que as ligam aos neurocabos que vão até o cérebro.
+Alguns neurônios só repassam a informação, mas outros têm uma fiação lateral esperta para detectar contraste ou movimento.
+Por exemplo, um neurônio pode disparar quando um ponto é mais claro que a vizinhança.
+Assim, a célula detecta contraste, ou seja, contornos.
+Outro neurônio pode disparar só quando detecta movimento numa certa direção.
+E outro dispara quando percebe diferença de cor entre pontos vizinhos, e assim por diante.
+Então, o que vai ao cérebro é informação sobre movimento, contraste e contraste de cor.
+Mas para onde vai essa informação?
+Os olhos estão ligados ao tálamo, no centro do cérebro.
+"Tálamo" é uma palavra antiga para "câmara interna", e ele é uma espécie de central de dados.
+Quem quiser mandar informação ao cérebro tem que passar pelo tálamo.
+Os olhos se ligam aos dois núcleos geniculados laterais: um nome chique para "calombos em forma de joelho, de lado".
+O calombo direito recebe dados das metades direitas das duas retinas, o esquerdo, das metades esquerdas.
+Depois a informação vai ao córtex visual, no fundo do cérebro, onde é processada e enviada ao resto dele.
+Dados espaciais e de movimento vão para cima, onde criam um modelo 3D dinâmico do ambiente.
+Cor e forma vão para os lados e servem para identificar objetos.
+Dica científica.
+Um campo de pesquisa interessante são as ilusões de óptica.
+Veja esta, por exemplo.
+Se você pedir a um terráqueo que fixe o planeta no centro, ele verá um disco verde girando na vaga vazia entre os rosa, embora não exista disco verde, só rosa.
+O verde é uma pós-imagem do rosa, talvez pela visão de contraste de cor que explico depois.
+Às vezes os discos rosa até somem, e ele só vê o verde.
+Os terráqueos sempre apontam os dois olhos para o mesmo ponto.
+O centro da retina tem mais cones e dá a visão mais nítida.
+Quanto mais longe do centro, mais borrada a visão.
+Por isso os terráqueos vivem mexendo os olhos.
+O cérebro compensa bem o movimento, então o ambiente parece parado.
+Mas não funciona se você cutucar o olho de leve com o dedo: aí o mundo parece se mexer.
+Como eu disse, os dados do córtex visual servem para duas coisas: orientação espacial e movimento, e identificação de objetos.
+Vamos começar pela primeira.
+Para se orientar, ter dois olhos ajuda: o cérebro usa as pequenas diferenças entre os dois para estimar a distância dos objetos.
+Outros dados também contam, em especial o tamanho angular menor dos objetos distantes.
+Com isso, o cérebro monta um modelo 3D dinâmico do ambiente.
+A maioria dos animais tem sistemas visuais parecidos.
+Predadores costumam ter olhos frontais, com campos de visão sobrepostos, para uma visão 3D ideal na hora de pegar a presa.
+Já as presas costumam ter olhos laterais, para ampliar o campo de visão e ver quem quer comê-las.
+Exceto os micróbios.
+Agora, o segundo ponto: identificar objetos.
+Isso acontece no córtex temporal: um nome chique para "nos lados da cabeça".
+O cérebro terráqueo é uma poderosa máquina de reconhecer padrões.
+Já vimos que os olhos mandam contornos ao cérebro.
+Padrões simples de contorno, como cantos e bordas, são montados em padrões cada vez mais complexos.
+Os terráqueos são ótimos em reconhecer formas mesmo com contornos incompletos.
+Isso é importante, por exemplo, para achar animais meio escondidos.
+Quando os contornos não estão bem alinhados, o cérebro tem dificuldade em montar a forma.
+Estas linhas, por exemplo, parecem espirais, mas são círculos.
+O reconhecimento de rostos é bem desenvolvido, pois ajuda a identificar indivíduos.
+Cientistas terráqueos acharam um neurônio que reage à celebridade Halle Berry, mas não a fotos de outros terráqueos.
+O neurônio também reage à Halle Berry fantasiada de felina, com o rosto quase todo coberto, e até ao nome dela.
+Pelo jeito, essa célula é muito fã da Halle Berry.
+Também acharam um neurônio que gosta da Jennifer Aniston, e outro que admira Ronald Reagan.
+O reconhecimento das coisas se baseia sobretudo em forma e cor.
+O conceito de cor pode confundir alienígenas.
+A maioria dos terráqueos instruídos diria que cor é uma propriedade física da luz.
+Mas, como veremos, isso é um absurdo total.
+Cor não é física: é biologia!
+A percepção de cor terráquea é comparável à forma como os Glubobs de Aldaris 7 percebem o som.
+Os Glubobs são famosos por terem as piores bandas de metais da Galáxia.
+Não é culpa deles: essas criaturas têm uma percepção auditiva muito primitiva e só conseguem distinguir três faixas de frequência, chamadas Ged, Blin e Dru.
+Todo som, acorde ou melodia é reduzido nos ouvidos deles a uma mistura de Ged, Blin e Dru.
+O ouvido Glubob tem receptores para cada uma das três faixas.
+A sensibilidade deles é meio difusa, então eles conseguem distinguir sons isolados.
+Por exemplo, quando você toca uma escala...
+os Glubobs ouvem isto.
+Mas ficam totalmente perdidos com acordes.
+Duas notas já é demais.
+Pegue, por exemplo, um acorde formado por Ged e Blin: para os ouvidos Glubob, ele soa exatamente igual a "Nelo", a meio caminho entre Ged e Blin.
+Então, para os Glubobs, Ged mais Blin é igual a Nelo, o que é um absurdo: a única coisa igual é a percepção dos sons pelo ouvido Glubob.
+Cientistas Glubobs teorizaram que todo som pertence a um "espaço sonoro" tridimensional, definido pela intensidade percebida de Ged, Blin e Dru.
+Veja bem, isso não é física: é biologia.
+Os gravadores Glubobs só produzem três sons: basta para imitar sons para ouvidos Glubobs, mas não para os outros.
+O mesmo vale para os instrumentos Glubobs: daí as bandas ruins.
+Por que estou contando isso?
+Porque a visão terráquea funciona igual.
+Os terráqueos têm só três tipos de receptor de cor, chamados, sem muita precisão, de vermelho, verde e azul.
+Até a combinação de frequências mais complexa vira, nos olhos terráqueos, uma mistura de vermelho, verde e azul.
+Por exemplo, eles não distinguem luz amarela monocromática de uma mistura de luz vermelha e verde.
+Nos dois casos, os receptores vermelho e verde são excitados do mesmo jeito.
+Por isso os terráqueos dizem que "vermelho mais verde é igual a amarelo".
+Isso é biologia, não física.
+Ou seja, a cor não é uma propriedade física: ela só existe no cérebro.
+Aliás, "receptor vermelho" é um nome enganoso: o pico dele fica mais na faixa verde-amarela.
+Isso reduz um efeito chamado aberração cromática.
+Seja como for, o cérebro não recebe a resposta bruta dos receptores, e sim dados de contraste: mais precisamente, amarelo-azul, vermelho-verde e luminosidade.
+Mas qual a vantagem de mandar contraste de cor?
+Para entender, precisamos saber o que a cor realmente é.
+Se você perguntar a terráqueos adultos instruídos o que é cor, eles vão balbuciar algo sobre frequências, círculos cromáticos e mistura aditiva.
+Mas se perguntar aos filhotes terráqueos, eles vão falar de ursinhos azuis, flores amarelas e sofás rosa.
+Ou seja, eles veem a cor não como propriedade da luz, mas dos objetos.
+E essa é, na verdade, uma abordagem bem melhor.
+Veja, quando um terráqueo tem um carro rosa, ele sempre será um carro rosa, seja qual for a iluminação.
+A visão terráquea se vira com qualquer fonte de luz disponível.
+A luz refletida pode mudar, mas para o terráqueo o carro dele terá sempre a mesma cor.
+Então a palavra "rosa" não descreve a luz: descreve como a superfície reage a luzes variadas, segundo o olho terráqueo.
+Logo, cor é uma propriedade das superfícies, que só existe no cérebro.
+Como isso é possível?
+Bem, o cérebro pega a informação dos sensores e compensa a iluminação.
+O que sobra é uma propriedade percebida das superfícies, um invariante imaginário do material: a cor.
+Aí o contraste de cor ajuda: seja qual for a luz, um sofá rosa é sempre mais rosa que o tapete verde embaixo dele.
+A cor é um bom exemplo de como os terráqueos constroem um modelo da realidade no cérebro.
+Objetos físicos são coleções de átomos com propriedades como forma, tamanho e características espectrais da superfície.
+Mas o cérebro não acessa essas propriedades diretamente: só tem a informação dos sensores.
+Então ele compensa fatores como luz e distância e constrói modelos simplificados dos objetos do mundo.
+As propriedades imaginárias desses modelos correspondem mais ou menos à realidade física.
+Tamanho e forma aproximam bem a geometria real, mas a cor é uma simplificação grosseira das características espectrais.
+Então, cor é uma propriedade imaginária dos materiais.
+Faz sentido, já que a principal função da cor é identificar materiais.
+A cor permite achar coisas como pederneira, terra fértil ou frutas maduras.
+O cérebro tira a iluminação para obter a "cor" invariante e distinguir materiais, mesmo quando a luz refletida é a mesma.
+As cores têm um forte significado simbólico.
+Azul é visto como calmo e fresco, pois lagos e oceanos são azuis.
+Verde é associado à natureza, porque as plantas são verdes.
+Amarelo é visto como alegre e enérgico, porque a Terra orbita uma estrela amarela.
+Vermelho é associado à violência e ao perigo, pois é a cor do fogo e do sangue.
+Personagens de ficção às vezes têm código de cor para facilitar a identificação.
+Personagens de desenho muitas vezes são reconhecidos quase só pela cor, até animais humanizados.
+Funciona também com alguns personagens reais, principalmente de uniforme.
+As cores também têm um papel importante na vida social terráquea.
+Por exemplo, namorados gostam de se dar flores coloridas.
+Não tem nenhum sentido prático, já que flor não se come.
+Há um velho ditado entre antropólogos alienígenas: se não faz sentido, provavelmente é um ritual.
+Dicas para turistas.
+Se for ver um filme terráqueo, não espere cores realistas: as câmeras deles só gravam três componentes de cor.
+Pessoalmente, acho os filmes em preto e branco menos perturbadores.
+Acima de tudo, fique longe dos tais filmes 3D, principalmente se você só tiver um olho.
+Vale notar que algumas terráqueas têm quatro tipos de cone, em vez de três.
+Em termos terráqueos, elas têm um espaço de cor de quatro dimensões.
+Há também relatos de indivíduos que percebem uma cor extra chamada octarina.
+Mas os mesmos relatos falam de uma superestrutura plana habitável não registrada, com biopropulsão, e outras esquisitices, então deve ser ficção.
+Enfim, isso não é nada perto de um animal aquático chamado tamarutaca, que tem um espaço de cor de dezesseis dimensões.
+Dica estratégica.
+Tamarutacas dariam uma boa base para criar supersoldados: a visão de cor delas tornaria inútil a camuflagem terráquea, têm apêndices afiados que aceleram até a velocidade de uma bala, usam uma armadura natural e se movem tão rápido que a água em volta ferve.
+Mas talvez você queira dar um jeito no tamanho delas.
+Vou terminar com uma pergunta em aberto: o violeta espectral, a luz no topo do espectro visível, seria percebido como meio avermelhado.
+Por isso os terráqueos dobram o espectro num círculo: o círculo cromático.
+Mas a luz violeta fica longe dos tais receptores vermelhos: por que parece avermelhada?
+Vejo duas possibilidades.
+Ou os receptores vermelhos têm um segundo pico na zona violeta.
+Ou o violeta espectral não é visto como azul avermelhado, mas como azul profundo, e o nome "violeta" é um equívoco.
+O fato de telas de computador não exibirem o violeta espectral talvez aumente a confusão.
+Sinceramente, não sei.
+Então pergunto aos meus espectadores terráqueos: o que vocês acham?
+E se você tiver, digamos, um laser violeta, ou uma arma de luz violeta: o violeta espectral parece avermelhado, ou azul profundo?
+Se for avermelhado: por quê?
+Se for azul profundo: por que o círculo cromático?
+Este foi o décimo segundo episódio de Terráqueos 101.
+Da próxima vez, vamos falar da matemática terráquea: uma ciência da verdade, do espaço, dos números e do gênero dos Bloblings.
+Obrigado por assistir, clique em "gostei" se gostou, e como sempre: não se esqueça de ser alienígena!

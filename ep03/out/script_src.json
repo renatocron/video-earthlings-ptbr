@@ -1,0 +1,656 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 4.42,
+  "text_src": "Welcome to the third episode of Earthlings 101, the crash course for alien visitors."
+ },
+ {
+  "id": 2,
+  "start": 4.72,
+  "end": 6.08,
+  "text_src": "Let's talk about sex!"
+ },
+ {
+  "id": 3,
+  "start": 42.38,
+  "end": 43.92,
+  "text_src": "So, what is sex?"
+ },
+ {
+  "id": 4,
+  "start": 44.16,
+  "end": 47.48,
+  "text_src": "Most species on earth are divided into male and female specimen."
+ },
+ {
+  "id": 5,
+  "start": 47.96,
+  "end": 53.74,
+  "text_src": "Sexual reproduction is a process where a male and a female individual combine their genetic code to create a new individual."
+ },
+ {
+  "id": 6,
+  "start": 54.12,
+  "end": 55.18,
+  "text_src": "How does this work?"
+ },
+ {
+  "id": 7,
+  "start": 55.42,
+  "end": 57.34,
+  "text_src": "Consider a couple of typical earth animals."
+ },
+ {
+  "id": 8,
+  "start": 57.34,
+  "end": 63.28,
+  "text_src": "Most of their cells contain a double set of DNA: one from the male parent, and one from the female one."
+ },
+ {
+  "id": 9,
+  "start": 63.62,
+  "end": 73.46,
+  "text_src": "To be able to reproduce, both male and female create cells containing only one randomly mixed set of DNA: Then the male injects his cells into the female, a process called copulation."
+ },
+ {
+  "id": 10,
+  "start": 73.96,
+  "end": 85.46,
+  "text_src": "One male cell fusionates with the female one and creates a full fledged cell with the usual double set of DNA: This cell is the base for the new organism which starts now growing - either in an egg, or inside the body of the female."
+ },
+ {
+  "id": 11,
+  "start": 88.7,
+  "end": 94.6,
+  "text_src": "Note that the DNA of the parents isn't mixed to one set of DNA until the new specimen creates its sex cells."
+ },
+ {
+  "id": 12,
+  "start": 95.26,
+  "end": 99.68,
+  "text_src": "That's why on earth, different species can interbreed but the offspring won't be able to reproduce."
+ },
+ {
+  "id": 13,
+  "start": 100.94,
+  "end": 101.96,
+  "text_src": "Scientific advice."
+ },
+ {
+  "id": 14,
+  "start": 102.3,
+  "end": 107.78,
+  "text_src": "If you want to use human biology to build bio-computers, don't limit your research to the brain."
+ },
+ {
+  "id": 15,
+  "start": 108.16,
+  "end": 113.42,
+  "text_src": "During copulation, a male human ejaculates about 300 million sperm cells within 5 seconds."
+ },
+ {
+  "id": 16,
+  "start": 113.92,
+  "end": 119.36,
+  "text_src": "The DNA in each cell consists of 3 billion base pairs, each one storing 2 bits of information."
+ },
+ {
+  "id": 17,
+  "start": 119.36,
+  "end": 127.82,
+  "text_src": "This means that a human ejaculation has a bandwidth of about 40000 terabytes/sec, which is twelve times more than the bitrate of Xelarian neuro-cables."
+ },
+ {
+  "id": 18,
+  "start": 128.4,
+  "end": 132.0,
+  "text_src": "Female earthlings carry their children inside their body for nine moon cycles."
+ },
+ {
+  "id": 19,
+  "start": 132.48,
+  "end": 138.96,
+  "text_src": "During this time, they can't make other children, while the males can run around, hunt, fight, and copulate with other women."
+ },
+ {
+  "id": 20,
+  "start": 138.96,
+  "end": 144.12,
+  "text_src": "So the bottleneck for population growth in a tribe is the number of females, not the number of males."
+ },
+ {
+  "id": 21,
+  "start": 144.78,
+  "end": 148.88,
+  "text_src": "That's why men are traditionally the hunters and fighters and protect women and children with their life."
+ },
+ {
+  "id": 22,
+  "start": 149.74,
+  "end": 154.24,
+  "text_src": "Males are dispensable - even a single male can impregnate a whole tribe of females."
+ },
+ {
+  "id": 23,
+  "start": 155.12,
+  "end": 157.86,
+  "text_src": "The question is: why do earthlings have sex?"
+ },
+ {
+  "id": 24,
+  "start": 158.2,
+  "end": 167.74,
+  "text_src": "The answer lies in the human mind, as I explained it in the first episode: the beast pushes the ego to have sex with a feeling called desire, and reward sex with another feeling called pleasure."
+ },
+ {
+  "id": 25,
+  "start": 167.74,
+  "end": 173.18,
+  "text_src": "The niggler, on the other side, enforces rules of society through feelings like shame and guilt."
+ },
+ {
+  "id": 26,
+  "start": 173.9,
+  "end": 176.88,
+  "text_src": "Most human behaviour comes from this power game between beast and niggler."
+ },
+ {
+  "id": 27,
+  "start": 177.48,
+  "end": 184.3,
+  "text_src": "But in case of sexuality, the beast disposes of a trump card: Love, a strong feeling to emotionally attach the human to another earthling."
+ },
+ {
+  "id": 28,
+  "start": 184.7,
+  "end": 189.08,
+  "text_src": "Love feels good, and right and noble, and is immune to both reason and remorse."
+ },
+ {
+  "id": 29,
+  "start": 189.54,
+  "end": 193.48,
+  "text_src": "So, earthlings think that acting out of love is an excuse for pretty much anything."
+ },
+ {
+  "id": 30,
+  "start": 193.48,
+  "end": 201.92,
+  "text_src": "In the last episode, we have seen that life on earth, from photosynthesis to human civilization, is all about one thing: Spreading the genetic code."
+ },
+ {
+  "id": 31,
+  "start": 202.3,
+  "end": 204.24,
+  "text_src": "We might call this the \"genetic imperative\"."
+ },
+ {
+  "id": 32,
+  "start": 204.68,
+  "end": 207.14,
+  "text_src": "But why did the genetic imperative favour sex?"
+ },
+ {
+  "id": 33,
+  "start": 207.56,
+  "end": 213.26,
+  "text_src": "Wouldn’t it be more efficient if all specimen could bear children on their own, without complicated mating rituals and copulation?"
+ },
+ {
+  "id": 34,
+  "start": 213.66,
+  "end": 216.98,
+  "text_src": "The answer may lie in a somewhat special kind of creatures: parasites."
+ },
+ {
+  "id": 35,
+  "start": 218.28,
+  "end": 225.42,
+  "text_src": "Actually, parasites exist only on earth, because it's the only planet where the anti-parasite regulations of the Central Bureaucracy don't apply."
+ },
+ {
+  "id": 36,
+  "start": 225.7,
+  "end": 232.1,
+  "text_src": "Of course, those regulations don't hold for brain suckers, but that's only because brain suckers kinda run the bureaucracy."
+ },
+ {
+  "id": 37,
+  "start": 232.48,
+  "end": 235.74,
+  "text_src": "Therefore they are legally not considered parasites but \"authoritarian symbionts\"."
+ },
+ {
+  "id": 38,
+  "start": 237.13,
+  "end": 245.63,
+  "text_src": "Parasites are usually small creatures - like insects, microbes or worms - which live on, or even inside bigger creatures, draining their resources."
+ },
+ {
+  "id": 39,
+  "start": 246.15,
+  "end": 251.91,
+  "text_src": "The problem is that parasites grow and reproduce faster than their hosts, so they can adapt to any mutation of the host."
+ },
+ {
+  "id": 40,
+  "start": 252.39,
+  "end": 257.67,
+  "text_src": "So, fighting parasites by mutating is useless, because the parasites can mutate much faster."
+ },
+ {
+  "id": 41,
+  "start": 257.67,
+  "end": 261.83,
+  "text_src": "But sexually reproducing animals show huge differences with each generation."
+ },
+ {
+  "id": 42,
+  "start": 262.23,
+  "end": 266.67,
+  "text_src": "So it's much harder for parasites to adapt to the ever-changing characteristics of their hosts."
+ },
+ {
+  "id": 43,
+  "start": 267.21,
+  "end": 271.57,
+  "text_src": "So, in a world with gazillions of parasites, sexuality is a better strategy."
+ },
+ {
+  "id": 44,
+  "start": 272.05,
+  "end": 274.85,
+  "text_src": "That's why sexuality is so popular on earth."
+ },
+ {
+  "id": 45,
+  "start": 275.25,
+  "end": 276.99,
+  "text_src": "Almost all species do it..."
+ },
+ {
+  "id": 46,
+  "start": 277.29,
+  "end": 279.41,
+  "text_src": "Except for the microbes."
+ },
+ {
+  "id": 47,
+  "start": 282.01,
+  "end": 283.29,
+  "text_src": "Tips for tourists."
+ },
+ {
+  "id": 48,
+  "start": 283.29,
+  "end": 288.91,
+  "text_src": "If you want to observe human sexual behaviour, look for urban zones called red light districts."
+ },
+ {
+  "id": 49,
+  "start": 289.39,
+  "end": 296.75,
+  "text_src": "You might not be able to observe an actual copulation, but you may see human mating-dances and watch educational films about sexual reproduction."
+ },
+ {
+  "id": 50,
+  "start": 297.59,
+  "end": 302.09,
+  "text_src": "Now, the interesting thing about sex is that it alters completely the rules of evolution."
+ },
+ {
+  "id": 51,
+  "start": 302.43,
+  "end": 303.69,
+  "text_src": "Why is this so?"
+ },
+ {
+  "id": 52,
+  "start": 303.97,
+  "end": 308.91,
+  "text_src": "Well, in natural selection, the most successful individuals are those who are able to survive."
+ },
+ {
+  "id": 53,
+  "start": 308.91,
+  "end": 313.85,
+  "text_src": "So, when a mutation is successful, it's usually because it serves a certain purpose."
+ },
+ {
+  "id": 54,
+  "start": 314.23,
+  "end": 320.05,
+  "text_src": "But sexual reproduction involves picking a mate, and evolution pushes the individuals to be picky about their mates."
+ },
+ {
+  "id": 55,
+  "start": 320.41,
+  "end": 324.97,
+  "text_src": "In general, female animals are pickier because they have a limited reproduction capacity."
+ },
+ {
+  "id": 56,
+  "start": 325.27,
+  "end": 327.05,
+  "text_src": "This is called sexual selection."
+ },
+ {
+  "id": 57,
+  "start": 327.53,
+  "end": 333.71,
+  "text_src": "So, sexiness - the ability to attract possible mates - becomes an important factor for evolutionary success."
+ },
+ {
+  "id": 58,
+  "start": 333.71,
+  "end": 340.97,
+  "text_src": "This situation creates some sort of \"strange loop\": one of the most important factors in sexiness is actually: sexiness."
+ },
+ {
+  "id": 59,
+  "start": 341.77,
+  "end": 345.67,
+  "text_src": "Consider a group of animals where some males have a tiny tentacle growing out of their head."
+ },
+ {
+  "id": 60,
+  "start": 346.03,
+  "end": 348.45,
+  "text_src": "Let's assume some females find this rather cute."
+ },
+ {
+  "id": 61,
+  "start": 348.99,
+  "end": 351.99,
+  "text_src": "So, males with tentacles become slightly sexier."
+ },
+ {
+  "id": 62,
+  "start": 352.39,
+  "end": 361.81,
+  "text_src": "The point is, sexy males are likely to have sexy offspring, and every female wants sexy offspring, because the sexier the offspring is, the more he will spread mummy's genetic code."
+ },
+ {
+  "id": 63,
+  "start": 361.81,
+  "end": 368.27,
+  "text_src": "In consequence, even the females who were not interested in tentacles in the first place want now sexy tentaculous offspring."
+ },
+ {
+  "id": 64,
+  "start": 368.69,
+  "end": 371.47,
+  "text_src": "So, tentacles become even more attractive."
+ },
+ {
+  "id": 65,
+  "start": 371.79,
+  "end": 380.23,
+  "text_src": "So we have entered a strange loop where tentacles are sexy simply because tentacles are sexy, without any practical reason other than the fact that everybody wants sexy offspring."
+ },
+ {
+  "id": 66,
+  "start": 380.65,
+  "end": 387.25,
+  "text_src": "From generation to generation, tentacles will grow bigger and bigger until they are so encumbering that they actually reduce the ability to survive."
+ },
+ {
+  "id": 67,
+  "start": 387.25,
+  "end": 390.29,
+  "text_src": "This example is less exaggerated than it seems."
+ },
+ {
+  "id": 68,
+  "start": 390.77,
+  "end": 396.83,
+  "text_src": "Some species develop giant encumbering antlers, or huge colored tail feathers, or elaborate mating songs."
+ },
+ {
+  "id": 69,
+  "start": 399.55,
+  "end": 407.53,
+  "text_src": "Some scientists even think that human intelligence has developed as kind of \"mental antlers\", pushed forward by sexual selection rather than by the need for survival."
+ },
+ {
+  "id": 70,
+  "start": 407.53,
+  "end": 410.47,
+  "text_src": "Now let's have a closer look at earthling sexuality."
+ },
+ {
+  "id": 71,
+  "start": 410.79,
+  "end": 412.95,
+  "text_src": "When are earthlings considered to be attractive?"
+ },
+ {
+  "id": 72,
+  "start": 413.61,
+  "end": 422.53,
+  "text_src": "Males are attractive when they are strong, healthy, aggressive and intelligent, and have a high social rank, because all this means that they will be able to protect and feed their mate and offspring."
+ },
+ {
+  "id": 73,
+  "start": 422.53,
+  "end": 430.93,
+  "text_src": "Also, a male who spreads his DNA pretty much anywhere is sexy, because in this case, chances are that his sons will spread mummy's DNA pretty much anywhere."
+ },
+ {
+  "id": 74,
+  "start": 431.39,
+  "end": 444.57,
+  "text_src": "And finally, males should not be so old that they are likely to die within some years, because then they won't be able to protect and feed their offspring - except if they are old and rich, which means that they will leave a lot of money behind, and money can buy protection and food."
+ },
+ {
+  "id": 75,
+  "start": 444.57,
+  "end": 447.55,
+  "text_src": "So, old men are only sexy if they are rich."
+ },
+ {
+  "id": 76,
+  "start": 447.85,
+  "end": 453.83,
+  "text_src": "For females, the primary selection criterion is the ability to bear a lot of children before she runs out of egg cells."
+ },
+ {
+  "id": 77,
+  "start": 454.35,
+  "end": 456.33,
+  "text_src": "So, health and youth are crucial."
+ },
+ {
+  "id": 78,
+  "start": 456.67,
+  "end": 460.35,
+  "text_src": "Large hips are sexy because large hip bones make childbearing easier."
+ },
+ {
+  "id": 79,
+  "start": 460.79,
+  "end": 466.09,
+  "text_src": "Also, a slim waist is sexy because it means that the large hips don't just come from an excess of body fat."
+ },
+ {
+  "id": 80,
+  "start": 466.49,
+  "end": 471.17,
+  "text_src": "And finally, large breasts are sexy because, well, nobody really knows why."
+ },
+ {
+  "id": 81,
+  "start": 471.17,
+  "end": 478.27,
+  "text_src": "They may just have evolved by the strange loop of sexual selection, without any particular reason, like antlers or colored tail feathers."
+ },
+ {
+  "id": 82,
+  "start": 478.59,
+  "end": 482.83,
+  "text_src": "And finally, intelligence and social rank also add to the attractivity."
+ },
+ {
+  "id": 83,
+  "start": 484.51,
+  "end": 485.55,
+  "text_src": "Strategic advice."
+ },
+ {
+  "id": 84,
+  "start": 485.55,
+  "end": 493.67,
+  "text_src": "If you want to infiltrate human society with shape shifters to gather intelligence for an invasion, you may consider your operatives taking the shape of attractive females."
+ },
+ {
+  "id": 85,
+  "start": 493.67,
+  "end": 502.19,
+  "text_src": "If you do so, pay attention to details: Even minor errors like the wrong number of eyes or the wrong skin color may freak out humans and compromise your agents."
+ },
+ {
+  "id": 86,
+  "start": 503.55,
+  "end": 510.03,
+  "text_src": "Spreading the code and choosing partners with quality DNA are not the only goals: The humans must also feed and protect their offspring."
+ },
+ {
+  "id": 87,
+  "start": 510.43,
+  "end": 516.29,
+  "text_src": "Humans usually unite those goals by choosing one long-term partner to raise the children with - and then cheating upon him."
+ },
+ {
+  "id": 88,
+  "start": 516.29,
+  "end": 525.03,
+  "text_src": "For a male earthling, a proven strategy is to choose one female as long-term partner, and then copulate with lots of other females behind her back to spread the code."
+ },
+ {
+  "id": 89,
+  "start": 525.61,
+  "end": 530.31,
+  "text_src": "Society tolerates this behaviour, more or less, and a man who does so is considered a winner."
+ },
+ {
+  "id": 90,
+  "start": 531.23,
+  "end": 537.01,
+  "text_src": "Women, on the other hand, usually carry one child at a time, no matter how many sexual partners they have."
+ },
+ {
+  "id": 91,
+  "start": 537.01,
+  "end": 540.43,
+  "text_src": "So they better be picky about the DNA of their children's fathers."
+ },
+ {
+  "id": 92,
+  "start": 540.89,
+  "end": 544.31,
+  "text_src": "That's why society frowns upon women who have a lot of sexual partners."
+ },
+ {
+  "id": 93,
+  "start": 544.71,
+  "end": 554.43,
+  "text_src": "A popular female strategy is to choose the best possible long-term partner, to feed and protect her offspring - and then cheat upon him with another male providing high-quality DNA for said offspring."
+ },
+ {
+  "id": 94,
+  "start": 554.85,
+  "end": 560.57,
+  "text_src": "This is often one of the \"winners\" we mentioned before, or at least a younger, richer or otherwise more attractive male."
+ },
+ {
+  "id": 95,
+  "start": 560.57,
+  "end": 565.97,
+  "text_src": "Of course, no male wants to raise the offspring of a rival, so the cheating has to be done in secret."
+ },
+ {
+  "id": 96,
+  "start": 566.41,
+  "end": 572.93,
+  "text_src": "Again, this behaviour is often more or less tolerated by society, or even romantically idealized in fictional works."
+ },
+ {
+  "id": 97,
+  "start": 573.25,
+  "end": 582.45,
+  "text_src": "Speaking of fictional works: vampires, the fictional predators mentioned in episode one, are considered highly attractive, because they are real experts in feeding and not dying."
+ },
+ {
+  "id": 98,
+  "start": 582.93,
+  "end": 589.09,
+  "text_src": "There is even a popular fictional work about an underage girl having a relationship with a vampire who has more than six times her age."
+ },
+ {
+  "id": 99,
+  "start": 589.09,
+  "end": 596.15,
+  "text_src": "A relationship between humans having this age difference would never be tolerated by society, but apparently it's ok if the male is a vampire."
+ },
+ {
+  "id": 100,
+  "start": 596.47,
+  "end": 602.41,
+  "text_src": "It should be mentioned that many animal species have developed same sex copulation, also known as homosexuality."
+ },
+ {
+  "id": 101,
+  "start": 602.67,
+  "end": 608.59,
+  "text_src": "This has nothing to do with reproduction, it serves social purposes, for example to resolve social conflicts."
+ },
+ {
+  "id": 102,
+  "start": 608.99,
+  "end": 615.89,
+  "text_src": "So it is all natural that some humans also show homosexual behaviour - except for creationists who claim not to descend from animals."
+ },
+ {
+  "id": 103,
+  "start": 618.17,
+  "end": 623.51,
+  "text_src": "When earthlings have raised children, one of their main concerns is often that the offspring keeps spreading the code."
+ },
+ {
+  "id": 104,
+  "start": 623.77,
+  "end": 642.39,
+  "text_src": "They push their children to look for partners with high-quality DNA, they encourage them to reproduce, and even tolerant parents tend to freak out if ever a child reveals as homosexual, simply because homosexual offspring is a dead end for the DNA: By the way, the fear of having homosexual offspring is the main reason why many earthlings think homosexuality is wrong."
+ },
+ {
+  "id": 105,
+  "start": 642.73,
+  "end": 655.73,
+  "text_src": "Human sexual behaviour, like human behaviour in general, is mostly determined by genetic programmation - either directly by human nature, or indirectly by society, which has evolved with human nature and is hard-wired into the human brain."
+ },
+ {
+  "id": 106,
+  "start": 655.73,
+  "end": 663.61,
+  "text_src": "After all, everything comes down to the single most important driving force of human civilization, the genetic imperative: Spreading the code."
+ },
+ {
+  "id": 107,
+  "start": 663.99,
+  "end": 670.09,
+  "text_src": "In the next episode we will talk about ethics: what is good, what is evil, and what has it all to do with eating fruits."
+ },
+ {
+  "id": 108,
+  "start": 670.09,
+  "end": 675.23,
+  "text_src": "We will also discuss what happens when you throw Mighty Cthulhu and Great Xenu together in prison."
+ },
+ {
+  "id": 109,
+  "start": 676.35,
+  "end": 677.43,
+  "text_src": "Thanks for watching."
+ }
+]

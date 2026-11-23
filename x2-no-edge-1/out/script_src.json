@@ -1,0 +1,710 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 2.06,
+  "text_src": "Greetings, aliens and earthlings!"
+ },
+ {
+  "id": 2,
+  "start": 2.42,
+  "end": 13.58,
+  "text_src": "This is not an episode of Earthlings 101, your crash course for alien visitors, but a series of three shorter videos about something that seems to confuse earthlings and aliens alike: The shape of the universe."
+ },
+ {
+  "id": 3,
+  "start": 42.76,
+  "end": 45.2,
+  "text_src": "Most earthlings and aliens don't understand space."
+ },
+ {
+  "id": 4,
+  "start": 45.64,
+  "end": 47.08,
+  "text_src": "It's not what they think it is."
+ },
+ {
+  "id": 5,
+  "start": 47.52,
+  "end": 50.24,
+  "text_src": "People assume that the universe is infinite and flat."
+ },
+ {
+  "id": 6,
+  "start": 50.58,
+  "end": 56.9,
+  "text_src": "But actually, from a non-Euclidean, non-local viewpoint, it's more like a big ball of wibbly wobbly, spacey wacey stuff."
+ },
+ {
+  "id": 7,
+  "start": 57.2,
+  "end": 61.2,
+  "text_src": "And the shape of this big ball - that's what this three-part series is all about."
+ },
+ {
+  "id": 8,
+  "start": 61.68,
+  "end": 66.62,
+  "text_src": "When we talk about \"shape\", we are basically talking about two things: Topology and Geometry."
+ },
+ {
+  "id": 9,
+  "start": 67.08,
+  "end": 71.16,
+  "text_src": "Geometry is all about distances, angles, areas and so on."
+ },
+ {
+  "id": 10,
+  "start": 71.68,
+  "end": 76.84,
+  "text_src": "Topology doesn't care about exact angles and distances - it's about which zones are next to each other."
+ },
+ {
+  "id": 11,
+  "start": 77.26,
+  "end": 86.14,
+  "text_src": "For example, when you deform a square, you change the geometry, but not the topology, as long as you don't rip it apart, create holes, or glue parts together."
+ },
+ {
+  "id": 12,
+  "start": 86.14,
+  "end": 93.78,
+  "text_src": "For the sake of simplicity, let's neglect the expansion of the universe and only consider a \"snapshot\" of the universe, i.e. a slice of space time."
+ },
+ {
+  "id": 13,
+  "start": 94.5,
+  "end": 98.4,
+  "text_src": "Unfortunately, I don't know with certitude what the actual shape of this slice is."
+ },
+ {
+  "id": 14,
+  "start": 98.76,
+  "end": 103.72,
+  "text_src": "All research on cosmo-topology is classified as \"secret of defense\" by the Central Galactic Bureaucracy."
+ },
+ {
+  "id": 15,
+  "start": 104.06,
+  "end": 108.34,
+  "text_src": "So, I can only discuss hypotheses - different possible models of the universe."
+ },
+ {
+  "id": 16,
+  "start": 108.74,
+  "end": 113.16,
+  "text_src": "Basically there are three kinds of models: Spherical, flat, and hyperbolical."
+ },
+ {
+  "id": 17,
+  "start": 113.44,
+  "end": 115.34,
+  "text_src": "Today we will talk about flat models."
+ },
+ {
+  "id": 18,
+  "start": 115.76,
+  "end": 119.48,
+  "text_src": "Flat or not - there are a lot of misconceptions about the universe around."
+ },
+ {
+  "id": 19,
+  "start": 128.46,
+  "end": 129.56,
+  "text_src": "No, Hank!"
+ },
+ {
+  "id": 20,
+  "start": 129.94,
+  "end": 134.36,
+  "text_src": "A finite universe, and a universe with an edge, are two wholly different things."
+ },
+ {
+  "id": 21,
+  "start": 143.14,
+  "end": 144.48,
+  "text_src": "No, Gorf."
+ },
+ {
+  "id": 22,
+  "start": 144.64,
+  "end": 148.5,
+  "text_src": "\"Curved space\" doesn't mean that the universe curves through an embedding hyperspace."
+ },
+ {
+  "id": 23,
+  "start": 148.5,
+  "end": 152.1,
+  "text_src": "It only means that the laws of geometry are not what you would expect."
+ },
+ {
+  "id": 24,
+  "start": 159.0,
+  "end": 161.84,
+  "text_src": "It doesn't expand into anything - it just expands."
+ },
+ {
+  "id": 25,
+  "start": 178.94,
+  "end": 179.82,
+  "text_src": "No, Derek."
+ },
+ {
+  "id": 26,
+  "start": 180.14,
+  "end": 185.1,
+  "text_src": "A flat universe isn't necessarily infinite, and can contain straight lines that lead back to their origin."
+ },
+ {
+  "id": 27,
+  "start": 194.38,
+  "end": 195.58,
+  "text_src": "To be honest..."
+ },
+ {
+  "id": 28,
+  "start": 196.0,
+  "end": 197.18,
+  "text_src": "That's just stupid."
+ },
+ {
+  "id": 29,
+  "start": 198.5,
+  "end": 201.58,
+  "text_src": "So, what does \"finite universe\" mean, anyway?"
+ },
+ {
+  "id": 30,
+  "start": 201.86,
+  "end": 204.14,
+  "text_src": "It means that the universe has finite volume."
+ },
+ {
+  "id": 31,
+  "start": 204.14,
+  "end": 208.88,
+  "text_src": "In other words, you'd need only a finite amount of hydric acid to inundate the whole universe."
+ },
+ {
+  "id": 32,
+  "start": 209.94,
+  "end": 218.06,
+  "text_src": "\"No edge\", on the other hand, means that when you explore the universe, you won't suddenly run into a wall of nothingness - an edge."
+ },
+ {
+  "id": 33,
+  "start": 218.74,
+  "end": 219.84,
+  "text_src": "But isn't that the same?"
+ },
+ {
+  "id": 34,
+  "start": 220.16,
+  "end": 225.86,
+  "text_src": "When there is no edge, you can just fly on and on, and boldly go where no man or alien has gone before."
+ },
+ {
+  "id": 35,
+  "start": 226.22,
+  "end": 230.86,
+  "text_src": "And when you do so, you see more and more volume, so the total volume must be infinite..."
+ },
+ {
+  "id": 36,
+  "start": 231.22,
+  "end": 231.66,
+  "text_src": "Right?"
+ },
+ {
+  "id": 37,
+  "start": 234.46,
+  "end": 234.94,
+  "text_src": "Wrong."
+ },
+ {
+  "id": 38,
+  "start": 235.44,
+  "end": 241.74,
+  "text_src": "Because when you fly on long enough, you might eventually find yourself in known space - you might even return to your home planet."
+ },
+ {
+  "id": 39,
+  "start": 242.14,
+  "end": 244.58,
+  "text_src": "In other words, space may bend into itself."
+ },
+ {
+  "id": 40,
+  "start": 245.28,
+  "end": 248.64,
+  "text_src": "To understand this, let's look what happens in two dimensions."
+ },
+ {
+  "id": 41,
+  "start": 249.32,
+  "end": 254.66,
+  "text_src": "Like many alien races, Earthlings have gone through a stage in history when they wondered about the shape of their planet's surface."
+ },
+ {
+  "id": 42,
+  "start": 255.16,
+  "end": 258.96,
+  "text_src": "Some imagined an infinite surface, whereas others believed the surface had an edge."
+ },
+ {
+  "id": 43,
+  "start": 260.04,
+  "end": 262.04,
+  "text_src": "Eventually they found out that both were wrong."
+ },
+ {
+  "id": 44,
+  "start": 262.42,
+  "end": 270.76,
+  "text_src": "There is no edge, but the surface is finite: When you sail away into one direction and keep sailing in a straight line, you will eventually come back to where you came from."
+ },
+ {
+  "id": 45,
+  "start": 272.02,
+  "end": 274.82,
+  "text_src": "The reason is, of course, that earth is a sphere."
+ },
+ {
+  "id": 46,
+  "start": 275.5,
+  "end": 279.34,
+  "text_src": "Finite surfaces without edge can easily be understood by 3 dimensional beings."
+ },
+ {
+  "id": 47,
+  "start": 279.76,
+  "end": 284.32,
+  "text_src": "But how would you explain them to two-dimensional creatures, like the Flatsnails from Regulus three?"
+ },
+ {
+  "id": 48,
+  "start": 285.88,
+  "end": 289.7,
+  "text_src": "Flatsnails can only think in two dimensions, but they have a highly developed portal technology."
+ },
+ {
+  "id": 49,
+  "start": 290.06,
+  "end": 297.08,
+  "text_src": "A Flatsnail portal alters the topology of a surface by glueing different parts of a surface together - for example two opposing sides of a square."
+ },
+ {
+  "id": 50,
+  "start": 297.56,
+  "end": 302.78,
+  "text_src": "When a Flatsnail leaves the rectangle on one side, she enters on the other side - like in a video game."
+ },
+ {
+  "id": 51,
+  "start": 303.66,
+  "end": 305.92,
+  "text_src": "Topologically, this is the same thing as a cylinder."
+ },
+ {
+  "id": 52,
+  "start": 306.42,
+  "end": 308.2,
+  "text_src": "Let's call it a video game cylinder."
+ },
+ {
+  "id": 53,
+  "start": 308.2,
+  "end": 311.08,
+  "text_src": "What would a video game cylinder look like from the interior?"
+ },
+ {
+  "id": 54,
+  "start": 312.4,
+  "end": 317.1,
+  "text_src": "Flatsnails can't see very far, but if they could, they would see an endless series of images of the same space."
+ },
+ {
+  "id": 55,
+  "start": 317.5,
+  "end": 320.34,
+  "text_src": "A bit like what you see when you stand between two parallel mirrors."
+ },
+ {
+  "id": 56,
+  "start": 321.0,
+  "end": 324.62,
+  "text_src": "What happens when you glue the other two sides of the square together, as well?"
+ },
+ {
+  "id": 57,
+  "start": 324.94,
+  "end": 327.66,
+  "text_src": "Now you have the loopy video game effect in two directions."
+ },
+ {
+  "id": 58,
+  "start": 328.28,
+  "end": 331.9,
+  "text_src": "A farsighted Flatsnail inside would see her own image repeated in a grid pattern."
+ },
+ {
+  "id": 59,
+  "start": 332.58,
+  "end": 335.54,
+  "text_src": "Topologically, this is a torus - the surface of a donut."
+ },
+ {
+  "id": 60,
+  "start": 336.04,
+  "end": 339.62,
+  "text_src": "So, let's call the double-loopy rectangle \"video game torus\"."
+ },
+ {
+  "id": 61,
+  "start": 339.84,
+  "end": 344.26,
+  "text_src": "The important point is that you don't need the third dimension to define a cylinder or a torus."
+ },
+ {
+  "id": 62,
+  "start": 344.6,
+  "end": 347.34,
+  "text_src": "All you need is portals, to glue the edges together."
+ },
+ {
+  "id": 63,
+  "start": 347.58,
+  "end": 353.78,
+  "text_src": "And once the glueing is done, you can forget about the portals and just enjoy your seamless yet loopy video game environment."
+ },
+ {
+  "id": 64,
+  "start": 354.08,
+  "end": 361.68,
+  "text_src": "A Flatsnail that grew up on this torus would be used to the fact that she lives on a flat, finite, somewhat loopy surface, without edge."
+ },
+ {
+  "id": 65,
+  "start": 362.14,
+  "end": 366.46,
+  "text_src": "No need for portals or bendy space, not to mention this esoterical \"third dimension\"."
+ },
+ {
+  "id": 66,
+  "start": 367.46,
+  "end": 369.5,
+  "text_src": "But what about the universe we live in ?"
+ },
+ {
+  "id": 67,
+  "start": 369.8,
+  "end": 373.44,
+  "text_src": "Is it so unthinkable that our universe is similar - only in three dimensions?"
+ },
+ {
+  "id": 68,
+  "start": 373.82,
+  "end": 374.74,
+  "text_src": "Why shouldn't it?"
+ },
+ {
+  "id": 69,
+  "start": 375.0,
+  "end": 381.44,
+  "text_src": "Is there any reason why the universe has to be either a Euclidean space, or embedded in a higher dimensional Euclidean hyperspace?"
+ },
+ {
+  "id": 70,
+  "start": 381.78,
+  "end": 383.1,
+  "text_src": "But back to two dimensions."
+ },
+ {
+  "id": 71,
+  "start": 383.68,
+  "end": 386.46,
+  "text_src": "Let's toy around some more with surfaces and portals."
+ },
+ {
+  "id": 72,
+  "start": 386.72,
+  "end": 391.74,
+  "text_src": "For example, what happens when we glue together two sides of a rectangle, but with flipped directions?"
+ },
+ {
+  "id": 73,
+  "start": 392.18,
+  "end": 396.8,
+  "text_src": "Well, we get a Moebius strip - a surface where each round trip makes you flip orientation."
+ },
+ {
+  "id": 74,
+  "start": 397.18,
+  "end": 400.4,
+  "text_src": "When you glue the other pair without flipping, you get a Klein bottle."
+ },
+ {
+  "id": 75,
+  "start": 401.52,
+  "end": 405.16,
+  "text_src": "When you flip both pairs, you get something called Projective Plane."
+ },
+ {
+  "id": 76,
+  "start": 406.02,
+  "end": 408.7,
+  "text_src": "Now, we are not limited to rectangles, though."
+ },
+ {
+  "id": 77,
+  "start": 408.96,
+  "end": 413.12,
+  "text_src": "We can, for example, take a parallelogram and glue opposing edges together."
+ },
+ {
+  "id": 78,
+  "start": 413.74,
+  "end": 416.98,
+  "text_src": "Geometrically this is a skewed torus, topologically it's the same thing."
+ },
+ {
+  "id": 79,
+  "start": 417.26,
+  "end": 421.0,
+  "text_src": "A Flatsnail sitting inside would see herself repeated in a skewed grid pattern."
+ },
+ {
+  "id": 80,
+  "start": 421.72,
+  "end": 425.56,
+  "text_src": "What happens if you take a hexagon and glue opposing sides together without flipping?"
+ },
+ {
+  "id": 81,
+  "start": 425.9,
+  "end": 429.56,
+  "text_src": "Well, a flatsnail inside would see herself in the same pattern as before."
+ },
+ {
+  "id": 82,
+  "start": 429.96,
+  "end": 433.36,
+  "text_src": "So this is just another way to construct the same skewed torus."
+ },
+ {
+  "id": 83,
+  "start": 433.96,
+  "end": 436.2,
+  "text_src": "Let's go back to the video game torus."
+ },
+ {
+  "id": 84,
+  "start": 436.56,
+  "end": 439.36,
+  "text_src": "Can't we do a similar construction in three-dimensional space?"
+ },
+ {
+  "id": 85,
+  "start": 439.66,
+  "end": 440.78,
+  "text_src": "Of course we can."
+ },
+ {
+  "id": 86,
+  "start": 441.12,
+  "end": 446.72,
+  "text_src": "All we have to do is take a cuboid in space, and link opposing sides with portals without twisting anything."
+ },
+ {
+  "id": 87,
+  "start": 447.02,
+  "end": 455.92,
+  "text_src": "If some spacefarer happens to be trapped inside, he will find himself in a three dimensional video game space where he comes back to his origin when he flies long enough along one of the axis."
+ },
+ {
+  "id": 88,
+  "start": 456.62,
+  "end": 461.9,
+  "text_src": "He won't even notice the portals - he would just experience a universe that somehow repeats itself."
+ },
+ {
+  "id": 89,
+  "start": 461.9,
+  "end": 463.16,
+  "text_src": "This is called a hyper-torus."
+ },
+ {
+  "id": 90,
+  "start": 465.02,
+  "end": 472.46,
+  "text_src": "Just like our video game torus, the hypertorus is \"flat\", which means that the rules of school geometry still hold for very large objects."
+ },
+ {
+  "id": 91,
+  "start": 472.96,
+  "end": 475.86,
+  "text_src": "In part 2 we will define more precisely what this means."
+ },
+ {
+  "id": 92,
+  "start": 476.58,
+  "end": 478.2,
+  "text_src": "Did you see what we just did?"
+ },
+ {
+  "id": 93,
+  "start": 478.36,
+  "end": 482.08,
+  "text_src": "We constructed a flat universe, with finite volume, but no edge."
+ },
+ {
+  "id": 94,
+  "start": 482.5,
+  "end": 484.5,
+  "text_src": "Something Hank and Derek thought was impossible."
+ },
+ {
+  "id": 95,
+  "start": 484.96,
+  "end": 492.68,
+  "text_src": "Such a universe looks exactly like infinite flat three-dimensional space, except that it repeats itself like a hotel wallpaper - in three directions."
+ },
+ {
+  "id": 96,
+  "start": 493.04,
+  "end": 497.4,
+  "text_src": "Some earthling scientists think that the hyper-torus is a possible shape of the universe."
+ },
+ {
+  "id": 97,
+  "start": 500.44,
+  "end": 502.18,
+  "text_src": "Yes Earthling, no edge."
+ },
+ {
+  "id": 98,
+  "start": 503.44,
+  "end": 506.3,
+  "text_src": "But the hypertorus is not the only flat finite model."
+ },
+ {
+  "id": 99,
+  "start": 506.72,
+  "end": 510.7,
+  "text_src": "For example, you can obtain another model by turning the top portal by 90°."
+ },
+ {
+  "id": 100,
+  "start": 511.1,
+  "end": 513.48,
+  "text_src": "This is called the \"quarter-turn manifold\"."
+ },
+ {
+  "id": 101,
+  "start": 513.86,
+  "end": 519.06,
+  "text_src": "A third variant is the \"half-turn manifold\", obtained by turning the top portal by 180°."
+ },
+ {
+  "id": 102,
+  "start": 520.26,
+  "end": 522.92,
+  "text_src": "Remember how we constructed a torus with a honeycomb pattern?"
+ },
+ {
+  "id": 103,
+  "start": 523.18,
+  "end": 525.8,
+  "text_src": "You can do the same with a hexagonal prism to get the hypertorus."
+ },
+ {
+  "id": 104,
+  "start": 526.54,
+  "end": 535.48,
+  "text_src": "Now, when you rotate the top gate by 60° to get the \"one-sixth turn manifold\", or by 120° to obtain the \"one-third turn manifold\"."
+ },
+ {
+  "id": 105,
+  "start": 535.84,
+  "end": 542.02,
+  "text_src": "There are overall 10 models for a finite closed flat universe - 6 orientable and 4 non-orientable ones."
+ },
+ {
+  "id": 106,
+  "start": 542.34,
+  "end": 544.0,
+  "text_src": "What does \"non-orientable\" mean?"
+ },
+ {
+  "id": 107,
+  "start": 544.24,
+  "end": 549.2,
+  "text_src": "It means that the universe is like a moebius strip: When you make a round trip, you might come home mirror-inverted."
+ },
+ {
+  "id": 108,
+  "start": 550.1,
+  "end": 551.84,
+  "text_src": "This is called an Alice Universe."
+ },
+ {
+  "id": 109,
+  "start": 551.84,
+  "end": 553.72,
+  "text_src": "For you, your planet will be mirror-inverted."
+ },
+ {
+  "id": 110,
+  "start": 554.8,
+  "end": 560.56,
+  "text_src": "Also, as electrical charge is a matter of orientation, the planet and everything on it will consist of antimatter."
+ },
+ {
+  "id": 111,
+  "start": 563.5,
+  "end": 567.54,
+  "text_src": "But the ten finite, closed, flat models are not the only possibilities."
+ },
+ {
+  "id": 112,
+  "start": 567.84,
+  "end": 573.68,
+  "text_src": "In part two and three we will see other, curved models for the universe, like the Hyper-sphere or the Poincaré space."
+ },
+ {
+  "id": 113,
+  "start": 573.98,
+  "end": 577.52,
+  "text_src": "We will also talk about evidence that may help finding out which model is correct."
+ },
+ {
+  "id": 114,
+  "start": 578.0,
+  "end": 580.96,
+  "text_src": "Of course, the crash course for alien visitors continues."
+ },
+ {
+  "id": 115,
+  "start": 580.96,
+  "end": 588.54,
+  "text_src": "What do you think: Should I alternate between the Crash Course and No Edge episodes, or rather finish this mini-series and then continue the crash course?"
+ },
+ {
+  "id": 116,
+  "start": 588.86,
+  "end": 593.92,
+  "text_src": "Tell me your preference in the comments below, or on my Twitter account, or my Facebook page."
+ },
+ {
+  "id": 117,
+  "start": 594.36,
+  "end": 595.32,
+  "text_src": "Thanks for watching."
+ },
+ {
+  "id": 118,
+  "start": 595.78,
+  "end": 603.54,
+  "text_src": "Like if you enjoyed it, share if you really enjoyed it, subscribe if you don't want to miss my next videos, and as always: Don't forget to be alien."
+ }
+]

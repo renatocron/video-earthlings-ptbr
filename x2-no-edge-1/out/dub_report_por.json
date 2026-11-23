@@ -1,0 +1,1182 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.42,
+  "new_start": 0.0,
+  "dur": 2.310375,
+  "speed": 1.35,
+  "k": 1.0993285123966943,
+  "text_tgt": "Saudações, alienígenas e terráqueos!"
+ },
+ {
+  "id": 2,
+  "start": 2.42,
+  "limit": 13.86,
+  "new_start": 2.660375,
+  "dur": 11.136583333333334,
+  "speed": 1.003,
+  "k": 1.0040719696969698,
+  "text_tgt": "Este não é um episódio de Terráqueos 101, seu curso intensivo para visitantes alienígenas, mas uma série de três vídeos curtos sobre algo que confunde terráqueos e alienígenas: a forma do universo."
+ },
+ {
+  "id": 3,
+  "start": 42.76,
+  "limit": 45.64,
+  "new_start": 43.046958333333336,
+  "dur": 1.8990416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A maioria não entende o espaço."
+ },
+ {
+  "id": 4,
+  "start": 45.64,
+  "limit": 47.52,
+  "new_start": 45.92695833333334,
+  "dur": 1.319,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele não é o que pensam."
+ },
+ {
+  "id": 5,
+  "start": 47.52,
+  "limit": 50.58,
+  "new_start": 47.80695833333334,
+  "dur": 2.712875,
+  "speed": 1.01,
+  "k": 1.0009395424836618,
+  "text_tgt": "Todos acham que o universo é infinito e plano."
+ },
+ {
+  "id": 6,
+  "start": 50.58,
+  "limit": 57.2,
+  "new_start": 50.86983333333334,
+  "dur": 6.3505,
+  "speed": 1.184,
+  "k": 1.0121601208459208,
+  "text_tgt": "Mas, de um ponto de vista não euclidiano e não local, ele é mais uma grande bola de troço espacial, meio mole, meio torto."
+ },
+ {
+  "id": 7,
+  "start": 57.2,
+  "limit": 61.68,
+  "new_start": 57.57033333333334,
+  "dur": 3.98,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E a forma dessa grande bola é o tema desta série em três partes."
+ },
+ {
+  "id": 8,
+  "start": 61.68,
+  "limit": 67.08,
+  "new_start": 62.050333333333334,
+  "dur": 4.449958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando falamos de forma, falamos de duas coisas: topologia e geometria."
+ },
+ {
+  "id": 9,
+  "start": 67.08,
+  "limit": 71.68,
+  "new_start": 67.45033333333333,
+  "dur": 4.6390416666666665,
+  "speed": 1.039,
+  "k": 1.0845742753623167,
+  "text_tgt": "Geometria trata de distâncias, ângulos, áreas e assim por diante."
+ },
+ {
+  "id": 10,
+  "start": 71.68,
+  "limit": 77.26,
+  "new_start": 72.439375,
+  "dur": 5.252375,
+  "speed": 1.03,
+  "k": 1.0040098566308246,
+  "text_tgt": "A topologia não liga para ângulos e distâncias exatos, só para quais regiões são vizinhas."
+ },
+ {
+  "id": 11,
+  "start": 77.26,
+  "limit": 86.14,
+  "new_start": 78.04175,
+  "dur": 8.537458333333333,
+  "speed": 1.014,
+  "k": 1.0008399024024028,
+  "text_tgt": "Por exemplo, ao deformar um quadrado, você muda a geometria, mas não a topologia, desde que não rasgue, não faça furos nem cole partes."
+ },
+ {
+  "id": 12,
+  "start": 86.14,
+  "limit": 94.5,
+  "new_start": 86.92920833333332,
+  "dur": 8.017666666666667,
+  "speed": 1.019,
+  "k": 1.0009170653907498,
+  "text_tgt": "Para simplificar, vamos ignorar a expansão do universo e olhar só um instantâneo dele, ou seja, uma fatia do espaço-tempo."
+ },
+ {
+  "id": 13,
+  "start": 94.5,
+  "limit": 98.76,
+  "new_start": 95.29687499999999,
+  "dur": 3.83,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Infelizmente, não sei ao certo qual é a forma dessa fatia."
+ },
+ {
+  "id": 14,
+  "start": 98.76,
+  "limit": 104.06,
+  "new_start": 99.55687499999999,
+  "dur": 4.976708333333334,
+  "speed": 1.075,
+  "k": 1.005039308176101,
+  "text_tgt": "Toda pesquisa em cosmotopologia é segredo de defesa da Burocracia Galáctica Central."
+ },
+ {
+  "id": 15,
+  "start": 104.06,
+  "limit": 108.74,
+  "new_start": 104.88358333333332,
+  "dur": 4.388041666666667,
+  "speed": 1.103,
+  "k": 1.0124020655270671,
+  "text_tgt": "Então, só posso discutir hipóteses, diferentes modelos possíveis do universo."
+ },
+ {
+  "id": 16,
+  "start": 108.74,
+  "limit": 113.44,
+  "new_start": 109.62162499999998,
+  "dur": 4.364125,
+  "speed": 1.038,
+  "k": 1.0030053191489354,
+  "text_tgt": "Há basicamente três tipos: esféricos, planos e hiperbólicos."
+ },
+ {
+  "id": 17,
+  "start": 113.44,
+  "limit": 115.76,
+  "new_start": 114.33574999999998,
+  "dur": 2.007375,
+  "speed": 1.086,
+  "k": 1.0161099137931002,
+  "text_tgt": "Hoje vamos falar dos modelos planos."
+ },
+ {
+  "id": 18,
+  "start": 115.76,
+  "limit": 119.66,
+  "new_start": 116.69312499999998,
+  "dur": 3.45,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Plano ou não, há muitos equívocos por aí sobre o universo."
+ },
+ {
+  "id": 19,
+  "start": 128.46,
+  "limit": 129.94,
+  "new_start": 129.393125,
+  "dur": 0.818125,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não, Hank!"
+ },
+ {
+  "id": 20,
+  "start": 129.94,
+  "limit": 134.68,
+  "new_start": 130.873125,
+  "dur": 4.309,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um universo finito e um universo com borda são coisas bem diferentes."
+ },
+ {
+  "id": 21,
+  "start": 143.14,
+  "limit": 144.64,
+  "new_start": 144.07312499999998,
+  "dur": 1.009,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não, Gorf."
+ },
+ {
+  "id": 22,
+  "start": 144.64,
+  "limit": 148.5,
+  "new_start": 145.57312499999998,
+  "dur": 3.54725,
+  "speed": 1.122,
+  "k": 1.009650259067354,
+  "text_tgt": "Espaço curvo não quer dizer que o universo se curva num hiperespaço externo."
+ },
+ {
+  "id": 23,
+  "start": 148.5,
+  "limit": 152.54,
+  "new_start": 149.470375,
+  "dur": 3.67,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Só quer dizer que as leis da geometria não são as que você espera."
+ },
+ {
+  "id": 24,
+  "start": 159.0,
+  "limit": 162.21,
+  "new_start": 159.970375,
+  "dur": 2.9025833333333333,
+  "speed": 1.037,
+  "k": 1.013265835929385,
+  "text_tgt": "Ele não se expande rumo a lugar nenhum, só se expande."
+ },
+ {
+  "id": 25,
+  "start": 178.94,
+  "limit": 180.14,
+  "new_start": 179.95295833333333,
+  "dur": 0.8670833333333333,
+  "speed": 1.052,
+  "k": 1.0142361111111207,
+  "text_tgt": "Não, Derek."
+ },
+ {
+  "id": 26,
+  "start": 180.14,
+  "limit": 185.34,
+  "new_start": 181.17004166666666,
+  "dur": 4.908541666666666,
+  "speed": 1.094,
+  "k": 1.0112580128205093,
+  "text_tgt": "Um universo plano não é necessariamente infinito, e pode ter retas que voltam à origem."
+ },
+ {
+  "id": 27,
+  "start": 194.38,
+  "limit": 196.0,
+  "new_start": 195.46858333333333,
+  "dur": 0.94,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para ser sincero..."
+ },
+ {
+  "id": 28,
+  "start": 196.0,
+  "limit": 198.5,
+  "new_start": 197.08858333333333,
+  "dur": 1.7990416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso é uma tremenda burrice."
+ },
+ {
+  "id": 29,
+  "start": 198.5,
+  "limit": 201.86,
+  "new_start": 199.58858333333333,
+  "dur": 2.509,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, o que é um universo finito, afinal?"
+ },
+ {
+  "id": 30,
+  "start": 201.86,
+  "limit": 204.14,
+  "new_start": 202.94858333333335,
+  "dur": 1.98325,
+  "speed": 1.074,
+  "k": 1.023355263157907,
+  "text_tgt": "É um universo com volume finito."
+ },
+ {
+  "id": 31,
+  "start": 204.14,
+  "limit": 209.94,
+  "new_start": 205.28183333333334,
+  "dur": 5.496166666666666,
+  "speed": 1.046,
+  "k": 1.0079597701149405,
+  "text_tgt": "Ou seja, bastaria uma quantidade finita de ácido hidroxílico para inundar o universo todo."
+ },
+ {
+  "id": 32,
+  "start": 209.94,
+  "limit": 218.74,
+  "new_start": 211.12800000000001,
+  "dur": 7.309,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já sem borda quer dizer que, ao explorar o universo, você não vai, de repente, bater num muro com o nada do outro lado."
+ },
+ {
+  "id": 33,
+  "start": 218.74,
+  "limit": 220.16,
+  "new_start": 219.92800000000003,
+  "dur": 1.1309583333333333,
+  "speed": 1.176,
+  "k": 1.0429284037558777,
+  "text_tgt": "Mas não é a mesma coisa?"
+ },
+ {
+  "id": 34,
+  "start": 220.16,
+  "limit": 226.22,
+  "new_start": 221.40895833333335,
+  "dur": 5.7945416666666665,
+  "speed": 1.139,
+  "k": 1.0139507700770072,
+  "text_tgt": "Sem borda, dá para voar sem parar, audaciosamente indo onde nenhum homem ou alienígena jamais esteve."
+ },
+ {
+  "id": 35,
+  "start": 226.22,
+  "limit": 231.22,
+  "new_start": 227.5535,
+  "dur": 4.692208333333333,
+  "speed": 1.108,
+  "k": 1.0084416666666667,
+  "text_tgt": "E, fazendo isso, você vê cada vez mais volume, então o volume total deve ser infinito..."
+ },
+ {
+  "id": 36,
+  "start": 231.22,
+  "limit": 234.46,
+  "new_start": 232.59570833333333,
+  "dur": 0.5389583333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Certo?"
+ },
+ {
+  "id": 37,
+  "start": 234.46,
+  "limit": 235.44,
+  "new_start": 235.83570833333334,
+  "dur": 0.7136666666666667,
+  "speed": 1.121,
+  "k": 1.0853741496598754,
+  "text_tgt": "Errado."
+ },
+ {
+  "id": 38,
+  "start": 235.44,
+  "limit": 242.14,
+  "new_start": 236.89937500000002,
+  "dur": 5.989958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Porque, voando por tempo suficiente, você pode acabar em espaço conhecido, e até voltar ao seu planeta."
+ },
+ {
+  "id": 39,
+  "start": 242.14,
+  "limit": 245.28,
+  "new_start": 243.599375,
+  "dur": 2.827625,
+  "speed": 1.021,
+  "k": 1.0119824840764284,
+  "text_tgt": "Ou seja, o espaço pode se dobrar sobre si mesmo."
+ },
+ {
+  "id": 40,
+  "start": 245.28,
+  "limit": 249.32,
+  "new_start": 246.77700000000002,
+  "dur": 3.499041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para entender isso, vejamos o que acontece em duas dimensões."
+ },
+ {
+  "id": 41,
+  "start": 249.32,
+  "limit": 255.16,
+  "new_start": 250.817,
+  "dur": 5.515666666666666,
+  "speed": 1.084,
+  "k": 1.004394977168949,
+  "text_tgt": "Como muitas raças alienígenas, os terráqueos já se perguntaram qual era a forma da superfície do planeta."
+ },
+ {
+  "id": 42,
+  "start": 255.16,
+  "limit": 260.04,
+  "new_start": 256.68266666666665,
+  "dur": 4.217958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uns imaginavam uma superfície infinita, outros achavam que ela tinha borda."
+ },
+ {
+  "id": 43,
+  "start": 260.04,
+  "limit": 262.42,
+  "new_start": 261.5626666666667,
+  "dur": 2.1220416666666666,
+  "speed": 1.319,
+  "k": 1.038672969187677,
+  "text_tgt": "No fim, descobriram que ambos estavam errados."
+ },
+ {
+  "id": 44,
+  "start": 262.42,
+  "limit": 272.02,
+  "new_start": 264.03470833333336,
+  "dur": 7.329,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não há borda, mas a superfície é finita: zarpando numa direção e seguindo em linha reta, você acaba voltando ao ponto de partida."
+ },
+ {
+  "id": 45,
+  "start": 272.02,
+  "limit": 275.5,
+  "new_start": 273.6347083333333,
+  "dur": 2.7700416666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O motivo, claro, é que a Terra é uma esfera."
+ },
+ {
+  "id": 46,
+  "start": 275.5,
+  "limit": 279.76,
+  "new_start": 277.11470833333334,
+  "dur": 3.9752083333333332,
+  "speed": 1.049,
+  "k": 1.0153071205007846,
+  "text_tgt": "Seres tridimensionais entendem fácil superfícies finitas sem borda."
+ },
+ {
+  "id": 47,
+  "start": 279.76,
+  "limit": 285.88,
+  "new_start": 281.43991666666665,
+  "dur": 5.149958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas como explicar isso a seres bidimensionais, como as lesmas planas de Régulus 3?"
+ },
+ {
+  "id": 48,
+  "start": 285.88,
+  "limit": 290.06,
+  "new_start": 287.55991666666665,
+  "dur": 4.191125,
+  "speed": 1.35,
+  "k": 1.0863935406698546,
+  "text_tgt": "Lesmas planas só pensam em duas dimensões, mas têm uma tecnologia de portais muito avançada."
+ },
+ {
+  "id": 49,
+  "start": 290.06,
+  "limit": 297.56,
+  "new_start": 292.1010416666667,
+  "dur": 6.529,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um portal delas muda a topologia de uma superfície colando partes diferentes, por exemplo dois lados opostos de um quadrado."
+ },
+ {
+  "id": 50,
+  "start": 297.56,
+  "limit": 303.66,
+  "new_start": 299.6010416666667,
+  "dur": 4.8,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando uma lesma sai do retângulo por um lado, entra pelo outro, como num videogame."
+ },
+ {
+  "id": 51,
+  "start": 303.66,
+  "limit": 306.42,
+  "new_start": 305.7010416666667,
+  "dur": 2.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Topologicamente, isso é um cilindro."
+ },
+ {
+  "id": 52,
+  "start": 306.42,
+  "limit": 308.2,
+  "new_start": 308.4610416666667,
+  "dur": 1.85925,
+  "speed": 1.35,
+  "k": 1.2411516853932774,
+  "text_tgt": "Vamos chamá-lo de cilindro de videogame."
+ },
+ {
+  "id": 53,
+  "start": 308.2,
+  "limit": 312.4,
+  "new_start": 310.6702916666667,
+  "dur": 2.75,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como seria um cilindro de videogame visto de dentro?"
+ },
+ {
+  "id": 54,
+  "start": 312.4,
+  "limit": 317.5,
+  "new_start": 314.8702916666667,
+  "dur": 5.199208333333333,
+  "speed": 1.35,
+  "k": 1.0880800653594722,
+  "text_tgt": "Lesmas planas não enxergam longe, mas, se enxergassem, veriam uma série infinita de imagens do mesmo espaço."
+ },
+ {
+  "id": 55,
+  "start": 317.5,
+  "limit": 321.0,
+  "new_start": 320.4195,
+  "dur": 3.25425,
+  "speed": 1.054,
+  "k": 1.0297857142857143,
+  "text_tgt": "Algo como o que você vê entre dois espelhos paralelos."
+ },
+ {
+  "id": 56,
+  "start": 321.0,
+  "limit": 324.94,
+  "new_start": 324.02375,
+  "dur": 3.100041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E se colarmos também os outros dois lados do quadrado?"
+ },
+ {
+  "id": 57,
+  "start": 324.94,
+  "limit": 328.28,
+  "new_start": 327.96375,
+  "dur": 3.1027916666666666,
+  "speed": 1.041,
+  "k": 1.033769960079848,
+  "text_tgt": "Agora o efeito de videogame vale em duas direções."
+ },
+ {
+  "id": 58,
+  "start": 328.28,
+  "limit": 332.58,
+  "new_start": 331.41654166666666,
+  "dur": 3.983125,
+  "speed": 1.067,
+  "k": 1.0077034883720903,
+  "text_tgt": "Uma lesma de vista boa lá dentro veria a própria imagem repetida numa grade."
+ },
+ {
+  "id": 59,
+  "start": 332.58,
+  "limit": 336.04,
+  "new_start": 335.74966666666666,
+  "dur": 3.161125,
+  "speed": 1.167,
+  "k": 1.014776011560683,
+  "text_tgt": "Topologicamente, isso é um toro, a superfície de uma rosquinha."
+ },
+ {
+  "id": 60,
+  "start": 336.04,
+  "limit": 339.84,
+  "new_start": 339.26079166666665,
+  "dur": 3.57725,
+  "speed": 1.339,
+  "k": 1.0334868421052754,
+  "text_tgt": "Então, vamos chamar esse retângulo duplamente enrolado de toro de videogame."
+ },
+ {
+  "id": 61,
+  "start": 339.84,
+  "limit": 344.6,
+  "new_start": 343.18804166666666,
+  "dur": 4.461125,
+  "speed": 1.132,
+  "k": 1.010740546218477,
+  "text_tgt": "O importante é que não é preciso uma terceira dimensão para definir um cilindro ou um toro."
+ },
+ {
+  "id": 62,
+  "start": 344.6,
+  "limit": 347.58,
+  "new_start": 347.99916666666667,
+  "dur": 2.2800416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Basta ter portais para colar as bordas."
+ },
+ {
+  "id": 63,
+  "start": 347.58,
+  "limit": 354.08,
+  "new_start": 350.97916666666663,
+  "dur": 6.177291666666667,
+  "speed": 1.049,
+  "k": 1.004198717948718,
+  "text_tgt": "E, depois de colar, dá para esquecer os portais e curtir um ambiente de videogame contínuo, mas que dá voltas."
+ },
+ {
+  "id": 64,
+  "start": 354.08,
+  "limit": 362.14,
+  "new_start": 357.5064583333333,
+  "dur": 6.600041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma lesma criada nesse toro estaria acostumada a viver numa superfície plana, finita, meio enrolada e sem borda."
+ },
+ {
+  "id": 65,
+  "start": 362.14,
+  "limit": 367.46,
+  "new_start": 365.5664583333333,
+  "dur": 5.0665,
+  "speed": 1.188,
+  "k": 1.018139097744362,
+  "text_tgt": "Sem precisar de portais nem de espaço dobrado, sem falar nessa tal terceira dimensão esotérica."
+ },
+ {
+  "id": 66,
+  "start": 367.46,
+  "limit": 369.8,
+  "new_start": 370.9829583333333,
+  "dur": 2.11,
+  "speed": 1.127,
+  "k": 1.051282051282037,
+  "text_tgt": "Mas e o universo em que vivemos?"
+ },
+ {
+  "id": 67,
+  "start": 369.8,
+  "limit": 373.82,
+  "new_start": 373.44295833333325,
+  "dur": 3.7209166666666667,
+  "speed": 1.075,
+  "k": 1.0126658374792747,
+  "text_tgt": "É tão impensável que ele seja parecido, só que em três dimensões?"
+ },
+ {
+  "id": 68,
+  "start": 373.82,
+  "limit": 375.0,
+  "new_start": 377.5138749999999,
+  "dur": 0.864875,
+  "speed": 1.11,
+  "k": 1.0295550847457566,
+  "text_tgt": "Por que não seria?"
+ },
+ {
+  "id": 69,
+  "start": 375.0,
+  "limit": 381.78,
+  "new_start": 378.72874999999993,
+  "dur": 6.524916666666667,
+  "speed": 1.183,
+  "k": 1.0139995083579194,
+  "text_tgt": "Existe algum motivo para o universo ter que ser um espaço euclidiano ou estar num hiperespaço euclidiano de mais dimensões?"
+ },
+ {
+  "id": 70,
+  "start": 381.78,
+  "limit": 383.68,
+  "new_start": 385.6036666666666,
+  "dur": 1.6168333333333333,
+  "speed": 1.237,
+  "k": 1.0351754385964727,
+  "text_tgt": "Mas voltemos às duas dimensões."
+ },
+ {
+  "id": 71,
+  "start": 383.68,
+  "limit": 386.72,
+  "new_start": 387.5704999999999,
+  "dur": 2.7594583333333333,
+  "speed": 1.214,
+  "k": 1.0228481359649055,
+  "text_tgt": "Vamos brincar mais um pouco com superfícies e portais."
+ },
+ {
+  "id": 72,
+  "start": 386.72,
+  "limit": 392.18,
+  "new_start": 390.6799583333333,
+  "dur": 5.008,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, e se colarmos dois lados de um retângulo, mas com as direções invertidas?"
+ },
+ {
+  "id": 73,
+  "start": 392.18,
+  "limit": 397.18,
+  "new_start": 396.13995833333325,
+  "dur": 4.7331666666666665,
+  "speed": 1.128,
+  "k": 1.0166333333333333,
+  "text_tgt": "Bom, temos uma faixa de Möbius, uma superfície em que cada volta inverte sua orientação."
+ },
+ {
+  "id": 74,
+  "start": 397.18,
+  "limit": 401.52,
+  "new_start": 401.2231249999999,
+  "dur": 3.958,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Colando o outro par sem inverter, temos uma garrafa de Klein."
+ },
+ {
+  "id": 75,
+  "start": 401.52,
+  "limit": 406.02,
+  "new_start": 405.5631249999999,
+  "dur": 3.418,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Invertendo os dois pares, temos o chamado plano projetivo."
+ },
+ {
+  "id": 76,
+  "start": 406.02,
+  "limit": 408.96,
+  "new_start": 410.0631249999999,
+  "dur": 2.4200416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas não estamos limitados a retângulos."
+ },
+ {
+  "id": 77,
+  "start": 408.96,
+  "limit": 413.74,
+  "new_start": 413.0031249999999,
+  "dur": 4.22,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Podemos, por exemplo, pegar um paralelogramo e colar as bordas opostas."
+ },
+ {
+  "id": 78,
+  "start": 413.74,
+  "limit": 417.26,
+  "new_start": 417.7831249999999,
+  "dur": 3.63625,
+  "speed": 1.35,
+  "k": 1.1324573863636422,
+  "text_tgt": "Geometricamente, isso é um toro inclinado; topologicamente, é a mesma coisa."
+ },
+ {
+  "id": 79,
+  "start": 417.26,
+  "limit": 421.72,
+  "new_start": 421.7693749999999,
+  "dur": 3.41,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma lesma lá dentro se veria repetida numa grade inclinada."
+ },
+ {
+  "id": 80,
+  "start": 421.72,
+  "limit": 425.9,
+  "new_start": 426.22937499999995,
+  "dur": 3.888375,
+  "speed": 1.165,
+  "k": 1.0139653110047968,
+  "text_tgt": "E se pegarmos um hexágono e colarmos os lados opostos sem inverter?"
+ },
+ {
+  "id": 81,
+  "start": 425.9,
+  "limit": 429.96,
+  "new_start": 430.46774999999997,
+  "dur": 3.3850416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bom, a lesma lá dentro se veria no mesmo padrão de antes."
+ },
+ {
+  "id": 82,
+  "start": 429.96,
+  "limit": 433.96,
+  "new_start": 434.52774999999997,
+  "dur": 3.6650416666666668,
+  "speed": 1.015,
+  "k": 1.0037604166666667,
+  "text_tgt": "Então é só outro jeito de construir o mesmo toro inclinado."
+ },
+ {
+  "id": 83,
+  "start": 433.96,
+  "limit": 436.56,
+  "new_start": 438.54279166666663,
+  "dur": 2.049,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Voltemos ao toro de videogame."
+ },
+ {
+  "id": 84,
+  "start": 436.56,
+  "limit": 439.66,
+  "new_start": 441.14279166666665,
+  "dur": 2.8245,
+  "speed": 1.094,
+  "k": 1.0240322580645087,
+  "text_tgt": "Dá para fazer algo parecido no espaço tridimensional?"
+ },
+ {
+  "id": 85,
+  "start": 439.66,
+  "limit": 441.12,
+  "new_start": 444.3172916666667,
+  "dur": 0.69,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Claro que dá."
+ },
+ {
+  "id": 86,
+  "start": 441.12,
+  "limit": 447.02,
+  "new_start": 445.77729166666666,
+  "dur": 5.585333333333334,
+  "speed": 1.119,
+  "k": 1.0059887005649757,
+  "text_tgt": "Basta pegar um paralelepípedo no espaço e ligar os lados opostos com portais, sem torcer nada."
+ },
+ {
+  "id": 87,
+  "start": 447.02,
+  "limit": 456.62,
+  "new_start": 451.712625,
+  "dur": 9.309041666666667,
+  "speed": 1.029,
+  "k": 1.0061501736111087,
+  "text_tgt": "Se um viajante espacial ficar preso lá dentro, estará num espaço de videogame tridimensional, onde volta à origem se voar o bastante ao longo de um dos eixos."
+ },
+ {
+  "id": 88,
+  "start": 456.62,
+  "limit": 461.9,
+  "new_start": 461.37166666666667,
+  "dur": 4.718,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele nem vai notar os portais, só vai ver um universo que, de algum jeito, se repete."
+ },
+ {
+  "id": 89,
+  "start": 461.9,
+  "limit": 465.02,
+  "new_start": 466.65166666666664,
+  "dur": 1.519,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama hipertoro."
+ },
+ {
+  "id": 90,
+  "start": 465.02,
+  "limit": 472.96,
+  "new_start": 469.77166666666665,
+  "dur": 5.94,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como o toro de videogame, o hipertoro é plano: as regras da geometria escolar valem mesmo para objetos enormes."
+ },
+ {
+  "id": 91,
+  "start": 472.96,
+  "limit": 476.58,
+  "new_start": 477.71166666666664,
+  "dur": 2.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Na parte 2, vamos definir isso melhor."
+ },
+ {
+  "id": 92,
+  "start": 476.58,
+  "limit": 478.36,
+  "new_start": 481.33166666666665,
+  "dur": 1.4725833333333334,
+  "speed": 1.039,
+  "k": 1.0239232209737656,
+  "text_tgt": "Viram o que acabamos de fazer?"
+ },
+ {
+  "id": 93,
+  "start": 478.36,
+  "limit": 482.5,
+  "new_start": 483.15425,
+  "dur": 3.8237916666666667,
+  "speed": 1.101,
+  "k": 1.008162238325285,
+  "text_tgt": "Construímos um universo plano, com volume finito, mas sem borda."
+ },
+ {
+  "id": 94,
+  "start": 482.5,
+  "limit": 484.96,
+  "new_start": 487.32804166666665,
+  "dur": 2.224083333333333,
+  "speed": 1.187,
+  "k": 1.0463753387533963,
+  "text_tgt": "Algo que Hank e Derek achavam impossível."
+ },
+ {
+  "id": 95,
+  "start": 484.96,
+  "limit": 493.04,
+  "new_start": 489.90212499999996,
+  "dur": 6.7999583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse universo parece um espaço plano infinito, só que se repete como papel de parede de hotel, em três direções."
+ },
+ {
+  "id": 96,
+  "start": 493.04,
+  "limit": 497.82,
+  "new_start": 497.982125,
+  "dur": 4.455666666666667,
+  "speed": 1.084,
+  "k": 1.0053695955369653,
+  "text_tgt": "Alguns cientistas terráqueos acham que o hipertoro é uma forma possível do universo."
+ },
+ {
+  "id": 97,
+  "start": 500.44,
+  "limit": 503.44,
+  "new_start": 505.40779166666664,
+  "dur": 1.7890416666666666,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Sim, terráqueo, sem borda."
+ },
+ {
+  "id": 98,
+  "start": 503.44,
+  "limit": 506.72,
+  "new_start": 508.40779166666664,
+  "dur": 2.894375,
+  "speed": 1.079,
+  "k": 1.0,
+  "text_tgt": "Mas o hipertoro não é o único modelo plano finito."
+ },
+ {
+  "id": 99,
+  "start": 506.72,
+  "limit": 511.1,
+  "new_start": 511.68779166666667,
+  "dur": 4.057291666666667,
+  "speed": 1.082,
+  "k": 1.0062309741248108,
+  "text_tgt": "Por exemplo, girando o portal de cima em 90°, temos outro modelo."
+ },
+ {
+  "id": 100,
+  "start": 511.1,
+  "limit": 513.86,
+  "new_start": 516.0950833333334,
+  "dur": 2.339,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ele se chama variedade de um quarto de volta."
+ },
+ {
+  "id": 101,
+  "start": 513.86,
+  "limit": 520.26,
+  "new_start": 518.8550833333334,
+  "dur": 5.619041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma terceira variante é a variedade de meia volta, girando o portal de cima em 180°."
+ },
+ {
+  "id": 102,
+  "start": 520.26,
+  "limit": 523.18,
+  "new_start": 525.2550833333333,
+  "dur": 2.6467916666666667,
+  "speed": 1.175,
+  "k": 1.0262985159817495,
+  "text_tgt": "Lembra como construímos um toro com padrão de colmeia?"
+ },
+ {
+  "id": 103,
+  "start": 523.18,
+  "limit": 526.54,
+  "new_start": 528.251875,
+  "dur": 3.121541666666667,
+  "speed": 1.259,
+  "k": 1.0331969246031705,
+  "text_tgt": "Dá para fazer o mesmo com um prisma hexagonal e obter o hipertoro."
+ },
+ {
+  "id": 104,
+  "start": 526.54,
+  "limit": 535.84,
+  "new_start": 531.7234166666667,
+  "dur": 8.569041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E agora, girando o portal de cima em 60°, temos a variedade de um sexto de volta, ou em 120°, a variedade de um terço de volta."
+ },
+ {
+  "id": 105,
+  "start": 535.84,
+  "limit": 542.34,
+  "new_start": 541.0234166666668,
+  "dur": 6.181333333333333,
+  "speed": 1.103,
+  "k": 1.0048205128205128,
+  "text_tgt": "No total, há 10 modelos de universo plano, finito e fechado: 6 orientáveis e 4 não orientáveis."
+ },
+ {
+  "id": 106,
+  "start": 542.34,
+  "limit": 544.24,
+  "new_start": 547.5547500000001,
+  "dur": 1.6310416666666667,
+  "speed": 1.263,
+  "k": 1.0426535087719422,
+  "text_tgt": "O que quer dizer não orientável?"
+ },
+ {
+  "id": 107,
+  "start": 544.24,
+  "limit": 550.1,
+  "new_start": 549.5357916666668,
+  "dur": 5.515625,
+  "speed": 1.024,
+  "k": 1.000959897610919,
+  "text_tgt": "Quer dizer que o universo é como uma faixa de Möbius: ao dar uma volta, você pode chegar em casa espelhado."
+ },
+ {
+  "id": 108,
+  "start": 550.1,
+  "limit": 551.84,
+  "new_start": 555.4014166666668,
+  "dur": 1.5777916666666667,
+  "speed": 1.35,
+  "k": 1.1079262452107224,
+  "text_tgt": "Isso se chama Universo de Alice."
+ },
+ {
+  "id": 109,
+  "start": 551.84,
+  "limit": 554.8,
+  "new_start": 557.3292083333334,
+  "dur": 2.318,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para você, seu planeta estará espelhado."
+ },
+ {
+  "id": 110,
+  "start": 554.8,
+  "limit": 560.92,
+  "new_start": 560.2892083333334,
+  "dur": 4.918958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E, como a carga elétrica é questão de orientação, o planeta e tudo nele será de antimatéria."
+ },
+ {
+  "id": 111,
+  "start": 563.5,
+  "limit": 567.84,
+  "new_start": 568.9892083333334,
+  "dur": 4.0775,
+  "speed": 1.29,
+  "k": 1.020161290322573,
+  "text_tgt": "Mas esses dez modelos planos, finitos e fechados não são as únicas possibilidades."
+ },
+ {
+  "id": 112,
+  "start": 567.84,
+  "limit": 573.98,
+  "new_start": 573.4167083333334,
+  "dur": 5.8060833333333335,
+  "speed": 1.016,
+  "k": 1.0026194353963105,
+  "text_tgt": "Nas partes 2 e 3, veremos outros modelos, curvos, como a hiperesfera e o espaço de Poincaré."
+ },
+ {
+  "id": 113,
+  "start": 573.98,
+  "limit": 578.0,
+  "new_start": 579.5727916666667,
+  "dur": 3.729375,
+  "speed": 1.201,
+  "k": 1.014769900497517,
+  "text_tgt": "Também vamos falar das evidências que podem ajudar a descobrir qual modelo é o certo."
+ },
+ {
+  "id": 114,
+  "start": 578.0,
+  "limit": 580.96,
+  "new_start": 583.6521666666667,
+  "dur": 2.769625,
+  "speed": 1.35,
+  "k": 1.053927364864852,
+  "text_tgt": "Claro, o curso intensivo para visitantes alienígenas continua."
+ },
+ {
+  "id": 115,
+  "start": 580.96,
+  "limit": 588.86,
+  "new_start": 586.7717916666668,
+  "dur": 7.597291666666667,
+  "speed": 1.053,
+  "k": 1.0059862869198342,
+  "text_tgt": "O que vocês acham: devo alternar entre o curso intensivo e os episódios de Sem Borda, ou terminar esta minissérie e depois voltar ao curso?"
+ },
+ {
+  "id": 116,
+  "start": 588.86,
+  "limit": 594.36,
+  "new_start": 594.7190833333334,
+  "dur": 3.77,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Digam nos comentários, no meu Twitter ou na minha página do Facebook."
+ },
+ {
+  "id": 117,
+  "start": 594.36,
+  "limit": 595.78,
+  "new_start": 600.2190833333334,
+  "dur": 1.1293333333333333,
+  "speed": 1.098,
+  "k": 1.0417840375587155,
+  "text_tgt": "Obrigado por assistir."
+ },
+ {
+  "id": 118,
+  "start": 595.78,
+  "limit": 603.94,
+  "new_start": 601.6984166666667,
+  "dur": 7.832541666666667,
+  "speed": 1.075,
+  "k": 1.0027624591503168,
+  "text_tgt": "Curta se gostou, compartilhe se gostou muito, inscreva-se para não perder os próximos vídeos e, como sempre: não se esqueça de ser alienígena."
+ }
+]

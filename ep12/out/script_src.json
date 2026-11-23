@@ -1,0 +1,1028 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.6,
+  "text_src": "Greetings, fellow aliens!"
+ },
+ {
+  "id": 2,
+  "start": 2.04,
+  "end": 4.56,
+  "text_src": "Welcome to the twelfth episode of Earthlings 101."
+ },
+ {
+  "id": 3,
+  "start": 5.02,
+  "end": 8.54,
+  "text_src": "Today we will learn about the earthlings' most important sense: Vision, or eyesight."
+ },
+ {
+  "id": 4,
+  "start": 41.44,
+  "end": 45.66,
+  "text_src": "Vision is the capacity to perceive light in order to create a mental image of the environment."
+ },
+ {
+  "id": 5,
+  "start": 46.1,
+  "end": 47.18,
+  "text_src": "But what is light?"
+ },
+ {
+  "id": 6,
+  "start": 47.66,
+  "end": 50.62,
+  "text_src": "Light is electromagnetic radiation within a certain range."
+ },
+ {
+  "id": 7,
+  "start": 50.92,
+  "end": 59.58,
+  "text_src": "The earth atmosphere filters most radiation from the sun, except for three ranges of wavelengths: The radio window, the infrared window, and the optical window."
+ },
+ {
+  "id": 8,
+  "start": 59.82,
+  "end": 64.26,
+  "text_src": "The latter is between 300 and 1100 nanometers - that's the frequency of light."
+ },
+ {
+  "id": 9,
+  "start": 64.74,
+  "end": 69.98,
+  "text_src": "Earthlings can perceive light between 390 and 700 nanometers - that's called visible light."
+ },
+ {
+  "id": 10,
+  "start": 70.58,
+  "end": 74.62,
+  "text_src": "The earthlings perceive light with their eyes - a pair of globular organs in the head."
+ },
+ {
+  "id": 11,
+  "start": 75.0,
+  "end": 83.8,
+  "text_src": "Eyes are primitive biocameras: Light falls through a lens, is focused onto a photosensitive layer called retina, is transformed into electrical signals, and then..."
+ },
+ {
+  "id": 12,
+  "start": 83.8,
+  "end": 86.26,
+  "text_src": "Well, that's when things become interesting."
+ },
+ {
+  "id": 13,
+  "start": 86.82,
+  "end": 90.02,
+  "text_src": "Earthling sensors are often compared with the sensor system of levy drones."
+ },
+ {
+  "id": 14,
+  "start": 90.58,
+  "end": 98.62,
+  "text_src": "When the Galactic Tax Authority executes a planetary tax examination, it sends in a Tax Star which releases millions of levy drones to the planet's surface."
+ },
+ {
+  "id": 15,
+  "start": 99.18,
+  "end": 105.14,
+  "text_src": "Each levy drone is equipped with a multitude of tax assessment sensors, including a sophisticated high-definition camera."
+ },
+ {
+  "id": 16,
+  "start": 105.72,
+  "end": 114.08,
+  "text_src": "On first glance, a drone camera seems to work exactly like an earthling eye: Light falls through a lens system onto an array of spectroscopic photoreceptors."
+ },
+ {
+  "id": 17,
+  "start": 114.28,
+  "end": 121.22,
+  "text_src": "The spectroscopic pixel matrix is then sent to the central computer where it is processed and transformed into a 3d voxel model."
+ },
+ {
+  "id": 18,
+  "start": 121.6,
+  "end": 125.72,
+  "text_src": "Finally, the tax routines compute the monetary value of each taxable entity."
+ },
+ {
+  "id": 19,
+  "start": 126.04,
+  "end": 131.84,
+  "text_src": "If you take this - minus the tax part - you get a very good explanation of how earthling vision does not work."
+ },
+ {
+  "id": 20,
+  "start": 131.84,
+  "end": 136.66,
+  "text_src": "Because, from the moment on when the light hits the retina, earthling vision is completely different."
+ },
+ {
+  "id": 21,
+  "start": 137.02,
+  "end": 144.06,
+  "text_src": "In particular, what the eyes send to the brain is not only pixel data, but also data about contrast, color contrast and motion."
+ },
+ {
+  "id": 22,
+  "start": 144.34,
+  "end": 148.44,
+  "text_src": "In other words, the first step of data processing happens literally within the eyes."
+ },
+ {
+  "id": 23,
+  "start": 148.78,
+  "end": 152.9,
+  "text_src": "See, the retina consists of light-sensitive cells, rods and cones."
+ },
+ {
+  "id": 24,
+  "start": 152.9,
+  "end": 159.14,
+  "text_src": "Above those cells we have a thin layer of intermediate neurons, which wire them to the neuro-cables leading to the brain."
+ },
+ {
+  "id": 25,
+  "start": 159.58,
+  "end": 166.54,
+  "text_src": "Some neurons simply forward information from the rods and cones, but others provide a clever lateral wiring to detect contrast or motion."
+ },
+ {
+  "id": 26,
+  "start": 166.96,
+  "end": 170.98,
+  "text_src": "For example, one neuron might emit a signal when a certain spot is brighter than its neighbourhood."
+ },
+ {
+  "id": 27,
+  "start": 171.72,
+  "end": 176.66,
+  "text_src": "In consequence, the cell detects contrast, or, in other words, contours."
+ },
+ {
+  "id": 28,
+  "start": 176.66,
+  "end": 180.76,
+  "text_src": "Another neuron might only fire when it detects motion in a certain direction."
+ },
+ {
+  "id": 29,
+  "start": 181.12,
+  "end": 186.68,
+  "text_src": "Still another neuron emits a signal when it perceives a color difference between neighbour spots, and so on."
+ },
+ {
+  "id": 30,
+  "start": 187.42,
+  "end": 192.12,
+  "text_src": "So, what is sent to the brain is information about motion, contrast and color contrast."
+ },
+ {
+  "id": 31,
+  "start": 192.46,
+  "end": 194.18,
+  "text_src": "But where is the information sent?"
+ },
+ {
+  "id": 32,
+  "start": 194.4,
+  "end": 197.36,
+  "text_src": "The eyes are wired to the Thalamus, in the center of the brain."
+ },
+ {
+  "id": 33,
+  "start": 197.86,
+  "end": 201.88,
+  "text_src": "\"Thalamus\" is an ancient word for \"inner chamber\", and it's kind of a data connection center."
+ },
+ {
+  "id": 34,
+  "start": 202.24,
+  "end": 205.46,
+  "text_src": "Whoever sends information to the brain must pass through the thalamus."
+ },
+ {
+  "id": 35,
+  "start": 205.46,
+  "end": 212.22,
+  "text_src": "In particular, the eyes are wired to the two lateral geniculate nuclei - that's just a fancy word for \"knee-shaped bumps on the side\"."
+ },
+ {
+  "id": 36,
+  "start": 212.48,
+  "end": 217.82,
+  "text_src": "The right bump receives data from the right halves of the retinae of both eyes, the left bump from the left halves."
+ },
+ {
+  "id": 37,
+  "start": 218.04,
+  "end": 223.94,
+  "text_src": "The information is then forwarded to the visual cortex in the back of the brain where it is processed and sent to the rest of the brain."
+ },
+ {
+  "id": 38,
+  "start": 224.52,
+  "end": 229.82,
+  "text_src": "Spatial and motion data are sent upwards, where they serve to create a dynamic 3D model of the environment."
+ },
+ {
+  "id": 39,
+  "start": 230.32,
+  "end": 234.34,
+  "text_src": "Color and shape information is sent sidewards and used to identify objects."
+ },
+ {
+  "id": 40,
+  "start": 236.44,
+  "end": 237.3,
+  "text_src": "Scientific advice."
+ },
+ {
+  "id": 41,
+  "start": 237.98,
+  "end": 240.14,
+  "text_src": "An interesting field of research is optical illusions."
+ },
+ {
+  "id": 42,
+  "start": 240.82,
+  "end": 242.28,
+  "text_src": "Take this one, for example."
+ },
+ {
+  "id": 43,
+  "start": 242.7,
+  "end": 252.48,
+  "text_src": "When you tell an earthling to fix the planet in the center of the image, he will see a green orbiting saucer in the rotating free slot between the pink ones - although there is no green saucer, only pink ones."
+ },
+ {
+  "id": 44,
+  "start": 252.9,
+  "end": 257.64,
+  "text_src": "The green is an after-image of the pink - maybe due to the color contrast vision I will explain later."
+ },
+ {
+  "id": 45,
+  "start": 258.16,
+  "end": 261.84,
+  "text_src": "Sometimes the pink saucers will even disappear and he will only see the green one."
+ },
+ {
+  "id": 46,
+  "start": 263.3,
+  "end": 266.68,
+  "text_src": "Earthlings always center both eyes onto one spot in the visual field."
+ },
+ {
+  "id": 47,
+  "start": 267.0,
+  "end": 271.2,
+  "text_src": "The centers of the retinae have the highest density of cones and provide the sharpest view."
+ },
+ {
+  "id": 48,
+  "start": 271.58,
+  "end": 274.52,
+  "text_src": "The farther you are away from the center, the blurrier the vision gets."
+ },
+ {
+  "id": 49,
+  "start": 274.52,
+  "end": 277.5,
+  "text_src": "That's why earthlings always move their eyes around."
+ },
+ {
+  "id": 50,
+  "start": 277.94,
+  "end": 282.54,
+  "text_src": "The brain does a good job in computing the movement away, so the environment appears static."
+ },
+ {
+  "id": 51,
+  "start": 282.92,
+  "end": 287.88,
+  "text_src": "But this doesn't work when you poke the eyeball slightly with a finger - in this case the world seems to move."
+ },
+ {
+  "id": 52,
+  "start": 289.26,
+  "end": 297.44,
+  "text_src": "As mentioned before, the data received by the visual cortex are used for two purposes: Spatial orientation and motion data, and identifying objects."
+ },
+ {
+  "id": 53,
+  "start": 297.44,
+  "end": 299.52,
+  "text_src": "Let's start with the former one."
+ },
+ {
+  "id": 54,
+  "start": 300.32,
+  "end": 309.12,
+  "text_src": "For spatial orientation, having two eyes comes in handy: The brain uses the slight differences between the data from both eyes to estimate the distance of different objects."
+ },
+ {
+  "id": 55,
+  "start": 309.54,
+  "end": 315.0,
+  "text_src": "Other input data are also taken into account, in particular the smaller angular size of distant objects."
+ },
+ {
+  "id": 56,
+  "start": 315.46,
+  "end": 319.26,
+  "text_src": "The brain uses those data to construct a dynamic 3D model of the environment."
+ },
+ {
+  "id": 57,
+  "start": 320.02,
+  "end": 322.14,
+  "text_src": "Most animals have similar visual systems."
+ },
+ {
+  "id": 58,
+  "start": 322.64,
+  "end": 329.06,
+  "text_src": "Predators often have frontal eyes with overlapping fields of view, to provide an optimal 3D vision in order to seize their prey."
+ },
+ {
+  "id": 59,
+  "start": 329.38,
+  "end": 336.16,
+  "text_src": "Prey animals, on the other hand, have often lateral eyes to increase the field of view, so they can detect whoever wants to eat them."
+ },
+ {
+  "id": 60,
+  "start": 336.48,
+  "end": 338.44,
+  "text_src": "Except for the microbes."
+ },
+ {
+  "id": 61,
+  "start": 341.86,
+  "end": 344.7,
+  "text_src": "Now to the second point: identifying objects."
+ },
+ {
+  "id": 62,
+  "start": 345.08,
+  "end": 349.8,
+  "text_src": "This happens in the temporal cortex - that's just a fancy word for \"on the sides of the head\"."
+ },
+ {
+  "id": 63,
+  "start": 350.44,
+  "end": 353.18,
+  "text_src": "Earthling brains are powerful pattern-recognition machines."
+ },
+ {
+  "id": 64,
+  "start": 353.18,
+  "end": 356.78,
+  "text_src": "We have already seen that the eyes send contour data to the brain."
+ },
+ {
+  "id": 65,
+  "start": 357.26,
+  "end": 364.8,
+  "text_src": "What happens is that identified simple contour patterns - corners, edges etc. - are assembled into more and more complex patterns."
+ },
+ {
+  "id": 66,
+  "start": 365.3,
+  "end": 369.46,
+  "text_src": "Earthlings are great at identifying shapes even from incomplete contour elements."
+ },
+ {
+  "id": 67,
+  "start": 369.94,
+  "end": 373.84,
+  "text_src": "That's important, for example for identifying partially hidden animals."
+ },
+ {
+  "id": 68,
+  "start": 374.48,
+  "end": 379.96,
+  "text_src": "When the initial contour elements are not properly aligned, the brain has problems assembling the overall shape."
+ },
+ {
+  "id": 69,
+  "start": 380.34,
+  "end": 384.98,
+  "text_src": "Those lines, for example, appear as spirals, but they are actually circles."
+ },
+ {
+  "id": 70,
+  "start": 385.68,
+  "end": 390.54,
+  "text_src": "The pattern recognition of faces is well developed, as it contributes to the recognition of individuals."
+ },
+ {
+  "id": 71,
+  "start": 391.2,
+  "end": 397.62,
+  "text_src": "Earthling scientists have identified a neuron in a brain that reacts to the celebrity Halle Berry, but not to images of other Earthlings."
+ },
+ {
+  "id": 72,
+  "start": 397.62,
+  "end": 404.14,
+  "text_src": "The neuron also reacts to Halle Berry in a feline costume covering most of her face, as well as to her name."
+ },
+ {
+  "id": 73,
+  "start": 404.58,
+  "end": 407.56,
+  "text_src": "So, this cell seems to be a really big fan of Halle Berry."
+ },
+ {
+  "id": 74,
+  "start": 407.96,
+  "end": 413.14,
+  "text_src": "They also found a neuron that likes Jennifer Aniston, and another one that admires Ronald Reagan."
+ },
+ {
+  "id": 75,
+  "start": 414.06,
+  "end": 416.66,
+  "text_src": "Recognition of things is mainly based onto shape and color."
+ },
+ {
+  "id": 76,
+  "start": 416.86,
+  "end": 419.32,
+  "text_src": "The concept of color can be confusing for aliens."
+ },
+ {
+  "id": 77,
+  "start": 419.9,
+  "end": 423.74,
+  "text_src": "Most educated earthlings would agree that color is a physical property of light."
+ },
+ {
+  "id": 78,
+  "start": 423.74,
+  "end": 426.54,
+  "text_src": "But as we will see, that is utter nonsense."
+ },
+ {
+  "id": 79,
+  "start": 427.3,
+  "end": 429.62,
+  "text_src": "Color isn't about physics - it's about biology!"
+ },
+ {
+  "id": 80,
+  "start": 430.74,
+  "end": 434.96,
+  "text_src": "Earthling color perception can be compared to how the Gloobobs of Aldaris 7 perceive sound."
+ },
+ {
+  "id": 81,
+  "start": 435.62,
+  "end": 438.32,
+  "text_src": "Gloobobs are known for having the worst brass bands in the Galaxy."
+ },
+ {
+  "id": 82,
+  "start": 438.7,
+  "end": 449.0,
+  "text_src": "It's not their fault: Those creatures have a very primitive audio perception and can only distinguish three ranges of frequencies, called Ged, Bleen, and Droo."
+ },
+ {
+  "id": 83,
+  "start": 450.4,
+  "end": 455.76,
+  "text_src": "Every sound, every chord or melody they hear will be reduced in their ears to a mix of Ged, Bleen and Droo."
+ },
+ {
+  "id": 84,
+  "start": 458.1,
+  "end": 462.14,
+  "text_src": "The Gloobob ears contain sound receptors for each one of the three pitch ranges."
+ },
+ {
+  "id": 85,
+  "start": 462.46,
+  "end": 467.04,
+  "text_src": "The sensibilities of the receptors are somewhat fuzzy, so they can tell single sounds apart."
+ },
+ {
+  "id": 86,
+  "start": 467.04,
+  "end": 469.5,
+  "text_src": "For example, when you play a scale..."
+ },
+ {
+  "id": 87,
+  "start": 472.58,
+  "end": 474.62,
+  "text_src": "Gloobobs hear this."
+ },
+ {
+  "id": 88,
+  "start": 478.04,
+  "end": 480.62,
+  "text_src": "But they are completely lost when it comes to chords."
+ },
+ {
+  "id": 89,
+  "start": 481.8,
+  "end": 483.14,
+  "text_src": "Two notes are already too much."
+ },
+ {
+  "id": 90,
+  "start": 484.14,
+  "end": 492.86,
+  "text_src": "Take for example a chord consisting of Ged and Bleen - for Gloobob ears, that sounds exactly like \"Nello\", halfway between Ged and Bleen."
+ },
+ {
+  "id": 91,
+  "start": 493.66,
+  "end": 502.38,
+  "text_src": "So, for Gloobobs, Ged plus Bleen equals Nello, which is of course nonsense - the only thing that is equal is the perception of the sounds by Gloobob ears."
+ },
+ {
+  "id": 92,
+  "start": 503.08,
+  "end": 510.58,
+  "text_src": "Gloobob scientists have theorized that all sounds belong to a three dimensional \"sound space\", defined by the perceived intensity of Ged, Bleen and Droo."
+ },
+ {
+  "id": 93,
+  "start": 510.82,
+  "end": 513.72,
+  "text_src": "Mind, this isn't physics - it's biology."
+ },
+ {
+  "id": 94,
+  "start": 514.46,
+  "end": 521.56,
+  "text_src": "Gloobob sound recording devices can only produce three sounds - enough to imitate sounds for Gloobob ears, but not for everybody else."
+ },
+ {
+  "id": 95,
+  "start": 521.9,
+  "end": 525.6,
+  "text_src": "The same holds for Gloobob instruments - hence the bad brass bands."
+ },
+ {
+  "id": 96,
+  "start": 526.0,
+  "end": 527.46,
+  "text_src": "Why am I telling you this?"
+ },
+ {
+  "id": 97,
+  "start": 527.68,
+  "end": 529.66,
+  "text_src": "Because earthling vision works the same."
+ },
+ {
+  "id": 98,
+  "start": 530.28,
+  "end": 536.16,
+  "text_src": "Earthlings have only three kinds of color receptors, often called - not quite correctly - red, green and blue."
+ },
+ {
+  "id": 99,
+  "start": 536.16,
+  "end": 542.4,
+  "text_src": "Even the most complex combination of frequencies are reduced by earthling eyes to a combination of red, green and blue."
+ },
+ {
+  "id": 100,
+  "start": 542.84,
+  "end": 547.86,
+  "text_src": "For example, earthlings cannot distinguish between monochromatic yellow light and a mix of red and green light."
+ },
+ {
+  "id": 101,
+  "start": 548.24,
+  "end": 552.02,
+  "text_src": "In both cases, the red and green receptors are excited in the same way."
+ },
+ {
+  "id": 102,
+  "start": 552.4,
+  "end": 555.42,
+  "text_src": "That's why earthlings say that \"red plus green equals yellow\"."
+ },
+ {
+  "id": 103,
+  "start": 555.9,
+  "end": 557.66,
+  "text_src": "This is biology, not physics."
+ },
+ {
+  "id": 104,
+  "start": 558.24,
+  "end": 562.38,
+  "text_src": "In other words, color isn't a physical property - it only exists in the brain."
+ },
+ {
+  "id": 105,
+  "start": 562.38,
+  "end": 568.62,
+  "text_src": "Actually, the expression \"red receptor\" is misleading - this receptor's peak is rather in the green-yellow range."
+ },
+ {
+  "id": 106,
+  "start": 568.84,
+  "end": 571.54,
+  "text_src": "This reduces an effect called chromatic aberration."
+ },
+ {
+  "id": 107,
+  "start": 571.84,
+  "end": 582.14,
+  "text_src": "But anyway, what is sent to the brain is not the raw receptor response but color contrast data - more precisely, yellow-blue contrast, red-green contrast, and luminosity contrast."
+ },
+ {
+  "id": 108,
+  "start": 582.7,
+  "end": 585.58,
+  "text_src": "But what is the advantage of sending color contrast data?"
+ },
+ {
+  "id": 109,
+  "start": 585.96,
+  "end": 589.7,
+  "text_src": "To understand this, we have to understand what color actually is."
+ },
+ {
+  "id": 110,
+  "start": 589.7,
+  "end": 597.7,
+  "text_src": "When you ask educated adult earthlings what color is, they will probably babble something about frequencies, color circles and additive color blending."
+ },
+ {
+  "id": 111,
+  "start": 598.02,
+  "end": 603.4,
+  "text_src": "But when you ask earthling cubs, they will talk about blue teddies, yellow flowers and pink sofas."
+ },
+ {
+  "id": 112,
+  "start": 603.72,
+  "end": 608.38,
+  "text_src": "In other words, they see color not as a property of light, but as a property of objects."
+ },
+ {
+  "id": 113,
+  "start": 608.74,
+  "end": 610.78,
+  "text_src": "And that's actually a much better approach."
+ },
+ {
+  "id": 114,
+  "start": 611.94,
+  "end": 617.2,
+  "text_src": "See, when an earthling has a pink car, it will always be a pink car, no matter how it is lit."
+ },
+ {
+  "id": 115,
+  "start": 619.72,
+  "end": 622.22,
+  "text_src": "Earthling vision relies on whatever light source is available."
+ },
+ {
+  "id": 116,
+  "start": 624.76,
+  "end": 629.44,
+  "text_src": "The reflected light might differ, but for the earthling, his car will always have the same color."
+ },
+ {
+  "id": 117,
+  "start": 630.06,
+  "end": 637.46,
+  "text_src": "So, the word \"pink\" doesn't actually describe light - it describes how the surface reacts to varying light, as perceived by the earthling eye."
+ },
+ {
+  "id": 118,
+  "start": 638.12,
+  "end": 641.96,
+  "text_src": "So, color is a property of surfaces, which exists only in the brain."
+ },
+ {
+  "id": 119,
+  "start": 642.18,
+  "end": 643.7,
+  "text_src": "How is this even possible?"
+ },
+ {
+  "id": 120,
+  "start": 644.04,
+  "end": 648.58,
+  "text_src": "Well, what happens is that the brain takes the sensor information and computes the lighting away."
+ },
+ {
+  "id": 121,
+  "start": 648.58,
+  "end": 653.62,
+  "text_src": "What remains is a perceived property of surfaces, an imaginary material invariant - color."
+ },
+ {
+  "id": 122,
+  "start": 654.04,
+  "end": 661.58,
+  "text_src": "Here, the color contrast data comes in handy: No matter the lighting, a pink sofa is always pinker than the green carpet it is standing on."
+ },
+ {
+  "id": 123,
+  "start": 662.58,
+  "end": 666.74,
+  "text_src": "Color is a good example of how earthlings construct a model of reality in their brain."
+ },
+ {
+  "id": 124,
+  "start": 667.14,
+  "end": 672.84,
+  "text_src": "Physical objects are collections of atoms with properties like shape, size and spectral characteristics of the surface."
+ },
+ {
+  "id": 125,
+  "start": 673.12,
+  "end": 677.7,
+  "text_src": "But the brain can't directly access to those properties - all it has is sensor information."
+ },
+ {
+  "id": 126,
+  "start": 677.7,
+  "end": 685.22,
+  "text_src": "So it takes this information, computes factors like lighting and distance away, and constructs simplified models of the objects in the world."
+ },
+ {
+  "id": 127,
+  "start": 685.6,
+  "end": 689.8,
+  "text_src": "The imaginary properties of the object models correspond more or less to physical reality."
+ },
+ {
+  "id": 128,
+  "start": 690.28,
+  "end": 697.26,
+  "text_src": "Size and shape are rather accurate approximation of an object's actual geometry, but color is a rough simplification of its spectral characteristics."
+ },
+ {
+  "id": 129,
+  "start": 698.44,
+  "end": 701.24,
+  "text_src": "So, color is an imaginary property of materials."
+ },
+ {
+  "id": 130,
+  "start": 701.84,
+  "end": 706.24,
+  "text_src": "This makes sense, as the main purpose of color is actually the identification of materials."
+ },
+ {
+  "id": 131,
+  "start": 706.24,
+  "end": 710.98,
+  "text_src": "Color allows finding things like flintstone, fertile earth or ripe fruits."
+ },
+ {
+  "id": 132,
+  "start": 711.42,
+  "end": 718.86,
+  "text_src": "The brain takes out the lighting information to obtain the lighting-invariant \"color\" and tell different materials apart - even if the reflected light is actually the same."
+ },
+ {
+  "id": 133,
+  "start": 720.12,
+  "end": 721.86,
+  "text_src": "Colors have a high symbolic meaning."
+ },
+ {
+  "id": 134,
+  "start": 722.18,
+  "end": 725.66,
+  "text_src": "Blue is perceived as calm and cool, as lakes and oceans are blue."
+ },
+ {
+  "id": 135,
+  "start": 726.1,
+  "end": 729.2,
+  "text_src": "Green is associated with nature, because plants are green."
+ },
+ {
+  "id": 136,
+  "start": 729.2,
+  "end": 733.84,
+  "text_src": "Yellow is perceived as joyful and energetic, because earth orbits a yellow star."
+ },
+ {
+  "id": 137,
+  "start": 734.3,
+  "end": 738.28,
+  "text_src": "Red is associated with violence and danger, as red is the color of fire and blood."
+ },
+ {
+  "id": 138,
+  "start": 742.36,
+  "end": 745.34,
+  "text_src": "Fictional characters are sometimes color-coded for easy identification."
+ },
+ {
+  "id": 139,
+  "start": 746.3,
+  "end": 751.58,
+  "text_src": "Cartoon characters can often be identified with little more than color information - even humanized animals."
+ },
+ {
+  "id": 140,
+  "start": 751.58,
+  "end": 756.52,
+  "text_src": "This works also for some live action characters, especially when they wear some sort of uniform."
+ },
+ {
+  "id": 141,
+  "start": 757.02,
+  "end": 760.16,
+  "text_src": "Colors play also an important part in earthlings' social life."
+ },
+ {
+  "id": 142,
+  "start": 760.58,
+  "end": 763.72,
+  "text_src": "For example, lovers like to give each other colorful flowers."
+ },
+ {
+  "id": 143,
+  "start": 764.2,
+  "end": 767.22,
+  "text_src": "There isn't any practical sense, as you can't eat flowers."
+ },
+ {
+  "id": 144,
+  "start": 767.8,
+  "end": 773.0,
+  "text_src": "There is an old saying amongst alien anthropologists: If it doesn't make sense, it's probably a ritual."
+ },
+ {
+  "id": 145,
+  "start": 774.36,
+  "end": 775.56,
+  "text_src": "Tips for tourists."
+ },
+ {
+  "id": 146,
+  "start": 776.26,
+  "end": 783.04,
+  "text_src": "If you want to watch an earthling movie, don't expect realistic colors: Earthling cameras can only record three color components."
+ },
+ {
+  "id": 147,
+  "start": 783.78,
+  "end": 787.0,
+  "text_src": "Personally, I find black-and-white movies less disturbing."
+ },
+ {
+  "id": 148,
+  "start": 787.6,
+  "end": 792.4,
+  "text_src": "Above all, stay away from so-called 3D movies, especially if you have only one eye."
+ },
+ {
+  "id": 149,
+  "start": 793.34,
+  "end": 797.42,
+  "text_src": "It shall be noted that some female earthlings have four types of cones instead of three."
+ },
+ {
+  "id": 150,
+  "start": 797.76,
+  "end": 801.08,
+  "text_src": "In earthling terms, they have a four-dimensional color space."
+ },
+ {
+  "id": 151,
+  "start": 801.08,
+  "end": 805.22,
+  "text_src": "There are also accounts on individuals able to perceive an additional color called octarine."
+ },
+ {
+  "id": 152,
+  "start": 805.84,
+  "end": 813.76,
+  "text_src": "But the same accounts also report an unregistered habitable planar super-structure with bio-propulsion, as well as other oddities, so this is probably fiction."
+ },
+ {
+  "id": 153,
+  "start": 814.18,
+  "end": 820.12,
+  "text_src": "Anyway, this is nothing compared with an aquatic animal called the mantis shrimp which has a sixteen-dimensional color space."
+ },
+ {
+  "id": 154,
+  "start": 822.1,
+  "end": 823.06,
+  "text_src": "Strategic advice."
+ },
+ {
+  "id": 155,
+  "start": 823.48,
+  "end": 838.94,
+  "text_src": "Mantis shrimps would make a good base to breed super-soldiers: Their color vision would make earthling camouflage useless, they have sharp appendages they can accelerate to the speed of earthlings weapons projectiles, they wear a natural body armour, and they can move so fast that the liquid around them starts boiling."
+ },
+ {
+  "id": 156,
+  "start": 839.4,
+  "end": 841.94,
+  "text_src": "However, you might want to do something about their size."
+ },
+ {
+  "id": 157,
+  "start": 842.14,
+  "end": 849.56,
+  "text_src": "I will conclude with an open question: Spectral violet, the light at the upper end of the visual spectrum, is allegedly perceived as slightly reddish."
+ },
+ {
+  "id": 158,
+  "start": 849.96,
+  "end": 853.2,
+  "text_src": "That's why earthlings bend the spectrum to a circle - the color wheel."
+ },
+ {
+  "id": 159,
+  "start": 853.2,
+  "end": 858.0,
+  "text_src": "But violet light is far off the so-called red receptors - why is it perceived as reddish?"
+ },
+ {
+  "id": 160,
+  "start": 858.38,
+  "end": 859.82,
+  "text_src": "I see two possibilities."
+ },
+ {
+  "id": 161,
+  "start": 860.26,
+  "end": 863.12,
+  "text_src": "Either the red receptors have a second bump in the violet zone."
+ },
+ {
+  "id": 162,
+  "start": 863.54,
+  "end": 869.62,
+  "text_src": "Or spectral violet isn't actually perceived as reddish blue, but as deep blue, and the name \"violet\" is actually a misnomer."
+ },
+ {
+  "id": 163,
+  "start": 869.82,
+  "end": 874.02,
+  "text_src": "The fact that computer screens can't display spectral violet might add to the confusion."
+ },
+ {
+  "id": 164,
+  "start": 874.02,
+  "end": 875.92,
+  "text_src": "I honestly don't know."
+ },
+ {
+  "id": 165,
+  "start": 876.16,
+  "end": 879.2,
+  "text_src": "So I'll ask my earthling viewers: What do you think?"
+ },
+ {
+  "id": 166,
+  "start": 879.52,
+  "end": 887.48,
+  "text_src": "And if you have, say, access to a violet laser, or a violet light weapon: Does spectral violet actually appear reddish, or rather deep blue?"
+ },
+ {
+  "id": 167,
+  "start": 887.68,
+  "end": 889.66,
+  "text_src": "If it's reddish: How comes?"
+ },
+ {
+  "id": 168,
+  "start": 889.9,
+  "end": 892.14,
+  "text_src": "If it's deep blue: Why the color wheel?"
+ },
+ {
+  "id": 169,
+  "start": 892.14,
+  "end": 895.26,
+  "text_src": "This was the twelfth episode of Earthlings 101."
+ },
+ {
+  "id": 170,
+  "start": 895.74,
+  "end": 902.0,
+  "text_src": "Next time we will speak about earthling mathematics - a science of truth, space, numbers, and the gender of Blobblings."
+ },
+ {
+  "id": 171,
+  "start": 902.96,
+  "end": 908.02,
+  "text_src": "Thanks for watching, click on \"like\" if you liked it, and as always: Don't forget to be alien!"
+ }
+]

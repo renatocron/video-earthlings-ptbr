@@ -1,0 +1,1712 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 2.04,
+  "new_start": 0.0,
+  "dur": 1.7795,
+  "speed": 1.347,
+  "k": 1.043872549019608,
+  "text_tgt": "Saudações, colegas alienígenas!"
+ },
+ {
+  "id": 2,
+  "start": 2.04,
+  "limit": 5.02,
+  "new_start": 2.1295,
+  "dur": 3.1259166666666665,
+  "speed": 1.35,
+  "k": 1.1664149888143178,
+  "text_tgt": "Bem-vindos ao décimo segundo episódio de Terráqueos 101."
+ },
+ {
+  "id": 3,
+  "start": 5.02,
+  "limit": 8.98,
+  "new_start": 5.605416666666667,
+  "dur": 3.725875,
+  "speed": 1.35,
+  "k": 1.0292613636363634,
+  "text_tgt": "Hoje vamos aprender sobre o sentido mais importante dos terráqueos: a visão."
+ },
+ {
+  "id": 4,
+  "start": 41.44,
+  "limit": 46.1,
+  "new_start": 42.14129166666666,
+  "dur": 4.358291666666666,
+  "speed": 1.161,
+  "k": 1.0103630185979962,
+  "text_tgt": "Visão é a capacidade de perceber a luz para criar uma imagem mental do ambiente."
+ },
+ {
+  "id": 5,
+  "start": 46.1,
+  "limit": 47.66,
+  "new_start": 46.84958333333333,
+  "dur": 0.98,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas o que é luz?"
+ },
+ {
+  "id": 6,
+  "start": 47.66,
+  "limit": 50.92,
+  "new_start": 48.40958333333332,
+  "dur": 2.9850833333333333,
+  "speed": 1.273,
+  "k": 1.0230316973415117,
+  "text_tgt": "Luz é radiação eletromagnética dentro de uma certa faixa."
+ },
+ {
+  "id": 7,
+  "start": 50.92,
+  "limit": 59.82,
+  "new_start": 51.74466666666666,
+  "dur": 8.15,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A atmosfera da Terra filtra quase toda a radiação do Sol, exceto três faixas: a janela de rádio, a de infravermelho e a óptica."
+ },
+ {
+  "id": 8,
+  "start": 59.82,
+  "limit": 64.74,
+  "new_start": 60.64466666666666,
+  "dur": 4.559,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A última vai de 300 a 1100 nanômetros: essa é a frequência da luz."
+ },
+ {
+  "id": 9,
+  "start": 64.74,
+  "limit": 70.58,
+  "new_start": 65.56466666666665,
+  "dur": 5.511791666666666,
+  "speed": 1.063,
+  "k": 1.0037314497716887,
+  "text_tgt": "Os terráqueos percebem luz entre 390 e 700 nanômetros: é a chamada luz visível."
+ },
+ {
+  "id": 10,
+  "start": 70.58,
+  "limit": 75.0,
+  "new_start": 71.42645833333331,
+  "dur": 4.095958333333333,
+  "speed": 1.084,
+  "k": 1.0058729260935138,
+  "text_tgt": "Eles percebem a luz com os olhos, um par de órgãos globulares na cabeça."
+ },
+ {
+  "id": 11,
+  "start": 75.0,
+  "limit": 83.8,
+  "new_start": 75.87241666666665,
+  "dur": 8.479083333333334,
+  "speed": 1.1,
+  "k": 1.0033049242424246,
+  "text_tgt": "Olhos são biocâmeras primitivas: a luz passa por uma lente, é focada numa camada fotossensível chamada retina, vira sinal elétrico, e então..."
+ },
+ {
+  "id": 12,
+  "start": 83.8,
+  "limit": 86.82,
+  "new_start": 84.70149999999998,
+  "dur": 2.26,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, aí a coisa fica interessante."
+ },
+ {
+  "id": 13,
+  "start": 86.82,
+  "limit": 90.58,
+  "new_start": 87.72149999999998,
+  "dur": 3.4672916666666667,
+  "speed": 1.194,
+  "k": 1.0152371453900695,
+  "text_tgt": "Os sensores terráqueos costumam ser comparados aos dos drones coletores."
+ },
+ {
+  "id": 14,
+  "start": 90.58,
+  "limit": 99.18,
+  "new_start": 91.53879166666664,
+  "dur": 7.818958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando a Receita Galáctica faz uma fiscalização planetária, envia uma Estrela Fiscal que solta milhões de drones coletores na superfície."
+ },
+ {
+  "id": 15,
+  "start": 99.18,
+  "limit": 105.72,
+  "new_start": 100.13879166666665,
+  "dur": 6.108,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Cada drone coletor tem vários sensores de avaliação fiscal, incluindo uma sofisticada câmera de alta definição."
+ },
+ {
+  "id": 16,
+  "start": 105.72,
+  "limit": 114.28,
+  "new_start": 106.67879166666664,
+  "dur": 8.234208333333333,
+  "speed": 1.076,
+  "k": 1.0028280763239872,
+  "text_tgt": "À primeira vista, a câmera do drone funciona igual a um olho terráqueo: a luz passa por lentes e cai numa matriz de fotorreceptores espectroscópicos."
+ },
+ {
+  "id": 17,
+  "start": 114.28,
+  "limit": 121.6,
+  "new_start": 115.26299999999998,
+  "dur": 5.889,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A matriz de pixels vai para o computador central, onde é processada e vira um modelo 3D de voxels."
+ },
+ {
+  "id": 18,
+  "start": 121.6,
+  "limit": 126.04,
+  "new_start": 122.58299999999997,
+  "dur": 4.14525,
+  "speed": 1.184,
+  "k": 1.012443693693691,
+  "text_tgt": "Por fim, as rotinas fiscais calculam o valor monetário de cada entidade tributável."
+ },
+ {
+  "id": 19,
+  "start": 126.04,
+  "limit": 131.84,
+  "new_start": 127.07824999999997,
+  "dur": 5.4794583333333335,
+  "speed": 1.095,
+  "k": 1.0050790229885063,
+  "text_tgt": "Pegue isso, tirando a parte fiscal, e você tem uma ótima explicação de como a visão terráquea não funciona."
+ },
+ {
+  "id": 20,
+  "start": 131.84,
+  "limit": 137.02,
+  "new_start": 132.9077083333333,
+  "dur": 4.857916666666667,
+  "speed": 1.091,
+  "k": 1.0053893178893165,
+  "text_tgt": "Porque, a partir do momento em que a luz atinge a retina, a visão terráquea é completamente diferente."
+ },
+ {
+  "id": 21,
+  "start": 137.02,
+  "limit": 144.34,
+  "new_start": 138.11562499999997,
+  "dur": 6.699958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O que os olhos mandam ao cérebro não são só pixels, mas também dados de contraste, contraste de cor e movimento."
+ },
+ {
+  "id": 22,
+  "start": 144.34,
+  "limit": 148.78,
+  "new_start": 145.43562499999996,
+  "dur": 4.131166666666667,
+  "speed": 1.128,
+  "k": 1.0092717717717723,
+  "text_tgt": "Ou seja, a primeira etapa do processamento acontece literalmente dentro dos olhos."
+ },
+ {
+  "id": 23,
+  "start": 148.78,
+  "limit": 152.9,
+  "new_start": 149.91679166666663,
+  "dur": 3.858125,
+  "speed": 1.332,
+  "k": 1.021389563106795,
+  "text_tgt": "Veja, a retina tem células sensíveis à luz, os bastonetes e os cones."
+ },
+ {
+  "id": 24,
+  "start": 152.9,
+  "limit": 159.58,
+  "new_start": 154.12491666666662,
+  "dur": 6.356791666666667,
+  "speed": 1.079,
+  "k": 1.0040107285429132,
+  "text_tgt": "Acima delas há uma fina camada de neurônios intermediários, que as ligam aos neurocabos que vão até o cérebro."
+ },
+ {
+  "id": 25,
+  "start": 159.58,
+  "limit": 166.96,
+  "new_start": 160.8317083333333,
+  "dur": 6.97,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Alguns neurônios só repassam a informação, mas outros têm uma fiação lateral esperta para detectar contraste ou movimento."
+ },
+ {
+  "id": 26,
+  "start": 166.96,
+  "limit": 171.72,
+  "new_start": 168.2117083333333,
+  "dur": 4.442541666666667,
+  "speed": 1.105,
+  "k": 1.0068364845938396,
+  "text_tgt": "Por exemplo, um neurônio pode disparar quando um ponto é mais claro que a vizinhança."
+ },
+ {
+  "id": 27,
+  "start": 171.72,
+  "limit": 176.66,
+  "new_start": 173.00424999999996,
+  "dur": 3.807958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Assim, a célula detecta contraste, ou seja, contornos."
+ },
+ {
+  "id": 28,
+  "start": 176.66,
+  "limit": 181.12,
+  "new_start": 177.94424999999995,
+  "dur": 4.14475,
+  "speed": 1.105,
+  "k": 1.007791479820626,
+  "text_tgt": "Outro neurônio pode disparar só quando detecta movimento numa certa direção."
+ },
+ {
+  "id": 29,
+  "start": 181.12,
+  "limit": 187.42,
+  "new_start": 182.43899999999996,
+  "dur": 5.539,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E outro dispara quando percebe diferença de cor entre pontos vizinhos, e assim por diante."
+ },
+ {
+  "id": 30,
+  "start": 187.42,
+  "limit": 192.46,
+  "new_start": 188.73899999999995,
+  "dur": 4.728,
+  "speed": 1.125,
+  "k": 1.0075396825396783,
+  "text_tgt": "Então, o que vai ao cérebro é informação sobre movimento, contraste e contraste de cor."
+ },
+ {
+  "id": 31,
+  "start": 192.46,
+  "limit": 194.4,
+  "new_start": 193.81699999999995,
+  "dur": 1.6228333333333333,
+  "speed": 1.103,
+  "k": 1.0169243986254308,
+  "text_tgt": "Mas para onde vai essa informação?"
+ },
+ {
+  "id": 32,
+  "start": 194.4,
+  "limit": 197.86,
+  "new_start": 195.7898333333333,
+  "dur": 3.157875,
+  "speed": 1.159,
+  "k": 1.0138367052023098,
+  "text_tgt": "Os olhos estão ligados ao tálamo, no centro do cérebro."
+ },
+ {
+  "id": 33,
+  "start": 197.86,
+  "limit": 202.24,
+  "new_start": 199.2977083333333,
+  "dur": 4.105583333333334,
+  "speed": 1.269,
+  "k": 1.0172564687975658,
+  "text_tgt": "\"Tálamo\" é uma palavra antiga para \"câmara interna\", e ele é uma espécie de central de dados."
+ },
+ {
+  "id": 34,
+  "start": 202.24,
+  "limit": 205.46,
+  "new_start": 203.75329166666663,
+  "dur": 2.9519583333333332,
+  "speed": 1.311,
+  "k": 1.025452898550725,
+  "text_tgt": "Quem quiser mandar informação ao cérebro tem que passar pelo tálamo."
+ },
+ {
+  "id": 35,
+  "start": 205.46,
+  "limit": 212.48,
+  "new_start": 207.05524999999997,
+  "dur": 6.693833333333333,
+  "speed": 1.068,
+  "k": 1.0033950617283975,
+  "text_tgt": "Os olhos se ligam aos dois núcleos geniculados laterais: um nome chique para \"calombos em forma de joelho, de lado\"."
+ },
+ {
+  "id": 36,
+  "start": 212.48,
+  "limit": 218.04,
+  "new_start": 214.0990833333333,
+  "dur": 5.2805,
+  "speed": 1.248,
+  "k": 1.0126798561151074,
+  "text_tgt": "O calombo direito recebe dados das metades direitas das duas retinas, o esquerdo, das metades esquerdas."
+ },
+ {
+  "id": 37,
+  "start": 218.04,
+  "limit": 224.52,
+  "new_start": 219.72958333333332,
+  "dur": 6.119,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Depois a informação vai ao córtex visual, no fundo do cérebro, onde é processada e enviada ao resto dele."
+ },
+ {
+  "id": 38,
+  "start": 224.52,
+  "limit": 230.32,
+  "new_start": 226.20958333333334,
+  "dur": 5.478791666666667,
+  "speed": 1.084,
+  "k": 1.004964080459773,
+  "text_tgt": "Dados espaciais e de movimento vão para cima, onde criam um modelo 3D dinâmico do ambiente."
+ },
+ {
+  "id": 39,
+  "start": 230.32,
+  "limit": 236.44,
+  "new_start": 232.038375,
+  "dur": 3.86,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Cor e forma vão para os lados e servem para identificar objetos."
+ },
+ {
+  "id": 40,
+  "start": 236.44,
+  "limit": 237.98,
+  "new_start": 238.158375,
+  "dur": 1.2265,
+  "speed": 1.117,
+  "k": 1.0237012987013039,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 41,
+  "start": 237.98,
+  "limit": 240.82,
+  "new_start": 239.73487500000002,
+  "dur": 2.5784583333333333,
+  "speed": 1.338,
+  "k": 1.0311473004694824,
+  "text_tgt": "Um campo de pesquisa interessante são as ilusões de óptica."
+ },
+ {
+  "id": 42,
+  "start": 240.82,
+  "limit": 242.7,
+  "new_start": 242.66333333333336,
+  "dur": 1.36,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Veja esta, por exemplo."
+ },
+ {
+  "id": 43,
+  "start": 242.7,
+  "limit": 252.9,
+  "new_start": 244.54333333333335,
+  "dur": 9.298,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se você pedir a um terráqueo que fixe o planeta no centro, ele verá um disco verde girando na vaga vazia entre os rosa, embora não exista disco verde, só rosa."
+ },
+ {
+  "id": 44,
+  "start": 252.9,
+  "limit": 258.16,
+  "new_start": 254.74333333333337,
+  "dur": 4.94575,
+  "speed": 1.106,
+  "k": 1.0067965779467642,
+  "text_tgt": "O verde é uma pós-imagem do rosa, talvez pela visão de contraste de cor que explico depois."
+ },
+ {
+  "id": 45,
+  "start": 258.16,
+  "limit": 263.3,
+  "new_start": 260.0390833333334,
+  "dur": 3.37,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Às vezes os discos rosa até somem, e ele só vê o verde."
+ },
+ {
+  "id": 46,
+  "start": 263.3,
+  "limit": 267.0,
+  "new_start": 265.1790833333334,
+  "dur": 3.22,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os terráqueos sempre apontam os dois olhos para o mesmo ponto."
+ },
+ {
+  "id": 47,
+  "start": 267.0,
+  "limit": 271.58,
+  "new_start": 268.87908333333337,
+  "dur": 3.52,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O centro da retina tem mais cones e dá a visão mais nítida."
+ },
+ {
+  "id": 48,
+  "start": 271.58,
+  "limit": 274.52,
+  "new_start": 273.45908333333335,
+  "dur": 2.6205833333333333,
+  "speed": 1.099,
+  "k": 1.0104024943310665,
+  "text_tgt": "Quanto mais longe do centro, mais borrada a visão."
+ },
+ {
+  "id": 49,
+  "start": 274.52,
+  "limit": 277.94,
+  "new_start": 276.42966666666666,
+  "dur": 2.319958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por isso os terráqueos vivem mexendo os olhos."
+ },
+ {
+  "id": 50,
+  "start": 277.94,
+  "limit": 282.92,
+  "new_start": 279.8496666666667,
+  "dur": 4.05,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O cérebro compensa bem o movimento, então o ambiente parece parado."
+ },
+ {
+  "id": 51,
+  "start": 282.92,
+  "limit": 289.26,
+  "new_start": 284.8296666666667,
+  "dur": 4.558958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas não funciona se você cutucar o olho de leve com o dedo: aí o mundo parece se mexer."
+ },
+ {
+  "id": 52,
+  "start": 289.26,
+  "limit": 297.44,
+  "new_start": 291.16966666666667,
+  "dur": 7.579958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como eu disse, os dados do córtex visual servem para duas coisas: orientação espacial e movimento, e identificação de objetos."
+ },
+ {
+  "id": 53,
+  "start": 297.44,
+  "limit": 300.32,
+  "new_start": 299.3496666666667,
+  "dur": 1.59,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos começar pela primeira."
+ },
+ {
+  "id": 54,
+  "start": 300.32,
+  "limit": 309.54,
+  "new_start": 302.2296666666667,
+  "dur": 7.3490416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para se orientar, ter dois olhos ajuda: o cérebro usa as pequenas diferenças entre os dois para estimar a distância dos objetos."
+ },
+ {
+  "id": 55,
+  "start": 309.54,
+  "limit": 315.46,
+  "new_start": 311.4496666666667,
+  "dur": 5.600375,
+  "speed": 1.091,
+  "k": 1.005130912162169,
+  "text_tgt": "Outros dados também contam, em especial o tamanho angular menor dos objetos distantes."
+ },
+ {
+  "id": 56,
+  "start": 315.46,
+  "limit": 320.02,
+  "new_start": 317.4000416666667,
+  "dur": 3.67,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Com isso, o cérebro monta um modelo 3D dinâmico do ambiente."
+ },
+ {
+  "id": 57,
+  "start": 320.02,
+  "limit": 322.64,
+  "new_start": 321.9600416666667,
+  "dur": 2.3565,
+  "speed": 1.324,
+  "k": 1.0330152671755708,
+  "text_tgt": "A maioria dos animais tem sistemas visuais parecidos."
+ },
+ {
+  "id": 58,
+  "start": 322.64,
+  "limit": 329.38,
+  "new_start": 324.6665416666667,
+  "dur": 6.431416666666666,
+  "speed": 1.138,
+  "k": 1.0061449060336287,
+  "text_tgt": "Predadores costumam ter olhos frontais, com campos de visão sobrepostos, para uma visão 3D ideal na hora de pegar a presa."
+ },
+ {
+  "id": 59,
+  "start": 329.38,
+  "limit": 336.48,
+  "new_start": 331.44795833333336,
+  "dur": 5.829958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já as presas costumam ter olhos laterais, para ampliar o campo de visão e ver quem quer comê-las."
+ },
+ {
+  "id": 60,
+  "start": 336.48,
+  "limit": 338.7,
+  "new_start": 338.5479583333334,
+  "dur": 1.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Exceto os micróbios."
+ },
+ {
+  "id": 61,
+  "start": 341.86,
+  "limit": 345.08,
+  "new_start": 343.9279583333334,
+  "dur": 2.887208333333333,
+  "speed": 1.055,
+  "k": 1.00534420289856,
+  "text_tgt": "Agora, o segundo ponto: identificar objetos."
+ },
+ {
+  "id": 62,
+  "start": 345.08,
+  "limit": 350.44,
+  "new_start": 347.1651666666667,
+  "dur": 4.338,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso acontece no córtex temporal: um nome chique para \"nos lados da cabeça\"."
+ },
+ {
+  "id": 63,
+  "start": 350.44,
+  "limit": 353.18,
+  "new_start": 352.52516666666673,
+  "dur": 2.755541666666667,
+  "speed": 1.35,
+  "k": 1.13340936739659,
+  "text_tgt": "O cérebro terráqueo é uma poderosa máquina de reconhecer padrões."
+ },
+ {
+  "id": 64,
+  "start": 353.18,
+  "limit": 357.26,
+  "new_start": 355.6307083333334,
+  "dur": 3.01,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já vimos que os olhos mandam contornos ao cérebro."
+ },
+ {
+  "id": 65,
+  "start": 357.26,
+  "limit": 365.3,
+  "new_start": 359.7107083333334,
+  "dur": 6.089,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Padrões simples de contorno, como cantos e bordas, são montados em padrões cada vez mais complexos."
+ },
+ {
+  "id": 66,
+  "start": 365.3,
+  "limit": 369.94,
+  "new_start": 367.7507083333334,
+  "dur": 4.31,
+  "speed": 1.058,
+  "k": 1.004310344827589,
+  "text_tgt": "Os terráqueos são ótimos em reconhecer formas mesmo com contornos incompletos."
+ },
+ {
+  "id": 67,
+  "start": 369.94,
+  "limit": 374.48,
+  "new_start": 372.41070833333345,
+  "dur": 4.028041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso é importante, por exemplo, para achar animais meio escondidos."
+ },
+ {
+  "id": 68,
+  "start": 374.48,
+  "limit": 380.34,
+  "new_start": 376.95070833333347,
+  "dur": 4.96,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando os contornos não estão bem alinhados, o cérebro tem dificuldade em montar a forma."
+ },
+ {
+  "id": 69,
+  "start": 380.34,
+  "limit": 385.68,
+  "new_start": 382.8107083333334,
+  "dur": 3.82,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Estas linhas, por exemplo, parecem espirais, mas são círculos."
+ },
+ {
+  "id": 70,
+  "start": 385.68,
+  "limit": 391.2,
+  "new_start": 388.15070833333345,
+  "dur": 4.75,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O reconhecimento de rostos é bem desenvolvido, pois ajuda a identificar indivíduos."
+ },
+ {
+  "id": 71,
+  "start": 391.2,
+  "limit": 397.62,
+  "new_start": 393.67070833333344,
+  "dur": 6.077083333333333,
+  "speed": 1.025,
+  "k": 1.0011033229491149,
+  "text_tgt": "Cientistas terráqueos acharam um neurônio que reage à celebridade Halle Berry, mas não a fotos de outros terráqueos."
+ },
+ {
+  "id": 72,
+  "start": 397.62,
+  "limit": 404.58,
+  "new_start": 400.09779166666675,
+  "dur": 6.38,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O neurônio também reage à Halle Berry fantasiada de felina, com o rosto quase todo coberto, e até ao nome dela."
+ },
+ {
+  "id": 73,
+  "start": 404.58,
+  "limit": 407.96,
+  "new_start": 407.05779166666673,
+  "dur": 3.0450416666666666,
+  "speed": 1.044,
+  "k": 1.0044501972386601,
+  "text_tgt": "Pelo jeito, essa célula é muito fã da Halle Berry."
+ },
+ {
+  "id": 74,
+  "start": 407.96,
+  "limit": 414.06,
+  "new_start": 410.4528333333334,
+  "dur": 5.119958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Também acharam um neurônio que gosta da Jennifer Aniston, e outro que admira Ronald Reagan."
+ },
+ {
+  "id": 75,
+  "start": 414.06,
+  "limit": 416.86,
+  "new_start": 416.5528333333334,
+  "dur": 2.5325,
+  "speed": 1.307,
+  "k": 1.0294642857142817,
+  "text_tgt": "O reconhecimento das coisas se baseia sobretudo em forma e cor."
+ },
+ {
+  "id": 76,
+  "start": 416.86,
+  "limit": 419.9,
+  "new_start": 419.4353333333334,
+  "dur": 2.720666666666667,
+  "speed": 1.099,
+  "k": 1.0100877192982578,
+  "text_tgt": "O conceito de cor pode confundir alienígenas."
+ },
+ {
+  "id": 77,
+  "start": 419.9,
+  "limit": 423.74,
+  "new_start": 422.5060000000001,
+  "dur": 3.574666666666667,
+  "speed": 1.312,
+  "k": 1.0220486111111027,
+  "text_tgt": "A maioria dos terráqueos instruídos diria que cor é uma propriedade física da luz."
+ },
+ {
+  "id": 78,
+  "start": 423.74,
+  "limit": 427.3,
+  "new_start": 426.43066666666675,
+  "dur": 2.7179583333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas, como veremos, isso é um absurdo total."
+ },
+ {
+  "id": 79,
+  "start": 427.3,
+  "limit": 430.74,
+  "new_start": 429.99066666666675,
+  "dur": 2.09,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Cor não é física: é biologia!"
+ },
+ {
+  "id": 80,
+  "start": 430.74,
+  "limit": 435.62,
+  "new_start": 433.43066666666675,
+  "dur": 4.596041666666666,
+  "speed": 1.237,
+  "k": 1.0135331284153013,
+  "text_tgt": "A percepção de cor terráquea é comparável à forma como os Glubobs de Aldaris 7 percebem o som."
+ },
+ {
+  "id": 81,
+  "start": 435.62,
+  "limit": 438.7,
+  "new_start": 438.3767083333334,
+  "dur": 3.429625,
+  "speed": 1.35,
+  "k": 1.2271509740259805,
+  "text_tgt": "Os Glubobs são famosos por terem as piores bandas de metais da Galáxia."
+ },
+ {
+  "id": 82,
+  "start": 438.7,
+  "limit": 450.4,
+  "new_start": 442.1563333333334,
+  "dur": 10.139,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não é culpa deles: essas criaturas têm uma percepção auditiva muito primitiva e só conseguem distinguir três faixas de frequência, chamadas Ged, Blin e Dru."
+ },
+ {
+  "id": 83,
+  "start": 450.4,
+  "limit": 458.1,
+  "new_start": 453.8563333333334,
+  "dur": 5.638,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Todo som, acorde ou melodia é reduzido nos ouvidos deles a uma mistura de Ged, Blin e Dru."
+ },
+ {
+  "id": 84,
+  "start": 458.1,
+  "limit": 462.46,
+  "new_start": 461.55633333333344,
+  "dur": 4.013875,
+  "speed": 1.009,
+  "k": 1.0008887614678996,
+  "text_tgt": "O ouvido Glubob tem receptores para cada uma das três faixas."
+ },
+ {
+  "id": 85,
+  "start": 462.46,
+  "limit": 467.04,
+  "new_start": 465.92020833333345,
+  "dur": 4.293958333333333,
+  "speed": 1.218,
+  "k": 1.0139647016011553,
+  "text_tgt": "A sensibilidade deles é meio difusa, então eles conseguem distinguir sons isolados."
+ },
+ {
+  "id": 86,
+  "start": 467.04,
+  "limit": 469.66,
+  "new_start": 470.5641666666668,
+  "dur": 2.274958333333333,
+  "speed": 1.011,
+  "k": 1.001892493638675,
+  "text_tgt": "Por exemplo, quando você toca uma escala..."
+ },
+ {
+  "id": 87,
+  "start": 472.58,
+  "limit": 475.03,
+  "new_start": 476.10912500000006,
+  "dur": 1.36,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "os Glubobs ouvem isto."
+ },
+ {
+  "id": 88,
+  "start": 478.04,
+  "limit": 481.8,
+  "new_start": 481.5691250000001,
+  "dur": 2.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas ficam totalmente perdidos com acordes."
+ },
+ {
+  "id": 89,
+  "start": 481.8,
+  "limit": 484.14,
+  "new_start": 485.3291250000001,
+  "dur": 1.78,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Duas notas já é demais."
+ },
+ {
+  "id": 90,
+  "start": 484.14,
+  "limit": 493.66,
+  "new_start": 487.66912500000007,
+  "dur": 8.678958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Pegue, por exemplo, um acorde formado por Ged e Blin: para os ouvidos Glubob, ele soa exatamente igual a \"Nelo\", a meio caminho entre Ged e Blin."
+ },
+ {
+  "id": 91,
+  "start": 493.66,
+  "limit": 503.08,
+  "new_start": 497.1891250000001,
+  "dur": 7.59,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, para os Glubobs, Ged mais Blin é igual a Nelo, o que é um absurdo: a única coisa igual é a percepção dos sons pelo ouvido Glubob."
+ },
+ {
+  "id": 92,
+  "start": 503.08,
+  "limit": 510.82,
+  "new_start": 506.60912500000006,
+  "dur": 7.447708333333333,
+  "speed": 1.195,
+  "k": 1.0074558570198093,
+  "text_tgt": "Cientistas Glubobs teorizaram que todo som pertence a um \"espaço sonoro\" tridimensional, definido pela intensidade percebida de Ged, Blin e Dru."
+ },
+ {
+  "id": 93,
+  "start": 510.82,
+  "limit": 514.46,
+  "new_start": 514.4068333333335,
+  "dur": 2.71,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Veja bem, isso não é física: é biologia."
+ },
+ {
+  "id": 94,
+  "start": 514.46,
+  "limit": 521.9,
+  "new_start": 518.0468333333336,
+  "dur": 7.0985,
+  "speed": 1.025,
+  "k": 1.0011424731182874,
+  "text_tgt": "Os gravadores Glubobs só produzem três sons: basta para imitar sons para ouvidos Glubobs, mas não para os outros."
+ },
+ {
+  "id": 95,
+  "start": 521.9,
+  "limit": 526.0,
+  "new_start": 525.4953333333335,
+  "dur": 3.7700416666666667,
+  "speed": 1.061,
+  "k": 1.0048882113821083,
+  "text_tgt": "O mesmo vale para os instrumentos Glubobs: daí as bandas ruins."
+ },
+ {
+  "id": 96,
+  "start": 526.0,
+  "limit": 527.68,
+  "new_start": 529.6153750000002,
+  "dur": 1.3624166666666666,
+  "speed": 1.101,
+  "k": 1.0192956349206652,
+  "text_tgt": "Por que estou contando isso?"
+ },
+ {
+  "id": 97,
+  "start": 527.68,
+  "limit": 530.28,
+  "new_start": 531.3277916666668,
+  "dur": 1.72,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Porque a visão terráquea funciona igual."
+ },
+ {
+  "id": 98,
+  "start": 530.28,
+  "limit": 536.16,
+  "new_start": 533.9277916666668,
+  "dur": 5.591125,
+  "speed": 1.218,
+  "k": 1.010395408163266,
+  "text_tgt": "Os terráqueos têm só três tipos de receptor de cor, chamados, sem muita precisão, de vermelho, verde e azul."
+ },
+ {
+  "id": 99,
+  "start": 536.16,
+  "limit": 542.84,
+  "new_start": 539.8689166666668,
+  "dur": 6.332,
+  "speed": 1.009,
+  "k": 1.0002994011975952,
+  "text_tgt": "Até a combinação de frequências mais complexa vira, nos olhos terráqueos, uma mistura de vermelho, verde e azul."
+ },
+ {
+  "id": 100,
+  "start": 542.84,
+  "limit": 548.24,
+  "new_start": 546.5509166666668,
+  "dur": 5.0620416666666666,
+  "speed": 1.031,
+  "k": 1.002229938271609,
+  "text_tgt": "Por exemplo, eles não distinguem luz amarela monocromática de uma mistura de luz vermelha e verde."
+ },
+ {
+  "id": 101,
+  "start": 548.24,
+  "limit": 552.4,
+  "new_start": 551.9629583333335,
+  "dur": 3.875375,
+  "speed": 1.228,
+  "k": 1.015715144230777,
+  "text_tgt": "Nos dois casos, os receptores vermelho e verde são excitados do mesmo jeito."
+ },
+ {
+  "id": 102,
+  "start": 552.4,
+  "limit": 555.9,
+  "new_start": 556.1883333333335,
+  "dur": 3.203375,
+  "speed": 1.18,
+  "k": 1.01525,
+  "text_tgt": "Por isso os terráqueos dizem que \"vermelho mais verde é igual a amarelo\"."
+ },
+ {
+  "id": 103,
+  "start": 555.9,
+  "limit": 558.24,
+  "new_start": 559.7417083333335,
+  "dur": 2.0130416666666666,
+  "speed": 1.073,
+  "k": 1.0098468660968525,
+  "text_tgt": "Isso é biologia, não física."
+ },
+ {
+  "id": 104,
+  "start": 558.24,
+  "limit": 562.38,
+  "new_start": 562.1047500000001,
+  "dur": 3.8190416666666667,
+  "speed": 1.089,
+  "k": 1.0070148953301161,
+  "text_tgt": "Ou seja, a cor não é uma propriedade física: ela só existe no cérebro."
+ },
+ {
+  "id": 105,
+  "start": 562.38,
+  "limit": 568.84,
+  "new_start": 566.2737916666667,
+  "dur": 5.938,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, \"receptor vermelho\" é um nome enganoso: o pico dele fica mais na faixa verde-amarela."
+ },
+ {
+  "id": 106,
+  "start": 568.84,
+  "limit": 571.84,
+  "new_start": 572.7337916666668,
+  "dur": 2.70675,
+  "speed": 1.197,
+  "k": 1.0189166666666667,
+  "text_tgt": "Isso reduz um efeito chamado aberração cromática."
+ },
+ {
+  "id": 107,
+  "start": 571.84,
+  "limit": 582.7,
+  "new_start": 575.7905416666667,
+  "dur": 10.526916666666667,
+  "speed": 1.04,
+  "k": 1.0015577041129515,
+  "text_tgt": "Seja como for, o cérebro não recebe a resposta bruta dos receptores, e sim dados de contraste: mais precisamente, amarelo-azul, vermelho-verde e luminosidade."
+ },
+ {
+  "id": 108,
+  "start": 582.7,
+  "limit": 585.96,
+  "new_start": 586.6674583333335,
+  "dur": 2.319958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas qual a vantagem de mandar contraste de cor?"
+ },
+ {
+  "id": 109,
+  "start": 585.96,
+  "limit": 589.7,
+  "new_start": 589.9274583333334,
+  "dur": 3.06,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para entender, precisamos saber o que a cor realmente é."
+ },
+ {
+  "id": 110,
+  "start": 589.7,
+  "limit": 598.02,
+  "new_start": 593.6674583333335,
+  "dur": 8.011583333333334,
+  "speed": 1.122,
+  "k": 1.0049979967948794,
+  "text_tgt": "Se você perguntar a terráqueos adultos instruídos o que é cor, eles vão balbuciar algo sobre frequências, círculos cromáticos e mistura aditiva."
+ },
+ {
+  "id": 111,
+  "start": 598.02,
+  "limit": 603.72,
+  "new_start": 602.0290416666668,
+  "dur": 5.404041666666667,
+  "speed": 1.188,
+  "k": 1.0094809941520388,
+  "text_tgt": "Mas se perguntar aos filhotes terráqueos, eles vão falar de ursinhos azuis, flores amarelas e sofás rosa."
+ },
+ {
+  "id": 112,
+  "start": 603.72,
+  "limit": 608.74,
+  "new_start": 607.7830833333335,
+  "dur": 4.697333333333333,
+  "speed": 1.087,
+  "k": 1.0054448871181974,
+  "text_tgt": "Ou seja, eles veem a cor não como propriedade da luz, mas dos objetos."
+ },
+ {
+  "id": 113,
+  "start": 608.74,
+  "limit": 611.94,
+  "new_start": 612.8304166666668,
+  "dur": 2.859916666666667,
+  "speed": 1.028,
+  "k": 1.0030989583333192,
+  "text_tgt": "E essa é, na verdade, uma abordagem bem melhor."
+ },
+ {
+  "id": 114,
+  "start": 611.94,
+  "limit": 619.72,
+  "new_start": 616.0403333333335,
+  "dur": 6.14,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Veja, quando um terráqueo tem um carro rosa, ele sempre será um carro rosa, seja qual for a iluminação."
+ },
+ {
+  "id": 115,
+  "start": 619.72,
+  "limit": 624.76,
+  "new_start": 623.8203333333335,
+  "dur": 2.99,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A visão terráquea se vira com qualquer fonte de luz disponível."
+ },
+ {
+  "id": 116,
+  "start": 624.76,
+  "limit": 630.06,
+  "new_start": 628.8603333333334,
+  "dur": 4.869,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A luz refletida pode mudar, mas para o terráqueo o carro dele terá sempre a mesma cor."
+ },
+ {
+  "id": 117,
+  "start": 630.06,
+  "limit": 638.12,
+  "new_start": 634.1603333333334,
+  "dur": 7.247958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então a palavra \"rosa\" não descreve a luz: descreve como a superfície reage a luzes variadas, segundo o olho terráqueo."
+ },
+ {
+  "id": 118,
+  "start": 638.12,
+  "limit": 642.18,
+  "new_start": 642.2203333333334,
+  "dur": 3.76175,
+  "speed": 1.167,
+  "k": 1.0127463054187327,
+  "text_tgt": "Logo, cor é uma propriedade das superfícies, que só existe no cérebro."
+ },
+ {
+  "id": 119,
+  "start": 642.18,
+  "limit": 644.04,
+  "new_start": 646.3320833333335,
+  "dur": 1.12,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como isso é possível?"
+ },
+ {
+  "id": 120,
+  "start": 644.04,
+  "limit": 648.58,
+  "new_start": 648.1920833333335,
+  "dur": 4.088,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Bem, o cérebro pega a informação dos sensores e compensa a iluminação."
+ },
+ {
+  "id": 121,
+  "start": 648.58,
+  "limit": 654.04,
+  "new_start": 652.7320833333335,
+  "dur": 5.132041666666667,
+  "speed": 1.06,
+  "k": 1.0040369352869494,
+  "text_tgt": "O que sobra é uma propriedade percebida das superfícies, um invariante imaginário do material: a cor."
+ },
+ {
+  "id": 122,
+  "start": 654.04,
+  "limit": 662.58,
+  "new_start": 658.2141250000002,
+  "dur": 6.738958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aí o contraste de cor ajuda: seja qual for a luz, um sofá rosa é sempre mais rosa que o tapete verde embaixo dele."
+ },
+ {
+  "id": 123,
+  "start": 662.58,
+  "limit": 667.14,
+  "new_start": 666.7541250000003,
+  "dur": 4.261416666666666,
+  "speed": 1.178,
+  "k": 1.0112755847953336,
+  "text_tgt": "A cor é um bom exemplo de como os terráqueos constroem um modelo da realidade no cérebro."
+ },
+ {
+  "id": 124,
+  "start": 667.14,
+  "limit": 673.12,
+  "new_start": 671.3655416666669,
+  "dur": 5.770375,
+  "speed": 1.35,
+  "k": 1.0234740802675553,
+  "text_tgt": "Objetos físicos são coleções de átomos com propriedades como forma, tamanho e características espectrais da superfície."
+ },
+ {
+  "id": 125,
+  "start": 673.12,
+  "limit": 677.7,
+  "new_start": 677.4859166666669,
+  "dur": 4.272708333333333,
+  "speed": 1.144,
+  "k": 1.0093249636098889,
+  "text_tgt": "Mas o cérebro não acessa essas propriedades diretamente: só tem a informação dos sensores."
+ },
+ {
+  "id": 126,
+  "start": 677.7,
+  "limit": 685.6,
+  "new_start": 682.1086250000002,
+  "dur": 6.19,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então ele compensa fatores como luz e distância e constrói modelos simplificados dos objetos do mundo."
+ },
+ {
+  "id": 127,
+  "start": 685.6,
+  "limit": 690.28,
+  "new_start": 690.0086250000002,
+  "dur": 4.367666666666667,
+  "speed": 1.115,
+  "k": 1.0080484330484438,
+  "text_tgt": "As propriedades imaginárias desses modelos correspondem mais ou menos à realidade física."
+ },
+ {
+  "id": 128,
+  "start": 690.28,
+  "limit": 698.44,
+  "new_start": 694.7262916666668,
+  "dur": 7.38,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tamanho e forma aproximam bem a geometria real, mas a cor é uma simplificação grosseira das características espectrais."
+ },
+ {
+  "id": 129,
+  "start": 698.44,
+  "limit": 701.84,
+  "new_start": 702.8862916666669,
+  "dur": 3.0855,
+  "speed": 1.111,
+  "k": 1.010441176470595,
+  "text_tgt": "Então, cor é uma propriedade imaginária dos materiais."
+ },
+ {
+  "id": 130,
+  "start": 701.84,
+  "limit": 706.24,
+  "new_start": 706.321791666667,
+  "dur": 4.066625,
+  "speed": 1.05,
+  "k": 1.0037784090909143,
+  "text_tgt": "Faz sentido, já que a principal função da cor é identificar materiais."
+ },
+ {
+  "id": 131,
+  "start": 706.24,
+  "limit": 711.42,
+  "new_start": 710.7384166666669,
+  "dur": 4.568958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A cor permite achar coisas como pederneira, terra fértil ou frutas maduras."
+ },
+ {
+  "id": 132,
+  "start": 711.42,
+  "limit": 720.12,
+  "new_start": 715.9184166666669,
+  "dur": 6.6589583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O cérebro tira a iluminação para obter a \"cor\" invariante e distinguir materiais, mesmo quando a luz refletida é a mesma."
+ },
+ {
+  "id": 133,
+  "start": 720.12,
+  "limit": 722.18,
+  "new_start": 724.6184166666669,
+  "dur": 1.9851666666666667,
+  "speed": 1.35,
+  "k": 1.1335760517799653,
+  "text_tgt": "As cores têm um forte significado simbólico."
+ },
+ {
+  "id": 134,
+  "start": 722.18,
+  "limit": 726.1,
+  "new_start": 726.9535833333335,
+  "dur": 3.6053333333333333,
+  "speed": 1.115,
+  "k": 1.0090136054421581,
+  "text_tgt": "Azul é visto como calmo e fresco, pois lagos e oceanos são azuis."
+ },
+ {
+  "id": 135,
+  "start": 726.1,
+  "limit": 729.2,
+  "new_start": 730.9089166666669,
+  "dur": 2.8284583333333333,
+  "speed": 1.294,
+  "k": 1.0253091397849388,
+  "text_tgt": "Verde é associado à natureza, porque as plantas são verdes."
+ },
+ {
+  "id": 136,
+  "start": 729.2,
+  "limit": 734.3,
+  "new_start": 734.0873750000002,
+  "dur": 4.689958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Amarelo é visto como alegre e enérgico, porque a Terra orbita uma estrela amarela."
+ },
+ {
+  "id": 137,
+  "start": 734.3,
+  "limit": 742.36,
+  "new_start": 739.1873750000001,
+  "dur": 4.708,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vermelho é associado à violência e ao perigo, pois é a cor do fogo e do sangue."
+ },
+ {
+  "id": 138,
+  "start": 742.36,
+  "limit": 746.3,
+  "new_start": 747.2473750000001,
+  "dur": 3.6575416666666665,
+  "speed": 1.244,
+  "k": 1.017142554991555,
+  "text_tgt": "Personagens de ficção às vezes têm código de cor para facilitar a identificação."
+ },
+ {
+  "id": 139,
+  "start": 746.3,
+  "limit": 751.58,
+  "new_start": 751.2549166666668,
+  "dur": 4.991791666666667,
+  "speed": 1.216,
+  "k": 1.0117029671717006,
+  "text_tgt": "Personagens de desenho muitas vezes são reconhecidos quase só pela cor, até animais humanizados."
+ },
+ {
+  "id": 140,
+  "start": 751.58,
+  "limit": 757.02,
+  "new_start": 756.5967083333335,
+  "dur": 4.38,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Funciona também com alguns personagens reais, principalmente de uniforme."
+ },
+ {
+  "id": 141,
+  "start": 757.02,
+  "limit": 760.58,
+  "new_start": 762.0367083333334,
+  "dur": 3.2510833333333333,
+  "speed": 1.135,
+  "k": 1.0115402621722678,
+  "text_tgt": "As cores também têm um papel importante na vida social terráquea."
+ },
+ {
+  "id": 142,
+  "start": 760.58,
+  "limit": 764.2,
+  "new_start": 765.6377916666668,
+  "dur": 3.2965,
+  "speed": 1.086,
+  "k": 1.007320441988949,
+  "text_tgt": "Por exemplo, namorados gostam de se dar flores coloridas."
+ },
+ {
+  "id": 143,
+  "start": 764.2,
+  "limit": 767.8,
+  "new_start": 769.2842916666667,
+  "dur": 3.2830833333333334,
+  "speed": 1.102,
+  "k": 1.0091898148148404,
+  "text_tgt": "Não tem nenhum sentido prático, já que flor não se come."
+ },
+ {
+  "id": 144,
+  "start": 767.8,
+  "limit": 774.36,
+  "new_start": 772.9173750000001,
+  "dur": 5.829,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Há um velho ditado entre antropólogos alienígenas: se não faz sentido, provavelmente é um ritual."
+ },
+ {
+  "id": 145,
+  "start": 774.36,
+  "limit": 776.26,
+  "new_start": 779.4773750000002,
+  "dur": 1.3,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 146,
+  "start": 776.26,
+  "limit": 783.78,
+  "new_start": 781.3773750000001,
+  "dur": 6.369,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se for ver um filme terráqueo, não espere cores realistas: as câmeras deles só gravam três componentes de cor."
+ },
+ {
+  "id": 147,
+  "start": 783.78,
+  "limit": 787.6,
+  "new_start": 788.8973750000001,
+  "dur": 3.5160833333333334,
+  "speed": 1.149,
+  "k": 1.0120636998254666,
+  "text_tgt": "Pessoalmente, acho os filmes em preto e branco menos perturbadores."
+ },
+ {
+  "id": 148,
+  "start": 787.6,
+  "limit": 793.34,
+  "new_start": 792.7634583333335,
+  "dur": 5.319958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Acima de tudo, fique longe dos tais filmes 3D, principalmente se você só tiver um olho."
+ },
+ {
+  "id": 149,
+  "start": 793.34,
+  "limit": 797.76,
+  "new_start": 798.5034583333335,
+  "dur": 4.072958333333333,
+  "speed": 1.014,
+  "k": 1.0006693061840213,
+  "text_tgt": "Vale notar que algumas terráqueas têm quatro tipos de cone, em vez de três."
+ },
+ {
+  "id": 150,
+  "start": 797.76,
+  "limit": 801.08,
+  "new_start": 802.9264166666668,
+  "dur": 3.0814583333333334,
+  "speed": 1.35,
+  "k": 1.0335717871485788,
+  "text_tgt": "Em termos terráqueos, elas têm um espaço de cor de quatro dimensões."
+ },
+ {
+  "id": 151,
+  "start": 801.08,
+  "limit": 805.84,
+  "new_start": 806.3578750000001,
+  "dur": 4.446416666666667,
+  "speed": 1.111,
+  "k": 1.0076505602240915,
+  "text_tgt": "Há também relatos de indivíduos que percebem uma cor extra chamada octarina."
+ },
+ {
+  "id": 152,
+  "start": 805.84,
+  "limit": 814.18,
+  "new_start": 811.1542916666668,
+  "dur": 8.0175,
+  "speed": 1.085,
+  "k": 1.0032973621103216,
+  "text_tgt": "Mas os mesmos relatos falam de uma superestrutura plana habitável não registrada, com biopropulsão, e outras esquisitices, então deve ser ficção."
+ },
+ {
+  "id": 153,
+  "start": 814.18,
+  "limit": 822.1,
+  "new_start": 819.5217916666668,
+  "dur": 7.348,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Enfim, isso não é nada perto de um animal aquático chamado tamarutaca, que tem um espaço de cor de dezesseis dimensões."
+ },
+ {
+  "id": 154,
+  "start": 822.1,
+  "limit": 823.48,
+  "new_start": 827.4417916666669,
+  "dur": 1.0995,
+  "speed": 1.246,
+  "k": 1.0503623188405833,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 155,
+  "start": 823.48,
+  "limit": 839.4,
+  "new_start": 828.8912916666668,
+  "dur": 15.218,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tamarutacas dariam uma boa base para criar supersoldados: a visão de cor delas tornaria inútil a camuflagem terráquea, têm apêndices afiados que aceleram até a velocidade de uma bala, usam uma armadura natural e se movem tão rápido que a água em volta ferve."
+ },
+ {
+  "id": 156,
+  "start": 839.4,
+  "limit": 842.14,
+  "new_start": 844.8112916666668,
+  "dur": 2.4042083333333335,
+  "speed": 1.044,
+  "k": 1.005185523114352,
+  "text_tgt": "Mas talvez você queira dar um jeito no tamanho delas."
+ },
+ {
+  "id": 157,
+  "start": 842.14,
+  "limit": 849.96,
+  "new_start": 847.5655,
+  "dur": 7.492083333333333,
+  "speed": 1.073,
+  "k": 1.0028239556692178,
+  "text_tgt": "Vou terminar com uma pergunta em aberto: o violeta espectral, a luz no topo do espectro visível, seria percebido como meio avermelhado."
+ },
+ {
+  "id": 158,
+  "start": 849.96,
+  "limit": 853.2,
+  "new_start": 855.4075833333334,
+  "dur": 3.5925416666666665,
+  "speed": 1.35,
+  "k": 1.216833847736622,
+  "text_tgt": "Por isso os terráqueos dobram o espectro num círculo: o círculo cromático."
+ },
+ {
+  "id": 159,
+  "start": 853.2,
+  "limit": 858.38,
+  "new_start": 859.350125,
+  "dur": 4.668958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas a luz violeta fica longe dos tais receptores vermelhos: por que parece avermelhada?"
+ },
+ {
+  "id": 160,
+  "start": 858.38,
+  "limit": 860.26,
+  "new_start": 864.530125,
+  "dur": 1.548625,
+  "speed": 1.059,
+  "k": 1.0099069148936195,
+  "text_tgt": "Vejo duas possibilidades."
+ },
+ {
+  "id": 161,
+  "start": 860.26,
+  "limit": 863.54,
+  "new_start": 866.42875,
+  "dur": 3.0007916666666667,
+  "speed": 1.256,
+  "k": 1.0215828252032606,
+  "text_tgt": "Ou os receptores vermelhos têm um segundo pico na zona violeta."
+ },
+ {
+  "id": 162,
+  "start": 863.54,
+  "limit": 869.82,
+  "new_start": 869.7795416666667,
+  "dur": 5.965833333333333,
+  "speed": 1.114,
+  "k": 1.0057059447982877,
+  "text_tgt": "Ou o violeta espectral não é visto como azul avermelhado, mas como azul profundo, e o nome \"violeta\" é um equívoco."
+ },
+ {
+  "id": 163,
+  "start": 869.82,
+  "limit": 874.02,
+  "new_start": 876.095375,
+  "dur": 3.9555416666666665,
+  "speed": 1.35,
+  "k": 1.0251289682539848,
+  "text_tgt": "O fato de telas de computador não exibirem o violeta espectral talvez aumente a confusão."
+ },
+ {
+  "id": 164,
+  "start": 874.02,
+  "limit": 876.16,
+  "new_start": 880.4009166666666,
+  "dur": 1.73,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Sinceramente, não sei."
+ },
+ {
+  "id": 165,
+  "start": 876.16,
+  "limit": 879.52,
+  "new_start": 882.5409166666666,
+  "dur": 3.0841666666666665,
+  "speed": 1.271,
+  "k": 1.0220734126984086,
+  "text_tgt": "Então pergunto aos meus espectadores terráqueos: o que vocês acham?"
+ },
+ {
+  "id": 166,
+  "start": 879.52,
+  "limit": 887.68,
+  "new_start": 885.9750833333333,
+  "dur": 7.842,
+  "speed": 1.089,
+  "k": 1.003921568627455,
+  "text_tgt": "E se você tiver, digamos, um laser violeta, ou uma arma de luz violeta: o violeta espectral parece avermelhado, ou azul profundo?"
+ },
+ {
+  "id": 167,
+  "start": 887.68,
+  "limit": 889.9,
+  "new_start": 894.1670833333333,
+  "dur": 1.82,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se for avermelhado: por quê?"
+ },
+ {
+  "id": 168,
+  "start": 889.9,
+  "limit": 892.14,
+  "new_start": 896.3870833333333,
+  "dur": 2.25925,
+  "speed": 1.35,
+  "k": 1.1648437499999953,
+  "text_tgt": "Se for azul profundo: por que o círculo cromático?"
+ },
+ {
+  "id": 169,
+  "start": 892.14,
+  "limit": 895.74,
+  "new_start": 898.9963333333333,
+  "dur": 3.3125833333333334,
+  "speed": 1.222,
+  "k": 1.0173842592592528,
+  "text_tgt": "Este foi o décimo segundo episódio de Terráqueos 101."
+ },
+ {
+  "id": 170,
+  "start": 895.74,
+  "limit": 902.96,
+  "new_start": 902.6589166666666,
+  "dur": 6.928041666666667,
+  "speed": 1.195,
+  "k": 1.0080390120036897,
+  "text_tgt": "Da próxima vez, vamos falar da matemática terráquea: uma ciência da verdade, do espaço, dos números e do gênero dos Bloblings."
+ },
+ {
+  "id": 171,
+  "start": 902.96,
+  "limit": 908.48,
+  "new_start": 909.9369583333333,
+  "dur": 5.202875,
+  "speed": 1.109,
+  "k": 1.0059556159420322,
+  "text_tgt": "Obrigado por assistir, clique em \"gostei\" se gostou, e como sempre: não se esqueça de ser alienígena!"
+ }
+]

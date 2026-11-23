@@ -1,0 +1,1092 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 4.72,
+  "new_start": 0.0,
+  "dur": 5.125166666666667,
+  "speed": 1.35,
+  "k": 1.1599929378531073,
+  "text_tgt": "Bem-vindos ao terceiro episódio do Terráqueos 101, o curso intensivo para visitantes alienígenas."
+ },
+ {
+  "id": 2,
+  "start": 4.72,
+  "limit": 6.45,
+  "new_start": 5.4751666666666665,
+  "dur": 1.3196666666666668,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Vamos falar de sexo!"
+ },
+ {
+  "id": 3,
+  "start": 42.38,
+  "limit": 44.16,
+  "new_start": 43.13516666666666,
+  "dur": 1.457,
+  "speed": 1.081,
+  "k": 1.015168539325846,
+  "text_tgt": "Afinal, o que é sexo?"
+ },
+ {
+  "id": 4,
+  "start": 44.16,
+  "limit": 47.96,
+  "new_start": 44.942166666666665,
+  "dur": 3.473,
+  "speed": 1.074,
+  "k": 1.0060526315789462,
+  "text_tgt": "A maioria das espécies da Terra se divide em machos e fêmeas."
+ },
+ {
+  "id": 5,
+  "start": 47.96,
+  "limit": 54.12,
+  "new_start": 48.765166666666666,
+  "dur": 5.827,
+  "speed": 1.052,
+  "k": 1.0027597402597408,
+  "text_tgt": "Reprodução sexuada é quando um macho e uma fêmea combinam seu código genético para criar um novo indivíduo."
+ },
+ {
+  "id": 6,
+  "start": 54.12,
+  "limit": 55.42,
+  "new_start": 54.942166666666665,
+  "dur": 1.0342083333333334,
+  "speed": 1.315,
+  "k": 1.0647756410256377,
+  "text_tgt": "Como isso funciona?"
+ },
+ {
+  "id": 7,
+  "start": 55.42,
+  "limit": 57.34,
+  "new_start": 56.326375,
+  "dur": 1.8775416666666667,
+  "speed": 1.35,
+  "k": 1.160177951388888,
+  "text_tgt": "Pense num casal típico de animais terrestres."
+ },
+ {
+  "id": 8,
+  "start": 57.34,
+  "limit": 63.62,
+  "new_start": 58.553916666666666,
+  "dur": 4.47,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quase todas as suas células têm DNA em dobro: um conjunto do pai e um da mãe."
+ },
+ {
+  "id": 9,
+  "start": 63.62,
+  "limit": 73.96,
+  "new_start": 64.83391666666665,
+  "dur": 10.008375,
+  "speed": 1.068,
+  "k": 1.0017770793036753,
+  "text_tgt": "Para se reproduzir, macho e fêmea criam células com um só conjunto de DNA, misturado ao acaso: então o macho injeta suas células na fêmea, um processo chamado cópula."
+ },
+ {
+  "id": 10,
+  "start": 73.96,
+  "limit": 88.7,
+  "new_start": 75.19229166666665,
+  "dur": 11.18,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Uma célula do macho se funde com a da fêmea e forma uma célula completa, com o DNA em dobro de sempre: ela é a base do novo organismo, que começa a crescer num ovo ou dentro do corpo da fêmea."
+ },
+ {
+  "id": 11,
+  "start": 88.7,
+  "limit": 95.26,
+  "new_start": 89.93229166666666,
+  "dur": 6.029958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Note que o DNA dos pais só se junta num conjunto quando o novo indivíduo cria suas células sexuais."
+ },
+ {
+  "id": 12,
+  "start": 95.26,
+  "limit": 100.94,
+  "new_start": 96.49229166666666,
+  "dur": 5.3585416666666665,
+  "speed": 1.082,
+  "k": 1.005024941314555,
+  "text_tgt": "Por isso, na Terra, espécies diferentes podem cruzar, mas os filhotes não conseguem se reproduzir."
+ },
+ {
+  "id": 13,
+  "start": 100.94,
+  "limit": 102.3,
+  "new_start": 102.20083333333332,
+  "dur": 1.083,
+  "speed": 1.265,
+  "k": 1.0536764705882355,
+  "text_tgt": "Dica científica."
+ },
+ {
+  "id": 14,
+  "start": 102.3,
+  "limit": 108.16,
+  "new_start": 103.63383333333331,
+  "dur": 5.538,
+  "speed": 1.078,
+  "k": 1.004778156996587,
+  "text_tgt": "Se você quer usar biologia humana para construir biocomputadores, não limite sua pesquisa ao cérebro."
+ },
+ {
+  "id": 15,
+  "start": 108.16,
+  "limit": 113.92,
+  "new_start": 109.52183333333332,
+  "dur": 5.424041666666667,
+  "speed": 1.047,
+  "k": 1.0024377893518508,
+  "text_tgt": "Na cópula, um macho humano ejacula uns 300 milhões de espermatozoides em 5 segundos."
+ },
+ {
+  "id": 16,
+  "start": 113.92,
+  "limit": 119.36,
+  "new_start": 115.29587499999998,
+  "dur": 5.127291666666666,
+  "speed": 1.123,
+  "k": 1.006855085784314,
+  "text_tgt": "O DNA de cada célula tem 3 bilhões de pares de bases, cada um guardando 2 bits de informação."
+ },
+ {
+  "id": 17,
+  "start": 119.36,
+  "limit": 128.4,
+  "new_start": 120.77316666666664,
+  "dur": 8.208,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou seja, uma ejaculação humana tem banda de uns 40 mil terabytes por segundo, doze vezes mais que os neurocabos xelarianos."
+ },
+ {
+  "id": 18,
+  "start": 128.4,
+  "limit": 132.48,
+  "new_start": 129.81316666666663,
+  "dur": 3.7779166666666666,
+  "speed": 1.162,
+  "k": 1.0117442810457555,
+  "text_tgt": "As fêmeas terráqueas carregam os filhos no corpo por nove ciclos lunares."
+ },
+ {
+  "id": 19,
+  "start": 132.48,
+  "limit": 138.96,
+  "new_start": 133.9410833333333,
+  "dur": 6.158833333333333,
+  "speed": 1.083,
+  "k": 1.0044495884773632,
+  "text_tgt": "Nesse tempo, elas não podem fazer outros filhos, enquanto os machos correm, caçam, brigam e copulam com outras mulheres."
+ },
+ {
+  "id": 20,
+  "start": 138.96,
+  "limit": 144.78,
+  "new_start": 140.44991666666664,
+  "dur": 4.439958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então o gargalo do crescimento de uma tribo é o número de fêmeas, não o de machos."
+ },
+ {
+  "id": 21,
+  "start": 144.78,
+  "limit": 149.74,
+  "new_start": 146.26991666666663,
+  "dur": 4.7259166666666665,
+  "speed": 1.35,
+  "k": 1.023370295698923,
+  "text_tgt": "Por isso os homens são, por tradição, caçadores e guerreiros, e protegem mulheres e crianças com a vida."
+ },
+ {
+  "id": 22,
+  "start": 149.74,
+  "limit": 155.12,
+  "new_start": 151.3458333333333,
+  "dur": 5.041375,
+  "speed": 1.039,
+  "k": 1.0021143122676588,
+  "text_tgt": "Machos são descartáveis: um só macho pode engravidar uma tribo inteira de fêmeas."
+ },
+ {
+  "id": 23,
+  "start": 155.12,
+  "limit": 158.2,
+  "new_start": 156.7372083333333,
+  "dur": 2.519,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A questão é: por que os terráqueos fazem sexo?"
+ },
+ {
+  "id": 24,
+  "start": 158.2,
+  "limit": 167.74,
+  "new_start": 159.8172083333333,
+  "dur": 9.227125,
+  "speed": 1.114,
+  "k": 1.00389150943396,
+  "text_tgt": "A resposta está na mente humana, como expliquei no primeiro episódio: a Fera empurra o Ego para o sexo com um sentimento chamado desejo, e recompensa o sexo com outro, chamado prazer."
+ },
+ {
+  "id": 25,
+  "start": 167.74,
+  "limit": 173.9,
+  "new_start": 169.3943333333333,
+  "dur": 4.93,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já o Implicante impõe as regras da sociedade com sentimentos como vergonha e culpa."
+ },
+ {
+  "id": 26,
+  "start": 173.9,
+  "limit": 177.48,
+  "new_start": 175.5543333333333,
+  "dur": 3.511083333333333,
+  "speed": 1.35,
+  "k": 1.078514897579148,
+  "text_tgt": "Quase todo comportamento humano vem dessa queda de braço entre a Fera e o Implicante."
+ },
+ {
+  "id": 27,
+  "start": 177.48,
+  "limit": 184.7,
+  "new_start": 179.41541666666663,
+  "dur": 6.90125,
+  "speed": 1.104,
+  "k": 1.0043282548476455,
+  "text_tgt": "Mas, no caso da sexualidade, a Fera tem um trunfo: o amor, um sentimento forte que prende o humano a outro terráqueo."
+ },
+ {
+  "id": 28,
+  "start": 184.7,
+  "limit": 189.54,
+  "new_start": 186.66666666666663,
+  "dur": 4.4935833333333335,
+  "speed": 1.017,
+  "k": 1.000740358126721,
+  "text_tgt": "O amor parece bom, certo e nobre, e é imune à razão e ao remorso."
+ },
+ {
+  "id": 29,
+  "start": 189.54,
+  "limit": 193.48,
+  "new_start": 191.51024999999996,
+  "dur": 3.6347916666666666,
+  "speed": 1.15,
+  "k": 1.0113684433164134,
+  "text_tgt": "Por isso, os terráqueos acham que agir por amor desculpa praticamente tudo."
+ },
+ {
+  "id": 30,
+  "start": 193.48,
+  "limit": 202.3,
+  "new_start": 195.49504166666662,
+  "dur": 8.17,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No último episódio, vimos que a vida na Terra, da fotossíntese à civilização humana, gira em torno de uma coisa: espalhar o código genético."
+ },
+ {
+  "id": 31,
+  "start": 202.3,
+  "limit": 204.68,
+  "new_start": 204.31504166666664,
+  "dur": 2.0885416666666665,
+  "speed": 1.197,
+  "k": 1.0245973389355763,
+  "text_tgt": "Podemos chamar isso de \"imperativo genético\"."
+ },
+ {
+  "id": 32,
+  "start": 204.68,
+  "limit": 207.56,
+  "new_start": 206.75358333333332,
+  "dur": 2.6165416666666665,
+  "speed": 1.33,
+  "k": 1.0300491898148165,
+  "text_tgt": "Mas por que o imperativo genético favoreceu o sexo?"
+ },
+ {
+  "id": 33,
+  "start": 207.56,
+  "limit": 213.66,
+  "new_start": 209.720125,
+  "dur": 5.802833333333333,
+  "speed": 1.177,
+  "k": 1.0086612021857932,
+  "text_tgt": "Não seria mais eficiente se todos pudessem ter filhos sozinhos, sem rituais de acasalamento complicados nem cópula?"
+ },
+ {
+  "id": 34,
+  "start": 213.66,
+  "limit": 218.28,
+  "new_start": 215.87295833333332,
+  "dur": 4.273375,
+  "speed": 1.006,
+  "k": 1.0007305194805183,
+  "text_tgt": "A resposta pode estar num tipo bem especial de criatura: os parasitas."
+ },
+ {
+  "id": 35,
+  "start": 218.28,
+  "limit": 225.7,
+  "new_start": 220.49633333333333,
+  "dur": 6.739,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Aliás, parasitas só existem na Terra, o único planeta onde as normas antiparasitas da Burocracia Central não valem."
+ },
+ {
+  "id": 36,
+  "start": 225.7,
+  "limit": 232.48,
+  "new_start": 227.9163333333333,
+  "dur": 6.434958333333333,
+  "speed": 1.007,
+  "k": 1.0007313176007864,
+  "text_tgt": "Claro, essas normas não valem para os chupa-cérebros, mas só porque os chupa-cérebros meio que mandam na burocracia."
+ },
+ {
+  "id": 37,
+  "start": 232.48,
+  "limit": 237.13,
+  "new_start": 234.70129166666663,
+  "dur": 4.336916666666666,
+  "speed": 1.116,
+  "k": 1.007939068100357,
+  "text_tgt": "Por isso, legalmente, eles não são parasitas, e sim \"simbiontes autoritários\"."
+ },
+ {
+  "id": 38,
+  "start": 237.13,
+  "limit": 246.15,
+  "new_start": 239.3882083333333,
+  "dur": 8.687916666666666,
+  "speed": 1.067,
+  "k": 1.0019863266814475,
+  "text_tgt": "Parasitas costumam ser bichos pequenos, como insetos, micróbios ou vermes, que vivem sobre ou até dentro de criaturas maiores, sugando seus recursos."
+ },
+ {
+  "id": 39,
+  "start": 246.15,
+  "limit": 252.39,
+  "new_start": 248.42612499999996,
+  "dur": 5.95625,
+  "speed": 1.234,
+  "k": 1.0106169871794903,
+  "text_tgt": "O problema é que parasitas crescem e se reproduzem mais rápido que seus hospedeiros, então se adaptam a qualquer mutação do hospedeiro."
+ },
+ {
+  "id": 40,
+  "start": 252.39,
+  "limit": 257.67,
+  "new_start": 254.73237499999996,
+  "dur": 4.877,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, combater parasitas mutando é inútil, porque eles mutam muito mais rápido."
+ },
+ {
+  "id": 41,
+  "start": 257.67,
+  "limit": 262.23,
+  "new_start": 260.012375,
+  "dur": 3.93,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas animais de reprodução sexuada mudam muito a cada geração."
+ },
+ {
+  "id": 42,
+  "start": 262.23,
+  "limit": 267.21,
+  "new_start": 264.572375,
+  "dur": 4.634333333333333,
+  "speed": 1.012,
+  "k": 1.0008701472556971,
+  "text_tgt": "Assim fica bem mais difícil para os parasitas se adaptarem a hospedeiros que vivem mudando."
+ },
+ {
+  "id": 43,
+  "start": 267.21,
+  "limit": 272.05,
+  "new_start": 269.55670833333335,
+  "dur": 4.499458333333333,
+  "speed": 1.033,
+  "k": 1.0019542011019216,
+  "text_tgt": "Então, num mundo com zilhões de parasitas, o sexo é uma estratégia melhor."
+ },
+ {
+  "id": 44,
+  "start": 272.05,
+  "limit": 275.25,
+  "new_start": 274.4061666666667,
+  "dur": 1.99,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por isso o sexo é tão popular na Terra."
+ },
+ {
+  "id": 45,
+  "start": 275.25,
+  "limit": 277.29,
+  "new_start": 277.6061666666667,
+  "dur": 1.6975416666666667,
+  "speed": 1.025,
+  "k": 1.0036968954248264,
+  "text_tgt": "Quase todas as espécies fazem..."
+ },
+ {
+  "id": 46,
+  "start": 277.29,
+  "limit": 279.66,
+  "new_start": 279.6537083333334,
+  "dur": 1.53,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Menos os micróbios."
+ },
+ {
+  "id": 47,
+  "start": 282.01,
+  "limit": 283.29,
+  "new_start": 284.37370833333335,
+  "dur": 1.0085416666666667,
+  "speed": 1.289,
+  "k": 1.0613606770833086,
+  "text_tgt": "Dicas para turistas."
+ },
+ {
+  "id": 48,
+  "start": 283.29,
+  "limit": 289.39,
+  "new_start": 285.73225,
+  "dur": 5.73,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para observar o comportamento sexual humano, procure as zonas urbanas chamadas bairros da luz vermelha."
+ },
+ {
+  "id": 49,
+  "start": 289.39,
+  "limit": 297.59,
+  "new_start": 291.83225,
+  "dur": 7.861291666666666,
+  "speed": 1.038,
+  "k": 1.0013770325203266,
+  "text_tgt": "Talvez você não veja uma cópula de verdade, mas pode ver danças de acasalamento humanas e filmes educativos sobre reprodução sexual."
+ },
+ {
+  "id": 50,
+  "start": 297.59,
+  "limit": 302.43,
+  "new_start": 300.04354166666667,
+  "dur": 3.77,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O interessante do sexo é que ele muda totalmente as regras da evolução."
+ },
+ {
+  "id": 51,
+  "start": 302.43,
+  "limit": 303.97,
+  "new_start": 304.8835416666667,
+  "dur": 0.6299583333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por quê?"
+ },
+ {
+  "id": 52,
+  "start": 303.97,
+  "limit": 308.91,
+  "new_start": 306.4235416666667,
+  "dur": 4.626666666666667,
+  "speed": 1.117,
+  "k": 1.0074224021592446,
+  "text_tgt": "Bem, na seleção natural, os indivíduos de mais sucesso são os que conseguem sobreviver."
+ },
+ {
+  "id": 53,
+  "start": 308.91,
+  "limit": 314.23,
+  "new_start": 311.4002083333334,
+  "dur": 4.42,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então, quando uma mutação dá certo, geralmente é porque serve para alguma coisa."
+ },
+ {
+  "id": 54,
+  "start": 314.23,
+  "limit": 320.41,
+  "new_start": 316.7202083333334,
+  "dur": 5.883,
+  "speed": 1.188,
+  "k": 1.008576051779934,
+  "text_tgt": "Mas a reprodução sexuada envolve escolher um parceiro, e a evolução torna os indivíduos exigentes com seus parceiros."
+ },
+ {
+  "id": 55,
+  "start": 320.41,
+  "limit": 325.27,
+  "new_start": 322.9532083333334,
+  "dur": 4.554875,
+  "speed": 1.148,
+  "k": 1.0092335390946592,
+  "text_tgt": "Em geral, as fêmeas são mais exigentes, porque sua capacidade de reprodução é limitada."
+ },
+ {
+  "id": 56,
+  "start": 325.27,
+  "limit": 327.53,
+  "new_start": 327.8580833333334,
+  "dur": 1.934875,
+  "speed": 1.075,
+  "k": 1.0110066371681456,
+  "text_tgt": "Isso se chama seleção sexual."
+ },
+ {
+  "id": 57,
+  "start": 327.53,
+  "limit": 333.71,
+  "new_start": 330.1429583333334,
+  "dur": 5.842041666666667,
+  "speed": 1.032,
+  "k": 1.0019484897518867,
+  "text_tgt": "Então, ser sexy, a capacidade de atrair parceiros, vira um fator importante de sucesso evolutivo."
+ },
+ {
+  "id": 58,
+  "start": 333.71,
+  "limit": 341.77,
+  "new_start": 336.3350000000001,
+  "dur": 6.48,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso cria uma espécie de \"ciclo estranho\": um dos fatores mais importantes para ser sexy é justamente ser sexy."
+ },
+ {
+  "id": 59,
+  "start": 341.77,
+  "limit": 346.03,
+  "new_start": 344.3950000000001,
+  "dur": 3.984208333333333,
+  "speed": 1.265,
+  "k": 1.0174197965571226,
+  "text_tgt": "Pense num grupo de animais em que alguns machos têm um tentaculozinho saindo da cabeça."
+ },
+ {
+  "id": 60,
+  "start": 346.03,
+  "limit": 348.99,
+  "new_start": 348.7292083333334,
+  "dur": 2.666125,
+  "speed": 1.189,
+  "k": 1.018961148648636,
+  "text_tgt": "Digamos que algumas fêmeas achem isso bem fofo."
+ },
+ {
+  "id": 61,
+  "start": 348.99,
+  "limit": 352.39,
+  "new_start": 351.7453333333334,
+  "dur": 2.99,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então os machos com tentáculo ficam um pouco mais sexy."
+ },
+ {
+  "id": 62,
+  "start": 352.39,
+  "limit": 361.81,
+  "new_start": 355.1453333333334,
+  "dur": 9.082041666666667,
+  "speed": 1.036,
+  "k": 1.0012783085633388,
+  "text_tgt": "A questão é: machos sexy tendem a ter filhos sexy, e toda fêmea quer filhos sexy, porque quanto mais sexy o filho, mais ele vai espalhar o código genético da mamãe."
+ },
+ {
+  "id": 63,
+  "start": 361.81,
+  "limit": 368.69,
+  "new_start": 364.5773750000001,
+  "dur": 6.0,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Com isso, até as fêmeas que nem ligavam para tentáculos agora querem filhos sexy e tentaculosos."
+ },
+ {
+  "id": 64,
+  "start": 368.69,
+  "limit": 371.79,
+  "new_start": 371.45737500000007,
+  "dur": 2.61,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então os tentáculos ficam ainda mais atraentes."
+ },
+ {
+  "id": 65,
+  "start": 371.79,
+  "limit": 380.65,
+  "new_start": 374.5573750000001,
+  "dur": 8.5595,
+  "speed": 1.16,
+  "k": 1.0055869074492148,
+  "text_tgt": "Entramos num ciclo estranho em que tentáculos são sexy só porque tentáculos são sexy, sem nenhum motivo prático além de todo mundo querer filhos sexy."
+ },
+ {
+  "id": 66,
+  "start": 380.65,
+  "limit": 387.25,
+  "new_start": 383.4668750000001,
+  "dur": 6.290958333333333,
+  "speed": 1.141,
+  "k": 1.0062058080808045,
+  "text_tgt": "De geração em geração, os tentáculos crescem e crescem, até ficarem tão desajeitados que atrapalham a sobrevivência."
+ },
+ {
+  "id": 67,
+  "start": 387.25,
+  "limit": 390.77,
+  "new_start": 390.1078333333334,
+  "dur": 2.4,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Esse exemplo é menos exagerado do que parece."
+ },
+ {
+  "id": 68,
+  "start": 390.77,
+  "limit": 397.1,
+  "new_start": 393.6278333333334,
+  "dur": 6.06025,
+  "speed": 1.295,
+  "k": 1.0126777251184769,
+  "text_tgt": "Algumas espécies criam chifres enormes e desajeitados, penas de cauda gigantes e coloridas, ou cantos de acasalamento elaborados."
+ },
+ {
+  "id": 69,
+  "start": 399.55,
+  "limit": 407.53,
+  "new_start": 402.4880833333334,
+  "dur": 7.661875,
+  "speed": 1.112,
+  "k": 1.0039943609022606,
+  "text_tgt": "Alguns cientistas acham até que a inteligência humana surgiu como uma espécie de \"chifre mental\", movida pela seleção sexual, e não pela sobrevivência."
+ },
+ {
+  "id": 70,
+  "start": 407.53,
+  "limit": 410.79,
+  "new_start": 410.4999583333334,
+  "dur": 2.89,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Agora vamos olhar de perto a sexualidade terráquea."
+ },
+ {
+  "id": 71,
+  "start": 410.79,
+  "limit": 413.61,
+  "new_start": 413.75995833333343,
+  "dur": 2.33,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Quando um terráqueo é considerado atraente?"
+ },
+ {
+  "id": 72,
+  "start": 413.61,
+  "limit": 422.53,
+  "new_start": 416.5799583333334,
+  "dur": 8.651333333333334,
+  "speed": 1.305,
+  "k": 1.0091180866965666,
+  "text_tgt": "Machos são atraentes quando são fortes, saudáveis, agressivos e inteligentes, e têm status social alto, porque isso significa que vão conseguir proteger e alimentar a parceira e os filhos."
+ },
+ {
+  "id": 73,
+  "start": 422.53,
+  "limit": 431.39,
+  "new_start": 425.58129166666674,
+  "dur": 7.649,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E um macho que espalha seu DNA por toda parte é sexy, porque aí é provável que os filhos dele espalhem o DNA da mamãe por toda parte."
+ },
+ {
+  "id": 74,
+  "start": 431.39,
+  "limit": 444.57,
+  "new_start": 434.44129166666676,
+  "dur": 12.827125,
+  "speed": 1.001,
+  "k": 1.0,
+  "text_tgt": "E, por fim, machos não devem ser tão velhos que possam morrer em poucos anos, porque aí não vão proteger e alimentar os filhos, a não ser que sejam velhos e ricos, porque vão deixar muito dinheiro, e dinheiro compra proteção e comida."
+ },
+ {
+  "id": 75,
+  "start": 444.57,
+  "limit": 447.85,
+  "new_start": 447.62129166666676,
+  "dur": 2.9386666666666668,
+  "speed": 1.027,
+  "k": 1.0026422764227552,
+  "text_tgt": "Ou seja, velhos só são sexy se forem ricos."
+ },
+ {
+  "id": 76,
+  "start": 447.85,
+  "limit": 454.35,
+  "new_start": 450.9099583333334,
+  "dur": 5.088958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Nas fêmeas, o critério principal é conseguir ter muitos filhos antes de acabarem os óvulos."
+ },
+ {
+  "id": 77,
+  "start": 454.35,
+  "limit": 456.67,
+  "new_start": 457.4099583333334,
+  "dur": 2.191125,
+  "speed": 1.35,
+  "k": 1.0953125000000032,
+  "text_tgt": "Então, saúde e juventude são essenciais."
+ },
+ {
+  "id": 78,
+  "start": 456.67,
+  "limit": 460.79,
+  "new_start": 459.95108333333343,
+  "dur": 3.783916666666667,
+  "speed": 1.046,
+  "k": 1.0033778317152093,
+  "text_tgt": "Quadris largos são sexy, porque ossos largos facilitam o parto."
+ },
+ {
+  "id": 79,
+  "start": 460.79,
+  "limit": 466.49,
+  "new_start": 464.0850000000001,
+  "dur": 5.34,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E cintura fina é sexy, porque mostra que os quadris largos não são só excesso de gordura."
+ },
+ {
+  "id": 80,
+  "start": 466.49,
+  "limit": 471.17,
+  "new_start": 469.7850000000001,
+  "dur": 4.332625,
+  "speed": 1.013,
+  "k": 1.000560897435896,
+  "text_tgt": "E, por fim, seios grandes são sexy porque, bem, ninguém sabe direito por quê."
+ },
+ {
+  "id": 81,
+  "start": 471.17,
+  "limit": 478.59,
+  "new_start": 474.46762500000006,
+  "dur": 6.81,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Talvez tenham surgido pelo ciclo estranho da seleção sexual, sem motivo nenhum, como os chifres ou as penas coloridas."
+ },
+ {
+  "id": 82,
+  "start": 478.59,
+  "limit": 484.51,
+  "new_start": 481.887625,
+  "dur": 3.908,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E, por fim, inteligência e status social também aumentam a atração."
+ },
+ {
+  "id": 83,
+  "start": 484.51,
+  "limit": 485.55,
+  "new_start": 487.80762500000003,
+  "dur": 1.0148333333333333,
+  "speed": 1.35,
+  "k": 1.3123397435897177,
+  "text_tgt": "Dica estratégica."
+ },
+ {
+  "id": 84,
+  "start": 485.55,
+  "limit": 493.67,
+  "new_start": 489.17245833333334,
+  "dur": 7.808333333333334,
+  "speed": 1.132,
+  "k": 1.0047208538587844,
+  "text_tgt": "Se você quer infiltrar metamorfos na sociedade humana para espionar antes de uma invasão, considere dar a seus agentes a forma de fêmeas atraentes."
+ },
+ {
+  "id": 85,
+  "start": 493.67,
+  "limit": 503.55,
+  "new_start": 497.3307916666667,
+  "dur": 9.533125,
+  "speed": 1.011,
+  "k": 1.0003162955465592,
+  "text_tgt": "Se fizer isso, cuide dos detalhes: erros mínimos, como o número errado de olhos ou a cor de pele errada, podem assustar os humanos e queimar seus agentes."
+ },
+ {
+  "id": 86,
+  "start": 503.55,
+  "limit": 510.43,
+  "new_start": 507.2139166666667,
+  "dur": 6.806666666666667,
+  "speed": 1.35,
+  "k": 1.0402131782945743,
+  "text_tgt": "Espalhar o código e escolher parceiros com DNA de qualidade não são os únicos objetivos: os humanos também precisam alimentar e proteger os filhos."
+ },
+ {
+  "id": 87,
+  "start": 510.43,
+  "limit": 516.29,
+  "new_start": 514.3705833333333,
+  "dur": 5.572875,
+  "speed": 1.213,
+  "k": 1.0107295221843078,
+  "text_tgt": "Os humanos costumam unir esses objetivos escolhendo um parceiro fixo para criar os filhos, e depois traindo esse parceiro."
+ },
+ {
+  "id": 88,
+  "start": 516.29,
+  "limit": 525.61,
+  "new_start": 520.2934583333333,
+  "dur": 9.001833333333334,
+  "speed": 1.093,
+  "k": 1.003415593705288,
+  "text_tgt": "Para um macho terráqueo, uma estratégia comprovada é escolher uma fêmea como parceira fixa e copular com muitas outras pelas costas dela, para espalhar o código."
+ },
+ {
+  "id": 89,
+  "start": 525.61,
+  "limit": 531.23,
+  "new_start": 529.6452916666667,
+  "dur": 5.2815,
+  "speed": 1.03,
+  "k": 1.002046263345195,
+  "text_tgt": "A sociedade tolera isso, mais ou menos, e o homem que faz isso é visto como um vencedor."
+ },
+ {
+  "id": 90,
+  "start": 531.23,
+  "limit": 537.01,
+  "new_start": 535.2767916666667,
+  "dur": 5.168958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Já as mulheres costumam gerar um filho por vez, não importa quantos parceiros sexuais tenham."
+ },
+ {
+  "id": 91,
+  "start": 537.01,
+  "limit": 540.89,
+  "new_start": 541.0567916666666,
+  "dur": 3.600625,
+  "speed": 1.247,
+  "k": 1.01820231958763,
+  "text_tgt": "Então é melhor elas serem exigentes com o DNA dos pais dos seus filhos."
+ },
+ {
+  "id": 92,
+  "start": 540.89,
+  "limit": 544.71,
+  "new_start": 545.0074166666666,
+  "dur": 3.5925416666666665,
+  "speed": 1.35,
+  "k": 1.0320789703315747,
+  "text_tgt": "Por isso a sociedade torce o nariz para mulheres com muitos parceiros sexuais."
+ },
+ {
+  "id": 93,
+  "start": 544.71,
+  "limit": 554.85,
+  "new_start": 548.9499583333333,
+  "dur": 9.816333333333333,
+  "speed": 1.089,
+  "k": 1.0025969756739,
+  "text_tgt": "Uma estratégia feminina popular é escolher o melhor parceiro fixo possível, para alimentar e proteger os filhos, e depois traí-lo com outro macho que forneça DNA de qualidade para esses filhos."
+ },
+ {
+  "id": 94,
+  "start": 554.85,
+  "limit": 560.57,
+  "new_start": 559.1162916666666,
+  "dur": 5.430583333333334,
+  "speed": 1.217,
+  "k": 1.010591491841487,
+  "text_tgt": "Muitas vezes é um dos \"vencedores\" que já citamos, ou pelo menos um macho mais jovem, mais rico ou mais atraente."
+ },
+ {
+  "id": 95,
+  "start": 560.57,
+  "limit": 566.41,
+  "new_start": 564.8968749999999,
+  "dur": 5.187,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Claro, nenhum macho quer criar o filho de um rival, então a traição tem que ser em segredo."
+ },
+ {
+  "id": 96,
+  "start": 566.41,
+  "limit": 573.25,
+  "new_start": 570.7368749999998,
+  "dur": 6.317958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "De novo, isso costuma ser mais ou menos tolerado pela sociedade, ou até romantizado em obras de ficção."
+ },
+ {
+  "id": 97,
+  "start": 573.25,
+  "limit": 582.93,
+  "new_start": 577.5768749999999,
+  "dur": 9.278,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por falar em ficção: os vampiros, os predadores fictícios citados no episódio um, são considerados muito atraentes, porque são mestres em comer e não morrer."
+ },
+ {
+  "id": 98,
+  "start": 582.93,
+  "limit": 589.09,
+  "new_start": 587.2568749999998,
+  "dur": 5.8445,
+  "speed": 1.119,
+  "k": 1.005600649350636,
+  "text_tgt": "Tem até uma ficção popular sobre uma menina menor de idade que namora um vampiro com mais de seis vezes a idade dela."
+ },
+ {
+  "id": 99,
+  "start": 589.09,
+  "limit": 596.47,
+  "new_start": 593.4513749999998,
+  "dur": 7.0477083333333335,
+  "speed": 1.047,
+  "k": 1.0023995031616988,
+  "text_tgt": "Entre humanos, essa diferença de idade jamais seria tolerada pela sociedade, mas pelo jeito tudo bem se o macho for vampiro."
+ },
+ {
+  "id": 100,
+  "start": 596.47,
+  "limit": 602.67,
+  "new_start": 600.849083333333,
+  "dur": 5.898833333333333,
+  "speed": 1.156,
+  "k": 1.0078763440860325,
+  "text_tgt": "Vale dizer que muitas espécies animais copulam com indivíduos do mesmo sexo, o que se chama homossexualidade."
+ },
+ {
+  "id": 101,
+  "start": 602.67,
+  "limit": 608.99,
+  "new_start": 607.0979166666664,
+  "dur": 4.928958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso não tem nada a ver com reprodução, tem função social, por exemplo, resolver conflitos."
+ },
+ {
+  "id": 102,
+  "start": 608.99,
+  "limit": 618.17,
+  "new_start": 613.4179166666664,
+  "dur": 8.029,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então é bem natural que alguns humanos também tenham comportamento homossexual, menos os criacionistas, que dizem não descender de animais."
+ },
+ {
+  "id": 103,
+  "start": 618.17,
+  "limit": 623.77,
+  "new_start": 622.5979166666664,
+  "dur": 5.309,
+  "speed": 1.207,
+  "k": 1.01053571428571,
+  "text_tgt": "Depois de criar os filhos, os terráqueos muitas vezes se preocupam é com os filhos continuarem espalhando o código."
+ },
+ {
+  "id": 104,
+  "start": 623.77,
+  "limit": 642.73,
+  "new_start": 628.2569166666664,
+  "dur": 18.619375,
+  "speed": 1.051,
+  "k": 1.0004944620253147,
+  "text_tgt": "Eles empurram os filhos para parceiros de DNA de qualidade, incentivam a reprodução, e até pais tolerantes surtam se um filho se revela homossexual, só porque filho homossexual é um beco sem saída para o DNA: aliás, o medo de ter filhos homossexuais é o principal motivo para muitos terráqueos acharem a homossexualidade errada."
+ },
+ {
+  "id": 105,
+  "start": 642.73,
+  "limit": 655.73,
+  "new_start": 647.2262916666664,
+  "dur": 12.692791666666666,
+  "speed": 1.136,
+  "k": 1.0032916666666667,
+  "text_tgt": "O comportamento sexual humano, como todo comportamento humano, é quase todo determinado pela programação genética: direto, pela natureza humana, ou indireto, pela sociedade, que evoluiu junto com a natureza humana e está gravada no cérebro."
+ },
+ {
+  "id": 106,
+  "start": 655.73,
+  "limit": 663.99,
+  "new_start": 660.269083333333,
+  "dur": 6.867958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No fim, tudo se resume à força motriz mais importante da civilização humana, o imperativo genético: espalhar o código."
+ },
+ {
+  "id": 107,
+  "start": 663.99,
+  "limit": 670.09,
+  "new_start": 668.529083333333,
+  "dur": 5.766291666666667,
+  "speed": 1.044,
+  "k": 1.0026707650273186,
+  "text_tgt": "No próximo episódio vamos falar de ética: o que é o bem, o que é o mal, e o que tudo isso tem a ver com comer frutas."
+ },
+ {
+  "id": 108,
+  "start": 670.09,
+  "limit": 676.35,
+  "new_start": 674.6453749999997,
+  "dur": 5.917,
+  "speed": 1.024,
+  "k": 1.001118210862621,
+  "text_tgt": "E também veremos o que acontece quando você prende o Poderoso Cthulhu e o Grande Xenu na mesma cela."
+ },
+ {
+  "id": 109,
+  "start": 676.35,
+  "limit": 677.59,
+  "new_start": 680.9123749999998,
+  "dur": 0.952375,
+  "speed": 1.218,
+  "k": 1.0503024193548312,
+  "text_tgt": "Obrigado por assistir!"
+ }
+]

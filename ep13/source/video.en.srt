@@ -1,0 +1,1417 @@
+1
+00:00:00,199 --> 00:00:02,380
+Greetings, fellow aliens!
+
+2
+00:00:02,380 --> 00:00:07,289
+You might wonder why I havn't posted any episode
+for a while. The answer is simple : Relativity.
+
+3
+00:00:07,289 --> 00:00:13,959
+I made a trip with 99.5% light speed. The
+trip lasted about one moon cycle for me, but
+
+4
+00:00:13,959 --> 00:00:16,360
+ten moon cycles for you.
+
+5
+00:00:16,360 --> 00:00:23,360
+But now I'm back, with a new episode about
+a strange and peculiar earthling science : Mathematics.
+
+6
+00:00:55,070 --> 00:00:59,470
+Earthlings' thrive for knowlege is driven
+by several factors, like curiosity, doubt,
+
+7
+00:00:59,470 --> 00:01:02,010
+warfare, show-off, and laziness.
+
+8
+00:01:02,010 --> 00:01:07,850
+The latter, laziness, is what gave rise to
+mathematics. We will come back to this later.
+
+9
+00:01:07,850 --> 00:01:11,189
+In a nutshell, mathematics could be called
+"science of truth".
+
+10
+00:01:11,189 --> 00:01:15,829
+To understand this notion, we have to understand
+the earthling concept of true and false.
+
+11
+00:01:15,829 --> 00:01:18,310
+In other words: Earthling logic.
+
+12
+00:01:18,310 --> 00:01:22,020
+If you are an alien, you are probably familiar
+with the common fuzzy ternary logic:
+
+13
+00:01:22,020 --> 00:01:26,689
+Statements can have the values "True", "false",
+"Don't know", or anything in-between.
+
+14
+00:01:26,689 --> 00:01:30,090
+This is often represented as the "uncertainity
+triangle".
+
+15
+00:01:30,090 --> 00:01:34,149
+For those unfamiliar with ternary logic, allow
+me to explain.
+
+16
+00:01:34,149 --> 00:01:35,420
+Imagine a Centauri lottery:
+
+17
+00:01:35,420 --> 00:01:40,310
+You have a box of six creatures, Tribbles
+and Snorks, and you draw one of them, hoping
+
+18
+00:01:40,310 --> 00:01:41,469
+to get a Tribble.
+
+19
+00:01:41,469 --> 00:01:45,009
+Now, the claim, "I'll draw a Tribble", will
+be true if you know that all the creatures
+
+20
+00:01:45,009 --> 00:01:45,899
+are Tribbles,
+
+21
+00:01:45,899 --> 00:01:49,149
+If there are only snorks, the claim will be
+false.
+
+22
+00:01:49,149 --> 00:01:54,310
+If you have three tribbles and three snorks,
+the answer is halfway between true and false.
+
+23
+00:01:54,310 --> 00:01:57,919
+If you have no idea what's in the box, the
+value is "Don't Know".
+
+24
+00:01:57,919 --> 00:02:01,209
+When you know that there is one tribble and
+two snorks but don't know what the rest is,
+
+25
+00:02:01,209 --> 00:02:03,709
+the value will be somewhere within the triangle.
+
+26
+00:02:03,709 --> 00:02:07,929
+Of course, this value depends on what you
+know: When you gain information, the value
+
+27
+00:02:07,929 --> 00:02:10,149
+moves away from the "Don't Know" corner.
+
+28
+00:02:10,149 --> 00:02:14,650
+That is, in a nutshell, the "uncertainity
+triangle".
+
+29
+00:02:14,650 --> 00:02:19,709
+Many alien races only know the three corner
+values and don't care about intermediate values.
+
+30
+00:02:19,709 --> 00:02:23,709
+Political logic is the opposite: The corners
+of the triangle are cut of.
+
+31
+00:02:23,709 --> 00:02:28,019
+An alien politician will never clearly say
+something is true, or false, or admit that
+
+32
+00:02:28,019 --> 00:02:29,049
+he doesn't know.
+
+33
+00:02:29,049 --> 00:02:34,930
+Well, he might say that he didn't know - this
+logigal value is called "plausible deniability".
+
+34
+00:02:34,930 --> 00:02:37,579
+Not everything fits into this schema, though.
+
+35
+00:02:37,579 --> 00:02:42,230
+The administrative logic used internally by
+the Central Galactic Bureaucracy, for instance,
+
+36
+00:02:42,230 --> 00:02:43,549
+has eleven values:
+
+37
+00:02:43,549 --> 00:02:50,549
+Approved, Rejected, Wrong-form, Bring-More-Documents,
+File-Lost, Not-This-Desk, This-will-take-some-time,
+
+38
+00:02:50,629 --> 00:02:55,930
+Awaiting-Cash, Nothing-I-can-do, Incorrectly-Stamped
+and Desk-closed-Come-Back-Later.
+
+39
+00:02:55,930 --> 00:03:00,269
+The administrative Logic is one of the reasons
+nobody really knows how the Bureaucracy works.
+
+40
+00:03:00,269 --> 00:03:03,200
+Another kind of logic is unary squid logic:
+
+41
+00:03:03,200 --> 00:03:06,269
+The logic of Space squids is based on one
+single value, "bloop".
+
+42
+00:03:06,269 --> 00:03:10,670
+The actual information is transmitted in the
+nuances on how the "bloop" is pronounced.
+
+43
+00:03:10,670 --> 00:03:15,379
+It's a bit like the earthling word "awful",
+which can mean "very good" or "very bad".
+
+44
+00:03:15,379 --> 00:03:17,709
+Now, Earthling logic is binary.
+
+45
+00:03:17,709 --> 00:03:21,980
+Earthling brains are composed of cells called
+neurons which have only two states: Silent
+
+46
+00:03:21,980 --> 00:03:23,359
+and active.
+
+47
+00:03:23,359 --> 00:03:28,670
+Analougously, earthling logic is based on
+two values: False and True. There is no middle ground.
+
+48
+00:03:28,670 --> 00:03:29,700
+
+
+49
+00:03:29,700 --> 00:03:33,099
+Earthlings believe that all claims have a
+value "true" or "false" - and when you see
+
+50
+00:03:33,099 --> 00:03:37,069
+neither of them, it's only because the actual
+value is hidden.
+
+51
+00:03:37,069 --> 00:03:39,780
+Earthlings call this imaginary hidden value
+"truth".
+
+52
+00:03:39,780 --> 00:03:43,870
+By the way, this binary thinking is the reason
+why earthlings have such problems wrapping
+
+53
+00:03:43,870 --> 00:03:46,219
+their mind around quantum physics.
+
+54
+00:03:46,219 --> 00:03:51,390
+Their brains can't accept the idea that, for
+example, two different realities can coexist
+
+55
+00:03:51,390 --> 00:03:52,870
+as long as they are not observed.
+
+56
+00:03:52,870 --> 00:03:57,269
+If we combine binary logic with the Earthling
+concept of "things", we get set theory.
+
+57
+00:03:57,269 --> 00:04:02,299
+A set is a collection of elements, mathematical
+entities that stand for any kind of "things".
+
+58
+00:04:02,299 --> 00:04:07,219
+Elements are either in a set or outside: Earthling
+logic knows no middle ground.
+
+59
+00:04:07,219 --> 00:04:11,379
+The earthling logic leads what earthling call
+"conclusions": Rules for combining claims
+
+60
+00:04:11,379 --> 00:04:13,579
+to get new claims.
+
+61
+00:04:13,579 --> 00:04:17,940
+Conclusions are what the fabric of mathematics
+is made of - we will come back to that point.
+
+62
+00:04:17,940 --> 00:04:18,190
+But mathematics is not only about abstract
+conclusions.
+
+63
+00:04:18,190 --> 00:04:19,209
+It has another, much more practical aspect:
+Mathematics is a way to avoid calculating.
+
+64
+00:04:19,209 --> 00:04:23,210
+What's calculating? Well, calculating is a
+way to avoid counting, or more generally measuring.
+
+65
+00:04:23,210 --> 00:04:25,060
+Let me elaborate.
+
+66
+00:04:25,060 --> 00:04:28,730
+Every young planetary civilization has to
+find a way to measure resources:
+
+67
+00:04:28,730 --> 00:04:34,420
+Population, arable land, food, real estate,
+raw materials, time : 
+
+68
+00:04:34,420 --> 00:04:35,770
+All this needs to be properly measured.
+
+69
+00:04:35,770 --> 00:04:42,220
+Also, construction requires measuring quantities
+like lengths, areas, volumes and angles beforehand.
+
+70
+00:04:42,220 --> 00:04:46,450
+Small quantities can be measured directly,
+but things get more complicated when the quantities
+
+71
+00:04:46,450 --> 00:04:48,870
+are either bigger or not easy to measure.
+
+72
+00:04:48,870 --> 00:04:53,370
+That's when calculating comes in: It's a shortcut,
+a way to combine available quantities to get
+
+73
+00:04:53,370 --> 00:04:54,760
+other quantities.
+
+74
+00:04:54,760 --> 00:04:58,250
+In other ways, calculating equals measuring
+times laziness.
+
+75
+00:04:58,250 --> 00:05:00,760
+Every alien race has its own calculating methods.
+
+76
+00:05:00,760 --> 00:05:06,770
+The Aldebaranians, for example, use a curve,
+to multiply values. It's a strange method,
+
+77
+00:05:06,770 --> 00:05:07,820
+but it works.
+
+78
+00:05:07,820 --> 00:05:12,640
+Now, the bigger a civilization becomes, the
+more things are to calculate.
+
+79
+00:05:12,640 --> 00:05:16,780
+That's usually the point when a planet's bio-administrator
+gives the civilization limited access to the
+
+80
+00:05:16,780 --> 00:05:20,890
+Great Galactic Grid, and thus to planetary
+superbrains which do the calculation work
+
+81
+00:05:20,890 --> 00:05:22,210
+for the whole galaxy.
+
+82
+00:05:22,210 --> 00:05:27,030
+The access to superbrains is completely free
+- at least for some hundred solar cycles.
+
+83
+00:05:27,030 --> 00:05:31,790
+But once the civilization is completely dependent
+on external computer power, a Tax Star portals
+
+84
+00:05:31,790 --> 00:05:36,450
+into orbit and the planet becomes full tax-paying
+member of the Galactic Bureaucracy.
+
+85
+00:05:36,450 --> 00:05:39,010
+At this point, they don't have much of a choice.
+
+86
+00:05:39,010 --> 00:05:42,660
+The "computation monopoly" of the Planetary
+Superbrains make them one of the powers that
+
+87
+00:05:42,660 --> 00:05:47,670
+run the Central Galactic Bureaucracy, alongside
+with the Tax Authority, the Control Bureau,
+
+88
+00:05:47,670 --> 00:05:52,830
+the Apparatus, the Galactic Intelligence,
+the Space Force, the Comitee, the Galactic
+
+89
+00:05:52,830 --> 00:05:53,710
+Bank...
+
+90
+00:05:53,710 --> 00:05:55,500
+Well, it's complicated.
+
+91
+00:05:55,500 --> 00:05:59,700
+Actually, nobody really knows who pulls the
+strings in the Galaxy.
+
+92
+00:05:59,700 --> 00:06:04,450
+But Mankind had no bio-admin and no access
+to superbrains - so they had to develop their
+
+93
+00:06:04,450 --> 00:06:07,910
+own way to deal with computations: Mathematics.
+
+94
+00:06:07,910 --> 00:06:12,170
+Basically, mathematics is a way of avoiding
+calculating , and calculating is a way of
+
+95
+00:06:12,170 --> 00:06:14,300
+avoiding measuring and counting.
+
+96
+00:06:14,300 --> 00:06:18,600
+That's why we could define "Mathematics equals
+measuring times laziness squared".
+
+97
+00:06:18,600 --> 00:06:20,850
+Tips for tourists:
+
+98
+00:06:20,850 --> 00:06:25,570
+In general, Earthling books are an interesting
+and exotic souvenir.
+
+99
+00:06:25,570 --> 00:06:30,420
+However, mathematics is considered contraband
+by Galactic laws, because it threatens the computation
+
+100
+00:06:30,420 --> 00:06:32,520
+monopoly of the Superbrains.
+
+101
+00:06:32,520 --> 00:06:36,430
+You don't want to run into a hyperspace patrol
+with a math book on board - it could get you
+
+102
+00:06:36,430 --> 00:06:38,560
+into serious trouble.
+
+103
+00:06:38,560 --> 00:06:42,340
+The first contact of aliens with mathematics
+goes back many millennia.
+
+104
+00:06:42,340 --> 00:06:46,630
+More than four thousand solar cycles ago,
+a couple of alien information smugglers landed
+
+105
+00:06:46,630 --> 00:06:50,350
+In a region called Egypt, and offered the
+earthlings advanced computation methods and
+
+106
+00:06:50,350 --> 00:06:54,130
+the exact value of Pi, in exchange for the
+recipe for beer.
+
+107
+00:06:54,130 --> 00:06:59,400
+The Egyptians politely declined: Their computation
+methods were sufficient to build huge pyramids,
+
+108
+00:06:59,400 --> 00:07:02,870
+not to speak of the logistics required to
+pay and house thousands of workers and to
+
+109
+00:07:02,870 --> 00:07:05,870
+move millions of tons of calcium carbonate.
+
+110
+00:07:05,870 --> 00:07:10,430
+As for Pi, they had already incorporated Pi
+into the dimensions of some of their pyramids,
+
+111
+00:07:10,430 --> 00:07:13,120
+using rolled and stacked cylindrical barrels.
+
+112
+00:07:13,120 --> 00:07:17,380
+To construct their pyramids, the Egyptians
+had developed something called Geometry:
+
+113
+00:07:17,380 --> 00:07:19,000
+The theory of shapes.
+
+114
+00:07:19,000 --> 00:07:24,620
+In a nutshell, geometry is all about lines,
+angles, and areas, and how to avoid measuring
+
+115
+00:07:24,620 --> 00:07:25,500
+them.
+
+116
+00:07:25,500 --> 00:07:29,870
+The information smugglers came back a thousand
+solar cycles later, this time in Babylonia.
+
+117
+00:07:29,870 --> 00:07:34,970
+But the Babylonians were not impressed. Their
+mathematicians knew the Pythagorean theorem,
+
+118
+00:07:34,970 --> 00:07:39,020
+could solve quadratic equations and were able
+to compute the square root of two, with an
+
+119
+00:07:39,020 --> 00:07:41,340
+error of one ten-thousandth.
+
+120
+00:07:41,340 --> 00:07:45,660
+More generally, the Babylonians had developped
+the art of manipulating numbers. Earthlings
+
+121
+00:07:45,660 --> 00:07:47,550
+call this Arithmetics.
+
+122
+00:07:47,550 --> 00:07:48,140
+What are numbers ?
+
+123
+00:07:48,140 --> 00:07:53,890
+Well, it has to do with "things". To quantify
+things, earthlings invented numbers, a series
+
+124
+00:07:53,890 --> 00:07:58,550
+of abstract "things", called 1 2 3 4 5 6 7
+etc. .
+
+125
+00:07:58,550 --> 00:08:02,990
+Think of numbers as a series of imaginary
+stickers. Whenever earthlings want to quantify
+
+126
+00:08:02,990 --> 00:08:08,270
+things, they glue the stickers onto them,
+one by one. This is called "counting".
+
+127
+00:08:08,270 --> 00:08:12,360
+The last assigned sticker indicates the quantity
+of things, their "number".
+
+128
+00:08:12,360 --> 00:08:16,970
+Earthlings are obsessed with numbers. They
+count and number everything: Houses, offspring,
+
+129
+00:08:16,970 --> 00:08:21,530
+vehicles, books, even kings, and gods - everything.
+
+130
+00:08:21,530 --> 00:08:26,430
+Except for the microbes.
+
+131
+00:08:26,430 --> 00:08:31,600
+There are many ways to represent numbers.
+But the most common way is the decimal system.
+
+132
+00:08:31,600 --> 00:08:36,030
+Numbers are written as series of digits - nine
+of them correspond to the numbers 1 to 9,
+
+133
+00:08:36,030 --> 00:08:38,110
+and an "empty" digit called zero.
+
+134
+00:08:38,110 --> 00:08:42,270
+The ten digits come from the fact that earthlings
+have ten fingers - the bony tentacles at the
+
+135
+00:08:42,270 --> 00:08:44,420
+end of their upper extremities.
+
+136
+00:08:44,420 --> 00:08:49,010
+Some ancient civilizations used a base-12
+system or a base-60 system, which are more
+
+137
+00:08:49,010 --> 00:08:53,930
+useful for divisions. You'll still find remains
+of both systems, in particular for measuring
+
+138
+00:08:53,930 --> 00:08:55,470
+time.
+
+139
+00:08:55,470 --> 00:08:59,720
+Earthling computers use a base-2 system, as
+they are based on true-false logic, not on
+
+140
+00:08:59,720 --> 00:09:03,190
+true-false-don't-know logic like most alien
+computers.
+
+141
+00:09:03,190 --> 00:09:08,110
+By the way, Squids have a similar system - but
+it's a base-one-system which contains only
+
+142
+00:09:08,110 --> 00:09:11,990
+the digit zero. Any number above zero can't
+be expressed in this system and is called
+
+143
+00:09:11,990 --> 00:09:12,840
+"some".
+
+144
+00:09:12,840 --> 00:09:17,100
+The earthlings found numbers quite useful
+- and whe earthlings find something useful,
+
+145
+00:09:17,100 --> 00:09:21,330
+you can bet that they want more of it. For
+starters, they took the digit 0 and made it
+
+146
+00:09:21,330 --> 00:09:24,160
+a number, closing the gap below the 1.
+
+147
+00:09:24,160 --> 00:09:28,960
+Generally, earthling mathematicians don't
+like gaps. For example, when you substract
+
+148
+00:09:28,960 --> 00:09:34,980
+5 from 2, you fall into a gap "below zero".
+So, earthlings invented negative numbers.
+
+149
+00:09:34,980 --> 00:09:40,500
+Likewise, when you divide 5 by 2, you fall
+into the gap between 2 and 3. so the earthlings
+
+150
+00:09:40,500 --> 00:09:45,500
+invented fractions, aka rational numbers.
+Those numbers can be represented as a nice
+
+151
+00:09:45,500 --> 00:09:46,900
+straight line.
+
+152
+00:09:46,900 --> 00:09:51,740
+In ancient Egypt and Babylon, mathematics
+was just a set of practical rules, a toolbox
+
+153
+00:09:51,740 --> 00:09:56,380
+for architects and bookkeepers. But this approach
+was about to change.
+
+154
+00:09:56,380 --> 00:10:02,940
+About 2300 solar cycles ago, our alien information
+smugglers came back a third time, again in
+
+155
+00:10:02,940 --> 00:10:03,410
+Egypt.
+
+156
+00:10:03,410 --> 00:10:06,920
+Here they met a greek mathematician named
+Euclid who had developped a wholly new approach
+
+157
+00:10:06,920 --> 00:10:09,700
+to mathematics: Axioms.
+
+158
+00:10:09,700 --> 00:10:14,420
+Realizing they had nothing to top that, our
+aliens left, never to return again.
+
+159
+00:10:14,420 --> 00:10:20,070
+But what are those axioms? Well, axioms are
+fundamental assumptions you build a theory
+
+160
+00:10:20,070 --> 00:10:26,060
+upon. Take, for example, the natural numbers
+1 2 3 4 5 etc. .
+
+161
+00:10:26,060 --> 00:10:29,510
+Those numbers can be described with the so-called
+Peano axioms:
+
+162
+00:10:29,510 --> 00:10:31,459
+- There is a number called zero.
+
+163
+00:10:31,459 --> 00:10:33,280
+- Every number has a successor.
+
+164
+00:10:33,280 --> 00:10:35,130
+- Zero is successor of nobody.
+
+165
+00:10:35,130 --> 00:10:37,319
+- No two numbers have the same successor.
+
+166
+00:10:37,319 --> 00:10:41,810
+- If a property holds for 0, and it propagates
+from each number to its successor, then it
+
+167
+00:10:41,810 --> 00:10:44,750
+holds for all numbers. This is called "induction".
+
+168
+00:10:44,750 --> 00:10:50,500
+Given any set of axioms, you can use logic
+to construct a whole building of conclusions.
+
+169
+00:10:50,500 --> 00:10:54,930
+Interesting conclusions are called "theorems".
+That's basically how the whole of modern mathematics
+
+170
+00:10:54,930 --> 00:10:56,540
+is built.
+
+171
+00:10:56,540 --> 00:11:00,920
+Note that mathematicians don't think axioms
+are based on "truth". They are just assumptions
+
+172
+00:11:00,920 --> 00:11:06,250
+to start with. Mathematicians like to play
+with axioms, omit this one or add that one,
+
+173
+00:11:06,250 --> 00:11:07,980
+and see what happens.
+
+174
+00:11:07,980 --> 00:11:11,970
+Note that mathematics never says "That is
+true", but rather "Given this and this, you
+
+175
+00:11:11,970 --> 00:11:16,940
+can conclude that". In other words, mathematical
+theorems are always true, because they are
+
+176
+00:11:16,940 --> 00:11:18,940
+elaborate tautologies.
+
+177
+00:11:18,940 --> 00:11:22,460
+One could define mathematics as "hunt for
+interesting tautologies".
+
+178
+00:11:22,460 --> 00:11:26,860
+This is the theoretical side of mathematics
+- there is still the practical one:
+
+179
+00:11:26,860 --> 00:11:29,000
+Measuring times lazyness squared.
+
+180
+00:11:29,000 --> 00:11:34,170
+Now, according to mathematicians, doing mathematics
+is not so much constructing into the sky as
+
+181
+00:11:34,170 --> 00:11:36,860
+it is exploring an unknown territory.
+
+182
+00:11:36,860 --> 00:11:40,810
+You have to construct the roads and bridges,
+but the landscape is already there, waiting.
+
+183
+00:11:40,810 --> 00:11:44,130
+So, let's explore a bit the landscape of mathematics,
+shall we?
+
+184
+00:11:44,130 --> 00:11:49,750
+At the very center we have basic logic, and
+the two disciplines Geometry and Arithmetics.
+
+185
+00:11:49,750 --> 00:11:54,380
+As said before, Geometry is all about shapes
+and measures, and arithmetics is all about
+
+186
+00:11:54,380 --> 00:11:56,180
+numbers and operations.
+
+187
+00:11:56,180 --> 00:11:59,880
+This is the starting point for the exploration
+of mathematics.
+
+188
+00:11:59,880 --> 00:12:03,430
+Starting from here, we will discover several
+regions of mathematics:
+
+189
+00:12:03,430 --> 00:12:06,260
+Number theory and algebra, which are derived
+from arithmetics,
+
+190
+00:12:06,260 --> 00:12:08,710
+Topology, which comes from geometry,
+
+191
+00:12:08,710 --> 00:12:12,570
+and Analysis, which is arithmetics used to
+measure geometry.
+
+192
+00:12:12,570 --> 00:12:18,040
+Let's start with topology. Topology is, so
+to speak, geometry minus measuring.
+
+193
+00:12:18,040 --> 00:12:21,779
+It's kind of "rubber geometry", it considers
+properties of shapes that don't change when
+
+194
+00:12:21,779 --> 00:12:23,279
+you deform them.
+
+195
+00:12:23,279 --> 00:12:27,790
+If you explore the properties of natural numbers,
+you get to number theory. Number theorists
+
+196
+00:12:27,790 --> 00:12:32,860
+are particularly fond of prime numbers - numbers
+that can't be broken down into smaller factors.
+
+197
+00:12:32,860 --> 00:12:37,350
+Now, arithmetics can be further generalized,
+with a little trick mathematicians are fond
+
+198
+00:12:37,350 --> 00:12:38,060
+of.
+
+199
+00:12:38,060 --> 00:12:44,690
+First, you take an example - say, the natural
+numbers. Secondly, you state some basic rules.
+
+200
+00:12:44,690 --> 00:12:49,270
+And third, you forget about the example and
+consider those rules as axioms.
+
+201
+00:12:49,270 --> 00:12:52,880
+This is exactly how arithmetics is generalized
+into Algebra.
+
+202
+00:12:52,880 --> 00:12:57,060
+For example, "Adding", can not only be applied
+to numbers, but also to other things like
+
+203
+00:12:57,060 --> 00:13:03,270
+arrows, spatial movements, permutations, rotations,
+or even dancing steps.
+
+204
+00:13:03,270 --> 00:13:07,930
+Roughly speaking: When you generalize the
+rules for addition , you get semi-groups.
+
+205
+00:13:07,930 --> 00:13:13,250
+When you include subtraction, you get groups.
+When you allow multiplication, you get rings.
+
+206
+00:13:13,250 --> 00:13:16,880
+And when you make sure you can divide, you
+get fields.
+
+207
+00:13:16,880 --> 00:13:20,940
+This belongs all to the domain of Algebra.
+In a certain manner, algebra is all about
+
+208
+00:13:20,940 --> 00:13:24,650
+manipulating symbols.
+
+209
+00:13:24,650 --> 00:13:24,970
+Scientific advice.
+
+210
+00:13:24,970 --> 00:13:29,490
+If you are a Xeno-biologist, you probably
+know Bloblings - jellyfish-like creatures
+
+211
+00:13:29,490 --> 00:13:31,620
+of various shapes. Now, the classification
+of bloblings is basically a problem of topology
+
+212
+00:13:31,620 --> 00:13:38,620
+- but you can do it using group theory. In
+other words, adding and subtracting.
+
+213
+00:13:39,320 --> 00:13:44,960
+See, bloblings are into what earthlings would
+call bondage - they like to wrap closed rubber
+
+214
+00:13:44,960 --> 00:13:46,450
+bands around their body.
+
+215
+00:13:46,450 --> 00:13:52,649
+There are countless bondage methods, but you
+can define "addition" and "subtraction" between
+
+216
+00:13:52,649 --> 00:13:53,600
+bondage loops:
+
+217
+00:13:53,600 --> 00:13:55,830
+This loop plus that loop is that loop, or
+that loop minus twice this loop is that loop.
+
+218
+00:13:55,830 --> 00:14:01,529
+Now, for this particular blobling, all bondage
+variantes can be obtained by combining two
+
+219
+00:14:01,529 --> 00:14:04,800
+loops : Through the hole, and around the hole.
+
+220
+00:14:04,800 --> 00:14:06,710
+Mathematicians would say it is a group of
+rank two.
+
+221
+00:14:06,710 --> 00:14:11,839
+Other bloblings need four loops, or six, or
+fourteen. This number doesn't change when
+
+222
+00:14:11,839 --> 00:14:15,310
+we deform the blobling - that's something
+topologists really like.
+
+223
+00:14:15,310 --> 00:14:19,870
+So, this number can be used to classify the
+bloblings.
+
+224
+00:14:19,870 --> 00:14:24,130
+If this was a bit too much for you, don't
+mind - the important thing here is that we
+
+225
+00:14:24,130 --> 00:14:27,050
+can use algebra to solve problems in topology.
+
+226
+00:14:27,050 --> 00:14:32,160
+This domain halfway between topology and algebra
+is called algebraic TOPOLOGY.
+
+227
+00:14:32,160 --> 00:14:36,029
+Algebra is a bit like what earthlings call
+magic: You manipulate some symbols and apply
+
+228
+00:14:36,029 --> 00:14:41,290
+some formulae - and suddenly you have performed
+something completely unrelated.
+
+229
+00:14:41,290 --> 00:14:45,770
+One could say that any sufficiently evolved
+algebra is indistinguishable from magic.
+
+230
+00:14:45,770 --> 00:14:50,089
+This holds even more for another discipline:
+Category theory. This theory is all about
+
+231
+00:14:50,089 --> 00:14:51,500
+stuff connected with arrows.
+
+232
+00:14:51,500 --> 00:14:56,460
+It looks like fiddle-faddle but is surprisingly
+useful. Mathematicians call the use of category
+
+233
+00:14:56,460 --> 00:14:59,220
+theory in other disciplines "abstract nonsense".
+
+234
+00:14:59,220 --> 00:15:03,350
+I'm not joking, it's called like that. "Abstract
+nonsense".
+
+235
+00:15:03,350 --> 00:15:09,240
+Now, we have seen two big regions of mathematics:
+Topology, which is basically geometry minus
+
+236
+00:15:09,240 --> 00:15:12,860
+measuring, and algebra, which is arithmetics
+minus numbers.
+
+237
+00:15:12,860 --> 00:15:16,720
+A third big field of mathematics takes the
+numbers from arithmetics and uses them to
+
+238
+00:15:16,720 --> 00:15:19,750
+measure geometry. This is called Analysis.
+
+239
+00:15:19,750 --> 00:15:24,810
+To understand analysis, we first have to understand
+something else: Infinity.
+
+240
+00:15:24,810 --> 00:15:29,370
+What's infinity? Well, it's another gap-filler:
+When you count and count onwards, the numbers
+
+241
+00:15:29,370 --> 00:15:35,690
+actually go nowhere. So mathematicians invented
+a number "behind" all natural numbers: Infinity.
+
+242
+00:15:35,690 --> 00:15:40,000
+Once you have the concept of infinity, you
+can observe, for example, infinitely long
+
+243
+00:15:40,000 --> 00:15:42,160
+increasing sequences of numbers.
+
+244
+00:15:42,160 --> 00:15:47,410
+Some tend to infinity, others approach some
+rational number - but there are others that
+
+245
+00:15:47,410 --> 00:15:49,860
+approach nothing, that fall into a gap.
+
+246
+00:15:49,860 --> 00:15:54,050
+But mathematicians don't like gaps. So they
+defined a new kind of numbers to fill the
+
+247
+00:15:54,050 --> 00:15:55,730
+gaps: Real numbers.
+
+248
+00:15:55,730 --> 00:15:59,860
+A real number is anything that can be approached
+by an infinite sequence of numbers.
+
+249
+00:15:59,860 --> 00:16:06,020
+Now, real numbers are very useful to measure
+things - lengths, angles, areas, time and
+
+250
+00:16:06,020 --> 00:16:11,209
+so on. Analysis is particularly interested
+in "functions" - measures that change over
+
+251
+00:16:11,209 --> 00:16:11,959
+time.
+
+252
+00:16:11,959 --> 00:16:18,010
+This leads to two things: Accumulated values,
+or "integrals", and change rates, or "differentials".
+
+253
+00:16:18,010 --> 00:16:22,440
+Turns out that the one is actually the inverse
+of the other. That's the Fundamental Theorem
+
+254
+00:16:22,440 --> 00:16:24,089
+of Calculus.
+
+255
+00:16:24,089 --> 00:16:28,370
+Analysis has many practical applications in
+engineering and natural science, particularly
+
+256
+00:16:28,370 --> 00:16:34,600
+physics. We will speak about earthling sciences
+in another episode.
+
+257
+00:16:34,600 --> 00:16:36,230
+Strategic advice:
+
+258
+00:16:36,230 --> 00:16:40,040
+When attacking a planet, a common tactic is
+to cut off the defender from the Great Galactic
+
+259
+00:16:40,040 --> 00:16:45,290
+Grid, to block all ballistic computations.
+However, earthlings' artillery doesn't need
+
+260
+00:16:45,290 --> 00:16:50,610
+to access the Grid, they use mathematics.
+So you better anticipate precisely aimed artillery
+
+261
+00:16:50,610 --> 00:16:53,440
+fire.
+
+262
+00:16:53,440 --> 00:16:58,450
+With real numbers, mathematicians have filled
+most of the gaps. But one gap remains:
+
+263
+00:16:58,450 --> 00:17:02,930
+There is still no square root of minus one,
+or any other negative number. So mathematicians
+
+264
+00:17:02,930 --> 00:17:06,110
+invented a square root of minus one and called
+it "i".
+
+265
+00:17:06,110 --> 00:17:09,699
+They didn't quite know where to put it, so
+they put it it above the line.
+
+266
+00:17:09,699 --> 00:17:14,149
+This new number, and everything you can create
+by combining real numbers with i, are the
+
+267
+00:17:14,149 --> 00:17:15,309
+complex numbers.
+
+268
+00:17:15,309 --> 00:17:20,249
+Back to our mathematical landscape. Like between
+algebra and topology, there are interdisciplinary
+
+269
+00:17:20,249 --> 00:17:22,839
+fields between analysis and the other fields.
+
+270
+00:17:22,839 --> 00:17:26,769
+When you combine analysis with topology, you
+get differential geometry - the theory of
+
+271
+00:17:26,769 --> 00:17:29,549
+shapes with notions of length and angles.
+
+272
+00:17:29,549 --> 00:17:33,879
+It's very useful, for example for speculating
+about the shape of the universe.
+
+273
+00:17:33,879 --> 00:17:37,820
+On the border between analysis and algebra
+we have algebraic geometry - the theory of
+
+274
+00:17:37,820 --> 00:17:43,159
+shapes defined by polynomials. One example
+would be this heart-shaped surface, which
+
+275
+00:17:43,159 --> 00:17:45,549
+is defined by this equation.
+
+276
+00:17:45,549 --> 00:17:49,629
+Earthling viewers, feel free to forward the
+formula to mathematically inclined reproduction
+
+277
+00:17:49,629 --> 00:17:53,129
+partners. I understand earthlings like to
+do such things.
+
+278
+00:17:53,129 --> 00:17:57,320
+I don't know why. It's probably a ritual.
+
+279
+00:17:57,320 --> 00:18:01,259
+There are many other mathematical disciplines,
+for example probability theory.
+
+280
+00:18:01,259 --> 00:18:05,619
+It's basically an extension of binary logic
+to the whole true-false-edge of the uncertainity
+
+281
+00:18:05,619 --> 00:18:07,100
+triangle.
+
+282
+00:18:07,100 --> 00:18:10,899
+Earthlings think that even uncertain claims
+are somewhere between true and false.
+
+283
+00:18:10,899 --> 00:18:14,019
+There is still a whole dimension missing,
+but it's already an improvement.
+
+284
+00:18:14,019 --> 00:18:18,379
+I will conclude with a theorem that doesn't
+belong to the fields mentioned above.
+
+285
+00:18:18,379 --> 00:18:22,450
+It's rather out in the ocean of Logic and
+meta-mathematics. I'm speaking of G�del's
+
+286
+00:18:22,450 --> 00:18:23,739
+first theorem.
+
+287
+00:18:23,739 --> 00:18:27,220
+It's closely related to Earthlings' "true
+or false" logic.
+
+288
+00:18:27,220 --> 00:18:32,529
+See, most mathematical claims in a theory
+can either be proven true, or proven false.
+
+289
+00:18:32,529 --> 00:18:35,730
+But G�del constructed a claim that says
+"I can't be proven".
+
+290
+00:18:35,730 --> 00:18:39,820
+The claim can't be false - otherwise it would
+be a false provable claim; and that would
+
+291
+00:18:39,820 --> 00:18:40,899
+be nonsense.
+
+292
+00:18:40,899 --> 00:18:44,580
+So, according to earthling logic, it must
+be true.
+
+293
+00:18:44,580 --> 00:18:48,989
+But if it's true, it is right about being
+unprovable. So we have a claim that is true,
+
+294
+00:18:48,989 --> 00:18:51,090
+but you can't prove it within the theory.
+
+295
+00:18:51,090 --> 00:18:55,590
+In other words, mathematics can prove a lot,
+but it will never be able to prove or disprove
+
+296
+00:18:55,590 --> 00:18:58,519
+everything, there will always be open questions.
+
+297
+00:18:58,519 --> 00:19:01,409
+This was the thirteenth' episode of Earthlings
+101.
+
+298
+00:19:01,409 --> 00:19:06,279
+The next episode will be about the two thinking
+systems Earthlings have : Intuition and reason.
+
+299
+00:19:06,279 --> 00:19:10,249
+But before that, I'll have to make the third
+and last episode of my "No Edge" series about
+
+300
+00:19:10,249 --> 00:19:11,919
+the shape of the universe.
+
+301
+00:19:11,919 --> 00:19:13,799
+Subscribe if you don't want to miss it.
+
+302
+00:19:13,799 --> 00:19:20,799
+Thanks for watching, and as always: Don't
+forget to be alien.
+

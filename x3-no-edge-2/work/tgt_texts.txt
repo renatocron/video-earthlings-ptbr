@@ -1,0 +1,193 @@
+Saudações, alienígenas e terráqueos!
+Esta é a parte 2 da nossa minissérie sobre a forma do universo.
+Se você não viu a parte 1, sugiro assistir antes.
+Hoje vamos falar da curvatura do espaço.
+Para deixar claro: vamos falar da curvatura do espaço, não do espaço-tempo, estudada pela relatividade geral.
+O que é curvatura?
+Numa superfície, curvatura significa que ela não pode ser achatada sem esticar ou espremer.
+Um papel dobrado pode ser achatado, mas tente achatar uma calota esférica ou uma sela: não dá.
+Isso é por causa da curvatura.
+Diz-se que a esfera tem curvatura positiva, ou esférica.
+Uma sela tem curvatura negativa, ou hiperbólica.
+Uma superfície pode ter curvaturas diferentes em lugares diferentes.
+Uma banana, por exemplo, tem curvatura positiva de um lado e negativa do outro.
+Vista de fora, a diferença é óbvia, mas como explicar isso às lesmas planas que vivem na superfície?
+Bem, dá para tentar com triângulos.
+Num plano, os ângulos de um triângulo somam 180°, seja qual for o tamanho.
+Por quê?
+Imagine uma lesma plana seguindo a borda.
+Paciência, é uma lesma.
+Pode demorar.
+Quer saber?
+Esquece a lesma.
+Vamos pegar um tubarão!
+Numa moto de luz!
+Com um baita laser preso na cabeça!
+Agora sim.
+Cada vez que o tubarão faz uma curva, o laser faz "vush".
+No fim, ele deu uma volta completa, então os "vushes" somam uma volta inteira.
+Mas cada "vush" somado a um ângulo dá 180°.
+Daí é fácil calcular que a soma dos ângulos é 180°.
+Agora, vejamos o que acontece numa esfera.
+Este triângulo, por exemplo, tem três ângulos de 90°. 270° no total.
+De onde vêm os 90° a mais?
+Resposta: curvatura.
+A esfera tem curvatura positiva, que de algum jeito infla os ângulos.
+Triângulos pequenos se comportam quase como no plano, mas quanto maiores, mais os ângulos crescem.
+Pense na curvatura como sobrepressão: ela dá aos triângulos forma de almofada e deixa os ângulos menos pontudos.
+E numa superfície de curvatura negativa, uma sela?
+Aqui acontece o contrário: os ângulos são menores do que o esperado.
+Pense na curvatura negativa como subpressão, que deixa os triângulos murchos e as pontas mais agudas.
+Aliás, o mesmo vale para qualquer polígono: a curvatura negativa murcha, a positiva infla.
+Mas de onde vem esse comportamento estranho?
+Você pode ter uma ideia ao cobrir uma superfície de curvatura positiva com um retalho redondo de tecido.
+Perto da borda sobra tecido: é preciso esconder triângulos de pano dobrando e costurando.
+Os alfaiates chamam esses triângulos escondidos de "pences".
+Ou seja, com curvatura positiva, a borda dos discos é mais curta do que o esperado.
+Em outras palavras, a periferia de qualquer região é menor do que o esperado.
+Tem superfície que sumiu na costura, por assim dizer.
+Por isso, ao ligar três ou mais pontos pelos caminhos mais curtos, as linhas tendem a se curvar para fora, aproveitando as distâncias menores na periferia.
+É como os voos intercontinentais na Terra: as rotas tendem a se curvar rumo aos polos, porque perto do polo os meridianos ficam mais próximos.
+É por isso que os polígonos ficam com forma de almofada em superfícies de curvatura positiva.
+Outra coisa que acontece com curvatura positiva é que as paralelas convergem.
+É que o tecido entre as paralelas, por assim dizer, sumiu na costura.
+E as superfícies de curvatura negativa?
+Vamos tentar pôr um retalho redondo de tecido sobre uma sela.
+Não dá certo, a não ser que a gente rasgue a borda ou insira triângulos de pano para acompanhar a forma.
+Aqui o efeito é o inverso: longe do centro, há mais superfície do que o esperado.
+Assim, as ligações mais curtas entre os cantos evitam a periferia e cortam caminho pelo centro, onde as distâncias são menores.
+Por isso os lados se curvam para dentro e os cantos ficam mais pontudos do que no plano.
+Se a Terra fosse um hiperboloide, as rotas aéreas se curvariam rumo ao equador, onde as distâncias são menores.
+E as retas paralelas numa superfície de curvatura negativa?
+Bem, elas divergem.
+É por causa do tecido extra inserido entre elas, por assim dizer.
+E dá para fazer o mesmo no espaço tridimensional?
+Claro que dá.
+O equivalente tridimensional do retalho redondo é uma bola.
+No espaço plano, a bola se comporta exatamente como deveria.
+Mas num universo de curvatura positiva, a superfície de uma bola grande é menor.
+Ou seja, o espaço lá fora é menor do que você pensa, como se alguém tivesse roubado fatias inteiras de espaço e ligado o resto com portais, torcendo para ninguém notar.
+Num universo de curvatura negativa, a superfície da bola é maior: há mais espaço lá fora do que você imagina.
+Como se alguém tivesse inserido espaço extra.
+O análogo tridimensional dos polígonos são os poliedros, e eles reagem à curvatura do mesmo jeito.
+Ponha um poliedro num espaço de curvatura positiva, e as arestas e faces se curvam para fora, aproveitando o espaço encolhido lá fora.
+No espaço de curvatura negativa, acontece o contrário.
+Lá o espaço exterior é mais espaçoso, então arestas e faces se curvam para dentro, evitando as longas distâncias lá fora.
+Pense na curvatura positiva como sobrepressão, que infla os polígonos em almofadas e deixa os cantos mais obtusos.
+A curvatura negativa é como subpressão, que murcha o polígono e deixa os cantos pontudos.
+Mas o nosso universo é plano ou curvo?
+Para saber, teríamos de medir triângulos ou poliedros enormes de verdade, e isso não é fácil.
+Vamos chegar lá no próximo episódio.
+Hoje o objetivo é entender o que é curvatura e ver alguns exemplos.
+O universo poderia até ter curvatura mista.
+Lembra da banana?
+A curvatura dela é positiva de um lado e negativa do outro.
+O universo não poderia ser assim, uma espécie de hiperbanana?
+Bem, sim e não.
+Poderia, mas isso violaria o chamado "princípio cosmológico".
+É a hipótese de que, em grande escala, o universo é igual em todo lugar.
+Não é uma colcha de retalhos com propriedades, formas e leis físicas diferentes.
+Isso exclui curvatura mista, assim como exclui zonas com constantes físicas diferentes, e assim como exclui uma borda.
+Essa hipótese vem do que os terráqueos chamam de "Navalha de Ockham": entre hipóteses igualmente apoiadas pelas evidências, as simples são melhores que as complicadas.
+Pense na Navalha de Ockham como uma ordem de busca comprovada: vale testar primeiro as hipóteses mais simples.
+Por exemplo, quando vejo um círculo na plantação, posso supor uma conspiração de rapazes da roça que passaram a noite num campo, amassando o trigo com ferramentas terráqueas primitivas.
+Mas uma hipótese bem mais simples seria um colega alienígena com uma impressora de plantação querendo falar com uma nave em órbita.
+Mochileiros fazem isso o tempo todo.
+Então, não precisa de teoria da conspiração se há uma explicação mais simples.
+Daqui em diante, vamos supor que o universo seja plano, ou todo de curvatura positiva, ou todo de curvatura negativa.
+Então, nada de hiperbanana.
+O modelo mais simples de curvatura positiva é a hiperesfera.
+Antes de entender a hiperesfera, vamos explicar às lesmas planas como se constrói uma esfera.
+Como fazer isso?
+Talvez começando com dois quadrados, um por hemisfério.
+Inflamos os dois com curvatura até os ângulos de 90° sumirem.
+Agora cada parte tem uma borda lisa e reta, sem cantos.
+Poderíamos chamar isso de zerógono, mas o nome comum é "equador".
+Depois colamos os dois pelo equador, com portais.
+É aí que alguma lesma plana perguntaria para que serve a curvatura.
+Não dá para pegar dois quadrados, ligar com portais e pronto?
+Não seria bem mais fácil?
+Mais fácil, talvez, mas tem um problema.
+Vejam, caras lesmas planas, cada canto só encosta em dois cantos de quadrado.
+E não dá para colar dois cantos de 90° de forma lisa.
+Então é preciso usar curvatura para inflar os ângulos até 180° e a colagem ficar lisa.
+Os dois quadrados inflados seriam meio disco, meio quadrado: sem cantos, como um disco, e com lados retos, como um quadrado.
+"Reto" quer dizer reto para quem vive na superfície.
+Isso provavelmente explodiria a cabeça de algumas lesmas planas.
+Mas para você seria fácil, porque dá para pensar em hemisférios em segredo.
+Agora podemos fazer o mesmo no espaço tridimensional: pegamos dois cubos, inflamos com curvatura positiva para alisar cantos e arestas, e colamos com portais.
+Esses cubos inflados seriam em parte cubos, em parte esferas: cantos e arestas arredondados, mas com faces planas.
+O resultado se chama hiperesfera.
+No episódio passado vimos que, ao pegar um cubo e colar as faces opostas, obtemos um hipertoro.
+Por que a hiperesfera precisa de curvatura positiva e o hipertoro não?
+Por causa dos cantos.
+Vejam, no hipertoro este canto é idêntico a este, e a este, e a este... e, na verdade, todos os cantos são o mesmo canto.
+Então, em volta deste canto, oito partes do espaço se encaixam perfeitamente, sem precisar de curvatura.
+Por outro lado, vejamos o que acontece ao colar dois cubos numa hiperesfera, mas sem a curvatura.
+Este canto é idêntico a este, e... só.
+Então a vizinhança deste canto são duas partes dos dois cubos, e isso não se encaixa.
+Temos de inflar os cubos até os cantos se alisarem, e aí a colagem funciona.
+Como já disse, as faces dos hemisférios são planas: só parecem curvas na nossa representação 3D, porque não dá para mostrar a curvatura do espaço lá dentro.
+Por isso podemos colar as duas bolas.
+Essa superfície de colagem é, por assim dizer, o equador da hiperesfera.
+Vamos viajar por um universo hiperesférico mais rápido que a luz.
+Na verdade, só uma coisa viaja mais rápido que a luz sem dobrar o espaço: um boato.
+Vamos inventar um boato: digamos, que a celebridade do YouTube CGP Grey é, na verdade, um boneco de palitinho superinteligente.
+A bolha do boato se expande a partir da Terra mais rápido que a luz.
+No começo, a superfície da bolha cresce como esperado, mas depois cresce mais devagar e fica cada vez menos convexa.
+Até que a superfície se inverte e fica côncava: cruzamos o equador cósmico.
+A bolha vira do avesso e volta a encolher.
+Ela fica cada vez menor até sumir num ponto: o antípoda do nosso ponto de partida.
+Assim construímos nosso primeiro espaço de curvatura positiva: a hiperesfera.
+Mas está longe de ser o único modelo curvo.
+No episódio passado, contei que, ao pegar um quadrado e pôr dois pares de portais invertidos colando pontos opostos, obtemos o chamado plano projetivo.
+O que não contei é que, como na esfera, é preciso curvatura para a colagem ficar lisa nos cantos.
+O plano projetivo é um lugar estranho e interessante, onde paralelas se cruzam no infinito e todas as cônicas são basicamente iguais.
+Além disso, ele é não orientável, porque contém uma faixa de Möbius.
+Talvez eu faça um vídeo sobre ele um dia.
+Mas não tão cedo.
+Dá para fazer o mesmo em três dimensões.
+Pegue um cubo, infle com curvatura positiva como na hiperesfera, e ponha portais colando cada ponto ao seu antípoda.
+O resultado é o que os topólogos chamam de "espaço projetivo".
+Ao contrário do primo bidimensional, ele é orientável.
+Mas não é preciso começar com um cubo.
+Pegue, por exemplo, um dodecaedro e cole as faces opostas.
+Pentágonos opostos têm orientações diferentes, então é preciso girá-los de algum jeito, digamos, meia volta.
+Que espaço é esse?
+Inflando um pouco o resultado, obtemos de novo a hiper-semiesfera com pontos opostos colados.
+Então é só outro jeito de construir o espaço projetivo.
+Mas e se girarmos só 36° em cada par?
+Obtemos um espaço bem mais interessante.
+Agora cada canto corresponde a 3 outros cantos.
+Olhando em volta de um canto, vemos que o quebra-cabeça quase se encaixa, os cantos só estão um pouco pontudos demais.
+Então basta acrescentar um pouquinho de curvatura positiva para fechar as frestas.
+Esse espaço de curvatura positiva se chama espaço dodecaédrico de Poincaré.
+Ele foi proposto em 2003 como possível forma do universo por um terráqueo chamado Jean-Pierre Luminet.
+Voltaremos a isso no episódio 3.
+E se girarmos os portais não um décimo de volta, mas três décimos?
+Aí muda bastante: agora todos os cantos se juntam num único ponto!
+Com isso, a vizinhança desse ponto fica bem lotada, e temos de reduzir muito os ângulos dos cantos para caber todo mundo.
+Ou seja, precisamos de muita curvatura negativa para os cantos se encaixarem.
+Esse é o espaço de Seifert-Weber, um exemplo de modelo finito com curvatura negativa.
+Outro exemplo de modelo com curvatura negativa seria o chifre de Picard.
+É difícil explicar sem matemática avançada, então só vou esboçar seu análogo bidimensional: um chifre com pontos opostos da borda colados, ou seja, sai por aqui, entra por aqui.
+A ponta do chifre é infinitamente longa, mas tão fina que o volume é finito.
+Neste vídeo vimos três modelos de curvatura positiva e dois de curvatura negativa para um universo finito sem borda.
+Claro, nunca disse que o universo é necessariamente finito, só que é uma possibilidade: ele pode muito bem ser infinito.
+Há muitos outros modelos, finitos e infinitos.
+Mas acho que já deu por hoje.
+A ideia deste episódio não era listar todos os modelos, mas dar uma ideia do que "espaço curvo" quer dizer.
+No terceiro e último episódio, vamos falar da expansão do universo e discutir hipóteses e evidências sobre a forma real do universo.
+Uma nota pessoal: sou mais matemático do que físico.
+Então não prometo não errar na física.
+Por exemplo, da última vez eu disse que um universo de Alice transformaria matéria em antimatéria.
+Mas, como um espectador notou, talvez não seja tão simples.
+Aliás, esse comentário não foi no YouTube, e sim no site Universe Today, que publicou um artigo sobre o primeiro episódio.
+Esse artigo me trouxe muitas visualizações, obrigado!
+Se você gosta de astronomia, provavelmente vai gostar desse site: experimente!
+Sobre os próximos vídeos: perguntei se vocês preferiam que eu alternasse com o "Terráqueos 101" ou terminasse esta série antes, e dois terços votaram por terminar a série, um terço por alternar.
+Por isso você está vendo este vídeo hoje.
+Mas por isso também escolhi uma solução híbrida: depois deste vídeo, vou fazer o próximo episódio do Terráqueos 101 e, depois, terminar esta série.
+Assim não espanto quem não liga nem um pouco para cosmotopologia.
+Por hoje é só.
+Curta, se inscreva, conte para sua mãe e, como sempre: não se esqueça de ser alienígena!

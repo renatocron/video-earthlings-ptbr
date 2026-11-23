@@ -1,0 +1,1160 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 2.08,
+  "text_src": "Greetings, aliens and earthlings!"
+ },
+ {
+  "id": 2,
+  "start": 2.46,
+  "end": 5.54,
+  "text_src": "This is part 2 of our mini-series about the shape of the universe."
+ },
+ {
+  "id": 3,
+  "start": 5.9,
+  "end": 9.04,
+  "text_src": "If you didn't watch part 1, I suggest you watch it first."
+ },
+ {
+  "id": 4,
+  "start": 9.4,
+  "end": 11.62,
+  "text_src": "Today we will speak about curvature of space."
+ },
+ {
+  "id": 5,
+  "start": 42.28,
+  "end": 48.92,
+  "text_src": "To be clear, we will talk about curvature of space, not about curvature of spacetime, as examined by general relativity."
+ },
+ {
+  "id": 6,
+  "start": 49.78,
+  "end": 50.82,
+  "text_src": "What is curvature?"
+ },
+ {
+  "id": 7,
+  "start": 51.2,
+  "end": 55.96,
+  "text_src": "For a surface, curvature means that the surface cannot be flattened without stretching or squeezing it."
+ },
+ {
+  "id": 8,
+  "start": 55.96,
+  "end": 61.78,
+  "text_src": "A bent piece of paper can be flattened, but try flattening a sphere cap, or a saddle surface: It won't work."
+ },
+ {
+  "id": 9,
+  "start": 62.16,
+  "end": 63.34,
+  "text_src": "That's because of the curvature."
+ },
+ {
+  "id": 10,
+  "start": 63.62,
+  "end": 67.44,
+  "text_src": "A sphere is said to have positive curvature, aka spherical curvature."
+ },
+ {
+  "id": 11,
+  "start": 67.72,
+  "end": 71.44,
+  "text_src": "A saddle surface has negative curvature, aka hyperbolic curvature."
+ },
+ {
+  "id": 12,
+  "start": 71.7,
+  "end": 74.28,
+  "text_src": "A surface can be differently curved at different locations."
+ },
+ {
+  "id": 13,
+  "start": 74.64,
+  "end": 79.46,
+  "text_src": "A banana for example is positively curved on one side, and negatively on the other side."
+ },
+ {
+  "id": 14,
+  "start": 79.46,
+  "end": 85.7,
+  "text_src": "Now, the difference is easily visible \"from the outside\", but how to explain it to flatsnails inside the surface?"
+ },
+ {
+  "id": 15,
+  "start": 86.14,
+  "end": 88.58,
+  "text_src": "Well, you could try to explain it with triangles."
+ },
+ {
+  "id": 16,
+  "start": 89.1,
+  "end": 94.82,
+  "text_src": "On a flat plane, the angles of a triangle sum up to 180°, no matter its size."
+ },
+ {
+  "id": 17,
+  "start": 95.14,
+  "end": 96.36,
+  "text_src": "Why is this so?"
+ },
+ {
+  "id": 18,
+  "start": 96.66,
+  "end": 99.12,
+  "text_src": "Well, imagine a flatsnail following the border."
+ },
+ {
+  "id": 19,
+  "start": 99.96,
+  "end": 101.72,
+  "text_src": "Be patient, it's a snail."
+ },
+ {
+  "id": 20,
+  "start": 103.7,
+  "end": 105.04,
+  "text_src": "This might take a while."
+ },
+ {
+  "id": 21,
+  "start": 105.88,
+  "end": 106.82,
+  "text_src": "You know what?"
+ },
+ {
+  "id": 22,
+  "start": 107.1,
+  "end": 107.92,
+  "text_src": "Forget about the flatsnail."
+ },
+ {
+  "id": 23,
+  "start": 108.86,
+  "end": 109.92,
+  "text_src": "Let's take a shark!"
+ },
+ {
+  "id": 24,
+  "start": 110.16,
+  "end": 110.64,
+  "text_src": "On a lightcycle!"
+ },
+ {
+  "id": 25,
+  "start": 111.46,
+  "end": 113.5,
+  "text_src": "With a fricking laser attached to his head!"
+ },
+ {
+  "id": 26,
+  "start": 113.88,
+  "end": 115.16,
+  "text_src": "Now, that's better."
+ },
+ {
+  "id": 27,
+  "start": 115.48,
+  "end": 118.26,
+  "text_src": "Each time the shark takes a corner, the laser goes \"woosh\"."
+ },
+ {
+  "id": 28,
+  "start": 121.12,
+  "end": 126.4,
+  "text_src": "And afterwards, he has made a full turn - so, the sums of the \"wooshs\" sum up to a full turn."
+ },
+ {
+  "id": 29,
+  "start": 126.72,
+  "end": 129.76,
+  "text_src": "But each \"woosh\" sums up with one angle to 180°."
+ },
+ {
+  "id": 30,
+  "start": 130.72,
+  "end": 134.14,
+  "text_src": "From this you can easily calculate that the sum of the angles is 180°."
+ },
+ {
+  "id": 31,
+  "start": 135.42,
+  "end": 137.7,
+  "text_src": "Now, let's look what happens on a sphere."
+ },
+ {
+  "id": 32,
+  "start": 137.94,
+  "end": 144.38,
+  "text_src": "This triangle, for example, has three 90° angles. 270° in total."
+ },
+ {
+  "id": 33,
+  "start": 144.38,
+  "end": 146.92,
+  "text_src": "Where do the additional 90° come from?"
+ },
+ {
+  "id": 34,
+  "start": 147.24,
+  "end": 148.38,
+  "text_src": "The answer: Curvature."
+ },
+ {
+  "id": 35,
+  "start": 148.86,
+  "end": 152.32,
+  "text_src": "The sphere has positive curvature, which somehow inflates the angles."
+ },
+ {
+  "id": 36,
+  "start": 152.82,
+  "end": 157.64,
+  "text_src": "Small triangles behave almost as on a plane, but the bigger they are, the more the angles grow."
+ },
+ {
+  "id": 37,
+  "start": 158.1,
+  "end": 163.36,
+  "text_src": "Think of curvature as overpressure: It gives the triangles a cushion form and makes the angles less pointy."
+ },
+ {
+  "id": 38,
+  "start": 163.6,
+  "end": 166.6,
+  "text_src": "But what about a negatively curved surface - a saddle surface?"
+ },
+ {
+  "id": 39,
+  "start": 167.08,
+  "end": 170.98,
+  "text_src": "Here, the opposite happens: The angles are inferior to what you might expect."
+ },
+ {
+  "id": 40,
+  "start": 170.98,
+  "end": 176.7,
+  "text_src": "Think of negative curvature as underpressure which gives the triangles an evacuated shape and makes corners pointier."
+ },
+ {
+  "id": 41,
+  "start": 177.02,
+  "end": 183.04,
+  "text_src": "By the way, the same happens to arbitrary polygons: Negative curvature sucks them out, positive pumps them up."
+ },
+ {
+  "id": 42,
+  "start": 183.42,
+  "end": 185.42,
+  "text_src": "But where does this strange behaviour come from?"
+ },
+ {
+  "id": 43,
+  "start": 185.6,
+  "end": 190.04,
+  "text_src": "You might get an idea when you try to put a round patch of fabric onto a positively curved surface."
+ },
+ {
+  "id": 44,
+  "start": 190.62,
+  "end": 196.06,
+  "text_src": "You'll notice that near the border, there is too much fabric - you have to hide fabric triangles by folding and sewing."
+ },
+ {
+  "id": 45,
+  "start": 196.06,
+  "end": 198.84,
+  "text_src": "Tailors call the hidden triangles \"darts\"."
+ },
+ {
+  "id": 46,
+  "start": 199.24,
+  "end": 204.94,
+  "text_src": "So, what happens here is that in the case of positive curvature, the border of disks is shorter than you might expect."
+ },
+ {
+  "id": 47,
+  "start": 205.24,
+  "end": 209.26,
+  "text_src": "In other words, the outskirts of any region are smaller than you might expect."
+ },
+ {
+  "id": 48,
+  "start": 209.52,
+  "end": 212.34,
+  "text_src": "There is surface that has been \"sewn away\", so to say."
+ },
+ {
+  "id": 49,
+  "start": 212.64,
+  "end": 221.48,
+  "text_src": "In consequence, when you connect three or more points with shortest lines, the lines have the tendency to bulge outwards, in order to benefit from the shorter distances in the outskirts."
+ },
+ {
+  "id": 50,
+  "start": 221.48,
+  "end": 230.8,
+  "text_src": "It's like intercontinental flights on Earth: The flight paths have the tendency to bulge towards the poles, because near a pole, the distance between lines of longitude is shorter."
+ },
+ {
+  "id": 51,
+  "start": 231.22,
+  "end": 234.88,
+  "text_src": "That's the reason why polygons have a cushion form on positively curved surfaces."
+ },
+ {
+  "id": 52,
+  "start": 235.42,
+  "end": 238.68,
+  "text_src": "Another thing that happens on a positively curved surface is that parallels converge."
+ },
+ {
+  "id": 53,
+  "start": 239.6,
+  "end": 243.18,
+  "text_src": "The reason is, so to speak, the fabric between the parallels is \"sewn away\"."
+ },
+ {
+  "id": 54,
+  "start": 243.64,
+  "end": 245.84,
+  "text_src": "Now, what about negatively curved surfaces?"
+ },
+ {
+  "id": 55,
+  "start": 245.84,
+  "end": 249.3,
+  "text_src": "Let's try to put a round patch of fabric onto a saddle surface."
+ },
+ {
+  "id": 56,
+  "start": 249.78,
+  "end": 256.04,
+  "text_src": "We notice that it doesn't work, unless we tear the border apart, or insert fabric triangles to adapt to the shape."
+ },
+ {
+  "id": 57,
+  "start": 256.46,
+  "end": 261.96,
+  "text_src": "So, in this case, we have the inverse effect: Far from the center we have more surface than you might expect."
+ },
+ {
+  "id": 58,
+  "start": 262.44,
+  "end": 268.78,
+  "text_src": "In consequence, shortest connections between corners avoid the outskirts and take a shortcut through the center where distances are smaller."
+ },
+ {
+  "id": 59,
+  "start": 268.78,
+  "end": 272.74,
+  "text_src": "That's why the edges bulge inwards, and the corners are pointier than on a plane."
+ },
+ {
+  "id": 60,
+  "start": 273.16,
+  "end": 279.72,
+  "text_src": "For example, if earth were a hyperboloid, you would see flight paths bending towards the equator, because there distances are shorter."
+ },
+ {
+  "id": 61,
+  "start": 280.04,
+  "end": 283.1,
+  "text_src": "What happens to parallel lines on a negatively curved surface?"
+ },
+ {
+  "id": 62,
+  "start": 283.56,
+  "end": 285.08,
+  "text_src": "Well, they diverge."
+ },
+ {
+  "id": 63,
+  "start": 285.42,
+  "end": 289.24,
+  "text_src": "That happens, so to speak, because of the additional fabric inserted between them."
+ },
+ {
+  "id": 64,
+  "start": 289.24,
+  "end": 292.26,
+  "text_src": "Now, can we do the same in three-dimensional space?"
+ },
+ {
+  "id": 65,
+  "start": 292.6,
+  "end": 293.76,
+  "text_src": "Of course we can."
+ },
+ {
+  "id": 66,
+  "start": 294.0,
+  "end": 297.32,
+  "text_src": "The three-dimensional equivalent to a round patch is a spherical ball."
+ },
+ {
+  "id": 67,
+  "start": 297.6,
+  "end": 301.32,
+  "text_src": "Now, in flat space, a ball behaves exactly how it should."
+ },
+ {
+  "id": 68,
+  "start": 301.62,
+  "end": 305.28,
+  "text_src": "But in a positively curved universe, the surface of a big ball is smaller."
+ },
+ {
+  "id": 69,
+  "start": 305.62,
+  "end": 314.12,
+  "text_src": "In other words, outer space is smaller than you think - as if someone had stolen whole wedges of space and bridged the rest with portals, hoping nobody would notice."
+ },
+ {
+  "id": 70,
+  "start": 314.12,
+  "end": 320.24,
+  "text_src": "In a negatively curved universe, the surface of a ball is bigger, there is more outer space than you might think."
+ },
+ {
+  "id": 71,
+  "start": 320.58,
+  "end": 322.7,
+  "text_src": "As if someone had inserted additional space."
+ },
+ {
+  "id": 72,
+  "start": 323.08,
+  "end": 328.6,
+  "text_src": "The three-dimensional analogon to polygons are polyhedra - and they react to curvature in the same way."
+ },
+ {
+  "id": 73,
+  "start": 328.9,
+  "end": 335.74,
+  "text_src": "When you take a polyhedron and put it into positively curved space, the edges and faces bulge outwards to benefit from the shrunken outer space."
+ },
+ {
+  "id": 74,
+  "start": 335.98,
+  "end": 338.74,
+  "text_src": "In negatively curved space, the opposite happens."
+ },
+ {
+  "id": 75,
+  "start": 338.74,
+  "end": 346.12,
+  "text_src": "Here, outer space is spacier than you think, so the edges and faces bulge inwards to avoid those long outer-space distances."
+ },
+ {
+  "id": 76,
+  "start": 346.52,
+  "end": 352.66,
+  "text_src": "You may think of positive curvature as overpressure which blows up polygons to a cushion form and makes corners more obtuse."
+ },
+ {
+  "id": 77,
+  "start": 353.1,
+  "end": 357.54,
+  "text_src": "Negative curvature is like underpressure which gives the polygon an evacuated shape with pointy corners."
+ },
+ {
+  "id": 78,
+  "start": 357.88,
+  "end": 359.78,
+  "text_src": "But is our universe flat or curved?"
+ },
+ {
+  "id": 79,
+  "start": 359.78,
+  "end": 365.76,
+  "text_src": "To find that out, we would have to measure really, really big triangles or polyhedra, and that's not easy."
+ },
+ {
+  "id": 80,
+  "start": 366.0,
+  "end": 368.0,
+  "text_src": "We will come to this point next episode."
+ },
+ {
+  "id": 81,
+  "start": 368.4,
+  "end": 372.58,
+  "text_src": "Our goal today is to understand what curvature is, and to see some examples."
+ },
+ {
+  "id": 82,
+  "start": 373.06,
+  "end": 375.06,
+  "text_src": "The universe could even have mixed curvature."
+ },
+ {
+  "id": 83,
+  "start": 375.54,
+  "end": 376.36,
+  "text_src": "Remember the banana?"
+ },
+ {
+  "id": 84,
+  "start": 376.76,
+  "end": 380.02,
+  "text_src": "Its curvature is positive on one side, negative on the other one."
+ },
+ {
+  "id": 85,
+  "start": 380.4,
+  "end": 382.72,
+  "text_src": "Couldn't the universe be the same - some kind of hyperbanana?"
+ },
+ {
+  "id": 86,
+  "start": 383.58,
+  "end": 384.8,
+  "text_src": "Well, yes and no."
+ },
+ {
+  "id": 87,
+  "start": 384.8,
+  "end": 388.72,
+  "text_src": "It could be, but that would violate something called the \"cosmological principle\"."
+ },
+ {
+  "id": 88,
+  "start": 389.2,
+  "end": 393.18,
+  "text_src": "That's the assumption that on a large scale, the universe looks everywhere the same."
+ },
+ {
+  "id": 89,
+  "start": 393.58,
+  "end": 398.12,
+  "text_src": "It's not a patchwork of different zones with different properties, shapes and laws of physics."
+ },
+ {
+  "id": 90,
+  "start": 398.72,
+  "end": 405.06,
+  "text_src": "This excludes \"mixed curvature\", just as it excludes zones with different physical constants, and just as it excludes an edge."
+ },
+ {
+  "id": 91,
+  "start": 405.24,
+  "end": 414.04,
+  "text_src": "This assumption is a consequence of what earthlings call \"Ockham's Razor\", the principle that simple hypotheses are better than complicated ones, if both are equally supported by evidence."
+ },
+ {
+  "id": 92,
+  "start": 414.04,
+  "end": 420.12,
+  "text_src": "Think of Ockham's Razor as a proven search order for hypotheses: It's useful to check the simplest hypotheses first."
+ },
+ {
+  "id": 93,
+  "start": 420.44,
+  "end": 429.68,
+  "text_src": "For example, when I see a crop circle, I could hypothesize a conspiracy of local farm boys who spent a whole night in a field, trampling crops down with primitive earthling tools."
+ },
+ {
+  "id": 94,
+  "start": 430.18,
+  "end": 434.92,
+  "text_src": "But a much simpler hypothesis would be a fellow alien with a cropwriter who wanted to contact a ship in orbit."
+ },
+ {
+  "id": 95,
+  "start": 435.52,
+  "end": 437.04,
+  "text_src": "Hitchhikers do this all the time."
+ },
+ {
+  "id": 96,
+  "start": 437.44,
+  "end": 441.2,
+  "text_src": "So, there is no need for a conspiracy theory if there is a simpler explanation."
+ },
+ {
+  "id": 97,
+  "start": 441.2,
+  "end": 448.88,
+  "text_src": "So, from now on, let's assume that the universe is either flat, or entirely positively curved, or entirely negatively curved."
+ },
+ {
+  "id": 98,
+  "start": 449.42,
+  "end": 450.92,
+  "text_src": "So, no hyperbanana."
+ },
+ {
+  "id": 99,
+  "start": 451.16,
+  "end": 453.46,
+  "text_src": "The simplest positively curved model is the hypersphere."
+ },
+ {
+  "id": 100,
+  "start": 454.12,
+  "end": 459.46,
+  "text_src": "Before we can understand the hypersphere, let's try to explain to Flatsnails how you can construct a sphere."
+ },
+ {
+  "id": 101,
+  "start": 459.84,
+  "end": 461.14,
+  "text_src": "How would you do that?"
+ },
+ {
+  "id": 102,
+  "start": 461.34,
+  "end": 464.5,
+  "text_src": "Maybe we could start with two squares, one per hemisphere."
+ },
+ {
+  "id": 103,
+  "start": 464.5,
+  "end": 468.66,
+  "text_src": "We pump them up with curvature until the 90° angles are smoothed out."
+ },
+ {
+  "id": 104,
+  "start": 469.16,
+  "end": 472.46,
+  "text_src": "Now, each part has a smooth, straight border without corners."
+ },
+ {
+  "id": 105,
+  "start": 473.02,
+  "end": 476.04,
+  "text_src": "We might call this a zero-gon, but the usual term is \"equator\"."
+ },
+ {
+  "id": 106,
+  "start": 476.6,
+  "end": 479.56,
+  "text_src": "Then we glue the two together along the equator, with portals."
+ },
+ {
+  "id": 107,
+  "start": 480.04,
+  "end": 483.18,
+  "text_src": "That's probably where one of the Flatsnails would ask why we need the curvature."
+ },
+ {
+  "id": 108,
+  "start": 483.64,
+  "end": 487.56,
+  "text_src": "Can't we simply take two squares, portalize them together, and it's done?"
+ },
+ {
+  "id": 109,
+  "start": 487.98,
+  "end": 489.36,
+  "text_src": "Wouldn't that be much easier?"
+ },
+ {
+  "id": 110,
+  "start": 489.8,
+  "end": 491.7,
+  "text_src": "Easier maybe, but there is a problem."
+ },
+ {
+  "id": 111,
+  "start": 491.7,
+  "end": 496.68,
+  "text_src": "See, dear flatsnails, each corner point is only adjacent to two square corners."
+ },
+ {
+  "id": 112,
+  "start": 497.06,
+  "end": 500.34,
+  "text_src": "But you can't glue two 90° corners together in a smooth manner."
+ },
+ {
+  "id": 113,
+  "start": 500.72,
+  "end": 505.7,
+  "text_src": "So, you have to use curvature to pump the angles up to 180° to make a smooth gluing."
+ },
+ {
+  "id": 114,
+  "start": 505.96,
+  "end": 514.22,
+  "text_src": "The two \"pumped up\" squares would be somewhat like a disk and somewhat like a square: They would have no corners, like a disk, and have straight edges, like a square."
+ },
+ {
+  "id": 115,
+  "start": 514.7,
+  "end": 517.16,
+  "text_src": "\"Straight\" means straight for creatures inside the surface."
+ },
+ {
+  "id": 116,
+  "start": 517.64,
+  "end": 519.36,
+  "text_src": "That would probably blow the mind of some flatsnails."
+ },
+ {
+  "id": 117,
+  "start": 520.82,
+  "end": 524.48,
+  "text_src": "But for you, it would be easy because you could secretly think of hemispheres."
+ },
+ {
+  "id": 118,
+  "start": 524.82,
+  "end": 535.04,
+  "text_src": "But now, we can do the same thing in three-dimensional space: We take two cubes, pump them up with positive curvature to flatten out the corners and edges, and glue them together with portals."
+ },
+ {
+  "id": 119,
+  "start": 535.04,
+  "end": 542.34,
+  "text_src": "Those pumped up cubes would be somewhat like cubes and somewhat like spheres: Edges and corners smoothed out, but flat sides."
+ },
+ {
+  "id": 120,
+  "start": 542.64,
+  "end": 544.48,
+  "text_src": "The result is called a hypersphere."
+ },
+ {
+  "id": 121,
+  "start": 544.72,
+  "end": 550.32,
+  "text_src": "In the last episode we have seen that when we take one cube and glue opposing faces together, we get a hypertorus."
+ },
+ {
+  "id": 122,
+  "start": 550.32,
+  "end": 554.82,
+  "text_src": "Why do we need positive curvature for the hypersphere, but not for the hypertorus?"
+ },
+ {
+  "id": 123,
+  "start": 555.14,
+  "end": 556.66,
+  "text_src": "Well, because of the corners."
+ },
+ {
+  "id": 124,
+  "start": 557.2,
+  "end": 564.68,
+  "text_src": "Look, in the hypertorus, this corner is identical with this one, and this one, and - actually, all corners are one and the same."
+ },
+ {
+  "id": 125,
+  "start": 564.68,
+  "end": 570.66,
+  "text_src": "So, around this corner, we have eight parts of the space matching perfectly together - no need for curvature."
+ },
+ {
+  "id": 126,
+  "start": 571.12,
+  "end": 577.02,
+  "text_src": "On the other hand, let's look what happens when we glue two cubes together to a hypersphere, but forget the curvature."
+ },
+ {
+  "id": 127,
+  "start": 577.36,
+  "end": 580.9,
+  "text_src": "This corner is identical with this one, and... that's it."
+ },
+ {
+  "id": 128,
+  "start": 580.9,
+  "end": 586.04,
+  "text_src": "So, the vicinity of this corner are two parts of the two cubes - that doesn't match together."
+ },
+ {
+  "id": 129,
+  "start": 586.28,
+  "end": 591.2,
+  "text_src": "We have to blow up the cubes such that the corners get smoothed out - then the gluing works."
+ },
+ {
+  "id": 130,
+  "start": 591.5,
+  "end": 600.26,
+  "text_src": "As mentioned before, the surfaces of the hemispheres are flat - they only look curved in our 3D representation, because we can't display the curvature of the space inside."
+ },
+ {
+  "id": 131,
+  "start": 600.78,
+  "end": 602.9,
+  "text_src": "That's why we can glue the two balls together."
+ },
+ {
+  "id": 132,
+  "start": 603.18,
+  "end": 606.96,
+  "text_src": "That gluing surface is, so to say, the equator of the hypersphere."
+ },
+ {
+  "id": 133,
+  "start": 606.96,
+  "end": 610.46,
+  "text_src": "Let's make a journey through a hypersphere universe at super-light speed."
+ },
+ {
+  "id": 134,
+  "start": 611.06,
+  "end": 616.06,
+  "text_src": "Actually, there is only one thing capable of travelling faster than light without warping space: A rumor."
+ },
+ {
+  "id": 135,
+  "start": 616.78,
+  "end": 623.5,
+  "text_src": "So, let's invent a rumor - say, the rumor that Youtube celebrity CGP Grey is actually a superintelligent stick figure."
+ },
+ {
+  "id": 136,
+  "start": 623.7,
+  "end": 626.6,
+  "text_src": "The rumor bubble expands from earth at super-light speed."
+ },
+ {
+  "id": 137,
+  "start": 627.18,
+  "end": 633.46,
+  "text_src": "First, the bubble surface grows like you would expect, but after a while, it grows slower and becomes less and less convex."
+ },
+ {
+  "id": 138,
+  "start": 634.06,
+  "end": 638.34,
+  "text_src": "Eventually, the surface flips and becomes concave - we have crossed the cosmic equator."
+ },
+ {
+  "id": 139,
+  "start": 638.82,
+  "end": 641.14,
+  "text_src": "The bubble is flipped inside out and shrinks again."
+ },
+ {
+  "id": 140,
+  "start": 641.66,
+  "end": 647.38,
+  "text_src": "Eventually, it becomes smaller and smaller until it vanishes in one point - the antipodes of our starting point."
+ },
+ {
+  "id": 141,
+  "start": 647.9,
+  "end": 652.26,
+  "text_src": "So, we have constructed our first positively curved space: The hypersphere."
+ },
+ {
+  "id": 142,
+  "start": 652.46,
+  "end": 654.88,
+  "text_src": "But this is far from being the only curved model."
+ },
+ {
+  "id": 143,
+  "start": 655.66,
+  "end": 664.54,
+  "text_src": "In the last episode, I mentioned that when you take a square and add two pairs of flipped portals such that opposing points are glued together, you get something called projective plane."
+ },
+ {
+  "id": 144,
+  "start": 664.98,
+  "end": 669.54,
+  "text_src": "What I didn't mention was that like for the sphere, you need curvature to have smooth gluing at the corners."
+ },
+ {
+  "id": 145,
+  "start": 669.54,
+  "end": 676.58,
+  "text_src": "The projective plane is a strange and interesting place where parallels intersect in infinity and all conic sections are basically the same."
+ },
+ {
+  "id": 146,
+  "start": 677.04,
+  "end": 680.66,
+  "text_src": "Also, it's non-orientable because it contains a moebius strip."
+ },
+ {
+  "id": 147,
+  "start": 681.18,
+  "end": 683.26,
+  "text_src": "Maybe I'll make a video about this one day."
+ },
+ {
+  "id": 148,
+  "start": 683.52,
+  "end": 684.94,
+  "text_src": "But not anytime soon."
+ },
+ {
+  "id": 149,
+  "start": 685.24,
+  "end": 687.48,
+  "text_src": "You can do the same thing in three dimensions."
+ },
+ {
+  "id": 150,
+  "start": 688.1,
+  "end": 695.66,
+  "text_src": "You take one cube, pump it up with positive curvature like you did for the hypersphere, and then add portals to glue every point to its antipodal point."
+ },
+ {
+  "id": 151,
+  "start": 695.66,
+  "end": 698.72,
+  "text_src": "The result is what topologists call \"projective space\"."
+ },
+ {
+  "id": 152,
+  "start": 699.12,
+  "end": 702.26,
+  "text_src": "Unlike its two-dimensional counterpart, it's orientable."
+ },
+ {
+  "id": 153,
+  "start": 703.04,
+  "end": 705.12,
+  "text_src": "Now, you don't need to start with a cube."
+ },
+ {
+  "id": 154,
+  "start": 705.62,
+  "end": 709.52,
+  "text_src": "Take, for example, a dodecahedron and glue opposing faces together."
+ },
+ {
+  "id": 155,
+  "start": 712.52,
+  "end": 719.52,
+  "text_src": "Opposing pentagons are oriented differently, so you have to rotate them in some way - let's say, a 180° turn."
+ },
+ {
+  "id": 156,
+  "start": 719.9,
+  "end": 721.06,
+  "text_src": "What space is this?"
+ },
+ {
+  "id": 157,
+  "start": 721.06,
+  "end": 726.56,
+  "text_src": "Well, when we pump the result a little up, we get again the hyper-hemisphere with opposite points glued together."
+ },
+ {
+  "id": 158,
+  "start": 727.02,
+  "end": 730.36,
+  "text_src": "So, this is just another way of constructing the projective space."
+ },
+ {
+  "id": 159,
+  "start": 730.76,
+  "end": 734.02,
+  "text_src": "But what if we do only a 36° turn for each pair?"
+ },
+ {
+  "id": 160,
+  "start": 734.26,
+  "end": 736.36,
+  "text_src": "We get a far more interesting space."
+ },
+ {
+  "id": 161,
+  "start": 736.82,
+  "end": 739.62,
+  "text_src": "Now, each corner corresponds to 3 other corners."
+ },
+ {
+  "id": 162,
+  "start": 739.94,
+  "end": 746.26,
+  "text_src": "When we look what happens around one corner, we will notice that the puzzle almost matches together, the corners are only a bit too pointy."
+ },
+ {
+  "id": 163,
+  "start": 746.26,
+  "end": 750.54,
+  "text_src": "So, we have to add just a little bit of positive curvature, to close the gaps."
+ },
+ {
+  "id": 164,
+  "start": 750.98,
+  "end": 755.04,
+  "text_src": "This positively curved space is called the Poincaré dodecahedral space."
+ },
+ {
+  "id": 165,
+  "start": 755.36,
+  "end": 759.84,
+  "text_src": "It has been proposed in 2003 as possible shape of the universe by an earthling called Jean-Pierre Luminet."
+ },
+ {
+  "id": 166,
+  "start": 761.12,
+  "end": 763.28,
+  "text_src": "We will come back to this in Episode 3."
+ },
+ {
+  "id": 167,
+  "start": 763.98,
+  "end": 768.68,
+  "text_src": "What happens when we turn the portals not by a 1/10 turn, but by a 3/10 turn?"
+ },
+ {
+  "id": 168,
+  "start": 769.16,
+  "end": 773.8,
+  "text_src": "Well, that changes quite a bit: Now, all corners come together to a single point!"
+ },
+ {
+  "id": 169,
+  "start": 774.02,
+  "end": 781.12,
+  "text_src": "In consequence, the environment of this point becomes quite crowded, we must drastically reduce the corner angles to make place for everybody."
+ },
+ {
+  "id": 170,
+  "start": 781.42,
+  "end": 785.26,
+  "text_src": "In other words, we need a lot of negative curvature to make the corners match."
+ },
+ {
+  "id": 171,
+  "start": 785.26,
+  "end": 790.72,
+  "text_src": "This is called the Seifert-Weber space, and it's an example for a negatively curved finite model."
+ },
+ {
+  "id": 172,
+  "start": 791.0,
+  "end": 793.96,
+  "text_src": "Another example for a negatively curved model would be the Picard horn."
+ },
+ {
+  "id": 173,
+  "start": 794.42,
+  "end": 805.92,
+  "text_src": "It's difficult to explain without referring to higher mathematics, so I'll only sketch the construction of its two-dimensional analogon: That would be a horn, where opposing points of the edge are glued together - when you leave here, you enter here."
+ },
+ {
+  "id": 174,
+  "start": 806.1,
+  "end": 810.5,
+  "text_src": "The pointy end of the horn is infinitely long, but so narrow that the volume is finite."
+ },
+ {
+  "id": 175,
+  "start": 810.5,
+  "end": 816.74,
+  "text_src": "In this video, we have seen three positively curved and two negatively curved models for a finite universe without edge."
+ },
+ {
+  "id": 176,
+  "start": 817.12,
+  "end": 823.46,
+  "text_src": "Of course, I never said that the universe is necessarily finite, I only said it's a possibility - it could very well be infinite."
+ },
+ {
+  "id": 177,
+  "start": 823.76,
+  "end": 826.98,
+  "text_src": "There are many other models, finite ones and infinite ones."
+ },
+ {
+  "id": 178,
+  "start": 827.18,
+  "end": 828.98,
+  "text_src": "But I think we had enough for today."
+ },
+ {
+  "id": 179,
+  "start": 829.24,
+  "end": 835.76,
+  "text_src": "The objective of this episode wasn't to provide an exhaustive list of models, but to give you an idea of what \"curved space\" actually means."
+ },
+ {
+  "id": 180,
+  "start": 835.76,
+  "end": 844.38,
+  "text_src": "In the third and last episode, we will speak about the expansion of the universe, and discuss hypotheses and evidence concerning the actual shape of the universe."
+ },
+ {
+  "id": 181,
+  "start": 844.8,
+  "end": 847.96,
+  "text_src": "One personal note: I am more of a mathematician than of a physicist."
+ },
+ {
+  "id": 182,
+  "start": 848.64,
+  "end": 851.48,
+  "text_src": "So, I can't promise I won't make any errors in physics."
+ },
+ {
+  "id": 183,
+  "start": 852.04,
+  "end": 856.1,
+  "text_src": "To give an example, last time I told you that an Alice universe would turn matter into antimatter."
+ },
+ {
+  "id": 184,
+  "start": 857.9,
+  "end": 861.46,
+  "text_src": "But as one viewer noted, things might not be as simple as that."
+ },
+ {
+  "id": 185,
+  "start": 861.92,
+  "end": 867.84,
+  "text_src": "By the way, this comment wasn't on YouTube, but on the site Universe Today which posted an article on the first episode."
+ },
+ {
+  "id": 186,
+  "start": 868.14,
+  "end": 871.14,
+  "text_src": "This article brought me a lot of views, thanks for that!"
+ },
+ {
+  "id": 187,
+  "start": 871.36,
+  "end": 875.04,
+  "text_src": "If you like astronomy, you will probably like this site - give it a try!"
+ },
+ {
+  "id": 188,
+  "start": 875.04,
+  "end": 886.78,
+  "text_src": "As for my next videos: When I asked last time whether you would prefer me to alternate with \"Earthlings 101\" or finish this series first, about two thirds of you voted for finishing this series, and one third for alternating."
+ },
+ {
+  "id": 189,
+  "start": 887.28,
+  "end": 889.28,
+  "text_src": "That's why you are watching this video today."
+ },
+ {
+  "id": 190,
+  "start": 889.74,
+  "end": 898.2,
+  "text_src": "But that's also why I've decided to choose a hybrid solution: After this video, I will program the next episode of Earthlings 101, and afterwards finish this series."
+ },
+ {
+  "id": 191,
+  "start": 898.66,
+  "end": 902.3,
+  "text_src": "This way I don't scare off viewers who don't care at all about cosmotopology."
+ },
+ {
+  "id": 192,
+  "start": 903.32,
+  "end": 904.46,
+  "text_src": "That's all for today."
+ },
+ {
+  "id": 193,
+  "start": 905.14,
+  "end": 909.46,
+  "text_src": "Like, subscribe, tell your mum, and as always: Don't forget to be alien!"
+ }
+]

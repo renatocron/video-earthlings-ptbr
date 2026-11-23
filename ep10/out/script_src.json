@@ -1,0 +1,974 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "end": 1.6,
+  "text_src": "Greetings, fellow aliens!"
+ },
+ {
+  "id": 2,
+  "start": 1.98,
+  "end": 4.2,
+  "text_src": "This is the tenth episode of Earthlings 101."
+ },
+ {
+  "id": 3,
+  "start": 4.7,
+  "end": 8.64,
+  "text_src": "Today we will learn about the earthlings favourite form of communication: language."
+ },
+ {
+  "id": 4,
+  "start": 41.94,
+  "end": 46.62,
+  "text_src": "A language is an acoustical code, produced by the mouth, and perceived by the ears."
+ },
+ {
+  "id": 5,
+  "start": 47.14,
+  "end": 52.22,
+  "text_src": "Information is encoded in sound groups called words which are strung together to sequences called sentences."
+ },
+ {
+  "id": 6,
+  "start": 52.66,
+  "end": 58.8,
+  "text_src": "A sentence may, for example, transmit the information that a specific vehicle is infested by a certain kind of animals."
+ },
+ {
+  "id": 7,
+  "start": 58.8,
+  "end": 61.88,
+  "text_src": "Language can also be transmitted in visual form."
+ },
+ {
+  "id": 8,
+  "start": 62.22,
+  "end": 63.28,
+  "text_src": "This is called writing."
+ },
+ {
+  "id": 9,
+  "start": 63.72,
+  "end": 65.8,
+  "text_src": "We will speak about writing in another episode."
+ },
+ {
+  "id": 10,
+  "start": 66.52,
+  "end": 69.62,
+  "text_src": "The many languages on earth have their roots a long time ago."
+ },
+ {
+  "id": 11,
+  "start": 70.0,
+  "end": 76.28,
+  "text_src": "As earthling history is a turmoil of conquest and migration, languages frequently blend, fusionate and split."
+ },
+ {
+  "id": 12,
+  "start": 76.88,
+  "end": 79.18,
+  "text_src": "Also, languages are constantly developing."
+ },
+ {
+  "id": 13,
+  "start": 79.6,
+  "end": 81.22,
+  "text_src": "We will come back to this point later."
+ },
+ {
+  "id": 14,
+  "start": 82.3,
+  "end": 87.18,
+  "text_src": "In order to understand language, we have to understand how earthlings modelize the world in their mind."
+ },
+ {
+  "id": 15,
+  "start": 87.18,
+  "end": 93.56,
+  "text_src": "Most aliens see the physical world as what is commonly known as the \"conglomerate\" - some kind of four-dimensional energy soup in spacetime."
+ },
+ {
+  "id": 16,
+  "start": 94.84,
+  "end": 101.38,
+  "text_src": "But earthlings don't see reality this way: First, for earthlings, space and time are two wholly separate things."
+ },
+ {
+  "id": 17,
+  "start": 102.02,
+  "end": 106.0,
+  "text_src": "Secondly, their view of the world is all about matter: Energy at sub-light speed."
+ },
+ {
+  "id": 18,
+  "start": 106.52,
+  "end": 111.78,
+  "text_src": "To describe matter, they have three concepts: Things, properties, and actions."
+ },
+ {
+  "id": 19,
+  "start": 113.1,
+  "end": 115.98,
+  "text_src": "Things are, so to say, the noodles in the energy soup."
+ },
+ {
+  "id": 20,
+  "start": 116.24,
+  "end": 119.48,
+  "text_src": "A thing is a connected bunch of matter, usually with a distinctive shape."
+ },
+ {
+  "id": 21,
+  "start": 119.94,
+  "end": 121.86,
+  "text_src": "For example, a fruit is a thing."
+ },
+ {
+  "id": 22,
+  "start": 122.36,
+  "end": 125.42,
+  "text_src": "Half a fruit is not a thing, unless you cut the fruit in two."
+ },
+ {
+  "id": 23,
+  "start": 125.88,
+  "end": 128.8,
+  "text_src": "Two fruits aren't one thing, unless they are somehow connected."
+ },
+ {
+  "id": 24,
+  "start": 129.3,
+  "end": 132.56,
+  "text_src": "Then again, a fruit tree is also a thing, as is a fruit seed."
+ },
+ {
+  "id": 25,
+  "start": 132.56,
+  "end": 139.7,
+  "text_src": "In a larger sense, a thing can be anything that has a shape and looks like a connected bunch of matter, like the moon, a cloud or a shadow."
+ },
+ {
+  "id": 26,
+  "start": 140.1,
+  "end": 146.24,
+  "text_src": "According to Sixty Symbols, the \"biggest thing in the universe\" is a 4 billion light years long cluster of 73 quasars."
+ },
+ {
+  "id": 27,
+  "start": 147.38,
+  "end": 150.08,
+  "text_src": "Things are described by thing-words, or nouns."
+ },
+ {
+  "id": 28,
+  "start": 150.08,
+  "end": 159.38,
+  "text_src": "Now, you can't create a new word for every thing in the world, so earthlings group similar things into a single category and use the same word - for example, \"star\"."
+ },
+ {
+  "id": 29,
+  "start": 159.8,
+  "end": 168.48,
+  "text_src": "All multicellular creatures capable of photosynthesis are \"plants\", all big plants with wooden stems are \"trees\", and all mobile creatures that feed on other creatures are \"animals\"."
+ },
+ {
+  "id": 30,
+  "start": 169.86,
+  "end": 171.88,
+  "text_src": "Except for the microbes."
+ },
+ {
+  "id": 31,
+  "start": 175.42,
+  "end": 182.46,
+  "text_src": "Using the same word for similar things is not only a trick to simplify language: Grouping things into categories is a basic feature of the earthling mind."
+ },
+ {
+  "id": 32,
+  "start": 182.9,
+  "end": 190.34,
+  "text_src": "It helps to gain and retain knowledge - for example, the knowledge that you better run if you see anything that fits into the category \"zombie velociraptor\"."
+ },
+ {
+  "id": 33,
+  "start": 190.68,
+  "end": 194.7,
+  "text_src": "A second concept is properties : Labels attached to things by the mind."
+ },
+ {
+  "id": 34,
+  "start": 195.06,
+  "end": 199.52,
+  "text_src": "A property is a common attribute shared by several things, like \"big\", or \"green\"."
+ },
+ {
+  "id": 35,
+  "start": 200.02,
+  "end": 203.4,
+  "text_src": "Properties are, so to say, the taste of the noodles in the soup."
+ },
+ {
+  "id": 36,
+  "start": 203.62,
+  "end": 206.96,
+  "text_src": "They are specified by another kind of words, adjectives."
+ },
+ {
+  "id": 37,
+  "start": 207.82,
+  "end": 215.84,
+  "text_src": "Now, things and properties are great to describe the status quo, a slice of spacetime - but to describe temporal processes, we need something more."
+ },
+ {
+  "id": 38,
+  "start": 216.2,
+  "end": 218.94,
+  "text_src": "That's where the third concept comes in: Actions."
+ },
+ {
+  "id": 39,
+  "start": 219.46,
+  "end": 224.18,
+  "text_src": "An action is any process that changes either the position of one or more objects, or their properties."
+ },
+ {
+  "id": 40,
+  "start": 225.46,
+  "end": 229.9,
+  "text_src": "An action is generally thought to originate from one thing, the \"subject\" of the action."
+ },
+ {
+  "id": 41,
+  "start": 230.36,
+  "end": 233.6,
+  "text_src": "Some actions influence other things, the \"objects\" of the action."
+ },
+ {
+  "id": 42,
+  "start": 233.94,
+  "end": 238.82,
+  "text_src": "This concept is closely linked to causality - a concept I will explain in another episode."
+ },
+ {
+  "id": 43,
+  "start": 239.7,
+  "end": 242.52,
+  "text_src": "Consider, for example, a fruit falling off a tree."
+ },
+ {
+  "id": 44,
+  "start": 242.94,
+  "end": 248.58,
+  "text_src": "For most aliens, this is simply a four-dimensional energy cluster, aligned to a geodesic in the conglomerate."
+ },
+ {
+  "id": 45,
+  "start": 248.58,
+  "end": 254.06,
+  "text_src": "Not so for earthlings: They see this as an \"action\" which changes the location of the fruit in space."
+ },
+ {
+  "id": 46,
+  "start": 254.44,
+  "end": 258.86,
+  "text_src": "Most earthlings would say that the fruit is the \"subject\" of the action: The fruit falls."
+ },
+ {
+  "id": 47,
+  "start": 259.1,
+  "end": 265.84,
+  "text_src": "An earthling physicist might say that the earth attracts the fruit - thus, the earth is the subject, the fruit is the object."
+ },
+ {
+  "id": 48,
+  "start": 266.28,
+  "end": 268.84,
+  "text_src": "A gardener might say that the tree drops its fruits."
+ },
+ {
+  "id": 49,
+  "start": 269.04,
+  "end": 274.0,
+  "text_src": "A religious earthling might believe that it was the will of god, and a conspiracy theorist may blame the Freemasons."
+ },
+ {
+  "id": 50,
+  "start": 274.88,
+  "end": 280.1,
+  "text_src": "No matter how they turn it, there is always an action and a subject, and sometimes an object."
+ },
+ {
+  "id": 51,
+  "start": 280.74,
+  "end": 284.86,
+  "text_src": "Actions are described by action-words, or verbs, like \"fall\" or \"eat\"."
+ },
+ {
+  "id": 52,
+  "start": 285.22,
+  "end": 289.44,
+  "text_src": "Verbs are usually grouped with a word for the subject, for example \"Earthling eats\"."
+ },
+ {
+  "id": 53,
+  "start": 289.94,
+  "end": 297.06,
+  "text_src": "Additional information is added in form of other words, for example for objects and properties, like \"The earthling eats the red apple near the tree\"."
+ },
+ {
+  "id": 54,
+  "start": 297.34,
+  "end": 298.58,
+  "text_src": "This is called a sentence."
+ },
+ {
+  "id": 55,
+  "start": 299.22,
+  "end": 305.26,
+  "text_src": "Note that the order of words is important - the sentence \"The red tree eats the earthling near the apple\" means something completely different."
+ },
+ {
+  "id": 56,
+  "start": 305.52,
+  "end": 316.28,
+  "text_src": "Tips for tourists: When you acquire an universal translator with English, Mandarin, Spanish, Russian, French and Arabic, you can get along in most regions of the world."
+ },
+ {
+  "id": 57,
+  "start": 316.72,
+  "end": 320.66,
+  "text_src": "However, make sure it has an insult filter, otherwise you may get into trouble."
+ },
+ {
+  "id": 58,
+  "start": 321.5,
+  "end": 328.16,
+  "text_src": "But how do earthlings think and speak about more non-material matters like space, time, relationships, mathematics, etc.?"
+ },
+ {
+  "id": 59,
+  "start": 328.6,
+  "end": 330.52,
+  "text_src": "That's where abstraction comes in."
+ },
+ {
+  "id": 60,
+  "start": 330.72,
+  "end": 341.76,
+  "text_src": "For earthlings, there are several levels of abstraction: The body, the physical world, space, time, more abstract stuff like social relationships, and pure abstract concepts."
+ },
+ {
+  "id": 61,
+  "start": 342.26,
+  "end": 345.86,
+  "text_src": "Earthlings think about the abstract just like they think about the physical world."
+ },
+ {
+  "id": 62,
+  "start": 345.86,
+  "end": 348.86,
+  "text_src": "Every clearly delimited entity is, for example, a thing."
+ },
+ {
+  "id": 63,
+  "start": 349.3,
+  "end": 353.1,
+  "text_src": "They even reuse concrete words to speak about abstract ideas."
+ },
+ {
+  "id": 64,
+  "start": 353.7,
+  "end": 356.76,
+  "text_src": "Using words for one thing to describe a different thing is called a metaphor."
+ },
+ {
+  "id": 65,
+  "start": 357.56,
+  "end": 361.72,
+  "text_src": "Numbers, for example, are usually described with vertical spatial metaphors."
+ },
+ {
+  "id": 66,
+  "start": 361.88,
+  "end": 364.86,
+  "text_src": "Figures are high, low, they rise, fall."
+ },
+ {
+  "id": 67,
+  "start": 365.38,
+  "end": 368.48,
+  "text_src": "This comes from the earthling habit of stacking merchandises vertically."
+ },
+ {
+  "id": 68,
+  "start": 369.08,
+  "end": 371.92,
+  "text_src": "Time is rather described with horizontal spatial metaphors."
+ },
+ {
+  "id": 69,
+  "start": 372.1,
+  "end": 374.8,
+  "text_src": "Before, after, back in time, time runs."
+ },
+ {
+  "id": 70,
+  "start": 374.8,
+  "end": 377.08,
+  "text_src": "This comes from horizontal movement."
+ },
+ {
+  "id": 71,
+  "start": 377.44,
+  "end": 384.88,
+  "text_src": "Common galactic languages are usually developed by supercomputers, creatures of pure logic but who had to learn about time, space and reality."
+ },
+ {
+  "id": 72,
+  "start": 385.34,
+  "end": 389.38,
+  "text_src": "In consequence, those languages have been developed from the abstract to the concrete."
+ },
+ {
+  "id": 73,
+  "start": 389.92,
+  "end": 394.48,
+  "text_src": "Earthling languages, however, develop the other way round: From concrete to abstract."
+ },
+ {
+  "id": 74,
+  "start": 395.02,
+  "end": 399.76,
+  "text_src": "Many spatial and temporal expressions come even from the lowest level of abstraction: The body."
+ },
+ {
+  "id": 75,
+  "start": 399.76,
+  "end": 405.16,
+  "text_src": "An earthling's \"back\", the \"back\" of a house, \"moving backwards\", \"back in the 19th century\" etc."
+ },
+ {
+  "id": 76,
+  "start": 405.78,
+  "end": 408.98,
+  "text_src": "Interestingly, some spatial concepts come from animal bodies."
+ },
+ {
+  "id": 77,
+  "start": 409.24,
+  "end": 413.5,
+  "text_src": "The \"head\" of an animal, the \"head\" of a train, \"looking ahead\", \"being ahead of one's time\"..."
+ },
+ {
+  "id": 78,
+  "start": 413.98,
+  "end": 416.26,
+  "text_src": "Earthlings call this the \"zoomorphic model\"."
+ },
+ {
+  "id": 79,
+  "start": 416.26,
+  "end": 419.94,
+  "text_src": "But metaphors are also useful to create more expressive formulations."
+ },
+ {
+  "id": 80,
+  "start": 420.46,
+  "end": 434.52,
+  "text_src": "Take earthling mating rituals, for example: Instead of saying \"I like you, wanna have sex?\", one might say \"You are the love of my life, my sun and moon and stars, the key to my heart, the sodium to my chlorine and the parmesan to my spaghetti, wanna have sex\"?"
+ },
+ {
+  "id": 81,
+  "start": 435.44,
+  "end": 440.96,
+  "text_src": "Metaphors can't be underrated - actually, we will see that they are one of the key mechanisms in how language has formed."
+ },
+ {
+  "id": 82,
+  "start": 441.6,
+  "end": 443.24,
+  "text_src": "Language is in constant development."
+ },
+ {
+  "id": 83,
+  "start": 443.92,
+  "end": 446.84,
+  "text_src": "Interestingly, earthlings perceive this as a constant decline."
+ },
+ {
+  "id": 84,
+  "start": 447.36,
+  "end": 449.76,
+  "text_src": "Take, for example, the language called English."
+ },
+ {
+  "id": 85,
+  "start": 450.24,
+  "end": 455.86,
+  "text_src": "According to many modern earthlings, the English language is in a sorry state and was much more perfect a century earlier."
+ },
+ {
+  "id": 86,
+  "start": 455.86,
+  "end": 474.38,
+  "text_src": "But if you travel into the past and ask writers and savants of past eras, you will hear similar complaints - be it from George Orwell in 1946, Harry Thurston Peck in 1899, August Schleicher in 1848, Thomas Sheridan in 1780, Jonathan Swift in 1712, or Thomas Sprat in 1667."
+ },
+ {
+  "id": 87,
+  "start": 474.68,
+  "end": 476.4,
+  "text_src": "You'll find the full quotes in the doobly-do."
+ },
+ {
+  "id": 88,
+  "start": 476.88,
+  "end": 485.98,
+  "text_src": "If there is any consensus amongst linguists of past centuries, it's probably that the most perfect language of all time was classical Latin, two thousand solar cycles ago."
+ },
+ {
+  "id": 89,
+  "start": 486.44,
+  "end": 489.42,
+  "text_src": "Latin scholars of that time, however, would have begged to differ."
+ },
+ {
+  "id": 90,
+  "start": 489.78,
+  "end": 495.8,
+  "text_src": "In 46 B.C., for instance, Cicero complained that the Latin of his time was far less perfect than a century earlier."
+ },
+ {
+  "id": 91,
+  "start": 495.98,
+  "end": 500.04,
+  "text_src": "What earthlings perceive as decline is actually a perpetual , cyclic, evolution."
+ },
+ {
+  "id": 92,
+  "start": 500.52,
+  "end": 504.22,
+  "text_src": "It's like the perceived downfall of a spacecraft which is actually an orbit."
+ },
+ {
+  "id": 93,
+  "start": 504.22,
+  "end": 507.7,
+  "text_src": "This perpetual evolution of language can be compared to the Heteromorphs of Galarius."
+ },
+ {
+  "id": 94,
+  "start": 508.52,
+  "end": 515.7,
+  "text_src": "Those polymorphic creatures live in the high atmospheric pressure of the gas giant Galarius Seven and are coordinated by a global telepathic field."
+ },
+ {
+  "id": 95,
+  "start": 516.08,
+  "end": 522.56,
+  "text_src": "One could compare single creatures to words, body parts to syllables, and groups of creatures to expressions and sentences."
+ },
+ {
+  "id": 96,
+  "start": 522.92,
+  "end": 529.24,
+  "text_src": "The constant change of the Heteromorphs is based on four mechanisms: Fusion, Erosion, Assimilation and Combination."
+ },
+ {
+  "id": 97,
+  "start": 529.24,
+  "end": 537.36,
+  "text_src": "Fusion means that due to the high atmospheric pressure, groups of creatures are fused, so several individuals become mere organs of one single organism."
+ },
+ {
+  "id": 98,
+  "start": 537.88,
+  "end": 541.56,
+  "text_src": "Erosion means that body parts are constantly eroded by violent storms."
+ },
+ {
+  "id": 99,
+  "start": 542.22,
+  "end": 549.78,
+  "text_src": "Assimilation means that the telepathic field of the population makes creatures of the same kind more and more similar, such that they get identical members and organs."
+ },
+ {
+  "id": 100,
+  "start": 549.78,
+  "end": 553.78,
+  "text_src": "But through the process of erosion and assimilation, creatures become weaker."
+ },
+ {
+  "id": 101,
+  "start": 554.02,
+  "end": 559.76,
+  "text_src": "Hence the fourth mechanism: Combination, the capacity to form groups which are able to do wholly new tasks."
+ },
+ {
+  "id": 102,
+  "start": 560.84,
+  "end": 569.76,
+  "text_src": "It's easy to see that this forms an endless loop: Creatures form groups, fuse together, are assimilated and eroded, become smaller and weaker, combine again etc."
+ },
+ {
+  "id": 103,
+  "start": 570.66,
+  "end": 576.58,
+  "text_src": "Now, Earthling languages follow a similar cycle: Fusion, Erosion, Assimilation, and Metaphors."
+ },
+ {
+  "id": 104,
+  "start": 577.36,
+  "end": 582.74,
+  "text_src": "Fusion means that groups of words tend to fuse together, often forming suffixes and prefixes."
+ },
+ {
+  "id": 105,
+  "start": 583.28,
+  "end": 586.68,
+  "text_src": "This creates what earthlings call conjugations and declinations."
+ },
+ {
+  "id": 106,
+  "start": 587.12,
+  "end": 591.28,
+  "text_src": "Erosion means that words are shortened and sounds shift such that they are easier to pronounce."
+ },
+ {
+  "id": 107,
+  "start": 592.16,
+  "end": 595.54,
+  "text_src": "Assimilation means that differences between words tend to be smoothed."
+ },
+ {
+  "id": 108,
+  "start": 595.54,
+  "end": 599.4,
+  "text_src": "For example, conjugations of verbs become more and more similar."
+ },
+ {
+  "id": 109,
+  "start": 599.74,
+  "end": 601.88,
+  "text_src": "This is how general grammar rules form."
+ },
+ {
+  "id": 110,
+  "start": 602.24,
+  "end": 608.5,
+  "text_src": "Those three mechanisms come from earthlings' laziness: They make language simpler to pronounce and rules easier to memorize."
+ },
+ {
+  "id": 111,
+  "start": 608.88,
+  "end": 611.68,
+  "text_src": "But they also reduce the expressiveness of words."
+ },
+ {
+  "id": 112,
+  "start": 612.0,
+  "end": 615.16,
+  "text_src": "That's where the fourth mechanism comes into play: Metaphors."
+ },
+ {
+  "id": 113,
+  "start": 615.36,
+  "end": 622.16,
+  "text_src": "As mentioned before, metaphors mean that words, or groups of words, are used to express something completely new."
+ },
+ {
+  "id": 114,
+  "start": 622.66,
+  "end": 624.96,
+  "text_src": "This is the main constructive mechanism of language."
+ },
+ {
+  "id": 115,
+  "start": 626.14,
+  "end": 637.78,
+  "text_src": "Like the life cycle of heteromorphs, the evolution of language is an endless cycle of creation and destruction: Words are combined to new, colorful metaphors, they fuse, are eroded and assimilated until they are mutilated and worn-out."
+ },
+ {
+  "id": 116,
+  "start": 638.8,
+  "end": 642.24,
+  "text_src": "Eventually they are combined to new expressive metaphors, and so on."
+ },
+ {
+  "id": 117,
+  "start": 642.42,
+  "end": 646.46,
+  "text_src": "The whole building of language is nothing else than an asteroid reef of dead metaphors."
+ },
+ {
+  "id": 118,
+  "start": 646.46,
+  "end": 656.98,
+  "text_src": "In other words, the etymology of language is inherently fractal: Words are old groups of words, which were old groups of words, which were old groups of words, and so on."
+ },
+ {
+  "id": 119,
+  "start": 659.12,
+  "end": 660.16,
+  "text_src": "Strategic advice."
+ },
+ {
+  "id": 120,
+  "start": 661.22,
+  "end": 662.86,
+  "text_src": "Earthlings' language can be misleading."
+ },
+ {
+  "id": 121,
+  "start": 663.18,
+  "end": 672.4,
+  "text_src": "For example, the frequent use of the word \"tanks\" in radio messages may lead you to the conclusion that the earthlings will use large tank vehicles to spray your troops with deadly hydric acid."
+ },
+ {
+  "id": 122,
+  "start": 672.94,
+  "end": 680.66,
+  "text_src": "However, once you have equipped all your soldiers with protective gear against hydric acid, you may discover that military tanks are actually something completely different."
+ },
+ {
+  "id": 123,
+  "start": 681.62,
+  "end": 685.06,
+  "text_src": "To demonstrate the evolution of language, let's look at the english word \"gonna\"."
+ },
+ {
+  "id": 124,
+  "start": 685.82,
+  "end": 689.36,
+  "text_src": "In modern English, this word indicates near future: \"We're gonna eat\"."
+ },
+ {
+  "id": 125,
+  "start": 689.66,
+  "end": 693.74,
+  "text_src": "It's an abbreviation of \"going to\", but only in the sense \"about to\", not \"walking to\"."
+ },
+ {
+  "id": 126,
+  "start": 694.34,
+  "end": 699.62,
+  "text_src": "Hundreds of solar cycles ago, \"going to\" was only used in the context \"going or traveling to a place\"."
+ },
+ {
+  "id": 127,
+  "start": 700.1,
+  "end": 710.56,
+  "text_src": "Then, in what earthlings call the 15th century, \"going to do something\" appeared, but only in the sense \"going somewhere, in order to do something\", for example soldiers who are going to bring a prisoner to a castle."
+ },
+ {
+  "id": 128,
+  "start": 710.78,
+  "end": 720.78,
+  "text_src": "From there, the meaning shifted gradually towards a more abstract meaning, and in the seventeenth century, we read of an arms depot which is \"going to be taken away\" - the arms depot is certainly not walking anywhere."
+ },
+ {
+  "id": 129,
+  "start": 721.26,
+  "end": 726.76,
+  "text_src": "So, \"going to\" has become, as a grammar manual from 1646 puts it, \"a sign of the future\"."
+ },
+ {
+  "id": 130,
+  "start": 727.2,
+  "end": 729.88,
+  "text_src": "From there, the future \"going to\" became more and more popular."
+ },
+ {
+  "id": 131,
+  "start": 730.48,
+  "end": 737.8,
+  "text_src": "Then, at the beginning of the twentieth century, an eroded variant of \"going to\" appears: The word \"gonna\", as it is used till this day."
+ },
+ {
+  "id": 132,
+  "start": 741.04,
+  "end": 751.2,
+  "text_src": "Scientific advice: Many earthlings believe that language and logic are uniquely processed by the left half of the brain, whereas things like creativity, images and music are solely processed by the right half."
+ },
+ {
+  "id": 133,
+  "start": 751.42,
+  "end": 752.66,
+  "text_src": "That is utter nonsense."
+ },
+ {
+  "id": 134,
+  "start": 753.26,
+  "end": 764.3,
+  "text_src": "So, if you swap the left halves of the brains of a french-speaking painter and an english-speaking musician, you don't get a french-speaking musician and an english-speaking painter - you just get two very messed up earthlings."
+ },
+ {
+  "id": 135,
+  "start": 765.6,
+  "end": 768.9,
+  "text_src": "But now, let's travel into the future of the English language."
+ },
+ {
+  "id": 136,
+  "start": 769.32,
+  "end": 770.68,
+  "text_src": "Consider the verb \"To have\"."
+ },
+ {
+  "id": 137,
+  "start": 771.18,
+  "end": 776.74,
+  "text_src": "Traditionally, this is conjugated \"I have, you have, he has, we have, you have, they have\"."
+ },
+ {
+  "id": 138,
+  "start": 776.98,
+  "end": 784.18,
+  "text_src": "In the present, erosion has created the shorter forms: I've, You've, He's, We've, You've, They've."
+ },
+ {
+  "id": 139,
+  "start": 784.34,
+  "end": 787.86,
+  "text_src": "The pronoun and the verb are about to fuse into one single word."
+ },
+ {
+  "id": 140,
+  "start": 788.06,
+  "end": 793.68,
+  "text_src": "In some regions, the plural \"You've\", has been replaced by \"Y'all've\", a short form of \"You all have\"."
+ },
+ {
+  "id": 141,
+  "start": 794.3,
+  "end": 802.82,
+  "text_src": "In a hundred solar cycles, the apostrophe will be dropped and the pronouns will have become prefixes: Ive, Youve, Hes, Weve, Yallve, Theyve."
+ },
+ {
+  "id": 142,
+  "start": 803.0,
+  "end": 810.5,
+  "text_src": "Some centuries later, the conjugation will be simplified through assimilation to Ive, Youve, Heve, Weve, Yallve, Theyve."
+ },
+ {
+  "id": 143,
+  "start": 810.92,
+  "end": 815.88,
+  "text_src": "Eventually, erosion will replace \"Ive\", by the easier to pronounce \"Eve\", and \"Yallve\", by \"Yave\"."
+ },
+ {
+  "id": 144,
+  "start": 816.2,
+  "end": 824.04,
+  "text_src": "Eight hundred solar cycles from now, all english verbs will have adapted the same prefixes for present tense - again, through assimilation: Eetalk, Youtalk, Hetalk, Wetalk, Yatalk, Theetalk, and the future tense will be marked by an eroded \"gonna\": Eenatalk, Younatalk, Henatalk, Wenatalk, Yanatalk, Theenatalk, and the past tense a crippled, \"have\": Eevetalk, Youvetalk, Hevetalk, Wevetalk, Yavetalk, Theevetalk."
+ },
+ {
+  "id": 145,
+  "start": 845.24,
+  "end": 849.48,
+  "text_src": "But in the same time, the mechanics of metaphor will build new colorful expressions."
+ },
+ {
+  "id": 146,
+  "start": 850.08,
+  "end": 856.02,
+  "text_src": "For example, a thousand years from now, the invention of time travel will require a whole new set of grammatical tenses."
+ },
+ {
+  "id": 147,
+  "start": 856.34,
+  "end": 863.34,
+  "text_src": "For instance, to say that someone did a time jump to escape death, one would say \"Heve jum fro’die\", \"He has jumped from dying\"."
+ },
+ {
+  "id": 148,
+  "start": 863.94,
+  "end": 869.38,
+  "text_src": "So, the verb \"jump\", originally a body movement, becomes an auxiliary verb for time-travel tenses."
+ },
+ {
+  "id": 149,
+  "start": 870.46,
+  "end": 875.08,
+  "text_src": "By the way, this episode is partially based upon the earthling book \"The Unfolding of Language\"."
+ },
+ {
+  "id": 150,
+  "start": 875.42,
+  "end": 878.3,
+  "text_src": "It describes in great detail how language has developed."
+ },
+ {
+  "id": 151,
+  "start": 878.78,
+  "end": 879.8,
+  "text_src": "I put a link into the Doobly-doo."
+ },
+ {
+  "id": 152,
+  "start": 880.68,
+  "end": 886.56,
+  "text_src": "A personal remark: When you want to be a Youtube partner or make money with your videos, you need an AdSense account."
+ },
+ {
+  "id": 153,
+  "start": 887.02,
+  "end": 890.0,
+  "text_src": "Like most Youtubers, I took care of respecting the rules."
+ },
+ {
+  "id": 154,
+  "start": 890.58,
+  "end": 896.32,
+  "text_src": "Nevertheless, AdSense has closed my account for \"invalid activity\", without telling me what I am actually accused of."
+ },
+ {
+  "id": 155,
+  "start": 896.76,
+  "end": 901.98,
+  "text_src": "This means three things: I will continue making videos, but I will never be able to make money with them."
+ },
+ {
+  "id": 156,
+  "start": 902.44,
+  "end": 905.6,
+  "text_src": "Secondly, I can't never again become a partner or join a network."
+ },
+ {
+  "id": 157,
+  "start": 906.02,
+  "end": 910.94,
+  "text_src": "And third, I have no idea for what I'm punished - I can only guess that someone click-bombed me."
+ },
+ {
+  "id": 158,
+  "start": 911.2,
+  "end": 913.72,
+  "text_src": "I will probably make a video about this incident."
+ },
+ {
+  "id": 159,
+  "start": 915.62,
+  "end": 918.12,
+  "text_src": "This was the tenth episode of Earthlings 101."
+ },
+ {
+  "id": 160,
+  "start": 918.62,
+  "end": 924.2,
+  "text_src": "Next time we'll talk about something that is crucial to understanding all kinds of group behaviour: Rituals."
+ },
+ {
+  "id": 161,
+  "start": 924.64,
+  "end": 928.48,
+  "text_src": "This will also explain why earthlings like t-shirts with strange symbols."
+ },
+ {
+  "id": 162,
+  "start": 928.86,
+  "end": 932.24,
+  "text_src": "Thanks for watching, and as always: Don't forget to be alien!"
+ }
+]

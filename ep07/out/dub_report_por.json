@@ -1,0 +1,982 @@
+[
+ {
+  "id": 1,
+  "start": 0.0,
+  "limit": 1.68,
+  "new_start": 0.0,
+  "dur": 1.5851666666666666,
+  "speed": 1.35,
+  "k": 1.1518849206349207,
+  "text_tgt": "Olá, colegas alienígenas."
+ },
+ {
+  "id": 2,
+  "start": 1.68,
+  "limit": 9.0,
+  "new_start": 1.9351666666666667,
+  "dur": 7.039,
+  "speed": 1.257,
+  "k": 1.0094262295081966,
+  "text_tgt": "Hoje vamos aprender sobre palavras aparentemente simples como \"Olá\", \"Por favor\" e \"Obrigado\", e sobre as interações complexas por trás delas."
+ },
+ {
+  "id": 3,
+  "start": 9.0,
+  "limit": 11.9,
+  "new_start": 9.324166666666667,
+  "dur": 2.621625,
+  "speed": 1.258,
+  "k": 1.0246982758620689,
+  "text_tgt": "Podemos chamar essas interações de \"mecânica social\"."
+ },
+ {
+  "id": 4,
+  "start": 48.42,
+  "limit": 53.66,
+  "new_start": 48.81579166666667,
+  "dur": 4.944791666666666,
+  "speed": 1.177,
+  "k": 1.0104564249363877,
+  "text_tgt": "Os protocolos galácticos exigem que a primeira frase de todo primeiro contato seja \"Viemos em paz\"."
+ },
+ {
+  "id": 5,
+  "start": 53.66,
+  "limit": 55.18,
+  "new_start": 54.11058333333334,
+  "dur": 1.2602083333333334,
+  "speed": 1.349,
+  "k": 1.0593475877192962,
+  "text_tgt": "Isso se chama cumprimento."
+ },
+ {
+  "id": 6,
+  "start": 55.18,
+  "limit": 61.92,
+  "new_start": 55.72079166666667,
+  "dur": 3.4,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Claro, a frase é opcional caso você não venha em paz de verdade."
+ },
+ {
+  "id": 7,
+  "start": 61.92,
+  "limit": 64.66,
+  "new_start": 62.46079166666667,
+  "dur": 2.426125,
+  "speed": 1.117,
+  "k": 1.0131843065693449,
+  "text_tgt": "Os terráqueos sempre se cumprimentam quando se encontram."
+ },
+ {
+  "id": 8,
+  "start": 64.66,
+  "limit": 67.5,
+  "new_start": 65.23691666666667,
+  "dur": 2.0299583333333335,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Não são a única raça que faz isso."
+ },
+ {
+  "id": 9,
+  "start": 67.5,
+  "limit": 74.2,
+  "new_start": 68.07691666666668,
+  "dur": 6.401666666666666,
+  "speed": 1.17,
+  "k": 1.0077114427860692,
+  "text_tgt": "Os Golens de Lava de Sanguis 4, por exemplo, se cumprimentam descrevendo o que farão se um dia se enfrentarem em combate mortal."
+ },
+ {
+  "id": 10,
+  "start": 74.2,
+  "limit": 83.44,
+  "new_start": 74.82858333333334,
+  "dur": 8.189958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um Golem pode dizer: \"Vou arrancar suas tripas e enrolar na sua cabeça!\", e o outro pode responder: \"Vou te virar do avesso e te cobrir de molho amarelo!\""
+ },
+ {
+  "id": 11,
+  "start": 83.44,
+  "limit": 88.82,
+  "new_start": 84.06858333333334,
+  "dur": 5.103,
+  "speed": 1.262,
+  "k": 1.0135687732342016,
+  "text_tgt": "E isso é só com o carteiro: entre irmãos próximos, ou nos cumprimentos por escrito, eles são bem mais longos."
+ },
+ {
+  "id": 12,
+  "start": 88.82,
+  "limit": 92.7,
+  "new_start": 89.52158333333334,
+  "dur": 3.574666666666667,
+  "speed": 1.152,
+  "k": 1.0115120274914065,
+  "text_tgt": "Para os Golens, o cumprimento serve para exibir dominância social."
+ },
+ {
+  "id": 13,
+  "start": 92.7,
+  "limit": 94.52,
+  "new_start": 93.44625,
+  "dur": 1.970375,
+  "speed": 1.35,
+  "k": 1.2749313186813234,
+  "text_tgt": "Os cumprimentos terráqueos têm outro propósito."
+ },
+ {
+  "id": 14,
+  "start": 94.52,
+  "limit": 97.54,
+  "new_start": 95.766625,
+  "dur": 2.24,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Tem a ver com as tais relações sociais."
+ },
+ {
+  "id": 15,
+  "start": 97.54,
+  "limit": 100.92,
+  "new_start": 98.78662500000002,
+  "dur": 2.49,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para entender isso, deixe-me fazer uma digressão."
+ },
+ {
+  "id": 16,
+  "start": 100.92,
+  "limit": 102.44,
+  "new_start": 102.16662500000001,
+  "dur": 1.02,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isto é um sofá."
+ },
+ {
+  "id": 17,
+  "start": 102.44,
+  "limit": 104.24,
+  "new_start": 103.686625,
+  "dur": 1.5173333333333334,
+  "speed": 1.239,
+  "k": 1.037407407407409,
+  "text_tgt": "Para que ele serve não importa aqui."
+ },
+ {
+  "id": 18,
+  "start": 104.24,
+  "limit": 114.4,
+  "new_start": 105.55395833333334,
+  "dur": 8.52,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O que importa é que: A, muitos terráqueos têm sofá; B, os terráqueos levam o sofá quando se mudam; e, o mais importante, C, é preciso mais de um terráqueo para carregar um sofá."
+ },
+ {
+  "id": 19,
+  "start": 114.4,
+  "limit": 125.82,
+  "new_start": 115.71395833333335,
+  "dur": 7.479,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então os terráqueos precisam cooperar para carregar todos esses sofás, o que os torna exemplos perfeitos de como eles organizam a cooperação."
+ },
+ {
+  "id": 20,
+  "start": 125.82,
+  "limit": 129.58,
+  "new_start": 127.13395833333334,
+  "dur": 3.422833333333333,
+  "speed": 1.043,
+  "k": 1.0034131205673706,
+  "text_tgt": "A chave da gestão da cooperação são as relações sociais."
+ },
+ {
+  "id": 21,
+  "start": 129.58,
+  "limit": 134.78,
+  "new_start": 130.90679166666666,
+  "dur": 4.9054166666666665,
+  "speed": 1.184,
+  "k": 1.0106570512820534,
+  "text_tgt": "Além dos laços de família, os terráqueos criam laços mais ou menos intensos com outros terráqueos."
+ },
+ {
+  "id": 22,
+  "start": 134.78,
+  "limit": 139.54,
+  "new_start": 136.16220833333333,
+  "dur": 3.37,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "A intensidade da relação determina o nível de cooperação."
+ },
+ {
+  "id": 23,
+  "start": 139.54,
+  "limit": 142.84,
+  "new_start": 140.92220833333332,
+  "dur": 2.83,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Por exemplo, um estranho não está nem aí para o seu sofá."
+ },
+ {
+  "id": 24,
+  "start": 142.84,
+  "limit": 145.62,
+  "new_start": 144.22220833333333,
+  "dur": 2.4806666666666666,
+  "speed": 1.165,
+  "k": 1.0182254196642682,
+  "text_tgt": "Um conhecido sentaria no seu sofá se você o convidasse."
+ },
+ {
+  "id": 25,
+  "start": 145.62,
+  "limit": 151.1,
+  "new_start": 147.052875,
+  "dur": 5.097958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Um amigo ajudaria a carregar seu sofá, e um amante ia querer fazer sexo com você no sofá."
+ },
+ {
+  "id": 26,
+  "start": 151.1,
+  "limit": 157.76,
+  "new_start": 152.532875,
+  "dur": 6.323,
+  "speed": 1.031,
+  "k": 1.0019519519519524,
+  "text_tgt": "Como a intensidade das relações muda com o tempo, os terráqueos precisam sincronizar o nível de relação percebido."
+ },
+ {
+  "id": 27,
+  "start": 157.76,
+  "limit": 159.46,
+  "new_start": 159.205875,
+  "dur": 1.4666666666666666,
+  "speed": 1.35,
+  "k": 1.0686274509803813,
+  "text_tgt": "É aí que entram os cumprimentos."
+ },
+ {
+  "id": 28,
+  "start": 159.46,
+  "limit": 162.1,
+  "new_start": 161.02254166666665,
+  "dur": 2.3562916666666665,
+  "speed": 1.235,
+  "k": 1.025110479797985,
+  "text_tgt": "Cada nível tem seus próprios rituais de cumprimento."
+ },
+ {
+  "id": 29,
+  "start": 162.1,
+  "limit": 170.06,
+  "new_start": 163.7288333333333,
+  "dur": 7.678,
+  "speed": 1.236,
+  "k": 1.0085427135678382,
+  "text_tgt": "Conhecidos usam cumprimentos formais, amigos, mais informais, e amantes ficam todos melosos e beijoqueiros e se dão apelidos fofos de bichinhos."
+ },
+ {
+  "id": 30,
+  "start": 170.06,
+  "limit": 177.62,
+  "new_start": 171.7568333333333,
+  "dur": 6.608958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Os cumprimentos também servem para comunicar e sincronizar outras informações, como diferenças de status social."
+ },
+ {
+  "id": 31,
+  "start": 177.62,
+  "limit": 183.38,
+  "new_start": 179.3168333333333,
+  "dur": 5.265958333333334,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dicas para turistas: no primeiro contato, você pode usar a fórmula \"Venho em paz\"."
+ },
+ {
+  "id": 32,
+  "start": 183.38,
+  "limit": 186.94,
+  "new_start": 185.0768333333333,
+  "dur": 3.28775,
+  "speed": 1.289,
+  "k": 1.0218398876404489,
+  "text_tgt": "Seja como for, os terráqueos vão esperar que você diga algo esquisito."
+ },
+ {
+  "id": 33,
+  "start": 186.94,
+  "limit": 195.14,
+  "new_start": 188.7145833333333,
+  "dur": 7.89925,
+  "speed": 1.171,
+  "k": 1.006006097560977,
+  "text_tgt": "Mas a fórmula \"Leve-me ao seu líder\" não vai ajudar muito, já que a posição social da maioria dos terráqueos é baixa demais para conhecer o líder do país."
+ },
+ {
+  "id": 34,
+  "start": 195.14,
+  "limit": 198.9,
+  "new_start": 196.9638333333333,
+  "dur": 3.4572083333333334,
+  "speed": 1.157,
+  "k": 1.0125554078014132,
+  "text_tgt": "O máximo que você vai conseguir é uma reunião com algum funcionário local."
+ },
+ {
+  "id": 35,
+  "start": 198.9,
+  "limit": 204.42,
+  "new_start": 200.77104166666663,
+  "dur": 5.244416666666667,
+  "speed": 1.26,
+  "k": 1.01348128019324,
+  "text_tgt": "Para entender palavras como \"Por favor\" ou \"Obrigado\", precisamos entender outro mecanismo: a gratidão."
+ },
+ {
+  "id": 36,
+  "start": 204.42,
+  "limit": 210.84,
+  "new_start": 206.3654583333333,
+  "dur": 6.1277083333333335,
+  "speed": 1.206,
+  "k": 1.0089888369678064,
+  "text_tgt": "Ao trocar bens ou serviços com estranhos, os terráqueos usam dinheiro, um bem de troca virtual que vou explicar em outro episódio."
+ },
+ {
+  "id": 37,
+  "start": 210.84,
+  "limit": 220.12,
+  "new_start": 212.84316666666663,
+  "dur": 8.1,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas com amigos e família eles usam sobretudo outra moeda virtual, a gratidão, que, ao contrário do dinheiro, está sempre presa a uma relação só."
+ },
+ {
+  "id": 38,
+  "start": 220.12,
+  "limit": 223.62,
+  "new_start": 222.12316666666663,
+  "dur": 3.43625,
+  "speed": 1.35,
+  "k": 1.0817857142857144,
+  "text_tgt": "Veja, por exemplo, um terráqueo A que precisa de ajuda para carregar o sofá."
+ },
+ {
+  "id": 39,
+  "start": 223.62,
+  "limit": 229.26,
+  "new_start": 225.90941666666663,
+  "dur": 5.324916666666667,
+  "speed": 1.108,
+  "k": 1.006190898345156,
+  "text_tgt": "Ele procura B, que o cumprimenta com \"Olá, meu amigo\", o que indica a A que eles ainda são amigos."
+ },
+ {
+  "id": 40,
+  "start": 229.26,
+  "limit": 234.0,
+  "new_start": 231.5843333333333,
+  "dur": 4.019958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Então A pode propor a B uma troca: gratidão por ajuda com o sofá."
+ },
+ {
+  "id": 41,
+  "start": 234.0,
+  "limit": 240.78,
+  "new_start": 236.3243333333333,
+  "dur": 5.778,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Para iniciar a troca, A usa a palavra ritual \"Por favor\", que indica uma oferta: favor em troca de gratidão."
+ },
+ {
+  "id": 42,
+  "start": 240.78,
+  "limit": 250.52,
+  "new_start": 243.1043333333333,
+  "dur": 9.409541666666666,
+  "speed": 1.05,
+  "k": 1.002006331279944,
+  "text_tgt": "Se B não se interessar, A pode até aumentar a gratidão oferecida, mudando a fórmula para algo como \"Por favorzinho\" ou \"por favor, por favor, por favor, pelo amor de Deus\"."
+ },
+ {
+  "id": 43,
+  "start": 250.52,
+  "limit": 254.94,
+  "new_start": 252.86387499999998,
+  "dur": 3.557,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "No fundo é uma espécie de pechincha, só que a moeda é a gratidão."
+ },
+ {
+  "id": 44,
+  "start": 254.94,
+  "limit": 258.86,
+  "new_start": 257.28387499999997,
+  "dur": 3.6239166666666667,
+  "speed": 1.178,
+  "k": 1.0137542517006761,
+  "text_tgt": "Agora, digamos que B aceite a oferta e o ajude com o sofá."
+ },
+ {
+  "id": 45,
+  "start": 258.86,
+  "limit": 262.38,
+  "new_start": 261.2577916666666,
+  "dur": 2.668,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como combinado, A dá gratidão a B em troca."
+ },
+ {
+  "id": 46,
+  "start": 262.38,
+  "limit": 264.7,
+  "new_start": 264.7777916666666,
+  "dur": 2.1037083333333335,
+  "speed": 1.35,
+  "k": 1.0576329022988538,
+  "text_tgt": "Ele faz isso com a fórmula ritual \"Obrigado\"."
+ },
+ {
+  "id": 47,
+  "start": 264.7,
+  "limit": 268.52,
+  "new_start": 267.2314999999999,
+  "dur": 3.50225,
+  "speed": 1.105,
+  "k": 1.0084424083769652,
+  "text_tgt": "B recebe a gratidão com outra fórmula ritual: \"De nada\"."
+ },
+ {
+  "id": 48,
+  "start": 268.52,
+  "limit": 272.76,
+  "new_start": 271.08374999999995,
+  "dur": 3.910791666666667,
+  "speed": 1.066,
+  "k": 1.0049036949685515,
+  "text_tgt": "As fórmulas exatas podem variar, para indicar a quantidade de gratidão."
+ },
+ {
+  "id": 49,
+  "start": 272.76,
+  "limit": 277.52,
+  "new_start": 275.3445416666666,
+  "dur": 4.17,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso é muito importante para manter sincronizado o placar de gratidão percebido."
+ },
+ {
+  "id": 50,
+  "start": 277.52,
+  "limit": 281.06,
+  "new_start": 280.1045416666666,
+  "dur": 3.261125,
+  "speed": 1.26,
+  "k": 1.0200918079095986,
+  "text_tgt": "Depois, B pode usar essa gratidão sempre que quiser um favor de A."
+ },
+ {
+  "id": 51,
+  "start": 281.06,
+  "limit": 288.6,
+  "new_start": 283.7156666666666,
+  "dur": 7.241416666666667,
+  "speed": 1.164,
+  "k": 1.0068191865605631,
+  "text_tgt": "Se A quiser gratidão de volta, mas B não fizer nenhuma oferta, ele pode fazer um favor a B, ou dar a ele um objeto em troca de gratidão."
+ },
+ {
+  "id": 52,
+  "start": 288.6,
+  "limit": 289.66,
+  "new_start": 291.30708333333325,
+  "dur": 1.1185,
+  "speed": 1.35,
+  "k": 1.385377358490563,
+  "text_tgt": "Isso se chama presente."
+ },
+ {
+  "id": 53,
+  "start": 289.66,
+  "limit": 295.42,
+  "new_start": 292.77558333333326,
+  "dur": 5.432291666666667,
+  "speed": 1.064,
+  "k": 1.0038700810185202,
+  "text_tgt": "Amigos costumam trocar presentes, o que melhora a amizade e permite equilibrar o nível de gratidão."
+ },
+ {
+  "id": 54,
+  "start": 295.42,
+  "limit": 302.84,
+  "new_start": 298.5578749999999,
+  "dur": 7.088125,
+  "speed": 1.044,
+  "k": 1.0024427223719732,
+  "text_tgt": "O estranho da gratidão é que ela não é exatamente quantificável ou mensurável: a maioria dos terráqueos nem percebe que é um bem de troca virtual."
+ },
+ {
+  "id": 55,
+  "start": 302.84,
+  "limit": 307.64,
+  "new_start": 305.9959999999999,
+  "dur": 4.500375,
+  "speed": 1.171,
+  "k": 1.0104947916666642,
+  "text_tgt": "Mas manter o fluxo de gratidão é crucial para o funcionamento de qualquer relação pessoal."
+ },
+ {
+  "id": 56,
+  "start": 307.64,
+  "limit": 313.04,
+  "new_start": 310.8463749999999,
+  "dur": 5.062875,
+  "speed": 1.033,
+  "k": 1.002384259259253,
+  "text_tgt": "Aliás, uma relação em que um lado dá, dá e não recebe nada se chama \"exploração\"."
+ },
+ {
+  "id": 57,
+  "start": 313.04,
+  "limit": 318.0,
+  "new_start": 316.2592499999999,
+  "dur": 1.77,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Ou às vezes \"friendzone\"."
+ },
+ {
+  "id": 58,
+  "start": 318.0,
+  "limit": 325.98,
+  "new_start": 321.2192499999999,
+  "dur": 7.685041666666667,
+  "speed": 1.197,
+  "k": 1.0068974519632392,
+  "text_tgt": "Dica científica: se você tiver uma máquina do tempo, pode fazer o seguinte experimento: abduza um terráqueo, leve-o de volta ao passado e faça-o encontrar a si mesmo."
+ },
+ {
+  "id": 59,
+  "start": 325.98,
+  "limit": 332.88,
+  "new_start": 329.2542916666665,
+  "dur": 6.5594166666666665,
+  "speed": 1.035,
+  "k": 1.0013647342995202,
+  "text_tgt": "O objetivo é criar uma situação de conflito, por exemplo, achar uma comida deliciosa depois de vários dias sem comer."
+ },
+ {
+  "id": 60,
+  "start": 332.88,
+  "limit": 351.0,
+  "new_start": 336.1637083333332,
+  "dur": 8.339,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Muitos terráqueos vão concluir que as regras sociais não valem para os próprios clones temporais, o que pode levar a situações bem interessantes."
+ },
+ {
+  "id": 61,
+  "start": 351.0,
+  "limit": 356.6,
+  "new_start": 354.2837083333332,
+  "dur": 5.125958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Agora, o que acontece se B fizer algo de ruim para A, como estragar o sofá dele sem querer?"
+ },
+ {
+  "id": 62,
+  "start": 356.6,
+  "limit": 367.98,
+  "new_start": 359.88370833333323,
+  "dur": 11.047291666666666,
+  "speed": 1.058,
+  "k": 1.001519478617458,
+  "text_tgt": "Existe outro mecanismo para isso: nesse caso, B é considerado culpado, o que tem três consequências: primeiro, B é punido pelo sentimento de culpa, causado pelo próprio Implicante na cabeça dele."
+ },
+ {
+  "id": 63,
+  "start": 367.98,
+  "limit": 373.72,
+  "new_start": 371.2809999999999,
+  "dur": 5.4515416666666665,
+  "speed": 1.218,
+  "k": 1.0107215447154454,
+  "text_tgt": "Segundo, A fica ressentido com B por um tempo, o que é só um ritual para comunicar a falta e manter a culpa."
+ },
+ {
+  "id": 64,
+  "start": 373.72,
+  "limit": 379.36,
+  "new_start": 377.08254166666654,
+  "dur": 5.362,
+  "speed": 1.268,
+  "k": 1.0127659574468109,
+  "text_tgt": "Terceiro, para encerrar a situação, B tem que usar outra fórmula ritual: \"Por favor, me desculpe\" ou \"Desculpa\"."
+ },
+ {
+  "id": 65,
+  "start": 379.36,
+  "limit": 386.52,
+  "new_start": 382.79454166666653,
+  "dur": 6.7080416666666665,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Como já vimos, a palavra \"por favor\" abre uma troca de gratidão: neste caso, gratidão em troca de apagar a culpa."
+ },
+ {
+  "id": 66,
+  "start": 386.52,
+  "limit": 397.48,
+  "new_start": 389.9545416666665,
+  "dur": 10.389041666666667,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Se A aceitar, ele recebe a gratidão e para de se ressentir de B, e tudo volta a ser como antes, exceto pelo sofá estragado e pelo placar de gratidão alterado."
+ },
+ {
+  "id": 67,
+  "start": 397.48,
+  "limit": 401.76,
+  "new_start": 400.91454166666654,
+  "dur": 3.749,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Dica estratégica: \"Desculpa\" é uma palavra muito poderosa."
+ },
+ {
+  "id": 68,
+  "start": 401.76,
+  "limit": 407.78,
+  "new_start": 405.1945416666665,
+  "dur": 5.729291666666667,
+  "speed": 1.197,
+  "k": 1.0098491140642334,
+  "text_tgt": "Ao atacar a Terra, você pode destruir uma grande cidade terráquea e depois transmitir a mensagem: \"Sentimos muito\"."
+ },
+ {
+  "id": 69,
+  "start": 407.78,
+  "limit": 413.66,
+  "new_start": 411.2738333333332,
+  "dur": 5.613416666666667,
+  "speed": 1.309,
+  "k": 1.014186507936499,
+  "text_tgt": "Se você murmurar algo sobre problemas técnicos ou mal-entendidos culturais, é bem provável que os terráqueos acreditem."
+ },
+ {
+  "id": 70,
+  "start": 413.66,
+  "limit": 416.31,
+  "new_start": 417.23724999999985,
+  "dur": 2.317875,
+  "speed": 1.057,
+  "k": 1.0067452830188766,
+  "text_tgt": "Mas esse truque não funciona uma segunda vez."
+ },
+ {
+  "id": 71,
+  "start": 424.14,
+  "limit": 432.14,
+  "new_start": 427.7351249999998,
+  "dur": 7.698958333333334,
+  "speed": 1.156,
+  "k": 1.0061197916666667,
+  "text_tgt": "Cumprimentos, agradecimentos e desculpas são rituais: ações simbólicas que não fazem nada de fato, mas têm um lugar importante na sociedade terráquea."
+ },
+ {
+  "id": 72,
+  "start": 432.14,
+  "limit": 434.74,
+  "new_start": 435.7840833333332,
+  "dur": 2.2935,
+  "speed": 1.138,
+  "k": 1.0167307692307603,
+  "text_tgt": "Vamos falar de rituais em outro episódio."
+ },
+ {
+  "id": 73,
+  "start": 434.74,
+  "limit": 439.0,
+  "new_start": 438.4275833333332,
+  "dur": 3.959416666666667,
+  "speed": 1.159,
+  "k": 1.0116001564945247,
+  "text_tgt": "Aliás, o comportamento ritual é comum entre as formas de vida móveis da Terra."
+ },
+ {
+  "id": 74,
+  "start": 439.0,
+  "limit": 441.02,
+  "new_start": 442.73699999999985,
+  "dur": 1.5,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Exceto os micróbios."
+ },
+ {
+  "id": 75,
+  "start": 443.66,
+  "limit": 447.3,
+  "new_start": 447.3969999999999,
+  "dur": 2.6,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas nem tudo se explica com pontos de gratidão."
+ },
+ {
+  "id": 76,
+  "start": 447.3,
+  "limit": 455.2,
+  "new_start": 451.03699999999986,
+  "dur": 7.62925,
+  "speed": 1.3,
+  "k": 1.010031645569623,
+  "text_tgt": "Nas grandes cidades terráqueas, é comum ver indivíduos chamados mendigos, que pedem dinheiro a completos estranhos usando a palavra ritual \"por favor\"."
+ },
+ {
+  "id": 77,
+  "start": 455.2,
+  "limit": 464.72,
+  "new_start": 459.01624999999984,
+  "dur": 9.239291666666666,
+  "speed": 1.262,
+  "k": 1.0072785364145618,
+  "text_tgt": "Alguns cientistas alienígenas descrevem esses mendigos como \"comerciantes de gratidão\", mas isso não faz sentido: por que um terráqueo compraria a gratidão de um estranho que nunca, jamais, vai ajudá-lo com o sofá?"
+ },
+ {
+  "id": 78,
+  "start": 464.72,
+  "limit": 469.76,
+  "new_start": 468.6055416666665,
+  "dur": 4.109958333333333,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "E por que alguém acumularia dívidas de gratidão que nunca vai poder pagar?"
+ },
+ {
+  "id": 79,
+  "start": 469.76,
+  "limit": 473.36,
+  "new_start": 473.6455416666665,
+  "dur": 3.2703333333333333,
+  "speed": 1.058,
+  "k": 1.0056481481481419,
+  "text_tgt": "Acho que existe outro mecanismo social por trás disso: o carma."
+ },
+ {
+  "id": 80,
+  "start": 473.36,
+  "limit": 481.0,
+  "new_start": 477.2658749999998,
+  "dur": 7.337958333333333,
+  "speed": 1.154,
+  "k": 1.0062772687609092,
+  "text_tgt": "A maioria dos terráqueos tem a sensação mais ou menos vaga de que existe um sistema de pontos invisível, em que você ganha pontos sendo bom e perde pontos sendo mau."
+ },
+ {
+  "id": 81,
+  "start": 481.0,
+  "limit": 483.58,
+  "new_start": 484.95383333333314,
+  "dur": 2.3009583333333334,
+  "speed": 1.256,
+  "k": 1.0275032299741667,
+  "text_tgt": "Alguns terráqueos chamam esses pontos de \"carma\"."
+ },
+ {
+  "id": 82,
+  "start": 483.58,
+  "limit": 489.64,
+  "new_start": 487.6047916666665,
+  "dur": 5.773958333333334,
+  "speed": 1.221,
+  "k": 1.0105541804180413,
+  "text_tgt": "Uns acreditam que o carma é recompensado na vida após a morte, na próxima reencarnação, nesta vida, ou nunca."
+ },
+ {
+  "id": 83,
+  "start": 489.64,
+  "limit": 496.46,
+  "new_start": 493.7287499999998,
+  "dur": 6.550708333333334,
+  "speed": 1.302,
+  "k": 1.0118340664711643,
+  "text_tgt": "Mas, de todo modo, ganhar carma dá uma agradável sensação de superioridade e faz o Implicante na cabeça calar a boca por um tempo."
+ },
+ {
+  "id": 84,
+  "start": 496.46,
+  "limit": 506.3,
+  "new_start": 500.62945833333316,
+  "dur": 9.503875,
+  "speed": 1.03,
+  "k": 1.0014100609756065,
+  "text_tgt": "Se você considerar o carma um bem de troca virtual, como o dinheiro ou a gratidão, tudo fica bem mais claro: os mendigos são produtores de carma que vendem seu produto na rua."
+ },
+ {
+  "id": 85,
+  "start": 506.3,
+  "limit": 511.96,
+  "new_start": 510.4833333333332,
+  "dur": 5.374,
+  "speed": 1.23,
+  "k": 1.0113074204947052,
+  "text_tgt": "O carma vira uma espécie de artigo de luxo: não é vital, mas faz você se sentir bem e ajuda a exibir sua riqueza."
+ },
+ {
+  "id": 86,
+  "start": 511.96,
+  "limit": 515.68,
+  "new_start": 516.2073333333332,
+  "dur": 2.9,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Mas nem todo mundo compra carma direto do produtor."
+ },
+ {
+  "id": 87,
+  "start": 515.68,
+  "limit": 524.84,
+  "new_start": 519.9273333333331,
+  "dur": 8.856291666666667,
+  "speed": 1.155,
+  "k": 1.0050536754002821,
+  "text_tgt": "Muitas cidades têm intermediários, como os sopões, onde produtores de carma, terráqueos pobres, vendem seu carma por comida, e terráqueos ricos compram carma com dinheiro."
+ },
+ {
+  "id": 88,
+  "start": 524.84,
+  "limit": 527.86,
+  "new_start": 529.1336249999997,
+  "dur": 2.6802916666666667,
+  "speed": 1.026,
+  "k": 1.0034078366445978,
+  "text_tgt": "E não é só isso: carma é um grande negócio!"
+ },
+ {
+  "id": 89,
+  "start": 527.86,
+  "limit": 537.54,
+  "new_start": 532.1639166666664,
+  "dur": 9.395583333333333,
+  "speed": 1.226,
+  "k": 1.0067751377410519,
+  "text_tgt": "Sempre que os terráqueos de uma região sofrem uma catástrofe natural, comerciantes internacionais de carma aparecem em poucas horas, prestam ajuda, colhem carma e vendem para gente de países ricos."
+ },
+ {
+  "id": 90,
+  "start": 537.54,
+  "limit": 542.78,
+  "new_start": 541.9094999999998,
+  "dur": 4.63,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Isso se chama \"ajuda humanitária\", mas não passa de comércio mundial de carma."
+ },
+ {
+  "id": 91,
+  "start": 542.78,
+  "limit": 549.3,
+  "new_start": 547.1494999999998,
+  "dur": 6.2294583333333335,
+  "speed": 1.194,
+  "k": 1.0091193762781214,
+  "text_tgt": "Grosso modo, países pobres são em geral exportadores de carma, enquanto países ricos são em geral importadores de carma."
+ },
+ {
+  "id": 92,
+  "start": 549.3,
+  "limit": 552.76,
+  "new_start": 553.7289583333331,
+  "dur": 2.77,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "O carma vem, por assim dizer, em vários sabores."
+ },
+ {
+  "id": 93,
+  "start": 552.76,
+  "limit": 564.0,
+  "new_start": 557.1889583333332,
+  "dur": 10.69,
+  "speed": 1.0,
+  "k": 1.0,
+  "text_tgt": "Além do carma humanitário, existem, por exemplo, carma de proteção animal, carma ecológico, carma religioso, carma patriótico, carma pacifista, e carma por comprar de certa empresa."
+ },
+ {
+  "id": 94,
+  "start": 564.0,
+  "limit": 571.58,
+  "new_start": 568.4289583333332,
+  "dur": 7.316875,
+  "speed": 1.338,
+  "k": 1.0114610817941896,
+  "text_tgt": "Um recado pessoal aos meus espectadores terráqueos: se você quer um pouco de carma com sabor alienígena, clique em Curtir, se inscreva e conte para todos os seus amigos."
+ },
+ {
+  "id": 95,
+  "start": 571.58,
+  "limit": 579.74,
+  "new_start": 576.0958333333332,
+  "dur": 7.882125,
+  "speed": 1.247,
+  "k": 1.0088388480392196,
+  "text_tgt": "E se você chamar a atenção de algum blogueiro famoso, youtuber, astro do rock ou quem quer que me traga mais tráfego, talvez eu ainda dê de brinde um pouco da minha gratidão pessoal."
+ },
+ {
+  "id": 96,
+  "start": 579.74,
+  "limit": 586.49,
+  "new_start": 584.3279583333332,
+  "dur": 6.426333333333333,
+  "speed": 1.086,
+  "k": 1.003901234567901,
+  "text_tgt": "Caso você se pergunte por que ia querer a gratidão de um alienígena de 90 centímetros, só digo uma palavra: teletransporte!"
+ },
+ {
+  "id": 97,
+  "start": 588.24,
+  "limit": 598.32,
+  "new_start": 592.8542916666665,
+  "dur": 9.768666666666666,
+  "speed": 1.124,
+  "k": 1.0038359788359748,
+  "text_tgt": "No próximo episódio, vou explicar algo que a maioria dos alienígenas acha muito intrigante: coisas engraçadas, humor, e os barulhos estranhos que os terráqueos fazem quando acham algo engraçado."
+ },
+ {
+  "id": 98,
+  "start": 598.32,
+  "limit": 601.26,
+  "new_start": 602.9729583333332,
+  "dur": 2.66925,
+  "speed": 1.288,
+  "k": 1.0269557823129458,
+  "text_tgt": "Obrigado por assistir, e não se esqueça de ser alienígena!"
+ }
+]
