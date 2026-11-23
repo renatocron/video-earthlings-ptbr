@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 1110" width="780" height="1110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+    <style>
+      .b { fill: #eef2ff; stroke: #6366f1; stroke-width: 1.5; }
+      .m { fill: #ecfdf5; stroke: #10b981; stroke-width: 1.5; }
+      .q { fill: #fff7ed; stroke: #f97316; stroke-width: 1.5; }
+      .t { fill: #1e1b4b; text-anchor: middle; }
+      .s { fill: #475569; font-size: 13px; }
+      .l { stroke: #475569; stroke-width: 1.6; fill: none; marker-end: url(#a); }
+      .r { stroke: #f97316; stroke-width: 1.6; fill: none; stroke-dasharray: 6 4; marker-end: url(#a); }
+    </style>
+  </defs>
+  <rect width="780" height="1110" rx="12" fill="#ffffff"/>
+
+  <rect class="b" x="230" y="20" width="300" height="50" rx="8"/>
+  <text class="t" x="380" y="50">Original video + English subtitles</text>
+  <path class="l" d="M380,70 V100"/>
+
+  <rect class="b" x="230" y="100" width="300" height="50" rx="8"/>
+  <text class="t" x="380" y="130">demucs: split narration from music</text>
+  <path class="l" d="M330,150 L170,180"/>
+  <path class="l" d="M430,150 L540,180"/>
+
+  <rect class="m" x="40" y="180" width="260" height="50" rx="8"/>
+  <text class="t" x="170" y="210">Music + effects stem</text>
+  <path class="l" d="M170,230 V260"/>
+  <rect class="m" x="40" y="260" width="260" height="88" rx="8"/>
+  <text class="t" x="170" y="286">Bed: music + effects</text>
+  <text class="t" x="170" y="308">intro / outro keep the original</text>
+  <text class="t" x="170" y="330">capped at narration +1 LU</text>
+
+  <rect class="b" x="390" y="180" width="300" height="50" rx="8"/>
+  <text class="t" x="540" y="210">Narration stem</text>
+  <path class="l" d="M540,230 V260"/>
+
+  <rect class="b" x="390" y="260" width="300" height="50" rx="8"/>
+  <text class="t" x="540" y="290">whisper: time every word</text>
+  <path class="l" d="M540,310 V340"/>
+
+  <rect class="b" x="390" y="340" width="300" height="50" rx="8"/>
+  <text class="t" x="540" y="370">Sentences with original start / end</text>
+  <path class="l" d="M540,390 V420"/>
+
+  <rect class="b" x="390" y="420" width="300" height="50" rx="8"/>
+  <text class="t" x="540" y="450">Translation to pt-BR (+ glossary)</text>
+  <path class="l" d="M540,470 V500"/>
+
+  <rect class="q" x="390" y="500" width="300" height="50" rx="8"/>
+  <text class="t" x="540" y="530">Chatterbox pt-BR, cloned voice</text>
+  <path class="l" d="M540,550 V580"/>
+
+  <rect class="b" x="390" y="580" width="300" height="60" rx="8"/>
+  <text class="t" x="540" y="605">Forced alignment (MMS)</text>
+  <text class="t" x="540" y="627">word times + take score</text>
+  <path class="r" d="M690,610 H715 V525 H692"/>
+  <text class="s" x="722" y="572">bad</text>
+  <text class="s" x="722" y="588">take</text>
+  <path class="l" d="M540,640 V670"/>
+
+  <rect class="b" x="390" y="670" width="300" height="60" rx="8"/>
+  <text class="t" x="540" y="695">Cut after the last word, shorten</text>
+  <text class="t" x="540" y="717">silent gaps, even loudness</text>
+  <path class="l" d="M540,730 V760"/>
+
+  <rect class="b" x="390" y="760" width="300" height="60" rx="8"/>
+  <text class="t" x="540" y="785">Sync: voice up to 1.35x, slow</text>
+  <text class="t" x="540" y="807">the video only for the rest</text>
+  <path class="l" d="M540,820 L460,860"/>
+
+  <path class="l" d="M170,348 V890 H230"/>
+  <rect class="b" x="230" y="860" width="300" height="60" rx="8"/>
+  <text class="t" x="380" y="885">ffmpeg mix: remapped video</text>
+  <text class="t" x="380" y="907">+ bed + pt-BR voice + subtitles</text>
+  <path class="l" d="M380,920 V950"/>
+
+  <rect class="q" x="230" y="950" width="300" height="50" rx="8"/>
+  <text class="t" x="380" y="980">whisper re-reads every line</text>
+  <path class="r" d="M530,975 H750 V515 H692"/>
+  <text class="s" x="600" y="967">over 15% errors</text>
+  <path class="l" d="M380,1000 V1030"/>
+
+  <rect class="b" x="230" y="1030" width="300" height="50" rx="8"/>
+  <text class="t" x="380" y="1060">video.por.mkv</text>
+</svg>

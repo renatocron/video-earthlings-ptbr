@@ -25,43 +25,11 @@ Brazilian Portuguese re-dub of the Earthlings 101 series (13 episodes + 3 extras
 
 ## What the pipeline does
 
-```mermaid
-flowchart TD
-    YT["Original video<br/>+ English subs"] --> SEP["demucs<br/>split voice<br/>from music"]
-    SEP --> VOX["Narration<br/>stem"]
-    SEP --> BG["Music +<br/>effects stem"]
-    VOX --> WH["whisper<br/>times every<br/>word"]
-    WH --> SCR["Sentences with<br/>original<br/>start / end"]
-    YT --> SCR
-    SCR --> TR["pt-BR<br/>translation<br/>+ glossary"]
-    TR --> TTS["Chatterbox<br/>pt-BR<br/>cloned voice"]
-    TTS --> AL["Forced<br/>alignment<br/>(MMS)"]
-    AL -->|"bad take"| TTS
-    AL --> CUT["Cut after last<br/>word, shorten<br/>gaps, level"]
-    CUT --> SYNC{"Fits the<br/>slot?"}
-    SYNC -->|yes| PLACE["Place at<br/>original start"]
-    SYNC -->|no| SPD["Voice faster<br/>up to 1.35x"]
-    SPD --> SLOW["Slow the video<br/>for the rest"]
-    SLOW --> PLACE
-    BG --> BED["Bed: music,<br/>effects, intro<br/>and outro"]
-    PLACE --> MIX["ffmpeg mix<br/>video + bed +<br/>voice + subs"]
-    BED --> MIX
-    MIX --> QC["whisper<br/>checks every<br/>line"]
-    QC -->|"over 15%<br/>errors"| TTS
-    QC --> OUT["video.por.mkv"]
-```
+![Pipeline](docs/pipeline.svg)
 
-How one sentence is fitted into the original timeline (0.35 s pause kept after each sentence):
+How one sentence is fitted into the original timeline:
 
-```mermaid
-flowchart LR
-    A["Slot<br/>4.0 s"] --> B["Take<br/>4.3 s"]
-    B --> C["Voice 1.16x<br/>3.7 s"]
-    C --> D["Fits, video<br/>untouched"]
-    A --> B2["Take<br/>6.5 s"]
-    B2 --> C2["Voice 1.35x<br/>(cap) 4.8 s"]
-    C2 --> D2["Video slowed<br/>about 1.3x"]
-```
+![Sync](docs/sync.svg)
 
 1. Downloads the original video and English subtitles (`yt-dlp`).
 2. Splits narration from music and effects (`demucs`), and times every word of the narration (`whisper`).

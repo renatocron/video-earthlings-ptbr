@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" width="780" height="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">
+  <style>
+    .lbl { fill: #1e1b4b; }
+    .s { fill: #475569; font-size: 12px; }
+    .in { fill: #ffffff; font-size: 13px; }
+  </style>
+  <rect width="780" height="300" rx="12" fill="#ffffff"/>
+  <text x="20" y="30" class="lbl" font-weight="600">One sentence that does not fit (scale: 80 px per second)</text>
+
+  <text x="20" y="72" class="lbl">Original slot</text>
+  <rect x="190" y="55" width="320" height="26" rx="4" fill="#94a3b8"/>
+  <text x="200" y="73" class="in">English sentence + pause: 4.0 s</text>
+  <line x1="510" y1="45" x2="510" y2="240" stroke="#ef4444" stroke-dasharray="5 4"/>
+  <text x="516" y="50" class="s">next sentence (original)</text>
+
+  <text x="20" y="122" class="lbl">pt-BR take</text>
+  <rect x="190" y="105" width="520" height="26" rx="4" fill="#f97316"/>
+  <text x="200" y="123" class="in">Chatterbox at natural pace: 6.5 s</text>
+
+  <text x="20" y="172" class="lbl">Voice 1.35x (cap)</text>
+  <rect x="190" y="155" width="384" height="26" rx="4" fill="#6366f1"/>
+  <rect x="574" y="155" width="28" height="26" rx="4" fill="#c7d2fe"/>
+  <text x="200" y="173" class="in">4.8 s</text>
+  <text x="608" y="173" class="s">+ 0.35 s pause</text>
+
+  <text x="20" y="222" class="lbl">Video slowed 1.3x</text>
+  <rect x="190" y="205" width="412" height="26" rx="4" fill="#10b981"/>
+  <text x="200" y="223" class="in">the same 4.0 s of picture, played over 5.15 s</text>
+
+  <text x="20" y="268" class="s">The voice absorbs the overflow first (up to 1.35x); only what is left slows the video. Music and effect windows are never stretched.</text>
+</svg>
