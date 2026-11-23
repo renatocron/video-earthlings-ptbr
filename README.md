@@ -27,40 +27,40 @@ Brazilian Portuguese re-dub of the Earthlings 101 series (13 episodes + 3 extras
 
 ```mermaid
 flowchart TD
-    YT[Original video + English subtitles] --> SEP[demucs: split voice / music+effects]
-    SEP --> VOX[Narration stem]
-    SEP --> BG[Music + effects stem]
-    VOX --> WH[whisper: time every word]
-    WH --> SCR[script_src.json: one sentence per entry, original start/end]
+    YT["Original video<br/>+ English subs"] --> SEP["demucs<br/>split voice<br/>from music"]
+    SEP --> VOX["Narration<br/>stem"]
+    SEP --> BG["Music +<br/>effects stem"]
+    VOX --> WH["whisper<br/>times every<br/>word"]
+    WH --> SCR["Sentences with<br/>original<br/>start / end"]
     YT --> SCR
-    SCR --> TR[Translation: tgt_texts.txt, pt-BR glossary]
-    TR --> TTS[Chatterbox pt-BR, voice cloned from a reference clip]
-    TTS --> AL[MMS forced alignment of each take]
-    AL -->|bad score or runaway length| TTS
-    AL --> CUT[Cut after the last word, shorten silent gaps, LUFS level]
-    CUT --> SYNC{Fits before the next sentence?}
-    SYNC -->|yes| PLACE[Place at the original start]
-    SYNC -->|no| SPD[Speed voice up to 1.35x]
-    SPD --> SLOW[Slow the video only for what is left]
+    SCR --> TR["pt-BR<br/>translation<br/>+ glossary"]
+    TR --> TTS["Chatterbox<br/>pt-BR<br/>cloned voice"]
+    TTS --> AL["Forced<br/>alignment<br/>(MMS)"]
+    AL -->|"bad take"| TTS
+    AL --> CUT["Cut after last<br/>word, shorten<br/>gaps, level"]
+    CUT --> SYNC{"Fits the<br/>slot?"}
+    SYNC -->|yes| PLACE["Place at<br/>original start"]
+    SYNC -->|no| SPD["Voice faster<br/>up to 1.35x"]
+    SPD --> SLOW["Slow the video<br/>for the rest"]
     SLOW --> PLACE
-    BG --> BED[Bed: music + effects, original audio kept in intro/outro windows, capped at narration +1 LU]
-    PLACE --> MIX[ffmpeg: remapped video + bed + pt-BR narration + subtitles]
+    BG --> BED["Bed: music,<br/>effects, intro<br/>and outro"]
+    PLACE --> MIX["ffmpeg mix<br/>video + bed +<br/>voice + subs"]
     BED --> MIX
-    MIX --> QC[whisper reads every line back]
-    QC -->|over 15% word errors| TTS
-    QC --> OUT[video.por.mkv]
+    MIX --> QC["whisper<br/>checks every<br/>line"]
+    QC -->|"over 15%<br/>errors"| TTS
+    QC --> OUT["video.por.mkv"]
 ```
 
-How one sentence is fitted into the original timeline:
+How one sentence is fitted into the original timeline (0.35 s pause kept after each sentence):
 
 ```mermaid
 flowchart LR
-    A[Slot: 4.0 s until the next sentence, 0.35 s pause kept] --> B[pt-BR take: 4.3 s]
-    B --> C[Voice at about 1.16x: 3.7 s + pause]
-    C --> D[Fits, video untouched]
-    A --> B2[Longer take: 6.5 s]
-    B2 --> C2[Voice capped at 1.35x: 4.8 s + pause]
-    C2 --> D2[Video slowed about 1.3x over that slot]
+    A["Slot<br/>4.0 s"] --> B["Take<br/>4.3 s"]
+    B --> C["Voice 1.16x<br/>3.7 s"]
+    C --> D["Fits, video<br/>untouched"]
+    A --> B2["Take<br/>6.5 s"]
+    B2 --> C2["Voice 1.35x<br/>(cap) 4.8 s"]
+    C2 --> D2["Video slowed<br/>about 1.3x"]
 ```
 
 1. Downloads the original video and English subtitles (`yt-dlp`).
