@@ -4,7 +4,64 @@ Dublagem em português do Brasil da série [Earthlings 101](https://www.youtube.
 
 Brazilian Portuguese re-dub of the Earthlings 101 series (13 episodes + 3 extras). This repo holds the translations, subtitles, timings and the pipeline that rebuilds the dubbed videos from the originals. Media (videos, stems, TTS cache) is not versioned; it is regenerated.
 
+## Assistir
+
+- Episódio 1: [Humanidade: uma introdução para alienígenas](https://youtu.be/-2T6w4jRjaw)
+- Episódio 2: [Origens: uma breve história da vida na Terra](https://youtu.be/svx1GaeNRK8)
+- Episódio 3: [Sexo: por que os terráqueos fazem isso?](https://youtu.be/mGzYY3XdwpA)
+- Episódio 4: [Ética: o que é o bem e o mal?](https://youtu.be/tAu71GbESn8)
+- Episódio 5: [Imaginação: o que são jogos, sonhos e histórias?](https://youtu.be/doSZTUVRCuA)
+- Episódio 6: [Estética: o que é a beleza?](https://youtu.be/vBKkPl0skw8)
+- Episódio 7: [Mecânica social: gratidão e carma, as moedas secretas da sociedade](https://youtu.be/I_7rNyq4UkE)
+- Episódio 8: [Humor: por que os terráqueos riem?](https://youtu.be/3C8yfvQS_VU)
+- Episódio 9: [Comida: por que os terráqueos comem?](https://youtu.be/wYQbtxSTuqo)
+- Episódio 10: [Linguagem: um recife de metáforas mortas](https://youtu.be/hQaIsA6wsqo)
+- Episódio 11: Rituais: as engrenagens da sociedade (em breve)
+- Episódio 12: Visão: como o mundo entra no cérebro (em breve)
+- Episódio 13: Matemática: medindo x preguiça² (em breve)
+- Extra: Física básica de discos voadores (em breve)
+- Extra: Sem borda: a forma do universo (parte 1, modelos planos) (em breve)
+- Extra: Sem borda 2: a forma do universo (espaço curvo) (em breve)
+
 ## What the pipeline does
+
+```mermaid
+flowchart TD
+    YT[Original video + English subtitles] --> SEP[demucs: split voice / music+effects]
+    SEP --> VOX[Narration stem]
+    SEP --> BG[Music + effects stem]
+    VOX --> WH[whisper: time every word]
+    WH --> SCR[script_src.json: one sentence per entry, original start/end]
+    YT --> SCR
+    SCR --> TR[Translation: tgt_texts.txt, pt-BR glossary]
+    TR --> TTS[Chatterbox pt-BR, voice cloned from a reference clip]
+    TTS --> AL[MMS forced alignment of each take]
+    AL -->|bad score or runaway length| TTS
+    AL --> CUT[Cut after the last word, shorten silent gaps, LUFS level]
+    CUT --> SYNC{Fits before the next sentence?}
+    SYNC -->|yes| PLACE[Place at the original start]
+    SYNC -->|no| SPD[Speed voice up to 1.35x]
+    SPD --> SLOW[Slow the video only for what is left]
+    SLOW --> PLACE
+    BG --> BED[Bed: music + effects, original audio kept in intro/outro windows, capped at narration +1 LU]
+    PLACE --> MIX[ffmpeg: remapped video + bed + pt-BR narration + subtitles]
+    BED --> MIX
+    MIX --> QC[whisper reads every line back]
+    QC -->|over 15% word errors| TTS
+    QC --> OUT[video.por.mkv]
+```
+
+How one sentence is fitted into the original timeline:
+
+```mermaid
+flowchart LR
+    A[Slot: 4.0 s until the next sentence, 0.35 s pause kept] --> B[pt-BR take: 4.3 s]
+    B --> C[Voice at about 1.16x: 3.7 s + pause]
+    C --> D[Fits, video untouched]
+    A --> B2[Longer take: 6.5 s]
+    B2 --> C2[Voice capped at 1.35x: 4.8 s + pause]
+    C2 --> D2[Video slowed about 1.3x over that slot]
+```
 
 1. Downloads the original video and English subtitles (`yt-dlp`).
 2. Splits narration from music and effects (`demucs`), and times every word of the narration (`whisper`).
